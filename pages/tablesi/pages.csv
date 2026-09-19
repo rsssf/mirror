@@ -1,414 +1,666 @@
 path,links,title
-/tablesi/iberica05.html,2/2,Recopa Ibérica 2005
-/tablesi/iberica83.html,2/2,Taça Ibérica 1983
-/tablesi/ibero.html,3/1,Copa Iberoamericana
-/tablesi/ier-b-intres.html,1/1,Ireland - 'B' Internationals
-/tablesi/ier-ec.html,1/1,Irish Clubs in European Cups
-/tablesi/ier-intres.html,2/4,Ireland - International Results
-/tablesi/ier-u21-intres.html,1/1,Ireland - U-21 Internationals
-/tablesi/ier-u23-intres.html,1/1,Ireland - U-23 Internationals
-/tablesi/ier00.html,0/1,-
-/tablesi/ier01.html,0/1,-
-/tablesi/ier02.html,0/1,-
-/tablesi/ier03.html,0/1,-
-/tablesi/ier03a.html,0/1,-
-/tablesi/ier04.html,0/1,-
-/tablesi/ier05.html,0/1,-
-/tablesi/ier06.html,0/1,-
-/tablesi/ier07.html,0/1,-
-/tablesi/ier08.html,0/1,-
-/tablesi/ier09.html,0/3,-
-/tablesi/ier2010.html,0/3,-
-/tablesi/ier2011.html,0/3,-
-/tablesi/ier2012.html,0/3,-
-/tablesi/ier2013.html,0/3,-
-/tablesi/ier2014.html,0/3,-
-/tablesi/ier2015.html,0/3,-
-/tablesi/ier2016.html,0/3,-
-/tablesi/ier2017.html,0/3,-
-/tablesi/ier2018.html,0/3,-
-/tablesi/ier2019.html,0/3,-
-/tablesi/ier2020.html,0/3,-
-/tablesi/ier2021.html,0/2,-
-/tablesi/ier2022.html,0/2,-
-/tablesi/ier2023.html,0/3,-
-/tablesi/ier2024.html,14/3,Ireland 2024
-/tablesi/ier2025.html,13/4,Ireland 2025
-/tablesi/ier2champ.html,1/2,Republic of Ireland - Second Level Champions
-/tablesi/ier2hist.html,1/2,(Republic of) Ireland League Tables - Second Level
-/tablesi/ier49.html,0/4,-
-/tablesi/ier67.html,0/3,-
-/tablesi/ier94.html,0/1,-
-/tablesi/ier95.html,0/1,-
-/tablesi/ier96.html,0/1,-
-/tablesi/ier97.html,0/1,-
-/tablesi/ier98.html,0/1,-
-/tablesi/ier99.html,0/1,-
-/tablesi/ieralltime.html,1/2,Ireland - All-Time Table
-/tablesi/ierchamp.html,37/2,Republic of Ireland - Champions
-/tablesi/iercup00.html,0/1,-
-/tablesi/iercup01.html,0/1,-
-/tablesi/iercup02.html,0/1,-
-/tablesi/iercup03.html,0/1,-
-/tablesi/iercup03a.html,0/1,-
-/tablesi/iercup04.html,0/1,-
-/tablesi/iercup05.html,0/1,-
-/tablesi/iercup06.html,0/1,-
-/tablesi/iercup07.html,0/1,-
-/tablesi/iercup08.html,0/1,-
-/tablesi/iercup99.html,0/1,-
-/tablesi/iercuphist.html,32/2,Ireland - List of Cup Finals
-/tablesi/iercuphistfull.html,0/1,-
-/tablesi/ierdublincityhist.html,3/3,Ireland - Dublin City Cup Winners
-/tablesi/ierhist.html,1/3,(Republic of) Ireland League Tables
-/tablesi/ierleagcup01.html,0/1,-
-/tablesi/ierleagcup02.html,0/1,-
-/tablesi/ierleagcup05.html,0/1,-
-/tablesi/ierleagcup06.html,0/1,-
-/tablesi/ierleagcup07.html,0/1,-
-/tablesi/ierleagcup08.html,0/1,-
-/tablesi/ierleagcuphist.html,21/3,Ireland League Cup Finals
-/tablesi/ierleagcuphistfull.html,0/1,-
-/tablesi/ierleinsterchamp.html,1/1,Ireland - List of Leinster Senior League Champions
+/tablesi/ia-akranes.html,0/1,?
+/tablesi/iasa-braztrip31.html,1/2,Brazilian Trip of IA Sud América (Montevideo) 1931
+/tablesi/iberiahabana-mextour32.html,1/2,Mexican trip of Real Iberia (La Habana) 1931/32
+/tablesi/iberica.html,3/3,Trofeu Ibérico (Copa Ibérica)
+/tablesi/iberica05.html,2/4,Recopa Ibérica 2005
+/tablesi/iberica83.html,2/5,Taça Ibérica 1983
+/tablesi/iberico-badajoz.html,1/4,Trofeo Ibérico
+/tablesi/ibero.html,3/5,Copa Iberoamericana
+/tablesi/iberoamericana64.html,0/5,?
+/tablesi/ibiza.html,1/2,Trofeo Memorial José Verdera (Ibiza-Baleares)
+/tablesi/ibrox94.html,2/3,Ibrox International Challenge Trophy 1994
+/tablesi/ibrox95.html,2/3,Ibrox International Challenge Trophy 1995
+/tablesi/ier-b-intres.html,1/2,Ireland - 'B' Internationals
+/tablesi/ier-ec.html,1/2,Irish Clubs in European Cups
+/tablesi/ier-intres.html,2/6,Ireland - International Results
+/tablesi/ier-u21-intres.html,1/2,Ireland - U-21 Internationals
+/tablesi/ier-u23-intres.html,1/2,Ireland - U-23 Internationals
+/tablesi/ier-wom03.html,5/3,Ireland (Women) 2003
+/tablesi/ier-wom04.html,0/4,?
+/tablesi/ier-wom05.html,5/3,Ireland (Women) 2005
+/tablesi/ier-wom06.html,0/3,?
+/tablesi/ier-wom07.html,0/1,?
+/tablesi/ier-wom08.html,0/2,?
+/tablesi/ier-wom09.html,0/1,?
+/tablesi/ier-wom2010.html,0/1,?
+/tablesi/ier-wom2011.html,0/2,?
+/tablesi/ier-wom2012.html,5/4,Ireland (Women) 2011/12 and 2012
+/tablesi/ier-wom2013.html,5/5,Ireland (Women) 2012/13 and 2013
+/tablesi/ier-wom2014.html,5/5,Ireland (Women) 2013/14 and 2014
+/tablesi/ier-wom2015.html,5/5,Ireland (Women) 2014/15 and 2015
+/tablesi/ier-wom2016.html,5/4,Ireland (Women) 2015/16
+/tablesi/ier-wom2016a.html,5/5,Ireland (Women) 2016
+/tablesi/ier-wom2017.html,5/5,Ireland (Women) 2017
+/tablesi/ier-wom2018.html,5/5,Ireland (Women) 2018
+/tablesi/ier-wom2019.html,5/5,Ireland (Women) 2019
+/tablesi/ier-wom2020.html,5/5,Ireland (Women) 2020
+/tablesi/ier-wom2021.html,5/5,Ireland (Women) 2021
+/tablesi/ier-wom2022.html,5/5,Ireland (Women) 2022
+/tablesi/ier-wom2023.html,5/5,Ireland (Women) 2023
+/tablesi/ier-wom2024.html,4/5,Ireland (Women) 2024
+/tablesi/ier-wom75.html,0/2,?
+/tablesi/ier-womchamp.html,20/18,Ireland - List of Women Champions
+/tablesi/ier-womcuphist.html,24/18,Ireland - List of Women Cup Winners
+/tablesi/ier00.html,8/6,Ireland 1999/2000
+/tablesi/ier01.html,8/6,Ireland 2000/01
+/tablesi/ier02.html,8/5,Ireland 2001/02
+/tablesi/ier03.html,13/5,Ireland 2002/03
+/tablesi/ier03a.html,13/5,Ireland 2003
+/tablesi/ier04.html,13/6,Ireland 2004
+/tablesi/ier05.html,14/6,Ireland 2005
+/tablesi/ier06.html,14/6,Ireland 2006
+/tablesi/ier07.html,14/6,Ireland 2007
+/tablesi/ier08.html,14/4,Ireland 2008
+/tablesi/ier09.html,14/6,Ireland 2009
+/tablesi/ier1divshieldhist.html,1/2,Ireland - First Division Shield Finals
+/tablesi/ier2010.html,14/6,Ireland 2010
+/tablesi/ier2011.html,14/6,Ireland 2011
+/tablesi/ier2012.html,14/6,Ireland 2012
+/tablesi/ier2013.html,14/6,Ireland 2013
+/tablesi/ier2014.html,14/6,Ireland 2014
+/tablesi/ier2015.html,14/6,Ireland 2015
+/tablesi/ier2016.html,14/6,Ireland 2016
+/tablesi/ier2017.html,15/7,Ireland 2017
+/tablesi/ier2017det.html,2/1,Match Details 2017 SSE Airtricity League
+/tablesi/ier2018.html,14/6,Ireland 2018
+/tablesi/ier2019.html,14/6,Ireland 2019
+/tablesi/ier2020.html,14/7,Ireland 2020
+/tablesi/ier2021.html,14/5,Ireland 2021
+/tablesi/ier2022.html,14/5,Ireland 2022
+/tablesi/ier2023.html,14/5,Ireland 2023
+/tablesi/ier2024.html,14/5,Ireland 2024
+/tablesi/ier2025.html,13/6,Ireland 2025
+/tablesi/ier2champ.html,1/33,Republic of Ireland - Second Level Champions
+/tablesi/ier2hist.html,1/46,(Republic of) Ireland League Tables - Second Level
+/tablesi/ier49.html,11/6,Ireland 1948/49
+/tablesi/ier67.html,12/7,Ireland 1966/67
+/tablesi/ier94.html,12/4,Ireland 1993/94
+/tablesi/ier95.html,12/4,Ireland 1994/95
+/tablesi/ier96.html,13/4,Ireland 1995/96
+/tablesi/ier97.html,13/5,Ireland 1996/97
+/tablesi/ier98.html,13/5,Ireland 1997/98
+/tablesi/ier99.html,5/5,Ireland 1998/99
+/tablesi/ierall.html,1/2,Ireland - Divisional Movements
+/tablesi/ieralltime.html,1/27,Ireland - All-Time Table
+/tablesi/ierchamp.html,37/53,Republic of Ireland - Champions
+/tablesi/ierconnachtchamp.html,1/2,Ireland - List of Connacht Senior League Champions
+/tablesi/iercup00.html,4/1,Ireland Cup 1999/2000
+/tablesi/iercup01.html,5/1,Ireland Cup 2000/01
+/tablesi/iercup02.html,7/1,Ireland FAI Cup 2001/02
+/tablesi/iercup03.html,11/1,Ireland Cups 2002/03
+/tablesi/iercup03a.html,11/1,Ireland Cups 2003
+/tablesi/iercup04.html,11/1,Ireland Cups 2004
+/tablesi/iercup05.html,11/1,Ireland Cup 2005
+/tablesi/iercup06.html,11/1,Ireland Cup 2006
+/tablesi/iercup07.html,13/1,Ireland Cup 2007
+/tablesi/iercup08.html,13/1,Ireland Cup 2008
+/tablesi/iercup99.html,3/1,Ireland Cup 1998/99
+/tablesi/iercuphist.html,32/54,Ireland - List of Cup Finals
+/tablesi/iercuphistfull.html,1/3,Ireland - FA of Ireland Cup 1921/22-1993/94
+/tablesi/ierdublincityhist.html,3/43,Ireland - Dublin City Cup Winners
+/tablesi/ierfound.html,1/2,Ireland Foundation Dates
+/tablesi/ierhist.html,1/47,(Republic of) Ireland League Tables
+/tablesi/ierintermediatecuphist.html,1/2,Ireland - FA Intermediate Cup Winners and Runners-Up
+/tablesi/ierleagcup01.html,5/1,Ireland League Cup 2000/01
+/tablesi/ierleagcup02.html,5/1,Ireland League Cup 2001/02
+/tablesi/ierleagcup05.html,5/1,Ireland League Cup 2005
+/tablesi/ierleagcup06.html,5/1,Ireland League Cup 2006
+/tablesi/ierleagcup07.html,13/1,Ireland League Cup 2007
+/tablesi/ierleagcup08.html,13/1,Ireland League Cup 2008
+/tablesi/ierleagcuphist.html,21/49,Ireland League Cup Finals
+/tablesi/ierleagcuphistfull.html,1/3,Ireland - Ireland League Cup 1973/74-2006
+/tablesi/ierleinsterchamp.html,1/3,Ireland - List of Leinster Senior League Champions
+/tablesi/ierleinsterprescuphist.html,2/3,Ireland - List of Leinster FA President's Cup Finals
+/tablesi/iermunsterchamp.html,1/2,Ireland - List of Munster Senior League Champions
 /tablesi/iernedres.html,3/2,Ireland-Netherlands matches
 /tablesi/iernilres.html,3/1,The Irish Derby of Ireland
-/tablesi/iershieldhist.html,4/3,League of Ireland Shield Winners
-/tablesi/iersupcuphist.html,0/1,-
-/tablesi/iertop4hist.html,2/2,Ireland - Top Four Cup Winners
-/tablesi/iertops.html,1/2,Ireland - List of Topscorers
-/tablesi/ijs-intres.html,27/3,International matches of Iceland
-/tablesi/ijs-intres00.html,0/1,-
-/tablesi/ijs-intres01.html,0/1,-
-/tablesi/ijs-intres02.html,0/1,-
-/tablesi/ijs-intres03.html,0/1,-
-/tablesi/ijs-intres04.html,0/1,-
-/tablesi/ijs-intres05.html,0/1,-
-/tablesi/ijs-intres06.html,0/1,-
-/tablesi/ijs-intres07.html,0/1,-
-/tablesi/ijs-intres08.html,0/1,-
-/tablesi/ijs-intres09.html,0/1,-
-/tablesi/ijs-intres2010.html,0/1,-
-/tablesi/ijs-intres2011.html,0/1,-
-/tablesi/ijs-intres2012.html,0/1,-
-/tablesi/ijs-intres2013.html,0/1,-
-/tablesi/ijs-intres2014.html,0/1,-
-/tablesi/ijs-intres2015.html,0/1,-
-/tablesi/ijs-intres2016.html,0/1,-
-/tablesi/ijs-intres2017.html,0/1,-
-/tablesi/ijs-intres2018.html,0/1,-
-/tablesi/ijs-intres2019.html,0/1,-
-/tablesi/ijs-intres2020.html,0/1,-
-/tablesi/ijs-intres2021.html,0/1,-
-/tablesi/ijs-intres2022.html,0/1,-
-/tablesi/ijs-intres2023.html,0/1,-
-/tablesi/ijs-intres99.html,0/1,-
-/tablesi/ijs-u21-intres.html,13/1,International matches of Iceland U-21
-/tablesi/ijs-u21-intres2011.html,0/1,-
-/tablesi/ijs-u21-intres2012.html,0/1,-
-/tablesi/ijs-u21-intres2013.html,0/1,-
-/tablesi/ijs-u21-intres2014.html,0/1,-
-/tablesi/ijs-u21-intres2015.html,0/1,-
-/tablesi/ijs-u21-intres2016.html,0/1,-
-/tablesi/ijs-u21-intres2017.html,0/1,-
-/tablesi/ijs-u21-intres2018.html,0/1,-
-/tablesi/ijs-u21-intres2019.html,0/1,-
-/tablesi/ijs-u21-intres2020.html,0/1,-
-/tablesi/ijs-u21-intres2021.html,0/1,-
-/tablesi/ijs-u21-intres2022.html,0/1,-
-/tablesi/ijs00.html,0/1,-
-/tablesi/ijs01.html,0/2,-
-/tablesi/ijs02.html,0/2,-
-/tablesi/ijs03.html,0/1,-
-/tablesi/ijs04.html,0/1,-
-/tablesi/ijs05.html,0/1,-
-/tablesi/ijs06.html,0/1,-
-/tablesi/ijs07.html,0/1,-
-/tablesi/ijs08.html,0/1,-
-/tablesi/ijs09.html,0/1,-
-/tablesi/ijs2010.html,0/3,-
-/tablesi/ijs2011.html,0/3,-
-/tablesi/ijs2012.html,0/3,-
-/tablesi/ijs2013.html,0/3,-
-/tablesi/ijs2014.html,0/3,-
-/tablesi/ijs2015.html,0/3,-
-/tablesi/ijs2016.html,0/3,-
-/tablesi/ijs2017.html,0/3,-
-/tablesi/ijs2018.html,0/4,-
-/tablesi/ijs2019.html,0/4,-
-/tablesi/ijs2020.html,0/3,-
-/tablesi/ijs2021.html,0/4,-
-/tablesi/ijs2022.html,0/4,-
-/tablesi/ijs2023.html,0/4,-
-/tablesi/ijs2024.html,0/5,-
-/tablesi/ijs2025.html,10/5,Iceland 2025
-/tablesi/ijs2026.html,9/5,Iceland 2026
-/tablesi/ijs2champ.html,1/2,Iceland - List of Second Division Champions and Promoted Clubs
-/tablesi/ijs2hist.html,1/2,Iceland Final League Tables Second Division 1977-1998
-/tablesi/ijs55.html,0/1,-
-/tablesi/ijs56.html,0/1,-
-/tablesi/ijs57.html,0/1,-
-/tablesi/ijs58.html,0/1,-
-/tablesi/ijs59.html,0/1,-
-/tablesi/ijs60.html,0/1,-
-/tablesi/ijs61.html,0/1,-
-/tablesi/ijs62.html,0/1,-
-/tablesi/ijs63.html,0/1,-
-/tablesi/ijs64.html,0/1,-
-/tablesi/ijs65.html,0/1,-
-/tablesi/ijs66.html,0/1,-
-/tablesi/ijs67.html,0/1,-
-/tablesi/ijs68.html,0/1,-
-/tablesi/ijs69.html,0/1,-
-/tablesi/ijs70.html,0/1,-
-/tablesi/ijs71.html,0/1,-
-/tablesi/ijs72.html,0/1,-
-/tablesi/ijs73.html,0/1,-
-/tablesi/ijs74.html,0/1,-
-/tablesi/ijs75.html,0/1,-
-/tablesi/ijs76.html,0/1,-
-/tablesi/ijs77.html,0/1,-
-/tablesi/ijs78.html,0/1,-
-/tablesi/ijs79.html,0/1,-
-/tablesi/ijs80.html,0/1,-
-/tablesi/ijs81.html,0/1,-
-/tablesi/ijs82.html,0/2,-
-/tablesi/ijs83.html,0/2,-
-/tablesi/ijs84.html,0/2,-
-/tablesi/ijs85.html,0/2,-
-/tablesi/ijs86.html,0/2,-
-/tablesi/ijs87.html,0/2,-
-/tablesi/ijs88.html,0/2,-
-/tablesi/ijs89.html,0/2,-
-/tablesi/ijs90.html,0/2,-
-/tablesi/ijs91.html,0/2,-
-/tablesi/ijs92.html,0/2,-
-/tablesi/ijs93.html,0/2,-
-/tablesi/ijs94.html,0/1,-
-/tablesi/ijs95.html,0/1,-
-/tablesi/ijs96.html,0/1,-
-/tablesi/ijs97.html,0/1,-
-/tablesi/ijs98.html,0/1,-
-/tablesi/ijs99.html,0/1,-
-/tablesi/ijschamp.html,73/2,Iceland - List of Champions
-/tablesi/ijscup00.html,0/1,-
-/tablesi/ijscup01.html,0/1,-
-/tablesi/ijscup02.html,0/1,-
-/tablesi/ijscup03.html,0/1,-
-/tablesi/ijscup04.html,0/1,-
-/tablesi/ijscup05.html,0/1,-
-/tablesi/ijscup06.html,0/1,-
-/tablesi/ijscup07.html,0/1,-
-/tablesi/ijscup08.html,0/1,-
-/tablesi/ijscup09.html,0/1,-
-/tablesi/ijscup99.html,0/1,-
-/tablesi/ijscuphist.html,41/2,Iceland - List of Cup Finals
-/tablesi/ijshist.html,1/2,Iceland Final League Tables 1912-1998
-/tablesi/ijsleagcup03.html,0/1,-
-/tablesi/ijsleagcup05.html,0/1,-
-/tablesi/ijsleagcup06.html,0/1,-
-/tablesi/ijsleagcup07.html,0/1,-
-/tablesi/ijsleagcup08.html,0/1,-
-/tablesi/ijsleagcup09.html,0/1,-
-/tablesi/ijsleagcuphist.html,27/2,Iceland - List of League Cup Finals
-/tablesi/ijsleagcuphistfull.html,0/1,-
-/tablesi/ijssupcuphist.html,8/2,Iceland - List of Super Cup Finals
-/tablesi/ijsturres.html,3/2,David vs. Goliath: Iceland-Turkey matches
-/tablesi/illaarosa.html,1/1,"Trofeo Concello da Illa-Memorial Alejandro García (Villaracía de Arousa, 
+/tablesi/ierplall.html,1/2,Ireland - Final Placings
+/tablesi/ierpoalltime.html,1/2,(Republic of) Ireland - All time Play-off Table
+/tablesi/iershieldhist.html,4/43,League of Ireland Shield Winners
+/tablesi/iersupcuphist.html,3/5,Ireland - List of Super Cup Finals
+/tablesi/iertop4hist.html,2/43,Ireland - Top Four Cup Winners
+/tablesi/iertops.html,1/47,Ireland - List of Topscorers
+/tablesi/ifkg-asiatrip51.html,1/2,IFK Göteborg (Sweden) tour of Asia 1951
+/tablesi/ifkn-oostafrtour50.html,1/2,IFK Norrköping (Sweden) tour of East Africa and Italy 1950
+/tablesi/ifks-malaya61.html,1/2,IFK Norrköping / IFK Göteborg combined tour of Malaya and Singapore 1961
+/tablesi/ifks100-95.html,1/2,Centenary of IFK Stockholm 1995
+/tablesi/iisabastatia.html,0/2,?
+/tablesi/ijs-intres.html,27/32,International matches of Iceland
+/tablesi/ijs-intres00.html,4/4,International matches of Iceland 2000 - Details
+/tablesi/ijs-intres01.html,4/4,International matches of Iceland 2001 - Details
+/tablesi/ijs-intres02.html,4/3,International matches of Iceland 2002 - Details
+/tablesi/ijs-intres03.html,4/3,International matches of Iceland 2003 - Details
+/tablesi/ijs-intres04.html,4/3,International matches of Iceland 2004 - Details
+/tablesi/ijs-intres05.html,4/3,International matches of Iceland 2005 - Details
+/tablesi/ijs-intres06.html,4/3,International matches of Iceland 2006 - Details
+/tablesi/ijs-intres07.html,4/3,International matches of Iceland 2007 - Details
+/tablesi/ijs-intres08.html,4/3,International matches of Iceland 2008 - Details
+/tablesi/ijs-intres09.html,4/3,International matches of Iceland 2009 - Details
+/tablesi/ijs-intres2010.html,4/4,International matches of Iceland 2010 - Details
+/tablesi/ijs-intres2011.html,4/4,International matches of Iceland 2011 - Details
+/tablesi/ijs-intres2012.html,4/4,International matches of Iceland 2012 - Details
+/tablesi/ijs-intres2013.html,4/3,International matches of Iceland 2013 - Details
+/tablesi/ijs-intres2014.html,4/3,International matches of Iceland 2014 - Details
+/tablesi/ijs-intres2015.html,4/3,International matches of Iceland 2015 - Details
+/tablesi/ijs-intres2016.html,4/3,International matches of Iceland 2016 - Details
+/tablesi/ijs-intres2017.html,4/3,International matches of Iceland 2017 - Details
+/tablesi/ijs-intres2018.html,4/3,International matches of Iceland 2018 - Details
+/tablesi/ijs-intres2019.html,4/3,International matches of Iceland 2019 - Details
+/tablesi/ijs-intres2020.html,4/3,International matches of Iceland 2020 - Details
+/tablesi/ijs-intres2021.html,4/3,International matches of Iceland 2021 - Details
+/tablesi/ijs-intres2022.html,4/3,International matches of Iceland 2022 - Details
+/tablesi/ijs-intres2023.html,3/2,International matches of Iceland 2023 - Details
+/tablesi/ijs-intres99.html,3/3,International matches of Iceland 1999 - Details
+/tablesi/ijs-tri86.html,0/2,?
+/tablesi/ijs-u21-intres.html,13/16,International matches of Iceland U-21
+/tablesi/ijs-u21-intres2011.html,3/2,International matches of Iceland U-21 2011 - Details
+/tablesi/ijs-u21-intres2012.html,4/3,International matches of Iceland U-21 2012 - Details
+/tablesi/ijs-u21-intres2013.html,4/3,International matches of Iceland U-21 2013 - Details
+/tablesi/ijs-u21-intres2014.html,4/3,International matches of Iceland U-21 2014 - Details
+/tablesi/ijs-u21-intres2015.html,4/3,International matches of Iceland U-21 2015 - Details
+/tablesi/ijs-u21-intres2016.html,4/3,International matches of Iceland U-21 2016 - Details
+/tablesi/ijs-u21-intres2017.html,4/3,International matches of Iceland U-21 2017 - Details
+/tablesi/ijs-u21-intres2018.html,4/3,International matches of Iceland U-21 2018 - Details
+/tablesi/ijs-u21-intres2019.html,4/3,International matches of Iceland U-21 2019 - Details
+/tablesi/ijs-u21-intres2020.html,4/3,International matches of Iceland U-21 2020 - Details
+/tablesi/ijs-u21-intres2021.html,4/3,International matches of Iceland U-21 2021 - Details
+/tablesi/ijs-u21-intres2022.html,3/2,International matches of Iceland U-21 2022 - Details
+/tablesi/ijs-wom-intres.html,0/2,?
+/tablesi/ijs-wom00.html,6/7,Iceland - Women's Premier League 2000
+/tablesi/ijs-wom01.html,7/7,Iceland - Women's Premier League 2001
+/tablesi/ijs-wom02.html,7/7,Iceland - Women's Premier League 2002
+/tablesi/ijs-wom03.html,6/7,Iceland (Women) 2003
+/tablesi/ijs-wom04.html,6/6,Iceland (Women) 2004
+/tablesi/ijs-wom05.html,6/6,Iceland (Women) 2005
+/tablesi/ijs-wom06.html,6/6,Iceland (Women) 2006
+/tablesi/ijs-wom07.html,6/6,Iceland (Women) 2007
+/tablesi/ijs-wom08.html,6/6,Iceland (Women) 2008
+/tablesi/ijs-wom09.html,6/6,Iceland (Women) 2009
+/tablesi/ijs-wom2010.html,6/6,Iceland (Women) 2010
+/tablesi/ijs-wom2011.html,6/4,Iceland (Women) 2011
+/tablesi/ijs-wom2012.html,6/5,Iceland (Women) 2012
+/tablesi/ijs-wom2013.html,6/5,Iceland (Women) 2013
+/tablesi/ijs-wom2014.html,6/5,Iceland (Women) 2014
+/tablesi/ijs-wom2015.html,6/5,Iceland (Women) 2015
+/tablesi/ijs-wom2016.html,6/4,Iceland (Women) 2016
+/tablesi/ijs-wom2017.html,6/4,Iceland (Women) 2017
+/tablesi/ijs-wom2018.html,6/4,Iceland (Women) 2018
+/tablesi/ijs-wom2019.html,6/4,Iceland (Women) 2019
+/tablesi/ijs-wom2020.html,6/5,Iceland (Women) 2020
+/tablesi/ijs-wom2021.html,6/6,Iceland (Women) 2021
+/tablesi/ijs-wom2022.html,6/6,Iceland (Women) 2022
+/tablesi/ijs-wom2023.html,6/6,Iceland (Women) 2023
+/tablesi/ijs-wom2024.html,6/6,Iceland (Women) 2024
+/tablesi/ijs-wom2025.html,6/6,Iceland (Women) 2025
+/tablesi/ijs-wom2026.html,5/6,Iceland (Women) 2026
+/tablesi/ijs-wom2champ.html,1/2,Iceland - List of Second Level Champions (Women)
+/tablesi/ijs-wom82.html,4/5,Iceland (Women) 1982
+/tablesi/ijs-wom83.html,5/6,Iceland (Women) 1983
+/tablesi/ijs-wom84.html,5/6,Iceland (Women) 1984
+/tablesi/ijs-wom85.html,5/6,Iceland (Women) 1985
+/tablesi/ijs-wom86.html,5/6,Iceland (Women) 1986
+/tablesi/ijs-wom87.html,5/6,Iceland (Women) 1987
+/tablesi/ijs-wom88.html,5/6,Iceland (Women) 1988
+/tablesi/ijs-wom89.html,5/6,Iceland (Women) 1989
+/tablesi/ijs-wom90.html,5/6,Iceland (Women) 1990
+/tablesi/ijs-wom91.html,5/6,Iceland (Women) 1991
+/tablesi/ijs-wom99.html,5/7,Iceland (Women) 1999
+/tablesi/ijs-womchamp.html,39/40,Iceland - List of Champions (Women)
+/tablesi/ijs-womcuphist.html,34/40,Iceland - List of Cup Finals (Women)
+/tablesi/ijs-womleagcuphist.html,19/28,Iceland - List of Women League Cup Finals
+/tablesi/ijs-womtops.html,0/1,?
+/tablesi/ijs00.html,10/6,Iceland 2000
+/tablesi/ijs01.html,10/7,Iceland 2001
+/tablesi/ijs02.html,10/8,Iceland 2002
+/tablesi/ijs03.html,10/5,Iceland 2003
+/tablesi/ijs04.html,9/6,Iceland 2004
+/tablesi/ijs05.html,9/6,Iceland 2005
+/tablesi/ijs06.html,9/6,Iceland 2006
+/tablesi/ijs07.html,10/6,Iceland 2007
+/tablesi/ijs08.html,10/6,Iceland 2008
+/tablesi/ijs09.html,10/4,Iceland 2009
+/tablesi/ijs2010.html,10/6,Iceland 2010
+/tablesi/ijs2011.html,10/6,Iceland 2011
+/tablesi/ijs2012.html,10/6,Iceland 2012
+/tablesi/ijs2013.html,10/6,Iceland 2013
+/tablesi/ijs2014.html,10/6,Iceland 2014
+/tablesi/ijs2015.html,10/6,Iceland 2015
+/tablesi/ijs2016.html,10/6,Iceland 2016
+/tablesi/ijs2017.html,10/6,Iceland 2017
+/tablesi/ijs2018.html,10/7,Iceland 2018
+/tablesi/ijs2019.html,10/7,Iceland 2019
+/tablesi/ijs2020.html,10/6,Iceland 2020
+/tablesi/ijs2021.html,10/7,Iceland 2021
+/tablesi/ijs2022.html,10/7,Iceland 2022
+/tablesi/ijs2023.html,10/7,Iceland 2023
+/tablesi/ijs2024.html,10/7,Iceland 2024
+/tablesi/ijs2025.html,10/7,Iceland 2025
+/tablesi/ijs2026.html,9/7,Iceland 2026
+/tablesi/ijs2champ.html,1/91,Iceland - List of Second Division Champions and Promoted Clubs
+/tablesi/ijs2hist.html,1/90,Iceland Final League Tables Second Division 1977-1998
+/tablesi/ijs2tops.html,0/1,?
+/tablesi/ijs3champ.html,1/2,Iceland - List of Third Division Champions and Promoted Clubs
+/tablesi/ijs3tops.html,0/1,?
+/tablesi/ijs4champ.html,1/2,"Iceland - List of Fourth Division Champions, Promoted Clubs and Finals"
+/tablesi/ijs55.html,8/3,Iceland 1955
+/tablesi/ijs56.html,9/4,Iceland 1956
+/tablesi/ijs57.html,9/4,Iceland 1957
+/tablesi/ijs58.html,9/4,Iceland 1958
+/tablesi/ijs59.html,9/4,Iceland 1959
+/tablesi/ijs60.html,9/4,Iceland 1960
+/tablesi/ijs61.html,9/4,Iceland 1961
+/tablesi/ijs62.html,9/4,Iceland 1962
+/tablesi/ijs63.html,9/4,Iceland 1963
+/tablesi/ijs64.html,9/4,Iceland 1964
+/tablesi/ijs65.html,9/4,Iceland 1965
+/tablesi/ijs66.html,9/4,Iceland 1966
+/tablesi/ijs67.html,9/4,Iceland 1967
+/tablesi/ijs68.html,9/4,Iceland 1968
+/tablesi/ijs69.html,9/4,Iceland 1969
+/tablesi/ijs70.html,9/4,Iceland 1970
+/tablesi/ijs71.html,9/4,Iceland 1971
+/tablesi/ijs72.html,9/4,Iceland 1972
+/tablesi/ijs73.html,9/4,Iceland 1973
+/tablesi/ijs74.html,9/4,Iceland 1974
+/tablesi/ijs75.html,9/4,Iceland 1975
+/tablesi/ijs76.html,9/4,Iceland 1976
+/tablesi/ijs77.html,9/4,Iceland 1977
+/tablesi/ijs78.html,9/4,Iceland 1978
+/tablesi/ijs79.html,9/4,Iceland 1979
+/tablesi/ijs80.html,9/4,Iceland 1980
+/tablesi/ijs81.html,9/4,Iceland 1981
+/tablesi/ijs82.html,9/6,Iceland 1982
+/tablesi/ijs83.html,9/6,Iceland 1983
+/tablesi/ijs84.html,9/6,Iceland 1984
+/tablesi/ijs85.html,9/6,Iceland 1985
+/tablesi/ijs86.html,9/6,Iceland 1986
+/tablesi/ijs87.html,9/6,Iceland 1987
+/tablesi/ijs88.html,9/6,Iceland 1988
+/tablesi/ijs89.html,9/6,Iceland 1989
+/tablesi/ijs90.html,9/6,Iceland 1990
+/tablesi/ijs91.html,9/6,Iceland 1991
+/tablesi/ijs92.html,9/5,Iceland 1992
+/tablesi/ijs93.html,9/5,Iceland 1993
+/tablesi/ijs94.html,9/4,Iceland 1994
+/tablesi/ijs95.html,9/6,Iceland 1995
+/tablesi/ijs96.html,9/5,Iceland 1996
+/tablesi/ijs97.html,5/5,Iceland 1997
+/tablesi/ijs98.html,9/6,Iceland 1998
+/tablesi/ijs99.html,10/5,Iceland 1999
+/tablesi/ijsalltime.html,1/2,Iceland - All-Time Table
+/tablesi/ijschamp.html,73/91,Iceland - List of Champions
+/tablesi/ijscup00.html,8/1,Iceland Cup 2000
+/tablesi/ijscup01.html,8/1,Iceland Cup 2001
+/tablesi/ijscup02.html,8/1,Iceland Cup 2002
+/tablesi/ijscup03.html,8/1,Iceland Cup 2003
+/tablesi/ijscup04.html,8/1,Iceland Cup 2004
+/tablesi/ijscup05.html,8/1,Iceland Cup 2005
+/tablesi/ijscup06.html,8/1,Iceland Cup 2006
+/tablesi/ijscup07.html,8/1,Iceland Cup 2007
+/tablesi/ijscup08.html,8/1,Iceland Cup 2008
+/tablesi/ijscup09.html,8/1,Iceland Cup 2009
+/tablesi/ijscup99.html,8/1,Iceland Cups (men+women) 1999
+/tablesi/ijscuphist.html,41/90,Iceland - List of Cup Finals
+/tablesi/ijsfound.html,1/2,Iceland - Foundation Dates of Clubs
+/tablesi/ijshist.html,1/90,Iceland Final League Tables 1912-1998
+/tablesi/ijsleagcup03.html,8/1,Iceland League Cup 2003
+/tablesi/ijsleagcup05.html,8/1,Iceland League Cup 2005
+/tablesi/ijsleagcup06.html,8/1,Iceland League Cup 2006
+/tablesi/ijsleagcup07.html,8/1,Iceland League Cup 2007
+/tablesi/ijsleagcup08.html,8/1,Iceland League Cup 2008
+/tablesi/ijsleagcup09.html,9/1,Iceland League Cup 2009
+/tablesi/ijsleagcuphist.html,27/91,Iceland - List of League Cup Finals
+/tablesi/ijsleagcuphistfull.html,1/3,Iceland - League Cup History
+/tablesi/ijsplall.html,1/2,Iceland - Final Placings
+/tablesi/ijssupcuphist.html,8/25,Iceland - List of Super Cup Finals
+/tablesi/ijstops.html,1/3,Iceland - Topscorers
+/tablesi/ijsturres.html,3/3,David vs. Goliath: Iceland-Turkey matches
+/tablesi/illaarosa.html,1/2,"Trofeo Concello da Illa-Memorial Alejandro García (Villaracía de Arousa, 
 Pontevedra)"
-/tablesi/ind-ocean.html,2/2,Jeux des Iles de l'Océan Indien
-/tablesi/independiente-amtrip67.html,1/1,American Trip of CA Independiente (Avellaneda) 1967
-/tablesi/independiente-satrip65.html,1/1,South American Trip of Independiente 1965
-/tablesi/india-ifahist.html,40/2,India - List of IFA Shield Finals
-/tablesi/india-intres.html,4/1,India International Matches
-/tablesi/india-intres200709.html,0/1,-
-/tablesi/india-intres201419.html,0/1,-
-/tablesi/india-intres202123.html,0/1,-
-/tablesi/india-manichamp.html,5/2,India - List of Manipur League Champions
-/tablesi/india-reg00.html,0/3,-
-/tablesi/india-reg01.html,0/2,-
-/tablesi/india-reg02.html,0/2,-
-/tablesi/india-reg03.html,0/2,-
-/tablesi/india-reg04.html,0/3,-
-/tablesi/india-reg05.html,0/3,-
-/tablesi/india-reg06.html,0/4,-
-/tablesi/india-reg07.html,0/4,-
-/tablesi/india-reg08.html,0/4,-
-/tablesi/india-reg2012.html,0/2,-
-/tablesi/india-reg2013.html,0/1,-
-/tablesi/india-reg2014.html,0/1,-
-/tablesi/india-reg2015.html,0/1,-
-/tablesi/india-reg2016.html,0/1,-
-/tablesi/india-reg2017.html,0/1,-
-/tablesi/india00.html,0/5,-
-/tablesi/india01.html,0/4,-
-/tablesi/india02.html,0/5,-
-/tablesi/india03.html,0/4,-
-/tablesi/india04.html,0/5,-
-/tablesi/india05.html,0/6,-
-/tablesi/india06.html,0/6,-
-/tablesi/india07.html,0/6,-
-/tablesi/india08.html,0/2,-
-/tablesi/india09.html,0/1,-
-/tablesi/india1909.html,0/1,-
-/tablesi/india1911.html,0/1,-
-/tablesi/india2010.html,0/4,-
-/tablesi/india2011.html,0/5,-
-/tablesi/india2012.html,0/5,-
-/tablesi/india2013.html,0/5,-
-/tablesi/india2014.html,0/5,-
-/tablesi/india2015.html,0/5,-
-/tablesi/india2016.html,0/4,-
-/tablesi/india2017.html,0/5,-
-/tablesi/india2018.html,0/5,-
-/tablesi/india2019.html,0/4,-
-/tablesi/india2020.html,0/5,-
-/tablesi/india2021.html,0/4,-
-/tablesi/india2022.html,0/5,-
-/tablesi/india2023.html,0/4,-
-/tablesi/india2024.html,0/4,-
-/tablesi/india2025.html,15/4,India 2024/25
-/tablesi/india2026.html,14/5,India 2025/26
-/tablesi/india37.html,0/1,-
-/tablesi/india40.html,0/1,-
-/tablesi/india43.html,0/1,-
-/tablesi/india44.html,0/1,-
-/tablesi/india45.html,0/1,-
-/tablesi/india46.html,0/1,-
-/tablesi/india49.html,0/2,-
-/tablesi/india50.html,0/2,-
-/tablesi/india51.html,0/2,-
-/tablesi/india52.html,0/1,-
-/tablesi/india53.html,0/1,-
-/tablesi/india56.html,0/1,-
-/tablesi/india58.html,0/1,-
-/tablesi/india59.html,0/1,-
-/tablesi/india60.html,0/1,-
-/tablesi/india61.html,0/1,-
-/tablesi/india651.html,0/1,-
-/tablesi/india67.html,0/1,-
-/tablesi/india69.html,0/1,-
-/tablesi/india70.html,0/2,-
-/tablesi/india72.html,0/1,-
-/tablesi/india74.html,0/1,-
-/tablesi/india75.html,0/1,-
-/tablesi/india78.html,0/3,-
-/tablesi/india80.html,0/1,-
-/tablesi/india84.html,0/2,-
-/tablesi/india85.html,0/4,-
-/tablesi/india86.html,0/1,-
-/tablesi/india88.html,0/3,-
-/tablesi/india89.html,0/2,-
-/tablesi/india90.html,0/2,-
-/tablesi/india91.html,0/3,-
-/tablesi/india92.html,0/3,-
-/tablesi/india93.html,0/3,-
-/tablesi/india94.html,0/2,-
-/tablesi/india95.html,0/1,-
-/tablesi/india96.html,0/4,-
-/tablesi/india97.html,0/6,-
-/tablesi/india98.html,0/7,-
-/tablesi/india99.html,0/7,-
-/tablesi/indiacalchamp.html,38/2,India - List of Calcutta/Kolkata League Champions
-/tablesi/indiachamp.html,31/3,India - List of National Champions
-/tablesi/indiacup08.html,0/4,-
-/tablesi/indiacup09.html,0/3,-
-/tablesi/indiacuphist.html,27/3,India - List of Federation Cup Winners
-/tablesi/indiadelhichamp.html,7/2,India - List of Delhi League Champions
-/tablesi/indiadurandcuphist.html,38/2,India - List of Durand Cup Finals
-/tablesi/indiagoachamp.html,14/2,India - List of Goa League Champions
-/tablesi/indiaroverscuphist.html,1/2,India - List of Rovers Cup Finals
-/tablesi/indiasantoshhist.html,42/2,India - List of Santosh Trophy Finals
-/tablesi/indiasupcuphist.html,14/2,India - List of Super Cup Finals
-/tablesi/indiatops.html,1/2,India - List of Topscorers
-/tablesi/indie-intres.html,19/2,Dutch East Indies International Matches
-/tablesi/indiechamp.html,0/8,-
-/tablesi/indo-intres.html,24/2,Indonesia International Matches
-/tablesi/indo-intres0105.html,0/1,-
-/tablesi/indo-intres8185.html,0/1,-
-/tablesi/indo-intres8690.html,0/1,-
-/tablesi/indo-intres9195.html,0/1,-
-/tablesi/indo-intres9600.html,0/1,-
-/tablesi/indo-oly56.html,0/1,-
-/tablesi/indo00.html,0/2,-
-/tablesi/indo01.html,0/1,-
-/tablesi/indo02.html,0/1,-
-/tablesi/indo03.html,0/1,-
-/tablesi/indo04.html,0/1,-
-/tablesi/indo05.html,0/2,-
-/tablesi/indo06.html,0/2,-
-/tablesi/indo07.html,0/2,-
-/tablesi/indo08.html,0/2,-
-/tablesi/indo2010.html,0/2,-
-/tablesi/indo2011.html,0/2,-
-/tablesi/indo2012.html,0/2,-
-/tablesi/indo2013.html,0/2,-
-/tablesi/indo2014.html,0/2,-
-/tablesi/indo2015.html,0/1,-
-/tablesi/indo2016.html,0/2,-
-/tablesi/indo2017.html,0/2,-
-/tablesi/indo2018.html,0/2,-
-/tablesi/indo2019.html,0/2,-
-/tablesi/indo2020.html,0/1,-
-/tablesi/indo2022.html,0/1,-
-/tablesi/indo2023.html,0/2,-
-/tablesi/indo2024.html,0/2,-
-/tablesi/indo2025.html,8/3,Indonesia 2024/25
-/tablesi/indo2026.html,7/4,Indonesia 2025/26
-/tablesi/indo2champ.html,4/3,Indonesia  - List of Second Level Champions
-/tablesi/indo35.html,0/1,-
-/tablesi/indo3champ.html,4/3,"Indonesia  - List of Third, Fourth and Fifth Level Champions"
-/tablesi/indo51.html,0/1,-
-/tablesi/indo52.html,0/1,-
-/tablesi/indo54.html,0/1,-
-/tablesi/indo57.html,0/1,-
-/tablesi/indo79.html,0/2,-
-/tablesi/indo80.html,7/3,Indonesia 1979/80
-/tablesi/indo82.html,0/2,-
-/tablesi/indo83.html,0/1,-
-/tablesi/indo84.html,0/1,-
-/tablesi/indo84a.html,0/2,-
-/tablesi/indo85.html,0/3,-
-/tablesi/indo86.html,0/2,-
-/tablesi/indo87.html,0/2,-
-/tablesi/indo88.html,0/3,-
-/tablesi/indo89.html,0/2,-
-/tablesi/indo90.html,0/3,-
-/tablesi/indo92.html,0/3,-
-/tablesi/indo93.html,0/1,-
-/tablesi/indo94.html,0/3,-
-/tablesi/indo95.html,0/2,-
-/tablesi/indo96.html,0/2,-
-/tablesi/indo97.html,0/2,-
-/tablesi/indo98.html,0/2,-
-/tablesi/indo99.html,0/2,-
-/tablesi/indoamchamp.html,21/7,Indonesia - Amateur Era Champions
-/tablesi/indoamclubchamp.html,0/1,-
-/tablesi/indochamp.html,47/7,Indonesia  - List of (Semi-)Professional Champions
-/tablesi/indocuphist.html,39/3,Indonesia  - List of Cup Winners
-/tablesi/indofatahillah.html,0/1,-
-/tablesi/indogscup.html,0/1,-
-/tablesi/indogubjateng.html,0/1,-
-/tablesi/indogubjatim.html,0/1,-
-/tablesi/indojusuf.html,0/1,-
-/tablesi/indosoeharto.html,0/2,-
-/tablesi/indosurya.html,0/1,-
+/tablesi/imelda77.html,1/2,Philippines First Lady's Cup 1977 (Manila)
+/tablesi/inaug-leon25-92.html,0/2,?
+/tablesi/inaug-leon67.html,0/2,?
+/tablesi/inca.html,1/2,"Copa Ayuntamiento de Inca (Inca, Mallorca)"
+/tablesi/ind-ocean.html,2/4,Jeux des Iles de l'Océan Indien
+/tablesi/ind-riv-chiltrip39.html,1/2,CA Independiente/River Plate Combined Trip to Chile 1939
+/tablesi/indep-bol01.html,0/2,?
+/tablesi/indep-braz40.html,2/3,CA Independiente (Avellaneda) Trip to Brazil 1939/40
+/tablesi/indep-mex58tour.html,1/2,Mexican trip of CA Independiente (Avellaneda) 1958
+/tablesi/indep-mex59tour.html,1/2,Mexican trip of CA Independiente (Avellaneda) 1959
+/tablesi/indep-santafe.html,2/2,Club Independiente Santa Fe
+/tablesi/indepcelta73.html,1/3,Independiente de Avellaneda vs. Celta de Vigo 1973 (Caracas)
+/tablesi/independiente.html,1/2,C.A. Independiente (Avellaneda)
+/tablesi/independiente-amtrip67.html,1/2,American Trip of CA Independiente (Avellaneda) 1967
+/tablesi/independiente-braztrip56.html,1/3,Brazilian Trip of Independiente (Avellaneda) 1956
+/tablesi/independiente-chiltrip31.html,1/2,Independiente (Avellaneda) Trip to Chile 1931
+/tablesi/independiente-chiltrip40.html,1/2,Independiente (Avellaneda) Trip to Chile 1940
+/tablesi/independiente-chiltrip60.html,1/2,Independiente (Avellaneda) Trip to Chile 1960
+/tablesi/independiente-mex48tour.html,1/2,Mexican tour of CA Independiente (Avellaneda) 1948
+/tablesi/independiente-mextour52.html,0/2,?
+/tablesi/independiente-satrip53.html,1/2,South American Trip of Independiente 1953
+/tablesi/independiente-satrip65.html,1/2,South American Trip of Independiente 1965
+/tablesi/independiente-trip52.html,2/3,American Trip of CA Independiente (Avellaneda) 1951/52
+/tablesi/independiente-trip54.html,2/3,European Trip of CA Independiente (Avellaneda) 1953/54
+/tablesi/independiente-trip65.html,2/3,North American Trip of CA Independiente (Avellaneda) 1965
+/tablesi/independiente-trip67.html,4/3,European Trip of CA Independiente (Avellaneda) 1967
+/tablesi/independiente-trip72.html,2/3,European Trip of CA Independiente (Avellaneda) 1972
+/tablesi/independiente-trip81.html,2/3,European Trip of CA Independiente (Avellaneda) 1981
+/tablesi/independiente-trip85.html,2/3,European Trip of CA Independiente (Avellaneda) 1985
+/tablesi/indepmen-mextour37.html,1/3,Mexican trip of CS Independiente (Mendoza) 1937
+/tablesi/indepracing.html,1/3,Independiente v Racing Club - Avellaneda Derby
+/tablesi/india-arunachalchamp.html,0/1,?
+/tablesi/india-assamchamp.html,0/1,?
+/tablesi/india-bangachamp.html,0/2,?
+/tablesi/india-ifahist.html,40/91,India - List of IFA Shield Finals
+/tablesi/india-intres.html,4/6,India International Matches
+/tablesi/india-intres200709.html,3/3,Indian National Team Matches 2007-2009
+/tablesi/india-intres201419.html,4/4,Indian National Team Matches 2010-2019
+/tablesi/india-intres202123.html,3/3,Indian National Team Matches 2021-2023
+/tablesi/india-keralachamp.html,0/2,?
+/tablesi/india-manichamp.html,5/25,India - List of Manipur League Champions
+/tablesi/india-mizochamp.html,0/1,?
+/tablesi/india-nagachamp.html,0/1,?
+/tablesi/india-odishachamp.html,0/2,?
+/tablesi/india-punjabchamp.html,0/2,?
+/tablesi/india-rajachamp.html,0/1,?
+/tablesi/india-reg00.html,14/6,India Regional Leagues 2000
+/tablesi/india-reg01.html,15/6,India 2001 Regional Championships
+/tablesi/india-reg02.html,15/6,India 2002 Regional Championships
+/tablesi/india-reg03.html,15/6,India 2003 Regional Championships
+/tablesi/india-reg04.html,15/7,India 2004 Regional Championships
+/tablesi/india-reg05.html,15/7,India 2005 Regional Championships
+/tablesi/india-reg06.html,15/8,India 2006 Regional Championships
+/tablesi/india-reg07.html,15/9,India 2007 Regional Championships
+/tablesi/india-reg08.html,16/9,India 2008 Regional Championships
+/tablesi/india-reg2012.html,16/5,India 2012 Regional Championships
+/tablesi/india-reg2013.html,16/4,India 2012/13 Regional Championships
+/tablesi/india-reg2014.html,15/4,India 2013/14 Regional Championships
+/tablesi/india-reg2015.html,15/4,India 2014/15 Regional Championships
+/tablesi/india-reg2016.html,15/4,India 2015/16 Regional Championships
+/tablesi/india-reg2017.html,16/6,India 2016/17 Regional Championships
+/tablesi/india-reg2025.html,14/2,India 2025 Regional Championships
+/tablesi/india-seatours.html,0/2,?
+/tablesi/india-sikkimchamp.html,0/1,?
+/tablesi/india-sikkimgoldcuphist.html,23/3,India - List of All India Governor's Gold Cup Winners (Sikkim)
+/tablesi/india-tradescup.html,1/1,India - List of Trades Cup Winners
+/tablesi/india-wom00.html,0/1,?
+/tablesi/india-wom01.html,0/2,?
+/tablesi/india-wom02.html,4/3,India (Women) 2002
+/tablesi/india-wom03.html,4/4,India (Women) 2003
+/tablesi/india-wom04.html,4/4,India (Women) 2004
+/tablesi/india-wom05.html,4/4,India (Women) 2005
+/tablesi/india-wom06.html,4/4,India (Women) 2006
+/tablesi/india-wom07.html,4/4,India (Women) 2007
+/tablesi/india-wom08.html,4/3,India (Women) 2008
+/tablesi/india-wom09.html,0/2,?
+/tablesi/india-wom2010.html,0/1,?
+/tablesi/india-wom2011.html,0/1,?
+/tablesi/india-wom2014.html,0/2,?
+/tablesi/india-wom2016.html,4/2,India (Women) 2015/16
+/tablesi/india-wom2017.html,0/2,?
+/tablesi/india-wom2018.html,0/1,?
+/tablesi/india-wom2019.html,0/2,?
+/tablesi/india-wom2020.html,4/2,India (Women) 2019/20
+/tablesi/india-wom2021.html,0/3,?
+/tablesi/india-wom2022.html,4/3,India (Women) 2022
+/tablesi/india-wom2023.html,4/3,India (Women) 2023
+/tablesi/india-wom2024.html,0/2,?
+/tablesi/india-wom2024b.html,0/2,?
+/tablesi/india-wom2025.html,3/2,India (Women) 2025
+/tablesi/india-wom99.html,0/1,?
+/tablesi/india-womchamp.html,26/14,India - List of Women Champions
+/tablesi/india00.html,14/9,India 1999/00
+/tablesi/india01.html,15/9,India 2000/01
+/tablesi/india02.html,15/12,India 2001/02
+/tablesi/india03.html,15/9,India 2002/03
+/tablesi/india04.html,15/12,India 2003/04
+/tablesi/india05.html,15/12,India 2004/05
+/tablesi/india06.html,15/13,India 2005/06
+/tablesi/india07.html,16/13,India 2006/07
+/tablesi/india08.html,16/8,India 2007/08
+/tablesi/india09.html,15/6,India 2008/09
+/tablesi/india1909.html,12/2,India 1909
+/tablesi/india1911.html,13/3,India 1911
+/tablesi/india2010.html,13/8,India 2009/10
+/tablesi/india2011.html,13/9,India 2010/11
+/tablesi/india2012.html,15/9,India 2011/12
+/tablesi/india2013.html,15/11,India 2012/13
+/tablesi/india2014.html,15/10,India 2013/14
+/tablesi/india2015.html,15/10,India 2014/15
+/tablesi/india2016.html,15/8,India 2015/16
+/tablesi/india2017.html,15/13,India 2016/17
+/tablesi/india2018.html,16/11,India 2017/18
+/tablesi/india2019.html,15/9,India 2018/19
+/tablesi/india2020.html,15/10,India 2019/20
+/tablesi/india2021.html,15/8,India 2020/21
+/tablesi/india2022.html,15/9,India 2021/22
+/tablesi/india2023.html,15/9,India 2022/23
+/tablesi/india2024.html,15/6,India 2023/24
+/tablesi/india2025.html,15/9,India 2024/25
+/tablesi/india2026.html,14/8,India 2025/26
+/tablesi/india37.html,13/4,India 1937
+/tablesi/india40.html,13/3,India 1940
+/tablesi/india43.html,13/3,India 1943
+/tablesi/india44.html,13/3,India 1944
+/tablesi/india45.html,13/3,India 1945
+/tablesi/india46.html,13/3,India 1946
+/tablesi/india49.html,13/5,India 1949
+/tablesi/india50.html,13/5,India 1950
+/tablesi/india51.html,13/4,India 1951
+/tablesi/india52.html,13/3,India 1952
+/tablesi/india53.html,13/4,India 1953
+/tablesi/india56.html,13/3,India 1956
+/tablesi/india58.html,13/3,India 1958
+/tablesi/india59.html,13/4,India 1959
+/tablesi/india60.html,13/3,India 1960
+/tablesi/india61.html,13/3,India 1961
+/tablesi/india65.html,13/2,India 1961
+/tablesi/india67.html,13/4,India 1967
+/tablesi/india69.html,13/2,India 1969
+/tablesi/india70.html,13/4,India 1970
+/tablesi/india72.html,13/3,India 1972
+/tablesi/india74.html,13/3,India 1974
+/tablesi/india75.html,13/3,India 1975
+/tablesi/india77.html,13/3,India 1977
+/tablesi/india78.html,13/6,India 1978
+/tablesi/india80.html,13/3,India 1980
+/tablesi/india84.html,14/6,India 1984
+/tablesi/india85.html,14/9,India 1985
+/tablesi/india86.html,13/3,India 1986
+/tablesi/india88.html,14/6,India 1988
+/tablesi/india89.html,14/5,India 1989
+/tablesi/india90.html,13/4,India 1990
+/tablesi/india91.html,14/9,India 1991
+/tablesi/india92.html,13/6,India 1992
+/tablesi/india93.html,14/5,India 1993
+/tablesi/india94.html,13/5,India 1994
+/tablesi/india95.html,13/3,India 1995
+/tablesi/india96.html,13/7,India 1995/96
+/tablesi/india97.html,13/12,India 1996/97
+/tablesi/india98.html,13/12,India 1997/98
+/tablesi/india99.html,13/12,India 1998/99
+/tablesi/indiabomchamp.html,0/2,?
+/tablesi/indiabordoloicuphist.html,12/2,India - List of Bordoloi Trophy Winners
+/tablesi/indiacalchamp.html,38/89,India - List of Calcutta/Kolkata League Champions
+/tablesi/indiachamp.html,31/90,India - List of National Champions
+/tablesi/indiacup08.html,11/7,India Cup Tournaments 2007/08
+/tablesi/indiacup09.html,10/6,India Cup Tournaments 2008/09
+/tablesi/indiacuphist.html,27/90,India - List of Federation Cup Winners
+/tablesi/indiadcm.html,1/2,India - D.C.M. Trophy
+/tablesi/indiadelhichamp.html,7/88,India - List of Delhi League Champions
+/tablesi/indiadurandcuphist.html,38/92,India - List of Durand Cup Finals
+/tablesi/indiafound.html,2/2,India - List of Foundation Dates
+/tablesi/indiagoachamp.html,14/88,India - List of Goa League Champions
+/tablesi/indianadkarnicuphist.html,5/2,India - List of Nadkarni Cup Finals
+/tablesi/indiaoly-eurotour48.html,2/3,Indian Olympic team tour of Europe 1948
+/tablesi/indiaroverscuphist.html,1/92,India - List of Rovers Cup Finals
+/tablesi/indiasantoshhist.html,42/92,India - List of Santosh Trophy Finals
+/tablesi/indiastatechamp.html,22/2,India - Lists of Champions by State/Union Territory
+/tablesi/indiasupcuphist.html,14/12,India - List of Super Cup Finals
+/tablesi/indiatops.html,1/90,India - List of Topscorers
+/tablesi/indiawc-uae04.html,1/1,"Indian Mini World Cup (Dubai, UAE) 2004"
+/tablesi/indie-intres.html,19/9,Dutch East Indies International Matches
+/tablesi/indie-sok-suchtelen.html,2/3,Dutch East Indies - Sumatra's Oostkust - Gouverneur van Suchtelenbeker
+/tablesi/indie-swk.html,2/3,Dutch East Indies - Sumatra's Westkust - S.W.K. Stedentoernooi
+/tablesi/indiechamp.html,67/73,Dutch East Indies - Football History
+/tablesi/indo-batavia04.html,4/4,Dutch East Indies 1904/05
+/tablesi/indo-intres.html,24/10,Indonesia International Matches
+/tablesi/indo-intres0105.html,3/3,Indonesia - International Results 2001-2005 - Details
+/tablesi/indo-intres8185.html,3/3,Indonesia - International Results 1981-1985 - Details
+/tablesi/indo-intres8690.html,4/4,Indonesia - International Results 1986-1990 - Details
+/tablesi/indo-intres9195.html,4/4,Indonesia - International Results 1991-1995 - Details
+/tablesi/indo-intres9600.html,4/4,Indonesia - International Results 1996-2000 - Details
+/tablesi/indo-inttourn63.html,0/2,?
+/tablesi/indo-oly56.html,6/5,The Olympic Campaign of Indonesia 1956
+/tablesi/indo-pssi50-80.html,3/3,"PSSI 50th Anniversary Tournament (Turnamen ""Setengah Abad"" PSSI) 1980"
+/tablesi/indo-wom04.html,0/1,?
+/tablesi/indo-wom05.html,0/1,?
+/tablesi/indo-wom06.html,0/1,?
+/tablesi/indo-wom08.html,0/1,?
+/tablesi/indo-wom09.html,0/1,?
+/tablesi/indo-wom2010.html,4/2,Indonesia (Women) 2010
+/tablesi/indo-wom2014.html,0/3,?
+/tablesi/indo-wom2017.html,4/3,Indonesia (Women) 2017
+/tablesi/indo-wom2019.html,4/4,Indonesia (Women) 2019
+/tablesi/indo-wom2022.html,3/3,Indonesia (Women) 2022
+/tablesi/indo-wom81.html,0/2,?
+/tablesi/indo-wom82.html,0/2,?
+/tablesi/indo-wom83.html,0/2,?
+/tablesi/indo-womchamp.html,13/5,Indonesia - List of Women Champions
+/tablesi/indo00.html,6/5,Indonesia 1999/2000
+/tablesi/indo01.html,6/4,Indonesia 2001
+/tablesi/indo02.html,6/4,Indonesia 2002
+/tablesi/indo03.html,6/4,Indonesia 2003
+/tablesi/indo04.html,8/4,Indonesia 2004
+/tablesi/indo05.html,8/5,Indonesia 2005
+/tablesi/indo06.html,8/5,Indonesia 2006
+/tablesi/indo07.html,8/5,Indonesia 2007
+/tablesi/indo08.html,8/5,Indonesia 2008/09
+/tablesi/indo11.html,4/3,Dutch East Indies 1910/11
+/tablesi/indo12.html,8/12,Dutch East Indies 1911/12 and 1912
+/tablesi/indo13.html,6/7,Dutch East Indies 1913
+/tablesi/indo14.html,6/7,Dutch East Indies 1913/14 and 1914
+/tablesi/indo15.html,5/7,Dutch East Indies 1915
+/tablesi/indo16.html,9/9,Dutch East Indies 1916
+/tablesi/indo17.html,4/6,Dutch East Indies 1917
+/tablesi/indo18.html,8/10,Dutch East Indies 1918
+/tablesi/indo19.html,4/5,Dutch East Indies 1919
+/tablesi/indo1906.html,5/7,Dutch East Indies 1905/06 and 1906
+/tablesi/indo1907.html,4/4,Dutch East Indies 1906/07 and 1907
+/tablesi/indo1908.html,7/8,Dutch East Indies 1907/08
+/tablesi/indo1909.html,6/6,Dutch East Indies 1908/09
+/tablesi/indo1910.html,6/7,Dutch East Indies 1909/10
+/tablesi/indo20.html,4/6,Dutch East Indies 1920
+/tablesi/indo2010.html,8/5,Indonesia 2009/10
+/tablesi/indo2011.html,8/5,Indonesia 2010/11
+/tablesi/indo2012.html,8/5,Indonesia 2011/12
+/tablesi/indo2013.html,8/5,Indonesia 2013
+/tablesi/indo2014.html,9/5,Indonesia 2014
+/tablesi/indo2015.html,8/3,Indonesia 2015
+/tablesi/indo2016.html,8/5,Indonesia 2016
+/tablesi/indo2017.html,8/5,Indonesia 2017
+/tablesi/indo2018.html,8/6,Indonesia 2018
+/tablesi/indo2019.html,8/5,Indonesia 2019
+/tablesi/indo2020.html,8/4,Indonesia 2020
+/tablesi/indo2022.html,8/4,Indonesia 2021/22
+/tablesi/indo2023.html,8/5,Indonesia 2022/23
+/tablesi/indo2024.html,8/4,Indonesia 2023/24
+/tablesi/indo2025.html,8/5,Indonesia 2024/25
+/tablesi/indo2026.html,7/6,Indonesia 2025/26
+/tablesi/indo21.html,4/4,Dutch East Indies 1921
+/tablesi/indo22.html,8/7,Dutch East Indies 1922
+/tablesi/indo23.html,4/6,Dutch East Indies 1922/23 and 1923
+/tablesi/indo24.html,6/8,Dutch East Indies 1923/24 and 1924
+/tablesi/indo25.html,4/6,Dutch East Indies 1924/25 and 1925
+/tablesi/indo26.html,8/13,Dutch East Indies 1925/26 and 1926
+/tablesi/indo27.html,4/8,Dutch East Indies 1926/27 and 1927
+/tablesi/indo28.html,8/10,Dutch East Indies 1927/28 and 1928
+/tablesi/indo29.html,7/8,Dutch East Indies 1928/29 and 1929
+/tablesi/indo2champ.html,4/24,Indonesia  - List of Second Level Champions
+/tablesi/indo30.html,8/11,Dutch East Indies 1929/30 and 1930
+/tablesi/indo31.html,5/7,Dutch East Indies 1930/31
+/tablesi/indo32.html,9/13,Dutch East Indies 1931/32
+/tablesi/indo33.html,7/11,Dutch East Indies 1932/33 and 1933
+/tablesi/indo34.html,6/7,Dutch East Indies 1933/34
+/tablesi/indo35.html,8/9,Dutch East Indies 1934/35
+/tablesi/indo36.html,7/9,Dutch East Indies 1935/36
+/tablesi/indo37.html,4/7,Dutch East Indies 1936/37
+/tablesi/indo38.html,4/7,Dutch East Indies 1937/38
+/tablesi/indo39.html,7/13,Dutch East Indies 1938/39
+/tablesi/indo3champ.html,4/24,"Indonesia  - List of Third, Fourth and Fifth Level Champions"
+/tablesi/indo40.html,5/5,Dutch East Indies 1939/40
+/tablesi/indo41.html,8/9,Dutch East Indies 1940/41
+/tablesi/indo42.html,5/4,Dutch East Indies 1941/42
+/tablesi/indo47.html,4/4,Dutch East Indies 1946/47
+/tablesi/indo48.html,5/6,Dutch East Indies 1947/48
+/tablesi/indo49.html,4/4,United States of Indonesia 1948/49
+/tablesi/indo50.html,4/5,United States of Indonesia 1949/50
+/tablesi/indo51.html,9/5,Indonesia 1951
+/tablesi/indo52.html,7/5,Indonesia 1952
+/tablesi/indo54.html,7/5,Indonesia 1953/54
+/tablesi/indo57.html,7/5,Indonesia 1955-57
+/tablesi/indo79.html,6/4,Indonesia 1978/79
+/tablesi/indo80.html,7/10,Indonesia 1979/80
+/tablesi/indo82.html,6/3,Indonesia 1980-82
+/tablesi/indo83.html,8/5,Indonesia 1982/83
+/tablesi/indo84.html,7/5,Indonesia 1984
+/tablesi/indo84a.html,6/5,Indonesia 1983/84
+/tablesi/indo85.html,8/8,Indonesia 1985
+/tablesi/indo86.html,6/6,Indonesia 1986
+/tablesi/indo87.html,6/8,Indonesia 1986/87
+/tablesi/indo88.html,7/7,Indonesia 1987/88
+/tablesi/indo89.html,7/6,Indonesia 1988/89
+/tablesi/indo90.html,7/9,Indonesia 1989/90
+/tablesi/indo91.html,6/4,Indonesia 1991
+/tablesi/indo92.html,7/9,Indonesia 1991/92
+/tablesi/indo93.html,6/5,Indonesia 1992/93
+/tablesi/indo94.html,6/6,Indonesia 1993/94
+/tablesi/indo95.html,6/6,Indonesia 1994/95
+/tablesi/indo96.html,6/5,Indonesia 1995/96
+/tablesi/indo97.html,6/5,Indonesia 1996/97
+/tablesi/indo98.html,6/5,Indonesia 1997/98
+/tablesi/indo99.html,6/5,Indonesia 1998/99
+/tablesi/indoamchamp.html,21/66,Indonesia - Amateur Era Champions
+/tablesi/indoamclubchamp.html,4/3,Indonesia  - List of Amateur Club Champions
+/tablesi/indobangali77.html,2/3,Bang Ali Cup 1977
+/tablesi/indochamp.html,47/57,Indonesia  - List of (Semi-)Professional Champions
+/tablesi/indochina-4-nat89.html,0/2,?
+/tablesi/indocuphist.html,39/60,Indonesia  - List of Cup Winners
+/tablesi/indofatahillah.html,3/4,Piala Fatahillah
+/tablesi/indofound.html,3/2,Indonesia (Dutch East Indies) - Foundation Dates Clubs
+/tablesi/indogscup.html,2/2,Piala Emas Bang Yos (Jakarta)
+/tablesi/indogubjateng.html,2/3,Piala Gubernur Jawa Tengah
+/tablesi/indogubjatim.html,2/3,Piala Gubernur Jawa Timur
+/tablesi/indojuniorchamp.html,5/2,Indonesia  - List of Junior Champions (Piala Soeratin)
+/tablesi/indojusuf.html,2/3,Piala Jusuf
+/tablesi/indopon.html,2/7,Indonesia - Pekan Olahraga Nasional
+/tablesi/indosoeharto.html,4/4,Piala Presiden Soeharto
+/tablesi/indosurya.html,2/3,Piala Surya (Surabaya)
+/tablesi/indsantafe-mextour54.html,1/2,Mexican Trip of Club Independiente Santa Fe (Bogotá) 1953/54
+/tablesi/instituciones93.html,0/2,?
+/tablesi/int-noct-riopl.html,0/2,?
+/tablesi/int-noct-riopl36.html,0/2,?
+/tablesi/int-noct-riopl38.html,0/2,?
+/tablesi/int-noct-riopl43.html,0/2,?
+/tablesi/int-noct-riopl44.html,0/1,?
 /tablesi/int61.html,2/1,Intertoto Cup 1961/62
 /tablesi/int62.html,2/1,Intertoto Cup 1962/63
 /tablesi/int63.html,2/1,Intertoto Cup 1963/64
 /tablesi/int64.html,2/1,Intertoto Cup 1964/65
-/tablesi/int65.html,2/1,Intertoto Cup 1965/66
+/tablesi/int65.html,2/2,Intertoto Cup 1965/66
 /tablesi/int66.html,2/1,Intertoto Cup 1966/67
-/tablesi/intam.html,23/20,Copa Interamericana
+/tablesi/intam.html,23/22,Copa Interamericana
 /tablesi/intam68.html,3/2,Copa Interamericana 1968
 /tablesi/intam71.html,4/3,Copa Interamericana 1971
 /tablesi/intam72.html,4/3,Copa Interamericana 1972
 /tablesi/intam74.html,4/3,Copa Interamericana 1974
 /tablesi/intam75.html,4/3,Copa Interamericana 1975
 /tablesi/intam77.html,4/3,Copa Interamericana 1977
-/tablesi/intam79.html,7/3,Copa Interamericana 1979
+/tablesi/intam79.html,7/4,Copa Interamericana 1979
 /tablesi/intam80.html,4/3,Copa Interamericana 1980
 /tablesi/intam85.html,4/3,Copa Interamericana 1985
-/tablesi/intam86.html,4/3,Copa Interamericana 1986
+/tablesi/intam86.html,4/5,Copa Interamericana 1986
 /tablesi/intam88.html,4/3,Copa Interamericana 1988
 /tablesi/intam89.html,5/3,Copa Interamericana 1989
 /tablesi/intam90.html,4/3,Copa Interamericana 1990
@@ -417,609 +669,866 @@ Pontevedra)"
 /tablesi/intam94.html,4/3,Copa Interamericana 1994
 /tablesi/intam95.html,5/3,Copa Interamericana 1995
 /tablesi/intam98.html,3/2,Copa Interamericana 1998
+/tablesi/intcity-goeteborg23.html,1/2,Intercities Tournament in Göteborg 1923
+/tablesi/intcity-wien30.html,1/2,Intercities Tournament in Wien 1930
+/tablesi/intclub-friend60.html,1/2,International Club Friendlies 1960
 /tablesi/intconclub60.html,3/2,Intercontinental Club Cup 1960
 /tablesi/intconclub61.html,4/3,Intercontinental Club Cup 1961
 /tablesi/intconclub62.html,4/3,Intercontinental Club Cup 1962
 /tablesi/intconclub63.html,4/3,Intercontinental Club Cup 1963
-/tablesi/intconclub64.html,4/3,Intercontinental Club Cup 1964
-/tablesi/intconclub65.html,4/3,Intercontinental Club Cup 1965
+/tablesi/intconclub64.html,4/4,Intercontinental Club Cup 1964
+/tablesi/intconclub65.html,4/4,Intercontinental Club Cup 1965
 /tablesi/intconclub66.html,4/3,Intercontinental Club Cup 1966
-/tablesi/intconclub67.html,4/3,Intercontinental Club Cup 1967
-/tablesi/intconclub68.html,4/3,Intercontinental Club Cup 1968
-/tablesi/intconclub69.html,4/3,Intercontinental Club Cup 1969
-/tablesi/intconclub70.html,4/3,Intercontinental Club Cup 1970
+/tablesi/intconclub67.html,4/4,Intercontinental Club Cup 1967
+/tablesi/intconclub68.html,4/5,Intercontinental Club Cup 1968
+/tablesi/intconclub69.html,4/4,Intercontinental Club Cup 1969
+/tablesi/intconclub70.html,4/4,Intercontinental Club Cup 1970
 /tablesi/intconclub71.html,4/3,Intercontinental Club Cup 1971
-/tablesi/intconclub72.html,4/3,Intercontinental Club Cup 1972
-/tablesi/intconclub73.html,4/3,Intercontinental Club Cup 1973
-/tablesi/intconclub74.html,4/3,Intercontinental Club Cup 1974
+/tablesi/intconclub72.html,4/5,Intercontinental Club Cup 1972
+/tablesi/intconclub73.html,4/4,Intercontinental Club Cup 1973
+/tablesi/intconclub74.html,4/5,Intercontinental Club Cup 1974
 /tablesi/intconclub76.html,4/3,Intercontinental Club Cup 1976
-/tablesi/intconclub77.html,4/3,Intercontinental Club Cup 1977
+/tablesi/intconclub77.html,4/4,Intercontinental Club Cup 1977
 /tablesi/intconclub79.html,4/3,Intercontinental Club Cup 1979
-/tablesi/intconcup.html,13/15,Intercontinental Championship and FIFA Confederations Cup
-/tablesi/intconcup-allt.html,1/2,All-Time Ranking Confederations Cup 1992-2017
-/tablesi/intconcup01.html,4/3,Intercontinental Cup for Nations 2001
+/tablesi/intconcup.html,13/16,Intercontinental Championship and FIFA Confederations Cup
+/tablesi/intconcup-allt.html,1/3,All-Time Ranking Confederations Cup 1992-2017
+/tablesi/intconcup01.html,4/4,Intercontinental Cup for Nations 2001
 /tablesi/intconcup03.html,4/3,Intercontinental Cup for Nations 2003
 /tablesi/intconcup05.html,4/3,Intercontinental Cup for Nations 2005
 /tablesi/intconcup09.html,4/3,Intercontinental Cup for Nations 2009
 /tablesi/intconcup2013.html,4/3,Intercontinental Cup for Nations 2013
 /tablesi/intconcup2017.html,3/2,Intercontinental Cup for Nations 2017
-/tablesi/intconcup92.html,3/2,Intercontinental Cup for Nations 1992
-/tablesi/intconcup95.html,4/3,Intercontinental Cup for Nations 1995
-/tablesi/intconcup97.html,4/3,Intercontinental Cup for Nations 1997
-/tablesi/intconcup99.html,4/3,Intercontinental Cup for Nations 1999
-/tablesi/interallied19.html,8/2,Interallied Games 1919
-/tablesi/interisland04.html,3/2,Inter Island Cup 2004
+/tablesi/intconcup92.html,3/3,Intercontinental Cup for Nations 1992
+/tablesi/intconcup95.html,4/4,Intercontinental Cup for Nations 1995
+/tablesi/intconcup97.html,4/4,Intercontinental Cup for Nations 1997
+/tablesi/intconcup99.html,4/4,Intercontinental Cup for Nations 1999
+/tablesi/inter-pa-argtrip79.html,2/3,SC Internacional (Porto Alegre) Trip to Argentina 1979
+/tablesi/inter-pa-satrip62.html,1/3,Río de la Plata Trip of SC Internacional
+/tablesi/interallied19.html,8/6,Interallied Games 1919
+/tablesi/interisland04.html,3/3,Inter Island Cup 2004
 /tablesi/interisland05.html,3/3,Inter Island Cup 2005
-/tablesi/interisland94.html,2/1,Inter Island Cup 1994
-/tablesi/interisland97.html,0/1,-
-/tablesi/interisland99.html,0/1,-
+/tablesi/interisland94.html,2/3,Inter Island Cup 1994
+/tablesi/interisland97.html,3/2,Inter Island Cup 1997
+/tablesi/interisland99.html,3/2,Inter Island Cup 1999
 /tablesi/interislandpost05.html,2/2,Inter Island Cup 2006-2017
-/tablesi/intertoto.html,21/21,UEFA Intertoto Cup
+/tablesi/intertoto.html,21/22,UEFA Intertoto Cup
 /tablesi/intertoto-experience.html,0/1,"Intertoto ""experience"" 1961-1997"
-/tablesi/intschool-oz01.html,0/1,-
-/tablesi/iran-intres.html,0/1,Iran - International Matches
-/tablesi/iran00.html,0/3,-
-/tablesi/iran01.html,0/3,-
-/tablesi/iran02.html,0/3,-
-/tablesi/iran03.html,0/3,-
-/tablesi/iran04.html,0/3,-
-/tablesi/iran05.html,0/3,-
-/tablesi/iran06.html,0/3,-
-/tablesi/iran07.html,0/3,-
-/tablesi/iran08.html,0/3,-
-/tablesi/iran09.html,0/3,-
-/tablesi/iran2010.html,0/3,-
-/tablesi/iran2011.html,0/3,-
-/tablesi/iran2012.html,0/3,-
-/tablesi/iran2013.html,0/3,-
-/tablesi/iran2014.html,0/3,-
-/tablesi/iran2015.html,0/3,-
-/tablesi/iran2016.html,0/3,-
-/tablesi/iran2017.html,0/3,-
-/tablesi/iran2018.html,0/3,-
-/tablesi/iran2019.html,0/3,-
-/tablesi/iran2020.html,0/3,-
-/tablesi/iran2021.html,0/3,-
-/tablesi/iran2022.html,0/3,-
-/tablesi/iran2023.html,0/3,-
-/tablesi/iran2024.html,0/4,-
-/tablesi/iran2025.html,8/4,Iran 2024/25
-/tablesi/iran2026.html,7/5,Iran 2025/26
-/tablesi/iran2champ.html,28/2,Iran - List of Second Level Champions
-/tablesi/iran70.html,0/1,-
-/tablesi/iran72.html,0/1,-
-/tablesi/iran74.html,0/1,-
-/tablesi/iran75.html,0/1,-
-/tablesi/iran76.html,0/2,-
-/tablesi/iran77.html,0/1,-
-/tablesi/iran78.html,0/1,-
-/tablesi/iran79.html,0/1,-
-/tablesi/iran85.html,0/1,-
-/tablesi/iran88.html,0/1,-
-/tablesi/iran89.html,0/2,-
-/tablesi/iran90.html,0/1,-
-/tablesi/iran91.html,0/1,-
-/tablesi/iran92.html,0/1,-
-/tablesi/iran93.html,0/1,-
-/tablesi/iran94.html,0/1,-
-/tablesi/iran96.html,0/1,-
-/tablesi/iran97.html,0/1,-
-/tablesi/iran98.html,0/1,-
-/tablesi/iran99.html,0/2,-
-/tablesi/iranchamp.html,49/2,Iran - List of Champions
-/tablesi/irancuphist.html,32/2,Iran - List of Cup Finals
-/tablesi/iranfound.html,1/2,Iran - List of Foundation Dates
-/tablesi/irantehranchamp.html,0/1,-
-/tablesi/irantehrancuphist.html,0/1,-
-/tablesi/irantops.html,1/2,Iran - List of Topscorers since 1990
-/tablesi/iraq-cism.html,0/2,-
-/tablesi/iraq-intres.html,13/1,Iraq - List of International Matches
-/tablesi/iraq-intres2001.html,0/1,-
-/tablesi/iraq-intres2002.html,0/1,-
-/tablesi/iraq-intres2003.html,0/1,-
-/tablesi/iraq-intres2004.html,0/1,-
-/tablesi/iraq-intres2005.html,0/1,-
-/tablesi/iraq-intres2006.html,0/1,-
-/tablesi/iraq-intres2008f.html,0/1,-
-/tablesi/iraq-intres2008o.html,0/1,-
-/tablesi/iraq-intres59.html,0/1,-
-/tablesi/iraq-intres68.html,0/1,-
-/tablesi/iraq-intres86.html,0/1,-
-/tablesi/iraq-kurd04.html,0/1,-
-/tablesi/iraq-kurd07.html,0/1,-
-/tablesi/iraq-kurd08.html,0/1,-
-/tablesi/iraq-kurd09.html,0/1,-
-/tablesi/iraq-kurd2010.html,0/1,-
-/tablesi/iraq-kurd2011.html,0/1,-
-/tablesi/iraq-kurd2012.html,0/1,-
-/tablesi/iraq-kurd2013.html,0/1,-
-/tablesi/iraq-kurd2014.html,0/1,-
-/tablesi/iraq-kurd2015.html,0/1,-
-/tablesi/iraq-kurd2016.html,0/1,-
-/tablesi/iraq-kurd2017.html,0/1,-
-/tablesi/iraq-kurd2018.html,0/1,-
-/tablesi/iraq-kurd2020.html,0/1,-
-/tablesi/iraq-kurd2021.html,0/1,-
-/tablesi/iraq-kurd2022.html,0/1,-
-/tablesi/iraq-kurd2023.html,0/1,-
-/tablesi/iraq-kurd2024.html,0/2,-
-/tablesi/iraq-kurd2025.html,5/3,Kurdistan 2024/25
-/tablesi/iraq-kurd2026.html,4/4,Kurdistan 2025/26
-/tablesi/iraq-kurdchamp.html,22/2,Kurdistan - List of Champions
-/tablesi/iraq00.html,0/2,-
-/tablesi/iraq01.html,0/2,-
-/tablesi/iraq02.html,0/2,-
-/tablesi/iraq03.html,0/2,-
-/tablesi/iraq04.html,0/2,-
-/tablesi/iraq05.html,0/1,-
-/tablesi/iraq06.html,0/1,-
-/tablesi/iraq07.html,0/1,-
-/tablesi/iraq08.html,0/1,-
-/tablesi/iraq09.html,0/1,-
-/tablesi/iraq2010.html,0/1,-
-/tablesi/iraq2011.html,0/1,-
-/tablesi/iraq2012.html,0/1,-
-/tablesi/iraq2013.html,0/2,-
-/tablesi/iraq2014.html,0/1,-
-/tablesi/iraq2015.html,0/1,-
-/tablesi/iraq2016.html,0/2,-
-/tablesi/iraq2017.html,0/2,-
-/tablesi/iraq2018.html,0/1,-
-/tablesi/iraq2019.html,0/2,-
-/tablesi/iraq2020.html,0/2,-
-/tablesi/iraq2021.html,0/2,-
-/tablesi/iraq2022.html,0/2,-
-/tablesi/iraq2023.html,0/2,-
-/tablesi/iraq2024.html,0/3,-
-/tablesi/iraq2025.html,9/4,Iraq 2024/25
-/tablesi/iraq2026.html,8/4,Iraq 2025/26
-/tablesi/iraq49.html,0/2,-
-/tablesi/iraq50.html,0/1,-
-/tablesi/iraq51.html,0/1,-
-/tablesi/iraq57.html,0/1,-
-/tablesi/iraq58.html,0/1,-
-/tablesi/iraq59.html,0/1,-
-/tablesi/iraq60.html,0/1,-
-/tablesi/iraq61.html,0/1,-
-/tablesi/iraq62.html,0/2,-
-/tablesi/iraq63.html,0/2,-
-/tablesi/iraq64.html,0/2,-
-/tablesi/iraq65.html,0/2,-
-/tablesi/iraq66.html,0/2,-
-/tablesi/iraq67.html,0/1,-
-/tablesi/iraq68.html,0/1,-
-/tablesi/iraq69.html,0/1,-
-/tablesi/iraq70.html,0/1,-
-/tablesi/iraq71.html,0/1,-
-/tablesi/iraq72.html,0/1,-
-/tablesi/iraq73.html,0/1,-
-/tablesi/iraq74.html,0/2,-
-/tablesi/iraq75.html,0/1,-
-/tablesi/iraq76.html,0/2,-
-/tablesi/iraq77.html,0/1,-
-/tablesi/iraq78.html,0/2,-
-/tablesi/iraq79.html,0/2,-
-/tablesi/iraq80.html,0/2,-
-/tablesi/iraq81.html,0/2,-
-/tablesi/iraq82.html,0/2,-
-/tablesi/iraq83.html,0/2,-
-/tablesi/iraq84.html,0/2,-
-/tablesi/iraq85.html,0/2,-
-/tablesi/iraq86.html,0/2,-
-/tablesi/iraq87.html,0/2,-
-/tablesi/iraq88.html,0/2,-
-/tablesi/iraq89.html,0/2,-
-/tablesi/iraq90.html,0/2,-
-/tablesi/iraq91.html,0/2,-
-/tablesi/iraq92.html,0/2,-
-/tablesi/iraq93.html,0/2,-
-/tablesi/iraq94.html,0/2,-
-/tablesi/iraq95.html,0/2,-
-/tablesi/iraq96.html,0/2,-
-/tablesi/iraq97.html,0/2,-
-/tablesi/iraq98.html,0/2,-
-/tablesi/iraq99.html,0/2,-
-/tablesi/iraqcascuphist.html,4/3,Iraq - Casuals Cup History
-/tablesi/iraqchamp.html,76/5,Iraq - List of Champions
-/tablesi/iraqcuphist.html,49/4,Iraq - List of Cup Winners
-/tablesi/iraqfound.html,1/2,Iraq - Foundation Dates
-/tablesi/iraqhist.html,0/1,-
-/tablesi/iraqjordres.html,1/1,Iraq-Jordan matches
-/tablesi/iraqpgcuphist.html,0/2,-
-/tablesi/iraqtops.html,1/2,Iraq - List of Topscorers
-/tablesi/iraqtours.html,0/1,-
-/tablesi/isa01.html,1/1,ISA World Cup Soccer Tournament 2001
+/tablesi/intl-expo10.html,3/4,Tournoi International de l'Exposition de Bruxelles in 1910
+/tablesi/intl-expo35.html,3/5,Tournoi de l'Exposition Universelle de Bruxelles 1935
+/tablesi/intland-wom04.html,0/1,?
+/tablesi/intland-wom05.html,0/1,?
+/tablesi/intsantafe54.html,0/3,?
+/tablesi/intschool-oz01.html,2/2,Inaugural International Schools Tournament (Canberra) 2001
+/tablesi/invierno-arg.html,0/2,?
+/tablesi/ipiranga-u20-2016.html,1/2,Copa Internacional Ipiranga U-20
+/tablesi/ipswich95.html,0/1,?
+/tablesi/iran-ancient01.html,0/1,?
+/tablesi/iran-cp-u20.html,0/3,?
+/tablesi/iran-friendship69.html,1/4,Jaam-e-Doosti (Friendship) Cup (Iran)
+/tablesi/iran-intres.html,0/3,Iran - International Matches
+/tablesi/iran-names.html,1/2,Iran - Name Changes
+/tablesi/iran-wc.html,0/2,?
+/tablesi/iran-wom08.html,0/1,?
+/tablesi/iran-wom2013.html,0/1,?
+/tablesi/iran-wom2014.html,0/1,?
+/tablesi/iran-wom2015.html,0/1,?
+/tablesi/iran-wom2016.html,0/1,?
+/tablesi/iran-wom2017.html,0/1,?
+/tablesi/iran-wom2018.html,0/1,?
+/tablesi/iran-wom2019.html,0/2,?
+/tablesi/iran-wom2020.html,4/2,Iran (Women) 2019/20
+/tablesi/iran-wom2021.html,0/2,?
+/tablesi/iran-wom2022.html,0/1,?
+/tablesi/iran-wom2023.html,0/2,?
+/tablesi/iran-wom2024.html,4/2,Iran (Women) 2023/24
+/tablesi/iran-wom2025.html,0/1,?
+/tablesi/iran-womchamp.html,14/4,Iran - List of Women Champions
+/tablesi/iran-youth75.html,1/2,Iran International Tournament (Tehran)
+/tablesi/iran00.html,6/6,Iran 1999/2000
+/tablesi/iran01.html,6/6,Iran 2000/01
+/tablesi/iran02.html,7/6,Iran 2001/02
+/tablesi/iran03.html,7/6,Iran 2002/03
+/tablesi/iran04.html,7/6,Iran 2003/04
+/tablesi/iran05.html,7/7,Iran 2004/05
+/tablesi/iran06.html,8/6,Iran 2005/06
+/tablesi/iran07.html,8/6,Iran 2006/07
+/tablesi/iran08.html,8/6,Iran 2007/08
+/tablesi/iran09.html,8/6,Iran 2008/09
+/tablesi/iran2010.html,8/6,Iran 2009/10
+/tablesi/iran2011.html,8/6,Iran 2010/11
+/tablesi/iran2012.html,8/6,Iran 2011/12
+/tablesi/iran2013.html,8/6,Iran 2012/13
+/tablesi/iran2014.html,8/6,Iran 2013/14
+/tablesi/iran2015.html,8/6,Iran 2014/15
+/tablesi/iran2016.html,8/6,Iran 2015/16
+/tablesi/iran2017.html,8/6,Iran 2016/17
+/tablesi/iran2018.html,8/6,Iran 2017/18
+/tablesi/iran2019.html,8/6,Iran 2018/19
+/tablesi/iran2020.html,8/6,Iran 2019/20
+/tablesi/iran2021.html,8/6,Iran 2020/21
+/tablesi/iran2022.html,8/6,Iran 2021/22
+/tablesi/iran2023.html,8/6,Iran 2022/23
+/tablesi/iran2024.html,8/6,Iran 2023/24
+/tablesi/iran2025.html,8/6,Iran 2024/25
+/tablesi/iran2026.html,7/7,Iran 2025/26
+/tablesi/iran2champ.html,28/23,Iran - List of Second Level Champions
+/tablesi/iran3champ.html,1/1,Iran - List of Third Level Champions
+/tablesi/iran70.html,5/4,Iran 1970/71
+/tablesi/iran72.html,6/3,Iran 1971/72
+/tablesi/iran74.html,6/5,Iran 1973/74
+/tablesi/iran75.html,6/5,Iran 1974/75
+/tablesi/iran76.html,6/5,Iran 1975/76
+/tablesi/iran77.html,6/3,Iran 1976/77
+/tablesi/iran78.html,6/3,Iran 1977/78
+/tablesi/iran79.html,6/3,Iran 1978/79
+/tablesi/iran85.html,7/4,Iran 1985
+/tablesi/iran88.html,7/6,Iran 1988
+/tablesi/iran89.html,7/4,Iran 1988/89
+/tablesi/iran90.html,6/3,Iran 1989/90
+/tablesi/iran91.html,6/5,Iran 1991/92
+/tablesi/iran92.html,6/3,Iran 1992/93
+/tablesi/iran93.html,6/3,Iran 1993
+/tablesi/iran94.html,6/3,Iran 1994/95
+/tablesi/iran96.html,6/4,Iran 1995/96
+/tablesi/iran97.html,6/4,Iran 1996/97
+/tablesi/iran98.html,6/4,Iran 1997/98
+/tablesi/iran99.html,6/5,Iran 1998/99
+/tablesi/iranchamp.html,49/49,Iran - List of Champions
+/tablesi/irancuphist.html,32/51,Iran - List of Cup Finals
+/tablesi/iranfa03.html,1/1,Iran FA Tournament 2003
+/tablesi/iranfound.html,1/27,Iran - List of Foundation Dates
+/tablesi/irantehranchamp.html,4/3,Iran - List of Tehran Province League Champions
+/tablesi/irantehrancuphist.html,2/3,Iran - List of Tehran Hazfi Cup Winners
+/tablesi/irantops.html,1/49,Iran - List of Topscorers since 1990
+/tablesi/irantops-allt.html,1/3,Iran - List of All-Time Topscorers
+/tablesi/irapuato-asia60.html,1/3,Irapuato (Mexico) tour of Asia and Egypt 1960
+/tablesi/irapuato-cam68.html,1/2,Central American Trip of Irapuato 1968
+/tablesi/irapuato74.html,0/2,?
+/tablesi/irapuato95.html,0/2,?
+/tablesi/irapuatoleon.html,1/2,Irapuato v León - Clásico del Bajío
+/tablesi/iraq-cism.html,2/3,Iraq in the CISM World Military Championship
+/tablesi/iraq-intres.html,13/14,Iraq - List of International Matches
+/tablesi/iraq-intres2001.html,3/3,Iraq - International Matches 2001 - Details
+/tablesi/iraq-intres2002.html,4/4,Iraq - International Matches 2002 - Details
+/tablesi/iraq-intres2003.html,4/4,Iraq - International Matches 2003 - Details
+/tablesi/iraq-intres2004.html,4/4,Iraq - International Matches 2004 - Details
+/tablesi/iraq-intres2005.html,4/4,Iraq - International Matches 2005 - Details
+/tablesi/iraq-intres2006.html,3/2,Iraq - International Matches 2006 - Details
+/tablesi/iraq-intres2008f.html,2/1,Un goal per la pace 2008
+/tablesi/iraq-intres2008o.html,2/1,Iraq - Olympic Qualifiers 2008
+/tablesi/iraq-intres59.html,2/2,Iraq - International Matches 1951-1959
+/tablesi/iraq-intres68.html,3/3,Iraq - Olympic Qualifiers 1968
+/tablesi/iraq-intres86.html,2/2,Iraq - Denmark League XI 1986
+/tablesi/iraq-kurd04.html,6/2,Iraq - Regional Competition Kurdistan 2003/04
+/tablesi/iraq-kurd05.html,7/2,Iraq - Regional Competitions Kurdistan 2004/05
+/tablesi/iraq-kurd06.html,4/2,Iraq - Regional Competitions Kurdistan 2005/06
+/tablesi/iraq-kurd07.html,4/3,Kurdistan 2006/07
+/tablesi/iraq-kurd08.html,4/3,Kurdistan 2007/08
+/tablesi/iraq-kurd09.html,4/4,Kurdistan 2008/09
+/tablesi/iraq-kurd2010.html,4/4,Kurdistan 2009/10
+/tablesi/iraq-kurd2011.html,4/3,Kurdistan 2010/11
+/tablesi/iraq-kurd2012.html,4/3,Kurdistan 2011/12
+/tablesi/iraq-kurd2013.html,4/4,Kurdistan 2012/13
+/tablesi/iraq-kurd2014.html,4/4,Kurdistan 2013/14
+/tablesi/iraq-kurd2015.html,4/4,Kurdistan 2014/15
+/tablesi/iraq-kurd2016.html,4/4,Kurdistan 2015/16
+/tablesi/iraq-kurd2017.html,4/3,Kurdistan 2016/17
+/tablesi/iraq-kurd2018.html,4/3,Kurdistan 2017/18
+/tablesi/iraq-kurd2020.html,4/4,Kurdistan 2019/20
+/tablesi/iraq-kurd2021.html,4/4,Kurdistan 2020/21
+/tablesi/iraq-kurd2022.html,4/4,Kurdistan 2021/22
+/tablesi/iraq-kurd2023.html,5/5,Kurdistan 2022/23
+/tablesi/iraq-kurd2024.html,5/5,Kurdistan 2023/24
+/tablesi/iraq-kurd2025.html,5/6,Kurdistan 2024/25
+/tablesi/iraq-kurd2026.html,4/5,Kurdistan 2025/26
+/tablesi/iraq-kurdchamp.html,22/22,Kurdistan - List of Champions
+/tablesi/iraq-tour-europe59.html,1/2,Iraq National XI tour of Europe 1959
+/tablesi/iraq-wom2016.html,0/1,?
+/tablesi/iraq-wom2021.html,3/2,Iraq (Women) 2020/21
+/tablesi/iraq-wom2024.html,2/2,Iraq (Women) 2023/24
+/tablesi/iraq00.html,5/6,Iraq 1999/00
+/tablesi/iraq01.html,6/7,Iraq 2000/01
+/tablesi/iraq02.html,8/5,Iraq 2001/02
+/tablesi/iraq03.html,7/5,Iraq 2002/03
+/tablesi/iraq04.html,7/4,Iraq 2003/04
+/tablesi/iraq05.html,8/4,Iraq 2004/05
+/tablesi/iraq06.html,8/4,Iraq 2005/06
+/tablesi/iraq07.html,8/4,Iraq 2006/07
+/tablesi/iraq08.html,8/4,Iraq 2007/08
+/tablesi/iraq09.html,8/4,Iraq 2008/09
+/tablesi/iraq2010.html,8/4,Iraq 2009/10
+/tablesi/iraq2011.html,8/3,Iraq 2010/11
+/tablesi/iraq2012.html,8/4,Iraq 2011/12
+/tablesi/iraq2013.html,8/5,Iraq 2012/13
+/tablesi/iraq2014.html,8/4,Iraq 2013/14
+/tablesi/iraq2015.html,8/4,Iraq 2014/15
+/tablesi/iraq2016.html,9/6,Iraq 2015/16
+/tablesi/iraq2016nokhba.html,2/1,Iraq 2015/16 - Elite League (Dawr Al-Nokhba) - Match Details
+/tablesi/iraq2017.html,8/5,Iraq 2016/17
+/tablesi/iraq2018.html,8/4,Iraq 2017/18
+/tablesi/iraq2019.html,8/5,Iraq 2018/19
+/tablesi/iraq2020.html,8/5,Iraq 2019/20
+/tablesi/iraq2021.html,8/5,Iraq 2020/21
+/tablesi/iraq2022.html,8/5,Iraq 2021/22
+/tablesi/iraq2023.html,9/6,Iraq 2022/23
+/tablesi/iraq2024.html,9/6,Iraq 2023/24
+/tablesi/iraq2025.html,9/7,Iraq 2024/25
+/tablesi/iraq2026.html,8/5,Iraq 2025/26
+/tablesi/iraq49.html,7/6,Iraq 1948/49
+/tablesi/iraq50.html,7/3,Iraq 1949/50
+/tablesi/iraq51.html,7/3,Iraq 1950/51
+/tablesi/iraq57.html,7/3,Iraq 1956/57
+/tablesi/iraq58.html,7/4,Iraq 1957/58
+/tablesi/iraq59.html,7/3,Iraq 1958/59
+/tablesi/iraq60.html,7/3,Iraq 1959/60
+/tablesi/iraq61.html,7/4,Iraq 1960/61
+/tablesi/iraq62.html,7/7,Iraq 1961/62
+/tablesi/iraq63.html,7/5,Iraq 1962/63
+/tablesi/iraq64.html,8/7,Iraq 1963/64
+/tablesi/iraq65.html,7/7,Iraq 1964/65
+/tablesi/iraq66.html,7/7,Iraq 1965/66
+/tablesi/iraq67.html,7/6,Iraq 1966/67
+/tablesi/iraq68.html,7/6,Iraq 1967/68
+/tablesi/iraq69.html,7/4,Iraq 1968/69
+/tablesi/iraq70.html,7/4,Iraq 1969/70
+/tablesi/iraq71.html,7/4,Iraq 1970/71
+/tablesi/iraq72.html,7/7,Iraq 1971/72
+/tablesi/iraq73.html,7/7,Iraq 1972/73
+/tablesi/iraq74.html,7/8,Iraq 1973/74
+/tablesi/iraq75.html,6/5,Iraq 1974/75
+/tablesi/iraq76.html,5/6,Iraq 1975/76
+/tablesi/iraq77.html,5/5,Iraq 1976/77
+/tablesi/iraq78.html,5/6,Iraq 1977/78
+/tablesi/iraq79.html,5/6,Iraq 1978/79
+/tablesi/iraq80.html,6/6,Iraq 1979/80
+/tablesi/iraq81.html,5/6,Iraq 1980/81
+/tablesi/iraq82.html,5/6,Iraq 1981/82
+/tablesi/iraq83.html,5/6,Iraq 1982/83
+/tablesi/iraq84.html,5/6,Iraq 1983/84
+/tablesi/iraq85.html,5/7,Iraq 1984/85
+/tablesi/iraq86.html,6/6,Iraq 1985/86
+/tablesi/iraq87.html,5/6,Iraq 1986/87
+/tablesi/iraq88.html,5/6,Iraq 1987/88
+/tablesi/iraq89.html,5/7,Iraq 1988/89
+/tablesi/iraq90.html,6/6,Iraq 1989/90
+/tablesi/iraq91.html,5/6,Iraq 1990/91
+/tablesi/iraq92.html,6/6,Iraq 1991/92
+/tablesi/iraq93.html,6/6,Iraq 1992/93
+/tablesi/iraq94.html,6/6,Iraq 1993/94
+/tablesi/iraq95.html,5/6,Iraq 1994/95
+/tablesi/iraq96.html,5/6,Iraq 1995/96
+/tablesi/iraq97.html,5/7,Iraq 1996/97
+/tablesi/iraq98.html,5/7,Iraq 1997/98
+/tablesi/iraq99.html,6/7,Iraq 1998/99
+/tablesi/iraqcascuphist.html,4/32,Iraq - Casuals Cup History
+/tablesi/iraqchamp.html,76/84,Iraq - List of Champions
+/tablesi/iraqclubsnatteams.html,1/2,Iraqi Clubs vs National Teams
+/tablesi/iraqcuphist.html,49/83,Iraq - List of Cup Winners
+/tablesi/iraqfound.html,1/25,Iraq - Foundation Dates
+/tablesi/iraqhist.html,21/23,Iraq 1961/62-1972/73
+/tablesi/iraqjordres.html,1/2,Iraq-Jordan matches
+/tablesi/iraqpgcuphist.html,4/5,Iraq - Prince Ghazi Cup History
+/tablesi/iraqtops.html,1/59,Iraq - List of Topscorers
+/tablesi/iraqtours.html,2/3,Foreign Teams Touring Iraq
+/tablesi/irgiz-argtrip94.html,1/3,Irgiz Balakovo (Russia) Trip to Argentina 1994
+/tablesi/isa01.html,1/2,ISA World Cup Soccer Tournament 2001
+/tablesi/isf.html,0/4,?
+/tablesi/isf-euro2016.html,0/1,?
+/tablesi/isf99.html,0/1,?
+/tablesi/islablancaibiza.html,1/2,"Trofeo Isla Blanca (Hospitalet, Ibiza)"
+/tablesi/islacristina.html,1/2,Trofeo Ciudad de Isla Cristina (Huelva)
 /tablesi/islamicgames05.html,1/1,Islamic Games 2005 (Saudi Arabia)
-/tablesi/islandgames.html,32/6,Island Games
-/tablesi/islandgames01.html,0/1,-
-/tablesi/islandgames03.html,0/2,-
-/tablesi/islandgames05.html,0/1,-
-/tablesi/islandgames07.html,0/1,-
-/tablesi/islandgames09.html,0/1,-
-/tablesi/islandgames2011.html,0/1,-
-/tablesi/islandgames2013.html,0/1,-
-/tablesi/islandgames2015.html,0/1,-
-/tablesi/islandgames2017.html,0/1,-
-/tablesi/islandgames2023.html,5/3,Island Games Tournament 2023 (Guernsey)
+/tablesi/islandgames.html,32/36,Island Games
+/tablesi/islandgames01.html,5/4,Island Games Tournament 2001 (Isle of Man)
+/tablesi/islandgames03.html,5/5,Island Games Tournament 2003 (Guernsey)
+/tablesi/islandgames05.html,5/4,Island Games Tournament 2005 (Shetland)
+/tablesi/islandgames07.html,5/4,Island Games Tournament 2007 (Rhodos)
+/tablesi/islandgames09.html,5/4,Island Games Tournament 2009 (Åland)
+/tablesi/islandgames2011.html,5/5,Island Games Tournament 2011 (Isle of Wight)
+/tablesi/islandgames2013.html,5/4,Island Games Tournament 2013 (Bermuda)
+/tablesi/islandgames2015.html,5/4,Island Games Tournament 2015 (Jersey)
+/tablesi/islandgames2017.html,5/4,Island Games Tournament 2017 (Gotland)
+/tablesi/islandgames2023.html,5/4,Island Games Tournament 2023 (Guernsey)
 /tablesi/islandgames2025.html,4/5,Island Games Tournament 2025 (Orkney)
-/tablesi/islandgames85-5.html,0/1,-
-/tablesi/islandgames89.html,0/1,-
-/tablesi/islandgames91.html,0/1,-
-/tablesi/islandgames93.html,0/1,-
-/tablesi/islandgames95.html,0/1,-
-/tablesi/islandgames97.html,0/1,-
-/tablesi/islandgames99.html,0/1,-
-/tablesi/islandinter2019.html,0/2,-
-/tablesi/ispahist.html,0/2,-
-/tablesi/isra-intres.html,0/2,-
-/tablesi/isra-intres-all.html,0/1,-
-/tablesi/isra-intres-class.html,0/1,-
-/tablesi/isra-intres-heads.html,0/1,-
+/tablesi/islandgames85-5.html,3/2,Island Games Tournament 1985 (Isle of Man)
+/tablesi/islandgames89.html,4/3,Island Games Tournament 1989 (Faroe Islands)
+/tablesi/islandgames91.html,4/3,Island Games Tournament 1991 (Åland)
+/tablesi/islandgames93.html,4/4,Island Games Tournament 1993 (Isle of Wight)
+/tablesi/islandgames95.html,4/4,Island Games Tournament 1995 (Gibraltar)
+/tablesi/islandgames97.html,4/4,Island Games Tournament 1997 (Jersey)
+/tablesi/islandgames99.html,4/3,Island Games Tournament 1999 (Gotland)
+/tablesi/islandinter2019.html,5/4,Island Inter-Games Tournament 2019 (Ynys Môn)
+/tablesi/ispahist.html,2/4,Israel (Palestine) - 1923-1949
+/tablesi/isr-tritourn99.html,0/2,?
+/tablesi/isra-ec.html,0/1,?
+/tablesi/isra-intres.html,10/5,Israel National Team - List of Official Games
+/tablesi/isra-intres-all.html,2/1,Israel National Team - All-Time Balances
+/tablesi/isra-intres-class.html,12/3,Israel National Team - Classification of International Games
+/tablesi/isra-intres-heads.html,9/2,Israel National Team - Head to Head Records
 /tablesi/isra-intres-intro.html,21/1,Israel National Team Archive - Introduction Page
-/tablesi/isra-intres-stats.html,0/1,-
-/tablesi/isra-intres-trivia.html,0/1,-
-/tablesi/isra-intres00.html,0/1,-
-/tablesi/isra-intres10.html,0/1,-
-/tablesi/isra-intres30.html,0/1,-
-/tablesi/isra-intres50.html,0/1,-
-/tablesi/isra-intres60.html,0/1,-
-/tablesi/isra-intres70.html,0/1,-
-/tablesi/isra-intres80.html,0/1,-
-/tablesi/isra-intres90.html,0/1,-
-/tablesi/isra-others-intres.html,0/1,-
-/tablesi/isra-others-intres-details.html,0/1,-
-/tablesi/isra00.html,0/2,-
-/tablesi/isra01.html,0/2,-
-/tablesi/isra02.html,0/2,-
-/tablesi/isra03.html,0/2,-
-/tablesi/isra04.html,0/2,-
-/tablesi/isra05.html,0/2,-
-/tablesi/isra06.html,0/2,-
-/tablesi/isra07.html,0/2,-
-/tablesi/isra08.html,0/2,-
-/tablesi/isra09.html,0/1,-
-/tablesi/isra2010.html,0/2,-
-/tablesi/isra2011.html,0/2,-
-/tablesi/isra2012.html,0/2,-
-/tablesi/isra2013.html,0/2,-
-/tablesi/isra2014.html,0/2,-
-/tablesi/isra2015.html,0/2,-
-/tablesi/isra2016.html,0/2,-
-/tablesi/isra2017.html,0/2,-
-/tablesi/isra2018.html,0/2,-
-/tablesi/isra2019.html,0/2,-
-/tablesi/isra2020.html,0/2,-
-/tablesi/isra2021.html,0/2,-
-/tablesi/isra2022.html,0/2,-
-/tablesi/isra2023.html,0/2,-
-/tablesi/isra2024.html,0/3,-
-/tablesi/isra2025.html,8/3,Israel 2024/25
-/tablesi/isra2026.html,7/4,Israel 2025/26
-/tablesi/isra51.html,0/1,-
-/tablesi/isra52.html,0/1,-
-/tablesi/isra54.html,0/1,-
-/tablesi/isra55.html,0/1,-
-/tablesi/isra57.html,0/1,-
-/tablesi/isra58.html,0/1,-
-/tablesi/isra59.html,0/1,-
-/tablesi/isra61.html,0/1,-
-/tablesi/isra62.html,0/1,-
-/tablesi/isra63.html,0/1,-
-/tablesi/isra64.html,0/1,-
-/tablesi/isra65.html,0/1,-
-/tablesi/isra66.html,0/1,-
-/tablesi/isra67.html,0/1,-
-/tablesi/isra68.html,0/1,-
-/tablesi/isra69.html,0/1,-
-/tablesi/isra70.html,0/1,-
-/tablesi/isra71.html,0/1,-
-/tablesi/isra72.html,0/1,-
-/tablesi/isra73.html,0/1,-
-/tablesi/isra74.html,0/1,-
-/tablesi/isra75.html,0/1,-
-/tablesi/isra76.html,0/1,-
-/tablesi/isra77.html,0/1,-
-/tablesi/isra78.html,0/1,-
-/tablesi/isra79.html,0/1,-
-/tablesi/isra80.html,0/1,-
-/tablesi/isra81.html,0/1,-
-/tablesi/isra82.html,0/1,-
-/tablesi/isra83.html,0/1,-
-/tablesi/isra84.html,0/1,-
-/tablesi/isra85.html,0/1,-
-/tablesi/isra86.html,0/3,-
-/tablesi/isra87.html,0/1,-
-/tablesi/isra88.html,0/1,-
-/tablesi/isra89.html,0/3,-
-/tablesi/isra90.html,0/3,-
-/tablesi/isra91.html,0/3,-
-/tablesi/isra92.html,0/3,-
-/tablesi/isra93.html,0/3,-
-/tablesi/isra94.html,0/3,-
-/tablesi/isra95.html,0/3,-
-/tablesi/isra96.html,0/3,-
-/tablesi/isra97.html,0/2,-
-/tablesi/isra98.html,0/2,-
-/tablesi/isra99.html,0/2,-
-/tablesi/israalltime.html,1/2,Israel - All-Time Table
-/tablesi/israchamp.html,45/3,Israel - List of Champions
-/tablesi/isracup00.html,0/1,-
-/tablesi/isracup01.html,0/1,-
-/tablesi/isracup02.html,0/1,-
-/tablesi/isracup03.html,0/1,-
-/tablesi/isracup04.html,0/1,-
-/tablesi/isracup05.html,0/1,-
-/tablesi/isracup06.html,0/1,-
-/tablesi/isracup07.html,0/1,-
-/tablesi/isracup08.html,0/1,-
-/tablesi/isracup09.html,0/1,-
-/tablesi/isracup97.html,0/1,-
-/tablesi/isracup98.html,0/1,-
-/tablesi/isracup99.html,0/1,-
-/tablesi/isracuphist.html,76/2,Israel - List of Cup Finals
-/tablesi/israhist.html,23/3,Israel - List of Final Tables
-/tablesi/isratops.html,1/2,Israel - List of Topscorers
-/tablesi/ital-b-intres.html,1/1,Italy B - International Results
-/tablesi/ital-ec.html,3/2,Italian Clubs in European Cups
-/tablesi/ital-ec-h2h.html,3/2,Italian Clubs head to head countrywise in European Cups
-/tablesi/ital-fngichamp.html,0/1,-
-/tablesi/ital-intres.html,25/14,Italy - List of International Matches
-/tablesi/ital-intres1910.html,0/1,-
-/tablesi/ital-intres1920.html,0/1,-
-/tablesi/ital-intres1930.html,0/1,-
-/tablesi/ital-intres1940.html,0/1,-
-/tablesi/ital-intres1950.html,0/1,-
-/tablesi/ital-intres1960.html,0/1,-
-/tablesi/ital-intres1970.html,0/1,-
-/tablesi/ital-intres1980.html,0/1,-
-/tablesi/ital-intres1990.html,0/1,-
-/tablesi/ital-intres2000.html,0/1,-
-/tablesi/ital-intres2010.html,0/1,-
-/tablesi/ital-intres2020.html,0/1,-
-/tablesi/ital-lega-intres.html,3/3,Italy - Lega Nazionale (National League) - International Results
-/tablesi/ital-lega2-intres.html,3/3,Italy - Lega Nazionale Serie B (National League Second Division) - Results
+/tablesi/isra-intres-stats.html,9/2,Israel National Team - Series Records
+/tablesi/isra-intres-trivia.html,47/1,Trivia on Israel National Team
+/tablesi/isra-intres00.html,1/6,Israel Official Games 2000-2009
+/tablesi/isra-intres10.html,1/6,Israel Official Games 2010-2019
+/tablesi/isra-intres30.html,1/6,British Mandate of Palestine Official Games 1934-1948
+/tablesi/isra-intres50.html,1/7,Israel Official Games 1948-1959
+/tablesi/isra-intres60.html,1/6,Israel Official Games 1960-1969
+/tablesi/isra-intres70.html,1/6,Israel Official Games 1970-1979
+/tablesi/isra-intres80.html,1/7,Israel Official Games 1980-1989
+/tablesi/isra-intres90.html,2/6,Israel Official Games 1990-1999
+/tablesi/isra-others-intres.html,2/2,Israel National Team - List of Unofficial International Games
+/tablesi/isra-others-intres-details.html,1/5,Israel National Team - Unofficial International Games Against Representativs Teams
+/tablesi/isra-wom00.html,0/2,?
+/tablesi/isra-wom01.html,0/2,?
+/tablesi/isra-wom02.html,0/2,?
+/tablesi/isra-wom03.html,0/2,?
+/tablesi/isra-wom04.html,0/2,?
+/tablesi/isra-wom05.html,0/2,?
+/tablesi/isra-wom06.html,0/2,?
+/tablesi/isra-wom07.html,0/2,?
+/tablesi/isra-wom08.html,0/2,?
+/tablesi/isra-wom09.html,0/3,?
+/tablesi/isra-wom2010.html,5/4,Israel (Women) 2009/10
+/tablesi/isra-wom2011.html,5/5,Israel (Women) 2010/11
+/tablesi/isra-wom2012.html,5/5,Israel (Women) 2011/12
+/tablesi/isra-wom2013.html,5/5,Israel (Women) 2012/13
+/tablesi/isra-wom2014.html,5/5,Israel (Women) 2013/14
+/tablesi/isra-wom2015.html,5/5,Israel (Women) 2014/15
+/tablesi/isra-wom2016.html,5/5,Israel (Women) 2015/16
+/tablesi/isra-wom2017.html,5/5,Israel (Women) 2016/17
+/tablesi/isra-wom2018.html,5/5,Israel (Women) 2017/18
+/tablesi/isra-wom2019.html,5/5,Israel (Women) 2018/19
+/tablesi/isra-wom2020.html,5/4,Israel (Women) 2019/20
+/tablesi/isra-wom2021.html,5/5,Israel (Women) 2020/21
+/tablesi/isra-wom2022.html,5/5,Israel (Women) 2021/22
+/tablesi/isra-wom2023.html,5/6,Israel (Women) 2022/23
+/tablesi/isra-wom2024.html,5/4,Israel (Women) 2023/24
+/tablesi/isra-wom2025.html,4/3,Israel (Women) 2024/25
+/tablesi/isra-wom99.html,0/1,?
+/tablesi/isra-womchamp.html,28/18,Israel - List of Women Champions
+/tablesi/isra-womcuphist.html,24/19,Israel - List of Women Cup Winners
+/tablesi/isra-zaftour54.html,0/2,?
+/tablesi/isra00.html,15/19,Israel 1999/2000
+/tablesi/isra00squads.html,3/2,Israel Squads Premier League 1999/00
+/tablesi/isra01.html,12/18,Israel 2000/01
+/tablesi/isra01squads.html,3/1,Israel Squads Premier League 2000/01
+/tablesi/isra02.html,12/15,Israel 2001/02
+/tablesi/isra02squads.html,3/1,Israel Squads Premier League 2001/02
+/tablesi/isra03.html,12/13,Israel 2002/03
+/tablesi/isra03squads.html,3/1,Israel Squads Premier League 2002/03
+/tablesi/isra04.html,11/9,Premier League 2003/04
+/tablesi/isra05.html,8/9,Israel 2004/05
+/tablesi/isra06.html,9/6,Israel 2005/06
+/tablesi/isra07.html,8/6,Israel 2006/07
+/tablesi/isra08.html,8/6,Israel 2007/08
+/tablesi/isra09.html,8/4,Israel 2008/09
+/tablesi/isra2-00.html,14/6,Israel Second Level 1999/2000
+/tablesi/isra2-01.html,11/3,Israel Second Level 2000/01
+/tablesi/isra2-02.html,11/4,Israel Second Level 2001/02
+/tablesi/isra2-03.html,12/4,Israel Second Level 2002/03
+/tablesi/isra2-04.html,11/3,Liga Leumit 2003/04
+/tablesi/isra2-99.html,15/4,Israel Second Level 1998/99
+/tablesi/isra2010.html,8/6,Israel 2009/10
+/tablesi/isra2011.html,8/6,Israel 2010/11
+/tablesi/isra2012.html,8/6,Israel 2011/12
+/tablesi/isra2013.html,8/6,Israel 2012/13
+/tablesi/isra2014.html,8/5,Israel 2013/14
+/tablesi/isra2015.html,8/6,Israel 2014/15
+/tablesi/isra2016.html,8/6,Israel 2015/16
+/tablesi/isra2017.html,8/6,Israel 2016/17
+/tablesi/isra2018.html,8/6,Israel 2017/18
+/tablesi/isra2019.html,8/7,Israel 2018/19
+/tablesi/isra2020.html,8/7,Israel 2019/20
+/tablesi/isra2021.html,8/6,Israel 2020/21
+/tablesi/isra2022.html,8/6,Israel 2021/22
+/tablesi/isra2023.html,8/6,Israel 2022/23
+/tablesi/isra2024.html,8/6,Israel 2023/24
+/tablesi/isra2025.html,8/7,Israel 2024/25
+/tablesi/isra2026.html,7/6,Israel 2025/26
+/tablesi/isra2champ.html,1/2,Israel - List of Second Level Champions
+/tablesi/isra3-00.html,14/6,Israel Third Level 1999/2000
+/tablesi/isra3-01.html,11/3,Israel Third Level 2000/01
+/tablesi/isra3-02.html,11/3,Israel Third Level 2001/02
+/tablesi/isra3-03.html,11/4,Israel Third Level 2002/03
+/tablesi/isra3-04.html,11/3,Liga Artzit 2003/04
+/tablesi/isra3-99.html,15/4,Israel Third Level 1998/99
+/tablesi/isra4-00.html,14/6,Israel Fourth Level 1999/2000
+/tablesi/isra4-99.html,15/4,Israel Fourth Level 1998/99
+/tablesi/isra5-00.html,14/6,Israel Fifth Level 1999/2000
+/tablesi/isra51.html,11/2,Israel 1949-51
+/tablesi/isra52.html,12/3,Israel 1951/52
+/tablesi/isra54.html,12/3,Israel 1953/54
+/tablesi/isra55.html,12/3,Israel 1954/55
+/tablesi/isra57.html,12/3,Israel 1956/57
+/tablesi/isra58.html,12/3,Israel 1957/58
+/tablesi/isra59.html,12/3,Israel 1958/59
+/tablesi/isra6-00.html,14/6,Israel Sixth Level 1999/2000
+/tablesi/isra61.html,12/3,Israel 1960/61
+/tablesi/isra62.html,12/3,Israel 1961/62
+/tablesi/isra63.html,12/3,Israel 1962/63
+/tablesi/isra64.html,12/3,Israel 1963/64
+/tablesi/isra65.html,12/3,Israel 1964/65
+/tablesi/isra66.html,12/3,Israel 1965/66
+/tablesi/isra67.html,12/3,Israel 1966/67
+/tablesi/isra68.html,12/3,Israel 1967/68
+/tablesi/isra69.html,12/3,Israel 1968/69
+/tablesi/isra70.html,12/3,Israel 1969/70
+/tablesi/isra71.html,12/3,Israel 1970/71
+/tablesi/isra72.html,12/3,Israel 1971/72
+/tablesi/isra73.html,12/3,Israel 1972/73
+/tablesi/isra74.html,12/3,Israel 1973/74
+/tablesi/isra75.html,12/3,Israel 1974/75
+/tablesi/isra76.html,12/4,Israel 1975/76
+/tablesi/isra77.html,12/3,Israel 1976/77
+/tablesi/isra78.html,12/3,Israel 1977/78
+/tablesi/isra79.html,12/3,Israel 1978/79
+/tablesi/isra80.html,12/3,Israel 1979/80
+/tablesi/isra81.html,12/3,Israel 1980/81
+/tablesi/isra82.html,12/3,Israel 1981/82
+/tablesi/isra83.html,12/4,Israel 1982/83
+/tablesi/isra84.html,12/4,Israel 1983/84
+/tablesi/isra85.html,11/4,Israel 1984/85
+/tablesi/isra86.html,11/8,Israel 1985/86
+/tablesi/isra87.html,11/4,Israel 1986/87
+/tablesi/isra88.html,11/5,Israel 1987/88
+/tablesi/isra89.html,12/6,Israel 1988/89
+/tablesi/isra90.html,11/6,Israel 1989/90
+/tablesi/isra91.html,11/6,Israel 1990/91
+/tablesi/isra92.html,11/7,Israel 1991/92
+/tablesi/isra93.html,11/6,Israel 1992/93
+/tablesi/isra94.html,11/6,Israel 1993/94
+/tablesi/isra95.html,11/6,Israel 1994/95
+/tablesi/isra96.html,11/7,Israel 1995/96
+/tablesi/isra97.html,11/8,Israel 1996/97
+/tablesi/isra98.html,11/11,Israel 1997/98
+/tablesi/isra99.html,16/17,Israel 1998/99
+/tablesi/isra99squads.html,3/1,Israel Squads Liga Leumit 1998/99
+/tablesi/israalltime.html,1/106,Israel - All-Time Table
+/tablesi/israchamp.html,45/107,Israel - List of Champions
+/tablesi/isracup00.html,15/9,Israel Cups 1999/2000
+/tablesi/isracup01.html,11/6,Israel Cups 2000/01
+/tablesi/isracup02.html,11/6,Israel Cups 2001/02
+/tablesi/isracup03.html,10/6,Israel Cups 2002/03
+/tablesi/isracup04.html,7/5,Israel Cups 2003/04
+/tablesi/isracup05.html,7/1,Israel Cup 2004/05
+/tablesi/isracup06.html,8/2,Israel Cup 2005/06
+/tablesi/isracup07.html,7/2,Israel Cup 2006/07
+/tablesi/isracup08.html,7/2,Israel Cup 2007/08
+/tablesi/isracup09.html,7/2,Israel Cup 2008/09
+/tablesi/isracup97.html,11/1,Israel Cup 1996/97
+/tablesi/isracup98.html,11/1,Israel Cup 1997/98
+/tablesi/isracup99.html,15/7,Israel Cups 1998/99
+/tablesi/isracuphist.html,76/109,Israel - List of Cup Finals
+/tablesi/israel-tri88.html,0/2,?
+/tablesi/israel-u16.html,0/3,?
+/tablesi/israel-winter-u18.html,0/3,?
+/tablesi/israfound.html,1/2,Israel - List of Foundation Dates
+/tablesi/israhist.html,23/108,Israel - List of Final Tables
+/tablesi/israleaguecuphist.html,9/2,Israel - List of League Cup Finals
+/tablesi/israsupcuphist.html,6/55,Israel - List of 'Champions of Champions' (Super Cup)  Finals
+/tablesi/isratops.html,1/107,Israel - List of Topscorers
+/tablesi/isratops-allt.html,1/55,Israel - All-Time Topscorers
+/tablesi/isratotocup05.html,7/1,Israel Toto Cup 2004/05
+/tablesi/isratotocup06.html,7/1,Israel Toto Cup 2005/06
+/tablesi/isratotocuphist.html,34/56,Israel - List of Toto Cup Finals
+/tablesi/ist-4clubs-72.html,1/2,Quadrangular Tournament (Istanbul) 1972
+/tablesi/ital-b-intres.html,1/2,Italy B - International Results
+/tablesi/ital-ec.html,3/3,Italian Clubs in European Cups
+/tablesi/ital-ec-h2h.html,3/3,Italian Clubs head to head countrywise in European Cups
+/tablesi/ital-fngichamp.html,2/4,Italy - List of FGNI Champions
+/tablesi/ital-intres.html,25/27,Italy - List of International Matches
+/tablesi/ital-intres1910.html,3/3,Italy - International Matches 1910-1915
+/tablesi/ital-intres1920.html,4/4,Italy - International Matches 1920-1929
+/tablesi/ital-intres1930.html,4/4,Italy - International Matches 1930-1939
+/tablesi/ital-intres1940.html,4/4,Italy - International Matches 1940-1949
+/tablesi/ital-intres1950.html,4/4,Italy - International Matches 1950-1959
+/tablesi/ital-intres1960.html,4/4,Italy - International Matches 1960-1969
+/tablesi/ital-intres1970.html,4/4,Italy - International Matches 1970-1979
+/tablesi/ital-intres1980.html,4/4,Italy - International Matches 1980-1989
+/tablesi/ital-intres1990.html,4/4,Italy - International Matches 1990-1999
+/tablesi/ital-intres2000.html,4/4,Italy - International Matches 2000-2009
+/tablesi/ital-intres2010.html,4/3,Italy - International Matches 2010-2019
+/tablesi/ital-intres2020.html,3/2,Italy - International Matches 2020-2029
+/tablesi/ital-lega-intres.html,3/4,Italy - Lega Nazionale (National League) - International Results
+/tablesi/ital-lega2-intres.html,3/4,Italy - Lega Nazionale Serie B (National League Second Division) - Results
 /tablesi/ital-legau19-intres.html,1/2,Italy - Lega Nazionale Serie A and B (First and Second Division) U.19 - Results
-/tablesi/ital-medagliadire.html,0/2,-
-/tablesi/ital-oly-intres.html,3/1,Italy - Olympic Team - International Results
-/tablesi/ital-sic45.html,0/1,-
-/tablesi/ital-sicily20.html,0/1,-
-/tablesi/ital-u21-intres.html,3/3,Italy - U-21 - International Results
-/tablesi/ital-u21-intres-det.html,0/1,-
-/tablesi/ital-u23-intres.html,1/2,Italy - U-23 - International Results
-/tablesi/ital-unoff-intres.html,1/1,Italy - Unofficial Matches
-/tablesi/ital00.html,0/2,-
-/tablesi/ital01.html,0/2,-
-/tablesi/ital02.html,0/2,-
-/tablesi/ital03.html,0/2,-
-/tablesi/ital04.html,0/2,-
-/tablesi/ital05.html,0/1,-
-/tablesi/ital06.html,0/1,-
-/tablesi/ital07.html,0/1,-
-/tablesi/ital08.html,0/1,-
-/tablesi/ital09.html,0/1,-
-/tablesi/ital2010.html,0/2,-
-/tablesi/ital2011.html,0/2,-
-/tablesi/ital2012.html,0/2,-
-/tablesi/ital2013.html,0/2,-
-/tablesi/ital2014.html,0/2,-
-/tablesi/ital2015.html,0/2,-
-/tablesi/ital2016.html,0/2,-
-/tablesi/ital2017.html,0/2,-
-/tablesi/ital2018.html,0/2,-
-/tablesi/ital2019.html,0/2,-
-/tablesi/ital2020.html,0/2,-
-/tablesi/ital2021.html,0/2,-
-/tablesi/ital2022.html,0/2,-
-/tablesi/ital2023.html,0/2,-
-/tablesi/ital2024.html,0/3,-
-/tablesi/ital2025.html,12/3,Italy 2024/25
-/tablesi/ital2026.html,11/4,Italy 2025/26
-/tablesi/ital24.html,0/1,-
-/tablesi/ital25.html,0/1,-
-/tablesi/ital26.html,0/2,-
-/tablesi/ital27.html,0/2,-
-/tablesi/ital28.html,0/2,-
-/tablesi/ital29.html,0/2,-
-/tablesi/ital2champ.html,1/2,Italy - List of Second Division (Serie B) Champions
-/tablesi/ital2tops.html,1/2,Italy - Serie B Top Scorers
-/tablesi/ital30.html,0/2,-
-/tablesi/ital31.html,0/2,-
-/tablesi/ital32.html,0/2,-
-/tablesi/ital33.html,0/2,-
-/tablesi/ital34.html,0/2,-
-/tablesi/ital35.html,0/2,-
-/tablesi/ital36.html,0/2,-
-/tablesi/ital37.html,0/2,-
-/tablesi/ital38.html,0/2,-
-/tablesi/ital39.html,0/2,-
-/tablesi/ital3champ.html,2/2,Italy - List of Third Division (Serie C) Champions
-/tablesi/ital3supcuphist.html,0/1,-
-/tablesi/ital3tops.html,1/2,Italy - Third Division Top Scorers
-/tablesi/ital40.html,0/2,-
-/tablesi/ital41.html,0/2,-
-/tablesi/ital42.html,0/2,-
-/tablesi/ital43.html,0/2,-
-/tablesi/ital44.html,0/1,-
-/tablesi/ital46.html,0/2,-
-/tablesi/ital47.html,0/2,-
-/tablesi/ital48.html,0/2,-
-/tablesi/ital49.html,0/2,-
-/tablesi/ital50.html,0/2,-
-/tablesi/ital51.html,0/2,-
-/tablesi/ital52.html,0/2,-
-/tablesi/ital53.html,0/2,-
-/tablesi/ital54.html,0/2,-
-/tablesi/ital55.html,0/2,-
-/tablesi/ital56.html,0/2,-
-/tablesi/ital57.html,0/2,-
-/tablesi/ital58.html,0/2,-
-/tablesi/ital59.html,0/2,-
-/tablesi/ital60.html,0/2,-
-/tablesi/ital61.html,0/2,-
-/tablesi/ital62.html,0/2,-
-/tablesi/ital63.html,0/2,-
-/tablesi/ital64.html,0/2,-
-/tablesi/ital65.html,0/2,-
-/tablesi/ital66.html,0/2,-
-/tablesi/ital67.html,0/2,-
-/tablesi/ital68.html,0/2,-
-/tablesi/ital69.html,0/2,-
-/tablesi/ital70.html,0/2,-
-/tablesi/ital71.html,0/2,-
-/tablesi/ital72.html,0/2,-
-/tablesi/ital73.html,0/2,-
-/tablesi/ital74.html,0/2,-
-/tablesi/ital75.html,0/2,-
-/tablesi/ital76.html,0/2,-
-/tablesi/ital77.html,0/2,-
-/tablesi/ital78.html,0/2,-
-/tablesi/ital79.html,0/2,-
-/tablesi/ital80.html,0/2,-
-/tablesi/ital81.html,0/2,-
-/tablesi/ital82.html,0/2,-
-/tablesi/ital83.html,0/2,-
-/tablesi/ital84.html,0/2,-
-/tablesi/ital85.html,0/2,-
-/tablesi/ital86.html,0/2,-
-/tablesi/ital87.html,0/2,-
-/tablesi/ital88.html,0/2,-
-/tablesi/ital89.html,0/2,-
-/tablesi/ital90.html,0/2,-
-/tablesi/ital91.html,0/2,-
-/tablesi/ital92.html,0/2,-
-/tablesi/ital93.html,0/2,-
-/tablesi/ital94.html,0/2,-
-/tablesi/ital95.html,0/2,-
-/tablesi/ital96.html,0/2,-
-/tablesi/ital97.html,0/2,-
-/tablesi/ital98.html,0/2,-
-/tablesi/ital99.html,0/2,-
-/tablesi/italchamp.html,106/2,Italy - List of Champions
-/tablesi/italcup00.html,0/1,-
-/tablesi/italcup01.html,0/1,-
-/tablesi/italcup02.html,0/1,-
-/tablesi/italcup03.html,0/1,-
-/tablesi/italcup04.html,0/1,-
-/tablesi/italcup05.html,0/1,-
-/tablesi/italcup06.html,0/1,-
-/tablesi/italcup07.html,0/1,-
-/tablesi/italcup08.html,0/1,-
-/tablesi/italcup09.html,0/1,-
-/tablesi/italcup22.html,0/1,-
-/tablesi/italcup27.html,0/1,-
-/tablesi/italcup36.html,0/1,-
-/tablesi/italcup37.html,0/1,-
-/tablesi/italcup38.html,0/1,-
-/tablesi/italcup39.html,0/1,-
-/tablesi/italcup40.html,0/1,-
-/tablesi/italcup41.html,0/1,-
-/tablesi/italcup42.html,0/1,-
-/tablesi/italcup43.html,0/1,-
-/tablesi/italcup58.html,0/1,-
-/tablesi/italcup59.html,0/1,-
-/tablesi/italcup60.html,0/1,-
-/tablesi/italcup61.html,0/1,-
-/tablesi/italcup62.html,0/1,-
-/tablesi/italcup63.html,0/1,-
-/tablesi/italcup64.html,0/1,-
-/tablesi/italcup65.html,0/1,-
-/tablesi/italcup66.html,0/1,-
-/tablesi/italcup67.html,0/1,-
-/tablesi/italcup68.html,0/1,-
-/tablesi/italcup69.html,0/1,-
-/tablesi/italcup70.html,0/1,-
-/tablesi/italcup71.html,0/1,-
-/tablesi/italcup72.html,0/1,-
-/tablesi/italcup73.html,0/1,-
-/tablesi/italcup74.html,0/1,-
-/tablesi/italcup75.html,0/1,-
-/tablesi/italcup76.html,0/1,-
-/tablesi/italcup77.html,0/1,-
-/tablesi/italcup78.html,0/1,-
-/tablesi/italcup79.html,0/1,-
-/tablesi/italcup80.html,0/1,-
-/tablesi/italcup81.html,0/1,-
-/tablesi/italcup82.html,0/1,-
-/tablesi/italcup83.html,0/1,-
-/tablesi/italcup84.html,0/1,-
-/tablesi/italcup85.html,0/1,-
-/tablesi/italcup86.html,0/1,-
-/tablesi/italcup87.html,0/1,-
-/tablesi/italcup88.html,0/1,-
-/tablesi/italcup89.html,0/1,-
-/tablesi/italcup90.html,0/1,-
-/tablesi/italcup91.html,0/1,-
-/tablesi/italcup92.html,0/1,-
-/tablesi/italcup93.html,0/1,-
-/tablesi/italcup94.html,0/1,-
-/tablesi/italcup95.html,0/1,-
-/tablesi/italcup96.html,0/1,-
-/tablesi/italcup97.html,0/1,-
-/tablesi/italcup98.html,0/1,-
-/tablesi/italcup99.html,0/1,-
-/tablesi/italcuphist.html,84/2,Italy - List of Cup Finals
-/tablesi/italcuphistfull.html,0/1,-
-/tablesi/italcuptops.html,0/1,-
-/tablesi/italhist.html,81/2,Italy - Final Tables
-/tablesi/italhist98-25.html,0/2,-
-/tablesi/itallegaverano86.html,0/1,-
-/tablesi/italsupcuphist.html,1/2,Italy Super Cup Finals
-/tablesi/italtops.html,1/2,Italy - Serie A Top Scorers
-/tablesi/italzwit.html,1/1,Cup of Italian-Swiss Friendship
+/tablesi/ital-medagliadire.html,1/4,Italy - Medaglia di Re
+/tablesi/ital-names.html,1/2,Italy - Name Changes and Mergers
+/tablesi/ital-oly-intres.html,3/2,Italy - Olympic Team - International Results
+/tablesi/ital-sic45.html,7/7,Italy - Sicilian War Championship 1944-45
+/tablesi/ital-sicily20.html,4/6,Sicilian Federal Cup 1920
+/tablesi/ital-u21-intres.html,3/5,Italy - U-21 - International Results
+/tablesi/ital-u21-intres-det.html,2/2,Italy - U-21 - International Results - Details
+/tablesi/ital-u23-intres.html,1/3,Italy - U-23 - International Results
+/tablesi/ital-unoff-intres.html,1/2,Italy - Unofficial Matches
+/tablesi/ital-various-hist.html,11/4,Italy - Various Championships and Cups
+/tablesi/ital-wc.html,0/2,?
+/tablesi/ital-wom-intres.html,0/2,?
+/tablesi/ital-womcuptourn.html,1/1,Italy Women's Cup
+/tablesi/ital00.html,12/7,Italy 1999/2000
+/tablesi/ital00ext.html,11/1,Italy 1999/2000 - Extended File
+/tablesi/ital01.html,11/7,Italy 2000/01
+/tablesi/ital02.html,12/8,Italy 2001/02
+/tablesi/ital03.html,13/9,Italy 2002/03
+/tablesi/ital04.html,17/11,Italy 2003/04
+/tablesi/ital05.html,16/10,Italy 2004/05
+/tablesi/ital06.html,21/10,Italy 2005/06
+/tablesi/ital07.html,22/11,Italy 2006/07
+/tablesi/ital08.html,18/11,Italy 2007/08
+/tablesi/ital09.html,16/8,Italy 2008/09
+/tablesi/ital12alltime.html,1/2,Italy - Serie A and B All-Time Table since 1929
+/tablesi/ital2-05.html,16/8,Italy Second Level 2004/05
+/tablesi/ital2-06.html,16/8,Italy Second Level 2005/06
+/tablesi/ital2-07.html,17/8,Italy Second Level 2006/07
+/tablesi/ital2-08.html,17/8,Italy Second Level 2007/08
+/tablesi/ital2-09.html,14/6,Italy Second Level 2008/09
+/tablesi/ital2010.html,16/6,Italy 2009/10
+/tablesi/ital2011.html,12/5,Italy 2010/11
+/tablesi/ital2012.html,12/5,Italy 2011/12
+/tablesi/ital2013.html,12/5,Italy 2012/13
+/tablesi/ital2014.html,12/5,Italy 2013/14
+/tablesi/ital2015.html,12/5,Italy 2014/15
+/tablesi/ital2016.html,12/5,Italy 2015/16
+/tablesi/ital2017.html,12/5,Italy 2016/17
+/tablesi/ital2018.html,12/5,Italy 2017/18
+/tablesi/ital2019.html,12/5,Italy 2018/19
+/tablesi/ital2020.html,12/5,Italy 2019/20
+/tablesi/ital2021.html,12/5,Italy 2020/21
+/tablesi/ital2022.html,12/5,Italy 2021/22
+/tablesi/ital2023.html,12/5,Italy 2022/23
+/tablesi/ital2024.html,12/5,Italy 2023/24
+/tablesi/ital2025.html,12/5,Italy 2024/25
+/tablesi/ital2026.html,11/6,Italy 2025/26
+/tablesi/ital24.html,3/5,Italy 1923/24
+/tablesi/ital25.html,3/5,Italy 1924/25
+/tablesi/ital26.html,3/6,Italy 1925/26
+/tablesi/ital27.html,3/6,Italy 1926/27
+/tablesi/ital28.html,3/6,Italy 1927/28
+/tablesi/ital29.html,4/6,Italy 1928/29
+/tablesi/ital2alltime.html,1/2,Italy - Serie B All-Time Table 1
+/tablesi/ital2champ.html,1/119,Italy - List of Second Division (Serie B) Champions
+/tablesi/ital2tops.html,1/119,Italy - Serie B Top Scorers
+/tablesi/ital3-05.html,16/8,Italy Third Level 2004/05
+/tablesi/ital3-06.html,16/8,Italy Third Level 2005/06
+/tablesi/ital3-07.html,17/8,Italy Third Level 2006/07
+/tablesi/ital3-08.html,17/8,Italy Third Level 2007/08
+/tablesi/ital3-09.html,14/6,Italy Third Level 2008/09
+/tablesi/ital30.html,3/6,Italy 1929/30
+/tablesi/ital31.html,3/6,Italy 1930/31
+/tablesi/ital32.html,3/6,Italy 1931/32
+/tablesi/ital33.html,3/6,Italy 1932/33
+/tablesi/ital34.html,3/6,Italy 1933/34
+/tablesi/ital34alltime.html,1/2,Italy - Serie C1 and C2 All-Time Table since 1978
+/tablesi/ital35.html,3/6,Italy 1934/35
+/tablesi/ital36.html,3/6,Italy 1935/36
+/tablesi/ital37.html,3/6,Italy 1936/37
+/tablesi/ital38.html,3/6,Italy 1937/38
+/tablesi/ital39.html,3/6,Italy 1938/39
+/tablesi/ital3a-alltime.html,1/2,Italy - Serie C All-Time Table 1959-1978
+/tablesi/ital3b-alltime.html,1/2,Italy - Serie C1 All-Time Table since 1978
+/tablesi/ital3c-alltime.html,1/2,Italy - Serie C/C1/C2 All-Time Table since 1959
+/tablesi/ital3champ.html,2/120,Italy - List of Third Division (Serie C) Champions
+/tablesi/ital3d-alltime.html,1/2,Italy - Serie C All-Time Table since 1935
+/tablesi/ital3e-alltime.html,1/2,Italy - Serie C All-Time Table 1935-1978
+/tablesi/ital3supcuphist.html,2/3,Italy Serie C Super Cup
+/tablesi/ital3tops.html,1/119,Italy - Third Division Top Scorers
+/tablesi/ital4-05.html,16/8,Italy Fourth Level 2004/05
+/tablesi/ital4-06.html,16/8,Italy Fourth Level 2005/06
+/tablesi/ital4-07.html,17/8,Italy Fourth Level 2006/07
+/tablesi/ital4-08.html,17/8,Italy Fourth Level 2007/08
+/tablesi/ital4-09.html,14/6,Italy Fourth Level 2008/09
+/tablesi/ital40.html,3/6,Italy 1939/40
+/tablesi/ital41.html,3/6,Italy 1940/41
+/tablesi/ital42.html,3/6,Italy 1941/42
+/tablesi/ital43.html,3/6,Italy 1942/43
+/tablesi/ital44.html,4/6,Italy 1943/44 (War Championship)
+/tablesi/ital46.html,4/7,Italy 1945/46
+/tablesi/ital47.html,3/6,Italy 1946/47
+/tablesi/ital48.html,3/7,Italy 1947/48
+/tablesi/ital49.html,3/6,Italy 1948/49
+/tablesi/ital4alltime.html,1/2,Italy - Serie C2 All-Time Table since 1978
+/tablesi/ital4champ.html,1/2,Italy - List of Fourth Division Champions
+/tablesi/ital4tops.html,1/2,Italy - Serie C2 Top Scorers
+/tablesi/ital5-02.html,13/5,Italy Fifth Level 2001/02
+/tablesi/ital5-03.html,14/6,Italy Fifth Level (Serie D) 2002/03
+/tablesi/ital5-04.html,17/9,Italy Fifth Level 2003/04
+/tablesi/ital5-05.html,15/9,Italy Fifth Level 2004/05
+/tablesi/ital5-06.html,15/9,Italy Fifth Level 2005/06
+/tablesi/ital5-07.html,17/8,Italy Fifth Level 2006/07
+/tablesi/ital5-08.html,16/9,Italy Fifth Level 2007/08
+/tablesi/ital5-09.html,14/6,Italy Fifth Level 2008/09
+/tablesi/ital50.html,2/6,Italy 1949/50
+/tablesi/ital51.html,3/6,Italy 1950/51
+/tablesi/ital52.html,3/6,Italy 1951/52
+/tablesi/ital53.html,3/6,Italy 1952/53
+/tablesi/ital54.html,3/6,Italy 1953/54
+/tablesi/ital55.html,3/6,Italy 1954/55
+/tablesi/ital56.html,3/6,Italy 1955/56
+/tablesi/ital57.html,3/6,Italy 1956/57
+/tablesi/ital58.html,3/6,Italy 1957/58
+/tablesi/ital59.html,3/6,Italy 1958/59
+/tablesi/ital5tops.html,1/1,Italy - Serie D Top Scorers
+/tablesi/ital6-06.html,15/6,Italy Sixth Level 2005/06
+/tablesi/ital6-07.html,17/8,Italy Sixth Level 2006/07
+/tablesi/ital6-08.html,16/7,Italy Sixth Level 2007/08
+/tablesi/ital60.html,3/6,Italy 1959/60
+/tablesi/ital61.html,3/6,Italy 1960/61
+/tablesi/ital62.html,3/6,Italy 1961/62
+/tablesi/ital63.html,3/6,Italy 1962/63
+/tablesi/ital64.html,3/6,Italy 1963/64
+/tablesi/ital65.html,3/6,Italy 1964/65
+/tablesi/ital66.html,3/6,Italy 1965/66
+/tablesi/ital67.html,3/6,Italy 1966/67
+/tablesi/ital68.html,3/6,Italy 1967/68
+/tablesi/ital69.html,3/6,Italy 1968/69
+/tablesi/ital7-07.html,16/7,Italy Seventh Level 2006/07
+/tablesi/ital7-08.html,16/7,Italy Seventh Level 2007/08
+/tablesi/ital70.html,3/6,Italy 1969/70
+/tablesi/ital71.html,3/6,Italy 1970/71
+/tablesi/ital72.html,3/6,Italy 1971/72
+/tablesi/ital73.html,3/6,Italy 1972/73
+/tablesi/ital74.html,3/6,Italy 1973/74
+/tablesi/ital75.html,3/6,Italy 1974/75
+/tablesi/ital76.html,3/6,Italy 1975/76
+/tablesi/ital77.html,3/6,Italy 1976/77
+/tablesi/ital78.html,3/6,Italy Championship 1977/78
+/tablesi/ital79.html,3/6,Italy Championship 1978/79
+/tablesi/ital80.html,3/6,Italy Championship 1979/80
+/tablesi/ital81.html,3/6,Italy Championship 1980/81
+/tablesi/ital81newyear.html,2/2,New Year Tourmanent Italy 1981
+/tablesi/ital82.html,3/6,Italy Championship 1981/82
+/tablesi/ital83.html,3/6,Italy Championship 1982/83
+/tablesi/ital84.html,3/6,Italy Championship 1983/84
+/tablesi/ital85.html,3/6,Italy Championship 1984/85
+/tablesi/ital86.html,3/6,Italy Championship 1985/86
+/tablesi/ital87.html,3/6,Italy Championship 1986/87
+/tablesi/ital88.html,3/6,Italy Championship 1987/88
+/tablesi/ital89.html,3/6,Italy Championship 1988/89
+/tablesi/ital90.html,3/6,Italy Championship 1989/90
+/tablesi/ital91.html,3/6,Italy Championship 1990/91
+/tablesi/ital92.html,3/6,Italy Championship 1991/92
+/tablesi/ital93.html,3/6,Italy Championship 1992/93
+/tablesi/ital94.html,3/5,Italy Championship 1993/94
+/tablesi/ital95.html,3/5,Italy Championship 1994/95
+/tablesi/ital96.html,3/5,Italy Championship 1995/96
+/tablesi/ital97.html,3/7,Italy Championship 1996/97
+/tablesi/ital98.html,3/7,Italy Championship 1997/98
+/tablesi/ital99.html,11/7,Italy 1998/99
+/tablesi/italall.html,0/1,-
+/tablesi/italalltime.html,1/1,Italy - Serie A All-Time Table
+/tablesi/italalltime9829.html,1/2,Italy - All-Time Table 1898-1928/29
+/tablesi/italalltimeall.html,1/2,Italy - All-Time Table since 1898
+/tablesi/italamachamp.html,4/3,Italy - Amateur Championship
+/tablesi/italchamp.html,106/123,Italy - List of Champions
+/tablesi/italchevtops.html,1/2,Italy - Topscorers - Chevron Awards
+/tablesi/italchronalltime.html,1/2,Italy - All-Time Table
+/tablesi/italcup00.html,10/2,Italy Cup 1999/2000
+/tablesi/italcup01.html,10/2,Italy Cup 2000/01
+/tablesi/italcup02.html,10/2,Italy Cup 2001/02
+/tablesi/italcup03.html,10/1,Italy Cup 2002/03
+/tablesi/italcup04.html,10/1,Italy Cup 2003/04
+/tablesi/italcup05.html,10/1,Italy Cup 2004/05
+/tablesi/italcup06.html,11/1,Italy Cup 2005/06
+/tablesi/italcup07.html,11/1,Italy Cup 2006/07
+/tablesi/italcup08.html,11/1,Italy Cup 2007/08
+/tablesi/italcup09.html,11/1,Italy Cup 2008/09
+/tablesi/italcup22.html,10/4,Coppa Italia 1922
+/tablesi/italcup27.html,11/5,Coppa Italia 1926/27
+/tablesi/italcup2hist.html,1/2,Italy - Coppa Italia di Serie C
+/tablesi/italcup36.html,11/5,Coppa Italia 1935/36
+/tablesi/italcup37.html,11/5,Coppa Italia 1936/37
+/tablesi/italcup38.html,11/5,Coppa Italia 1937/38
+/tablesi/italcup39.html,11/5,Coppa Italia 1938/39
+/tablesi/italcup40.html,11/5,Coppa Italia 1939/40
+/tablesi/italcup41.html,11/4,Coppa Italia 1940/41
+/tablesi/italcup42.html,11/4,Coppa Italia 1941/42
+/tablesi/italcup43.html,11/4,Coppa Italia 1942/43
+/tablesi/italcup58.html,11/5,Coppa Italia 1958
+/tablesi/italcup59.html,11/5,Coppa Italia 1958/59
+/tablesi/italcup60.html,11/5,Coppa Italia 1959/60
+/tablesi/italcup61.html,11/5,Coppa Italia 1960/61
+/tablesi/italcup62.html,11/5,Coppa Italia 1961/62
+/tablesi/italcup63.html,11/5,Coppa Italia 1962/63
+/tablesi/italcup64.html,11/5,Coppa Italia 1963/64
+/tablesi/italcup65.html,11/5,Coppa Italia 1964/65
+/tablesi/italcup66.html,11/5,Coppa Italia 1965/66
+/tablesi/italcup67.html,11/5,Coppa Italia 1966/67
+/tablesi/italcup68.html,11/5,Coppa Italia 1967/68
+/tablesi/italcup69.html,11/5,Coppa Italia 1968/69
+/tablesi/italcup70.html,11/5,Coppa Italia 1969/70
+/tablesi/italcup71.html,11/5,Coppa Italia 1970/71
+/tablesi/italcup72.html,11/5,Coppa Italia 1971/72
+/tablesi/italcup73.html,11/5,Coppa Italia 1972/73
+/tablesi/italcup74.html,11/5,Coppa Italia 1973/74
+/tablesi/italcup75.html,11/5,Coppa Italia 1974/75
+/tablesi/italcup76.html,11/5,Coppa Italia 1975/76
+/tablesi/italcup77.html,11/5,Coppa Italia 1976/77
+/tablesi/italcup78.html,11/5,Coppa Italia 1977/78
+/tablesi/italcup79.html,11/5,Coppa Italia 1978/79
+/tablesi/italcup80.html,11/4,Coppa Italia 1979/80
+/tablesi/italcup81.html,11/4,Coppa Italia 1980/81
+/tablesi/italcup82.html,11/5,Coppa Italia 1981/82
+/tablesi/italcup83.html,11/5,Coppa Italia 1982/83
+/tablesi/italcup84.html,11/4,Coppa Italia 1983/84
+/tablesi/italcup85.html,11/4,Coppa Italia 1984/85
+/tablesi/italcup86.html,11/4,Coppa Italia 1985/86
+/tablesi/italcup87.html,11/4,Coppa Italia 1986/87
+/tablesi/italcup88.html,11/4,Coppa Italia 1987/88
+/tablesi/italcup89.html,11/3,Coppa Italia 1988/89
+/tablesi/italcup90.html,11/4,Coppa Italia 1989/90
+/tablesi/italcup91.html,11/4,Coppa Italia 1990/91
+/tablesi/italcup92.html,11/3,Coppa Italia 1991/92
+/tablesi/italcup93.html,11/4,Coppa Italia 1992/93
+/tablesi/italcup94.html,11/3,Coppa Italia 1993/94
+/tablesi/italcup95.html,11/3,Coppa Italia 1994/95
+/tablesi/italcup96.html,11/3,Coppa Italia 1995/96
+/tablesi/italcup97.html,11/3,Italy Cup 1996/97
+/tablesi/italcup98.html,11/2,Coppa Italia 1997/98
+/tablesi/italcup99.html,1/3,Italy Cup 1998/99
+/tablesi/italcupalltime.html,1/2,Italy - Coppa Italia All-Time Table
+/tablesi/italcuphist.html,84/122,Italy - List of Cup Finals
+/tablesi/italcuphistfull.html,41/4,Italy - Coppa Italia History
+/tablesi/italcuptops.html,1/3,Italy - Coppa Italia Top Scorers
+/tablesi/italfound.html,2/3,Italy - Foundation Dates
+/tablesi/italhist.html,81/118,Italy - Final Tables
+/tablesi/italhist98-25.html,5/8,Italy - Championship History 1898-1923
+/tablesi/itallegaverano86.html,2/4,Italy - Torneo Estivo 1986
+/tablesi/italplall.html,1/1,Italy - Final Placings
+/tablesi/italsum61.html,2/2,Torneo Italia 1961
+/tablesi/italsum61det.html,0/4,?
+/tablesi/italsupcuphist.html,1/27,Italy Super Cup Finals
+/tablesi/italtops.html,1/119,Italy - Serie A Top Scorers
+/tablesi/italtops-allt.html,89/5,Italy - All-Time Topscorers in Serie A
+/tablesi/italtopsdebut.html,0/3,?
+/tablesi/italwinterchamp.html,1/2,Italy Winter Champions
+/tablesi/italwom00.html,12/5,Italy (Women) 1999/2000
+/tablesi/italwom01.html,12/5,Italy (Women) 2000/01
+/tablesi/italwom02.html,12/5,Italy (Women) Serie A 2001/02
+/tablesi/italwom03.html,0/4,?
+/tablesi/italwom04.html,12/5,Italy (Women) Serie A 2003/04
+/tablesi/italwom05.html,12/5,Italy (Women)  2004/05
+/tablesi/italwom06.html,12/6,Italy (Women) 2005/06
+/tablesi/italwom07.html,13/6,Italy (Women) 2006/07
+/tablesi/italwom08.html,12/6,Italy (Women) 2007/08
+/tablesi/italwom09.html,12/6,Italy (Women) 2008/09
+/tablesi/italwom2010.html,18/5,Italy (Women) 2009/10
+/tablesi/italwom2011.html,17/5,Italy (Women) 2010/11
+/tablesi/italwom2012.html,12/5,Italy (Women) 2011/12
+/tablesi/italwom2013.html,12/5,Italy (Women) 2012/13
+/tablesi/italwom2014.html,12/5,Italy (Women) 2013/14
+/tablesi/italwom2015.html,12/5,Italy (Women) 2014/15
+/tablesi/italwom2016.html,12/5,Italy (Women) 2015/16
+/tablesi/italwom2017.html,12/5,Italy (Women) 2016/17
+/tablesi/italwom2018.html,12/5,Italy (Women) 2017/18
+/tablesi/italwom2019.html,12/5,Italy (Women) 2018/19
+/tablesi/italwom2020.html,12/4,Italy (Women) 2019/20
+/tablesi/italwom2021.html,12/5,Italy (Women) 2020/21
+/tablesi/italwom2022.html,12/5,Italy (Women) 2021/22
+/tablesi/italwom2023.html,12/5,Italy (Women) 2022/23
+/tablesi/italwom2024.html,12/5,Italy (Women) 2023/24
+/tablesi/italwom2025.html,12/5,Italy (Women) 2024/25
+/tablesi/italwom2026.html,12/6,Italy (Women) 2025/26
+/tablesi/italwom2champ.html,1/29,Italy - List of Women's Serie B Champions
+/tablesi/italwom3-07.html,0/1,?
+/tablesi/italwom99.html,11/3,Italy (Women) 1998/99
+/tablesi/italwomacuphist.html,2/2,Italy - List of Serie A Women's Cup Winners
+/tablesi/italwomchamp.html,31/30,Italy - List of Women's Champions
+/tablesi/italwomcuphist.html,28/30,Italy - List of Women's Cup Winners
+/tablesi/italwomcuphistfull.html,2/3,Italy - Women's Cup Additional Data 1970-1999
+/tablesi/italwomfound.html,0/28,?
+/tablesi/italwomhist.html,1/31,Italy - List of Women's Championship Final Tables 1968-1998
+/tablesi/italwomregcuphist.html,1/29,Italy - List of Women's Regions' Cup Winners
+/tablesi/italwomsupcuphist.html,7/29,Italy - List of Women's Super Cup Finals
+/tablesi/italwomtops.html,2/30,Italy - List of Women's Topscorers
+/tablesi/italwomyouthchamp.html,1/29,Italy - List of Women's Youth Champions
+/tablesi/italzwit.html,1/4,Cup of Italian-Swiss Friendship
 /tablesi/itanedres.html,3/3,Italy-Netherlands matches
-/tablesi/itaportres.html,3/3,Italy-Portugal matches
-/tablesi/itarusres.html,4/2,Italy-Russia/Soviet Union matches
-/tablesi/itaspares.html,3/3,Italy-Spain matches
-/tablesi/itatsjres.html,4/4,Italy-Czech Republic/Czechoslovakia matches
+/tablesi/itaportres.html,3/4,Italy-Portugal matches
+/tablesi/itarusres.html,4/3,Italy-Russia/Soviet Union matches
+/tablesi/itaspares.html,3/4,Italy-Spain matches
+/tablesi/itatsjres.html,4/5,Italy-Czech Republic/Czechoslovakia matches
 /tablesi/itazwires.html,3/3,Italy-Switzerland matches
-/tablesi/ivo-intres.html,2/1,Ivory Coast - List of International Matches
-/tablesi/ivo-intres0009.html,0/1,-
-/tablesi/ivo00.html,0/2,-
-/tablesi/ivo01.html,0/2,-
-/tablesi/ivo02.html,0/2,-
-/tablesi/ivo03.html,0/3,-
-/tablesi/ivo04.html,0/3,-
-/tablesi/ivo05.html,0/3,-
-/tablesi/ivo06.html,0/3,-
-/tablesi/ivo07.html,0/3,-
-/tablesi/ivo08.html,0/3,-
-/tablesi/ivo09.html,0/3,-
-/tablesi/ivo2010.html,0/2,-
-/tablesi/ivo2011.html,0/2,-
-/tablesi/ivo2012.html,0/2,-
-/tablesi/ivo2013.html,0/2,-
-/tablesi/ivo2014.html,0/3,-
-/tablesi/ivo2015.html,0/3,-
-/tablesi/ivo2016.html,0/3,-
-/tablesi/ivo2017.html,0/3,-
-/tablesi/ivo2018.html,0/3,-
-/tablesi/ivo2019.html,0/3,-
-/tablesi/ivo2020.html,0/3,-
-/tablesi/ivo2021.html,0/1,-
-/tablesi/ivo2022.html,0/1,-
-/tablesi/ivo2023.html,0/2,-
-/tablesi/ivo2024.html,0/3,-
-/tablesi/ivo2025.html,8/4,Ivory Coast 2024/25
-/tablesi/ivo2026.html,7/4,Ivory Coast 2025/26
-/tablesi/ivo52.html,0/1,-
-/tablesi/ivo58.html,0/2,-
-/tablesi/ivo64.html,0/2,-
-/tablesi/ivo81.html,0/3,-
-/tablesi/ivo82.html,0/2,-
-/tablesi/ivo84.html,0/2,-
-/tablesi/ivo87.html,0/2,-
-/tablesi/ivo88.html,0/1,-
-/tablesi/ivo91.html,0/1,-
-/tablesi/ivo93.html,0/2,-
-/tablesi/ivo94.html,0/2,-
-/tablesi/ivo95.html,0/2,-
-/tablesi/ivo97.html,0/3,-
-/tablesi/ivo98.html,0/3,-
-/tablesi/ivo99.html,0/2,-
-/tablesi/ivochamp.html,44/2,Ivory Coast - List of Champions
-/tablesi/ivocup85.html,0/1,-
-/tablesi/ivocup96.html,0/1,-
-/tablesi/ivocuphist.html,39/2,Ivory Coast - List of Cup Winners
-/tablesi/ivoleagcuphist.html,9/2,Ivory Coast - List of League Cup Winners
-/tablesi/ivosupcuphist.html,13/2,Ivory Coast - List of Super Cup Winners
-/tablesi/ivotops.html,1/2,Ivory Coast - List of Topscorers
+/tablesi/ivo-amitie85.html,0/2,?
+/tablesi/ivo-intres.html,2/3,Ivory Coast - List of International Matches
+/tablesi/ivo-intres0009.html,2/2,Ivory Coast - Details of International Matches 2000-2009
+/tablesi/ivo-wom01.html,0/1,?
+/tablesi/ivo-wom02.html,0/1,?
+/tablesi/ivo-wom03.html,0/1,?
+/tablesi/ivo-wom04.html,0/1,?
+/tablesi/ivo-wom05.html,0/2,?
+/tablesi/ivo-wom06.html,0/2,?
+/tablesi/ivo-wom07.html,0/1,?
+/tablesi/ivo-wom08.html,0/3,?
+/tablesi/ivo-wom09.html,4/2,Ivory Coast (Women) 2009
+/tablesi/ivo-wom2010.html,0/3,?
+/tablesi/ivo-wom2011.html,0/3,?
+/tablesi/ivo-wom2012.html,4/3,Ivory Coast (Women) 2012
+/tablesi/ivo-wom2013.html,0/4,?
+/tablesi/ivo-wom2014.html,5/2,Ivory Coast (Women) 2014
+/tablesi/ivo-wom2015.html,0/2,?
+/tablesi/ivo-wom2017.html,0/2,?
+/tablesi/ivo-wom2018.html,0/1,?
+/tablesi/ivo-wom2019.html,0/2,?
+/tablesi/ivo-wom2021.html,0/1,?
+/tablesi/ivo-wom2022.html,0/2,?
+/tablesi/ivo-wom2023.html,5/5,Ivory Coast (Women) 2022/23
+/tablesi/ivo-wom2024.html,4/3,Ivory Coast (Women) 2023/24
+/tablesi/ivo-wom86.html,0/1,?
+/tablesi/ivo-wom97.html,0/1,?
+/tablesi/ivo-womchamp.html,25/6,Ivory Coast - List of Women Champions
+/tablesi/ivo-womcuphist.html,11/4,Ivory Coast - List of Women Cup Winners
+/tablesi/ivo00.html,6/5,Ivory Coast 2000
+/tablesi/ivo01.html,6/5,Ivory Coast 2001
+/tablesi/ivo02.html,6/5,Ivory Coast 2002
+/tablesi/ivo03.html,7/6,Ivory Coast 2003
+/tablesi/ivo04.html,7/6,Ivory Coast 2004
+/tablesi/ivo05.html,7/6,Ivory Coast 2005
+/tablesi/ivo06.html,7/6,Ivory Coast 2006
+/tablesi/ivo07.html,7/6,Ivory Coast 2007
+/tablesi/ivo08.html,7/6,Ivory Coast 2008
+/tablesi/ivo09.html,7/6,Ivory Coast 2009
+/tablesi/ivo2010.html,7/5,Ivory Coast 2010
+/tablesi/ivo2011.html,7/5,Ivory Coast 2011
+/tablesi/ivo2012.html,7/5,Ivory Coast 2012
+/tablesi/ivo2013.html,7/5,Ivory Coast 2012/13
+/tablesi/ivo2014.html,8/6,Ivory Coast 2013/14
+/tablesi/ivo2015.html,8/6,Ivory Coast 2014/15
+/tablesi/ivo2016.html,8/6,Ivory Coast 2015/16
+/tablesi/ivo2017.html,8/6,Ivory Coast 2016/17
+/tablesi/ivo2018.html,8/6,Ivory Coast 2017/18
+/tablesi/ivo2019.html,8/7,Ivory Coast 2018/19
+/tablesi/ivo2020.html,8/6,Ivory Coast 2019/20
+/tablesi/ivo2021.html,8/4,Ivory Coast 2020/21
+/tablesi/ivo2022.html,8/4,Ivory Coast 2021/22
+/tablesi/ivo2023.html,8/5,Ivory Coast 2022/23
+/tablesi/ivo2024.html,8/5,Ivory Coast 2023/24
+/tablesi/ivo2025.html,8/7,Ivory Coast 2024/25
+/tablesi/ivo2026.html,7/6,Ivory Coast 2025/26
+/tablesi/ivo2champ.html,1/2,Ivory Coast Second Level Champions
+/tablesi/ivo52.html,5/2,Ivory Coast 1951/52
+/tablesi/ivo57.html,6/2,Ivory Coast 1956/57
+/tablesi/ivo58.html,6/4,Ivory Coast 1958
+/tablesi/ivo59.html,6/2,Ivory Coast 1958/59
+/tablesi/ivo64.html,6/6,Ivory Coast 1963/64
+/tablesi/ivo81.html,6/6,Ivory Coast 1981
+/tablesi/ivo82.html,6/4,Ivory Coast 1982
+/tablesi/ivo84.html,6/4,Ivory Coast 1984
+/tablesi/ivo87.html,6/4,Ivory Coast 1986/87
+/tablesi/ivo88.html,6/3,Ivory Coast 1987/88
+/tablesi/ivo91.html,6/4,Ivory Coast 1991
+/tablesi/ivo93.html,6/5,Ivory Coast 1993
+/tablesi/ivo94.html,6/5,Ivory Coast 1994
+/tablesi/ivo95.html,7/5,Ivory Coast 1995
+/tablesi/ivo97.html,7/8,Ivory Coast 1997
+/tablesi/ivo98.html,6/7,Ivory Coast 1998
+/tablesi/ivo99.html,6/5,Ivory Coast 1999
+/tablesi/ivochamp.html,44/47,Ivory Coast - List of Champions
+/tablesi/ivocup85.html,6/2,Ivory Coast Cup 1985
+/tablesi/ivocup96.html,6/3,Ivory Coast Cups 1996
+/tablesi/ivocuphist.html,39/49,Ivory Coast - List of Cup Winners
+/tablesi/ivofound.html,2/2,Ivory Coast - List of Foundation Dates
+/tablesi/ivoleagcuphist.html,9/15,Ivory Coast - List of League Cup Winners
+/tablesi/ivosupcuphist.html,13/48,Ivory Coast - List of Super Cup Winners
+/tablesi/ivotops.html,1/26,Ivory Coast - List of Topscorers
+/tablesi/iwcc.html,1/2,International Women's Club Championship
+/tablesi/izmir80.html,0/2,?

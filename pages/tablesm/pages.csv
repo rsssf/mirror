@@ -1,991 +1,1662 @@
 path,links,title
-/tablesm/macao-intres.html,1/1,Macao - List of International Matches
-/tablesm/macao00.html,0/1,-
-/tablesm/macao01.html,0/1,-
-/tablesm/macao02.html,0/1,-
-/tablesm/macao03.html,0/1,-
-/tablesm/macao04.html,0/1,-
-/tablesm/macao05.html,0/2,-
-/tablesm/macao06.html,0/1,-
-/tablesm/macao07.html,0/2,-
-/tablesm/macao08.html,0/2,-
-/tablesm/macao09.html,0/2,-
-/tablesm/macao2010.html,0/2,-
-/tablesm/macao2011.html,0/1,-
-/tablesm/macao2012.html,0/2,-
-/tablesm/macao2013.html,0/2,-
-/tablesm/macao2014.html,0/2,-
-/tablesm/macao2015.html,0/2,-
-/tablesm/macao2016.html,0/2,-
-/tablesm/macao2017.html,0/2,-
-/tablesm/macao2018.html,0/2,-
-/tablesm/macao2019.html,0/2,-
-/tablesm/macao2020.html,0/1,-
-/tablesm/macao2021.html,0/2,-
-/tablesm/macao2022.html,0/2,-
-/tablesm/macao2023.html,0/2,-
-/tablesm/macao2024.html,0/3,-
-/tablesm/macao2025.html,5/3,Macao 2025
-/tablesm/macao2026.html,4/4,Macao 2026
-/tablesm/macao53.html,0/1,-
-/tablesm/macao55.html,0/1,-
-/tablesm/macao56.html,0/2,-
-/tablesm/macao64.html,0/1,-
-/tablesm/macao65.html,0/2,-
-/tablesm/macaochamp.html,32/2,Macao - List of Champions
-/tablesm/macaocuphist.html,23/2,Macao - List of Cup Winners
-/tablesm/maccabi-eur.html,7/5,European Maccabi Games
-/tablesm/maccabi-eurtrop.html,2/2,European Maccabi Trophy
-/tablesm/maccabi-panam.html,1/1,Pan American Maccabi Games
-/tablesm/maccabi2011.html,5/2,European Maccabi Games (Wien) 2011
-/tablesm/maccabi2019.html,0/2,-
-/tablesm/maccabi30.html,5/3,Maccabiade (Antwerpen) 1930
-/tablesm/maccabiah.html,3/2,Maccabiah Games
-/tablesm/madag-intres.html,1/1,Madagascar - List of International Matches
-/tablesm/madag-regchamp.html,0/1,-
-/tablesm/madag00.html,0/2,-
-/tablesm/madag01.html,0/2,-
-/tablesm/madag02.html,0/2,-
-/tablesm/madag03.html,0/2,-
-/tablesm/madag04.html,0/2,-
-/tablesm/madag05.html,0/2,-
-/tablesm/madag06.html,0/2,-
-/tablesm/madag07.html,0/2,-
-/tablesm/madag08.html,0/2,-
-/tablesm/madag09.html,0/2,-
-/tablesm/madag2010.html,0/2,-
-/tablesm/madag2011.html,0/2,-
-/tablesm/madag2012.html,0/2,-
-/tablesm/madag2013.html,0/2,-
-/tablesm/madag2014.html,0/2,-
-/tablesm/madag2015.html,0/2,-
-/tablesm/madag2016.html,0/2,-
-/tablesm/madag2017.html,0/2,-
-/tablesm/madag2018.html,0/2,-
-/tablesm/madag2019.html,0/2,-
-/tablesm/madag2020.html,0/2,-
-/tablesm/madag2021.html,0/2,-
-/tablesm/madag2022.html,0/2,-
-/tablesm/madag2023.html,0/2,-
-/tablesm/madag2024.html,0/3,-
-/tablesm/madag2025.html,5/3,Madagascar 2024/25
-/tablesm/madag2026.html,4/4,Madagascar 2025/26
-/tablesm/madag35.html,0/1,-
-/tablesm/madag36.html,0/1,-
-/tablesm/madag37.html,0/1,-
-/tablesm/madag92.html,0/1,-
-/tablesm/madag98.html,0/2,-
-/tablesm/madag99.html,0/2,-
-/tablesm/madagchamp.html,35/2,Madagascar - List of Champions
-/tablesm/madagcuphist.html,30/2,Madagascar - List of Cup Winners
-/tablesm/madeira09.html,0/1,-
-/tablesm/madeira2011.html,0/2,-
-/tablesm/madeira2012.html,0/1,-
-/tablesm/madeira2013.html,0/2,-
-/tablesm/madeira2014.html,0/1,-
-/tablesm/madeira2015.html,0/2,-
-/tablesm/madeira2016.html,0/2,-
-/tablesm/madeira2017.html,0/2,-
-/tablesm/madeira2018.html,0/2,-
-/tablesm/madeira2019.html,0/2,-
-/tablesm/madeira2020.html,0/2,-
-/tablesm/madeira2021.html,0/2,-
-/tablesm/madeira2022.html,0/3,-
-/tablesm/madeira2023.html,6/3,Madeira 2022/23
-/tablesm/madeira2024.html,6/5,Madeira 2023/24
-/tablesm/madeira2025.html,6/2,Madeira 2024/25
-/tablesm/madeira2026.html,0/2,-
-/tablesm/madeirachamp.html,14/5,Madeira - List of Champions
-/tablesm/madeiracuphist.html,19/4,Madeira - List of Cup Winners
-/tablesm/madeirahist.html,2/3,Madeira - Final Tables
-/tablesm/maghchamp.html,3/4,Maghreb Champions Cup
-/tablesm/maghcwc.html,3/4,Maghreb Cup Winners' Cup
+/tablesm/macao-intres.html,1/2,Macao - List of International Matches
+/tablesm/macao-wom2016.html,3/3,Macao (Women) 2016
+/tablesm/macao-wom2022.html,4/4,Macao (Women) 2022
+/tablesm/macao-wom2023.html,4/4,Macao (Women) 2023
+/tablesm/macao-wom2025.html,3/3,Macao (Women) 2025
+/tablesm/macao-womchamp.html,5/5,Macao - List of Women Champions
+/tablesm/macao00.html,4/4,Macao 1999/2000
+/tablesm/macao01.html,4/4,Macao 2000/01
+/tablesm/macao02.html,4/3,Macao 2001/02
+/tablesm/macao03.html,4/3,Macao 2002/03
+/tablesm/macao04.html,4/3,Macao 2003/04
+/tablesm/macao05.html,4/6,Macao 2005
+/tablesm/macao06.html,4/5,Macao 2006
+/tablesm/macao07.html,4/6,Macao 2007
+/tablesm/macao08.html,4/6,Macao 2007/08
+/tablesm/macao09.html,4/6,Macao 2008/09
+/tablesm/macao2010.html,4/6,Macao 2010
+/tablesm/macao2011.html,4/5,Macao 2011
+/tablesm/macao2012.html,4/6,Macao 2012
+/tablesm/macao2013.html,4/6,Macao 2013
+/tablesm/macao2014.html,4/6,Macao 2014
+/tablesm/macao2015.html,5/6,Macao 2015
+/tablesm/macao2016.html,5/6,Macao 2016
+/tablesm/macao2017.html,5/6,Macao 2017
+/tablesm/macao2018.html,5/6,Macao 2018
+/tablesm/macao2019.html,5/6,Macao 2019
+/tablesm/macao2020.html,5/3,Macao 2020
+/tablesm/macao2021.html,5/6,Macao 2021
+/tablesm/macao2022.html,5/6,Macao 2022
+/tablesm/macao2023.html,5/5,Macao 2023
+/tablesm/macao2024.html,5/5,Macao 2024
+/tablesm/macao2025.html,5/5,Macao 2025
+/tablesm/macao2026.html,4/6,Macao 2026
+/tablesm/macao53.html,3/2,Macao 1952/53
+/tablesm/macao55.html,4/3,Macao 1954/55
+/tablesm/macao56.html,4/6,Macao 1955/56
+/tablesm/macao64.html,4/3,Macao 1963/64
+/tablesm/macao65.html,4/4,Macao 1964/65
+/tablesm/macaochamp.html,32/34,Macao - List of Champions
+/tablesm/macaocuphist.html,23/15,Macao - List of Cup Winners
+/tablesm/macaofound.html,1/2,Macao - List of Foundation Dates
+/tablesm/macaolowchamp.html,18/2,Macao - List of Lower Level Champions
+/tablesm/maccabi-eur.html,7/7,European Maccabi Games
+/tablesm/maccabi-eurtrop.html,2/3,European Maccabi Trophy
+/tablesm/maccabi-panam.html,1/2,Pan American Maccabi Games
+/tablesm/maccabi2011.html,5/3,European Maccabi Games (Wien) 2011
+/tablesm/maccabi2019.html,4/2,European Maccabi Games (Budapest) 2019
+/tablesm/maccabi30.html,5/6,Maccabiade (Antwerpen) 1930
+/tablesm/maccabiah.html,3/5,Maccabiah Games
+/tablesm/maccabitelaviv-satrip63.html,1/3,Río de la Plata Trip of Maccabi Tel Aviv FC 1963
+/tablesm/machaco.html,1/2,Trofeo Machaco (Socuéllamos)
+/tablesm/macolin-u15-07.html,0/2,?
+/tablesm/madag-intres.html,1/2,Madagascar - List of International Matches
+/tablesm/madag-regchamp.html,2/3,Madagascar - Regional Champions
+/tablesm/madag-tourn87.html,0/2,?
+/tablesm/madag-wom02.html,0/1,?
+/tablesm/madag-wom05.html,0/1,?
+/tablesm/madag-wom06.html,0/1,?
+/tablesm/madag-wom06b.html,0/1,?
+/tablesm/madag-wom08.html,0/1,?
+/tablesm/madag-wom2010.html,0/2,?
+/tablesm/madag-wom2011.html,4/2,Madagascar (Women) 2011
+/tablesm/madag-wom2012.html,0/2,?
+/tablesm/madag-wom2013.html,0/2,?
+/tablesm/madag-wom2014.html,4/3,Madagascar (Women) 2014
+/tablesm/madag-wom2015.html,4/4,Madagascar (Women) 2015
+/tablesm/madag-wom2016.html,4/3,Madagascar (Women) 2016
+/tablesm/madag-wom2017.html,0/3,?
+/tablesm/madag-wom2018.html,4/2,Madagascar (Women) 2018
+/tablesm/madag-wom2019.html,0/3,?
+/tablesm/madag-wom2023.html,4/2,Madagascar (Women) 2022/23
+/tablesm/madag-wom2023b.html,0/2,?
+/tablesm/madag-wom2024.html,3/2,Madagascar (Women) 2024/25
+/tablesm/madag-womchamp.html,18/9,Madagascar - List of Women Champions
+/tablesm/madag00.html,5/5,Madagascar 1999/2000
+/tablesm/madag01.html,5/5,Madagascar 2001
+/tablesm/madag02.html,5/4,Madagascar 2002
+/tablesm/madag03.html,5/4,Madagascar 2003
+/tablesm/madag04.html,5/5,Madagascar 2004
+/tablesm/madag05.html,5/5,Madagascar 2005
+/tablesm/madag06.html,5/5,Madagascar 2006
+/tablesm/madag07.html,5/5,Madagascar 2007
+/tablesm/madag08.html,5/5,Madagascar 2008
+/tablesm/madag09.html,6/5,Madagascar 2009
+/tablesm/madag2010.html,5/5,Madagascar 2010
+/tablesm/madag2011.html,5/5,Madagascar 2011
+/tablesm/madag2012.html,5/5,Madagascar 2012
+/tablesm/madag2013.html,5/5,Madagascar 2013
+/tablesm/madag2014.html,5/5,Madagascar 2014
+/tablesm/madag2015.html,5/5,Madagascar 2015
+/tablesm/madag2016.html,5/5,Madagascar 2016
+/tablesm/madag2017.html,5/5,Madagascar 2017
+/tablesm/madag2018.html,5/5,Madagascar 2018
+/tablesm/madag2019.html,5/5,Madagascar 2019
+/tablesm/madag2020.html,5/5,Madagascar 2019/20
+/tablesm/madag2021.html,5/5,Madagascar 2021
+/tablesm/madag2022.html,5/5,Madagascar 2021/22
+/tablesm/madag2023.html,5/5,Madagascar 2022/23
+/tablesm/madag2024.html,5/5,Madagascar 2023/24
+/tablesm/madag2025.html,5/5,Madagascar 2024/25
+/tablesm/madag2026.html,4/6,Madagascar 2025/26
+/tablesm/madag35.html,4/2,Madagascar 1935
+/tablesm/madag36.html,5/3,Madagascar 1936
+/tablesm/madag37.html,5/3,Madagascar 1937
+/tablesm/madag41.html,5/2,Madagascar 1941
+/tablesm/madag92.html,6/3,Madagascar 1992
+/tablesm/madag98.html,5/4,Madagascar 1998
+/tablesm/madag99.html,5/5,Madagascar 1999
+/tablesm/madagchamp.html,35/37,Madagascar - List of Champions
+/tablesm/madagcuphist.html,30/37,Madagascar - List of Cup Winners
+/tablesm/madagfound.html,1/2,Madagascar - List of Foundation Dates
+/tablesm/madauto.html,1/2,Torneio Madeira Autonomia
+/tablesm/madeira-wom2011.html,4/1,Madeira (Women) 2010/11
+/tablesm/madeira-wom2013.html,0/2,?
+/tablesm/madeira-wom2014.html,4/1,Madeira (Women) 2013/14
+/tablesm/madeira09.html,4/2,Madeira 2008/09
+/tablesm/madeira2011.html,5/4,Madeira 2010/11
+/tablesm/madeira2012.html,5/3,Madeira 2011/12
+/tablesm/madeira2013.html,6/4,Madeira 2012/13
+/tablesm/madeira2014.html,6/4,Madeira 2013/14
+/tablesm/madeira2015.html,6/5,Madeira 2014/15
+/tablesm/madeira2016.html,6/5,Madeira 2015/16
+/tablesm/madeira2017.html,6/5,Madeira 2016/17
+/tablesm/madeira2018.html,6/5,Madeira 2017/18
+/tablesm/madeira2019.html,6/5,Madeira 2018/19
+/tablesm/madeira2020.html,6/5,Madeira 2019/20
+/tablesm/madeira2021.html,6/4,Madeira 2020/21
+/tablesm/madeira2022.html,6/5,Madeira 2021/22
+/tablesm/madeira2023.html,6/5,Madeira 2022/23
+/tablesm/madeira2024.html,6/6,Madeira 2023/24
+/tablesm/madeira2025.html,6/3,Madeira 2024/25
+/tablesm/madeira2026.html,5/3,Madeira 2025/26
+/tablesm/madeirachamp.html,14/23,Madeira - List of Champions
+/tablesm/madeiracuphist.html,19/22,Madeira - List of Cup Winners
+/tablesm/madeirahist.html,2/16,Madeira - Final Tables
+/tablesm/madrasmalaya60.html,1/2,Madras FA (India) tour of Malaya and Singapore 1960
+/tablesm/madreciudades74.html,0/2,?
+/tablesm/madrid-africa.html,1/2,Real Madrid CF in Africa
+/tablesm/madrid-friend.html,8/3,International Friendlies of Real Madrid CF - Overview
+/tablesm/madrid-friend0105.html,0/1,?
+/tablesm/madrid-friend0239.html,0/1,?
+/tablesm/madrid-friend0914.html,0/1,?
+/tablesm/madrid-friend4059.html,0/1,?
+/tablesm/madrid-friend6079.html,0/1,?
+/tablesm/madrid-friend8000.html,0/2,?
+/tablesm/madrid-trip03.html,1/2,Asian Trip of Real Madrid CF 2003
+/tablesm/madrid-trip25.html,1/2,European Trip of Real Madrid CF 1925
+/tablesm/madrid-trip27.html,2/4,American Trip of Real Madrid CF 1927
+/tablesm/madrid-trip31.html,1/2,European Trip of Real Madrid CF 1931
+/tablesm/madrid-trip34.html,1/2,German Trip of Real Madrid CF 1934
+/tablesm/madrid-trip52.html,2/2,American Trip of Real Madrid CF 1952
+/tablesm/madrid-trip57.html,1/2,European Trip of Real Madrid CF 1957
+/tablesm/madrid-trip59.html,1/2,European Trip of Real Madrid CF 1959
+/tablesm/madrid-trip60.html,1/2,European Trip of Real Madrid CF 1960
+/tablesm/madrid-trip61.html,1/2,International Trip of Real Madrid CF 1961
+/tablesm/madrid-trip6263.html,1/2,European Trips of Real Madrid CF 1962 and 1963
+/tablesm/madrid-trip65.html,2/4,American Trip of Real Madrid CF 1965
+/tablesm/madrid-trip66.html,1/2,European Trip of Real Madrid CF 1966
+/tablesm/madrid-trip72.html,1/2,European Trip of Real Madrid CF 1972
+/tablesm/madrid-trip77.html,1/2,Mexican Trip of Real Madrid CF 1977
+/tablesm/madrid-trip80.html,1/2,Venezolan Trip of Real Madrid CF 1980
+/tablesm/madrid-trip82.html,1/2,American Trip of Real Madrid CF 1982
+/tablesm/madrid-trip90.html,1/2,American Trip of Real Madrid CF 1990
+/tablesm/madrid-trips5859.html,1/3,American Trips of Real Madrid CF 1958 and 1959
+/tablesm/madrid50-52.html,2/3,50th Anniversary of Real Madrid CF 1952
+/tablesm/madrid75-77.html,2/3,75th Anniversary of Real Madrid CF 1977
+/tablesm/madridtops.html,0/4,?
+/tablesm/madureira-trip50.html,2/3,Latin American Trip of Madureira EC 1950
+/tablesm/madureira-trip61.html,2/3,Madureira EC (Brazil) tour of Asia 1961
+/tablesm/maesamalaya59.html,1/2,Maesa (Indonesia) tour of Singapore and Malaya 1959
+/tablesm/magdalena-veneztrip05.html,1/1,Venezolan Trip of Unión Magdalena 2005
+/tablesm/maghchamp.html,3/6,Maghreb Champions Cup
+/tablesm/maghcwc.html,3/6,Maghreb Cup Winners' Cup
 /tablesm/maghwomchamp.html,1/1,Maghreb Champions' Cup (Women)
-/tablesm/malaw-intres.html,1/1,Malawi - List of International Matches
-/tablesm/malaw00.html,0/2,-
-/tablesm/malaw01.html,0/2,-
-/tablesm/malaw02.html,0/2,-
-/tablesm/malaw03.html,0/2,-
-/tablesm/malaw04.html,0/2,-
-/tablesm/malaw05.html,0/2,-
-/tablesm/malaw06.html,0/2,-
-/tablesm/malaw07.html,0/2,-
-/tablesm/malaw08.html,0/2,-
-/tablesm/malaw09.html,0/2,-
-/tablesm/malaw2011.html,0/2,-
-/tablesm/malaw2012.html,0/2,-
-/tablesm/malaw2013.html,0/2,-
-/tablesm/malaw2014.html,0/2,-
-/tablesm/malaw2015.html,0/2,-
-/tablesm/malaw2015a.html,0/2,-
-/tablesm/malaw2016.html,0/2,-
-/tablesm/malaw2017.html,0/2,-
-/tablesm/malaw2018.html,0/2,-
-/tablesm/malaw2019.html,0/2,-
-/tablesm/malaw2020.html,0/2,-
-/tablesm/malaw2022.html,0/2,-
-/tablesm/malaw2023.html,0/2,-
-/tablesm/malaw2024.html,0/3,-
-/tablesm/malaw2025.html,5/3,Malawi 2025
-/tablesm/malaw2026.html,4/4,Malawi 2026
-/tablesm/malaw42.html,0/1,-
-/tablesm/malaw48.html,0/1,-
-/tablesm/malaw49.html,0/1,-
-/tablesm/malaw50.html,0/1,-
-/tablesm/malaw51.html,0/1,-
-/tablesm/malaw52.html,0/1,-
-/tablesm/malaw53.html,0/1,-
-/tablesm/malaw54.html,0/1,-
-/tablesm/malaw55.html,0/1,-
-/tablesm/malaw56.html,0/1,-
-/tablesm/malaw57.html,0/1,-
-/tablesm/malaw58.html,0/2,-
-/tablesm/malaw59.html,0/2,-
-/tablesm/malaw60.html,0/1,-
-/tablesm/malaw61.html,0/1,-
-/tablesm/malaw62.html,0/2,-
-/tablesm/malaw63.html,0/2,-
-/tablesm/malaw64.html,0/2,-
-/tablesm/malaw65.html,0/1,-
-/tablesm/malaw66.html,0/2,-
-/tablesm/malaw67.html,0/2,-
-/tablesm/malaw68.html,0/2,-
-/tablesm/malaw69.html,0/1,-
-/tablesm/malaw70s.html,0/1,-
-/tablesm/malaw79.html,0/1,-
-/tablesm/malaw82.html,0/1,-
-/tablesm/malaw83.html,0/2,-
-/tablesm/malaw84.html,0/2,-
-/tablesm/malaw85.html,0/2,-
-/tablesm/malaw86.html,0/2,-
-/tablesm/malaw87.html,0/1,-
-/tablesm/malaw92.html,0/1,-
-/tablesm/malaw96.html,0/1,-
-/tablesm/malaw97.html,0/1,-
-/tablesm/malaw98.html,0/1,-
-/tablesm/malaw99.html,0/2,-
-/tablesm/malawchamp.html,62/2,Malawi - List of Champions
-/tablesm/malawcuphist.html,44/2,Malawi - List of Cup Winners
-/tablesm/malay-intres.html,3/2,Malaysia International Matches 1953-2000
-/tablesm/malay00.html,0/2,-
-/tablesm/malay01.html,0/2,-
-/tablesm/malay02.html,0/2,-
-/tablesm/malay03.html,0/2,-
-/tablesm/malay04.html,0/2,-
-/tablesm/malay05.html,0/2,-
-/tablesm/malay06.html,0/2,-
-/tablesm/malay07.html,0/2,-
-/tablesm/malay08.html,0/2,-
-/tablesm/malay09.html,0/2,-
-/tablesm/malay2010.html,0/2,-
-/tablesm/malay2011.html,0/2,-
-/tablesm/malay2012.html,0/2,-
-/tablesm/malay2013.html,0/2,-
-/tablesm/malay2014.html,0/2,-
-/tablesm/malay2015.html,0/2,-
-/tablesm/malay2016.html,0/2,-
-/tablesm/malay2017.html,0/2,-
-/tablesm/malay2018.html,0/2,-
-/tablesm/malay2019.html,0/2,-
-/tablesm/malay2020.html,0/2,-
-/tablesm/malay2021.html,0/2,-
-/tablesm/malay2022.html,0/2,-
-/tablesm/malay2023.html,0/3,-
-/tablesm/malay2025.html,6/3,Malaysia 2024/25
-/tablesm/malay2026.html,6/5,Malaysia 2025/26
-/tablesm/malay21.html,0/1,-
-/tablesm/malay22.html,0/1,-
-/tablesm/malay23.html,0/1,-
-/tablesm/malay24.html,0/1,-
-/tablesm/malay25.html,0/1,-
-/tablesm/malay26.html,0/1,-
-/tablesm/malay27.html,0/1,-
-/tablesm/malay28.html,0/1,-
-/tablesm/malay29.html,0/1,-
-/tablesm/malay2champ.html,1/2,Malaysia - List of Second Level Champions
-/tablesm/malay30.html,0/1,-
-/tablesm/malay31.html,0/1,-
-/tablesm/malay32.html,0/1,-
-/tablesm/malay33.html,0/1,-
-/tablesm/malay34.html,0/1,-
-/tablesm/malay35.html,0/1,-
-/tablesm/malay36.html,0/1,-
-/tablesm/malay37.html,0/1,-
-/tablesm/malay38.html,0/1,-
-/tablesm/malay39.html,0/1,-
-/tablesm/malay3champ.html,0/1,-
-/tablesm/malay40.html,0/1,-
-/tablesm/malay41.html,0/1,-
-/tablesm/malay48.html,0/1,-
-/tablesm/malay49.html,0/1,-
-/tablesm/malay50.html,0/1,-
-/tablesm/malay51.html,0/1,-
-/tablesm/malay52.html,0/1,-
-/tablesm/malay53.html,0/1,-
-/tablesm/malay54.html,0/1,-
-/tablesm/malay55.html,0/1,-
-/tablesm/malay56.html,0/1,-
-/tablesm/malay57.html,0/1,-
-/tablesm/malay58.html,0/1,-
-/tablesm/malay59.html,0/1,-
-/tablesm/malay60.html,0/1,-
-/tablesm/malay61.html,0/1,-
-/tablesm/malay62.html,0/1,-
-/tablesm/malay63.html,0/1,-
-/tablesm/malay64.html,0/1,-
-/tablesm/malay65.html,0/1,-
-/tablesm/malay66.html,0/1,-
-/tablesm/malay67.html,0/1,-
-/tablesm/malay68.html,0/1,-
-/tablesm/malay69.html,0/1,-
-/tablesm/malay70.html,0/1,-
-/tablesm/malay71.html,0/1,-
-/tablesm/malay72.html,0/1,-
-/tablesm/malay73.html,0/1,-
-/tablesm/malay74.html,0/1,-
-/tablesm/malay75.html,0/1,-
-/tablesm/malay76.html,0/1,-
-/tablesm/malay77.html,0/1,-
-/tablesm/malay78.html,0/1,-
-/tablesm/malay79.html,0/1,-
-/tablesm/malay80.html,0/1,-
-/tablesm/malay81.html,0/1,-
-/tablesm/malay82.html,0/2,-
-/tablesm/malay83.html,0/2,-
-/tablesm/malay84.html,0/2,-
-/tablesm/malay85.html,0/2,-
-/tablesm/malay86.html,0/2,-
-/tablesm/malay87.html,0/2,-
-/tablesm/malay88.html,0/2,-
-/tablesm/malay89.html,0/2,-
-/tablesm/malay90.html,0/1,-
-/tablesm/malay91.html,0/2,-
-/tablesm/malay92.html,0/2,-
-/tablesm/malay93.html,0/1,-
-/tablesm/malay94.html,0/2,-
-/tablesm/malay95.html,0/2,-
-/tablesm/malay96.html,0/2,-
-/tablesm/malay97.html,0/2,-
-/tablesm/malay98.html,0/2,-
-/tablesm/malay99.html,0/2,-
-/tablesm/malaychamp.html,47/2,Malaysia - List of Champions
-/tablesm/malaycuphist.html,101/3,Malaysia - List of Cup Winners
-/tablesm/malayregchamp.html,0/2,-
-/tablesm/maled-intres.html,1/1,Maledives International Matches 1984-2001
-/tablesm/maled00.html,0/2,-
-/tablesm/maled01.html,0/2,-
-/tablesm/maled02.html,0/2,-
-/tablesm/maled03.html,0/2,-
-/tablesm/maled04.html,0/2,-
-/tablesm/maled05.html,0/2,-
-/tablesm/maled06.html,0/2,-
-/tablesm/maled07.html,0/2,-
-/tablesm/maled08.html,0/2,-
-/tablesm/maled09.html,0/2,-
-/tablesm/maled2010.html,0/2,-
-/tablesm/maled2011.html,0/2,-
-/tablesm/maled2012.html,0/2,-
-/tablesm/maled2013.html,0/2,-
-/tablesm/maled2014.html,0/2,-
-/tablesm/maled2015.html,0/2,-
-/tablesm/maled2016.html,0/2,-
-/tablesm/maled2017.html,0/2,-
-/tablesm/maled2018.html,0/2,-
-/tablesm/maled2019.html,0/2,-
-/tablesm/maled2021.html,0/2,-
-/tablesm/maled2022.html,0/2,-
-/tablesm/maled2023.html,0/1,-
-/tablesm/maled2024.html,0/2,-
-/tablesm/maled2025.html,5/2,Maldives 2025
-/tablesm/maled2026.html,4/4,Maldives 2025/26
-/tablesm/maled65.html,0/1,-
-/tablesm/maled67.html,0/1,-
-/tablesm/maled68.html,0/1,-
-/tablesm/maled69.html,0/1,-
-/tablesm/maled94.html,0/2,-
-/tablesm/maled97.html,0/2,-
-/tablesm/maled98.html,0/2,-
-/tablesm/maled99.html,0/2,-
-/tablesm/maledchamp.html,33/2,Maldives - List of Champions
-/tablesm/maledcup87.html,0/1,-
-/tablesm/maledcup95.html,0/1,-
-/tablesm/maledcuphist.html,32/2,Maldives - List of Cup Winners
-/tablesm/mali-intres.html,1/1,Mali - List of International Matches
-/tablesm/mali00.html,0/2,-
-/tablesm/mali01.html,0/2,-
-/tablesm/mali02.html,0/2,-
-/tablesm/mali03.html,0/2,-
-/tablesm/mali04.html,0/2,-
-/tablesm/mali05.html,0/2,-
-/tablesm/mali06.html,0/2,-
-/tablesm/mali07.html,0/2,-
-/tablesm/mali08.html,0/2,-
-/tablesm/mali09.html,0/2,-
-/tablesm/mali2010.html,0/2,-
-/tablesm/mali2011.html,0/2,-
-/tablesm/mali2012.html,0/2,-
-/tablesm/mali2013.html,0/2,-
-/tablesm/mali2014.html,0/2,-
-/tablesm/mali2015.html,0/2,-
-/tablesm/mali2016.html,0/2,-
-/tablesm/mali2017.html,0/2,-
-/tablesm/mali2018.html,0/1,-
-/tablesm/mali2020.html,0/2,-
-/tablesm/mali2021.html,0/2,-
-/tablesm/mali2022.html,0/2,-
-/tablesm/mali2023.html,0/2,-
-/tablesm/mali2024.html,0/3,-
-/tablesm/mali2025.html,6/3,Mali 2024/25
-/tablesm/mali2026.html,5/4,Mali 2025/26
-/tablesm/mali37.html,0/1,-
-/tablesm/mali57.html,0/1,-
-/tablesm/mali63.html,0/1,-
-/tablesm/mali65.html,0/1,-
-/tablesm/mali66.html,0/1,-
-/tablesm/mali67.html,0/1,-
-/tablesm/mali69.html,0/1,-
-/tablesm/mali71.html,0/1,-
-/tablesm/mali72.html,0/1,-
-/tablesm/mali74.html,0/1,-
-/tablesm/mali76.html,0/1,-
-/tablesm/mali81.html,0/2,-
-/tablesm/mali82.html,0/1,-
-/tablesm/mali84.html,0/2,-
-/tablesm/mali88.html,0/1,-
-/tablesm/mali89.html,0/1,-
-/tablesm/mali91.html,0/2,-
-/tablesm/mali92.html,0/2,-
-/tablesm/mali93.html,0/2,-
-/tablesm/mali95.html,0/2,-
-/tablesm/mali96.html,0/2,-
-/tablesm/mali97.html,0/2,-
-/tablesm/mali98.html,0/2,-
-/tablesm/mali99.html,0/2,-
-/tablesm/malichamp.html,42/2,Mali - List of Champions
-/tablesm/maliclublist.html,1/3,Mali - List of Clubs
-/tablesm/malicup61.html,0/1,-
-/tablesm/malicup87.html,0/1,-
-/tablesm/malicup94.html,0/2,-
-/tablesm/malicuphist.html,53/2,Mali - List of Cup Winners
-/tablesm/malsingres.html,3/2,The Causeway Derby: Malaysia vs. Singapore matches
-/tablesm/malt-intres.html,2/2,Malta National Team List of Results
-/tablesm/malt00.html,0/2,-
-/tablesm/malt01.html,0/2,-
-/tablesm/malt02.html,0/2,-
-/tablesm/malt03.html,0/2,-
-/tablesm/malt04.html,0/1,-
-/tablesm/malt05.html,0/1,-
-/tablesm/malt06.html,0/1,-
-/tablesm/malt07.html,0/1,-
-/tablesm/malt08.html,0/1,-
-/tablesm/malt09.html,0/1,-
-/tablesm/malt1910.html,0/1,-
-/tablesm/malt20.html,0/1,-
-/tablesm/malt2010.html,0/2,-
-/tablesm/malt2011.html,0/2,-
-/tablesm/malt2012.html,0/2,-
-/tablesm/malt2013.html,0/2,-
-/tablesm/malt2014.html,0/2,-
-/tablesm/malt2015.html,0/2,-
-/tablesm/malt2016.html,0/2,-
-/tablesm/malt2017.html,0/2,-
-/tablesm/malt2018.html,0/2,-
-/tablesm/malt2019.html,0/2,-
-/tablesm/malt2020.html,0/2,-
-/tablesm/malt2021.html,0/2,-
-/tablesm/malt2022.html,0/3,-
-/tablesm/malt2023.html,0/3,-
-/tablesm/malt2024.html,0/4,-
-/tablesm/malt2025.html,10/4,Malta 2024/25
-/tablesm/malt2026.html,8/4,Malta 2025/26
-/tablesm/malt23.html,0/1,-
-/tablesm/malt24.html,0/1,-
-/tablesm/malt30.html,0/1,-
-/tablesm/malt35.html,0/1,-
-/tablesm/malt37.html,0/1,-
-/tablesm/malt46.html,0/1,-
-/tablesm/malt47.html,0/1,-
-/tablesm/malt84.html,0/2,-
-/tablesm/malt89.html,0/1,-
-/tablesm/malt93.html,0/1,-
-/tablesm/malt94.html,0/1,-
-/tablesm/malt95.html,0/2,-
-/tablesm/malt96.html,0/2,-
-/tablesm/malt97.html,0/1,-
-/tablesm/malt98.html,0/2,-
-/tablesm/malt99.html,0/2,-
-/tablesm/maltamafoot.html,0/1,-
-/tablesm/maltcassarhist.html,0/1,-
-/tablesm/maltchamp.html,47/2,Malta - List of Champions and Runners-Up
-/tablesm/maltcup00.html,0/1,-
-/tablesm/maltcup01.html,0/1,-
-/tablesm/maltcup02.html,0/1,-
-/tablesm/maltcup03.html,0/1,-
-/tablesm/maltcup04.html,0/1,-
-/tablesm/maltcup05.html,0/1,-
-/tablesm/maltcup06.html,0/1,-
-/tablesm/maltcup07.html,0/1,-
-/tablesm/maltcup08.html,0/1,-
-/tablesm/maltcup09.html,0/1,-
-/tablesm/maltcup97.html,0/1,-
-/tablesm/maltcup98.html,0/1,-
-/tablesm/maltcup99.html,0/1,-
-/tablesm/maltcuphist.html,37/3,Malta - List of Cup Finals
-/tablesm/maltfound.html,1/2,Malta - Foundation Dates Clubs
-/tablesm/maltgarmycup.html,0/1,-
-/tablesm/malthist.html,1/2,Malta - List of Final Tables
-/tablesm/maltlowenbrauhist.html,0/1,-
-/tablesm/maltoldcups.html,3/2,Malta - Results Various Cup Tournaments
-/tablesm/maltsciclunahist.html,0/2,-
-/tablesm/maltsonsofmaltahist.html,0/1,-
-/tablesm/maltsupcuphist.html,8/2,Malta - List of Super Cup Finals
-/tablesm/malttestaferratahist.html,0/1,-
-/tablesm/malttops.html,1/2,Malta - List of Topscorers
-/tablesm/mancomunidad.html,1/1,Trofeo Mancomunidad del Caudal (Asturias)
-/tablesm/manilaindie-tour35.html,0/1,-
-/tablesm/manx00.html,0/2,-
-/tablesm/manx01.html,0/2,-
-/tablesm/manx02.html,0/2,-
-/tablesm/manx03.html,0/2,-
-/tablesm/manx04.html,0/2,-
-/tablesm/manx05.html,0/2,-
-/tablesm/manx06.html,0/2,-
-/tablesm/manx07.html,0/2,-
-/tablesm/manx08.html,0/2,-
-/tablesm/manx09.html,0/2,-
-/tablesm/manx1898.html,0/2,-
-/tablesm/manx2010.html,0/2,-
-/tablesm/manx2011.html,0/2,-
-/tablesm/manx2012.html,0/2,-
-/tablesm/manx2013.html,0/2,-
-/tablesm/manx2014.html,0/2,-
-/tablesm/manx2015.html,0/2,-
-/tablesm/manx2016.html,0/2,-
-/tablesm/manx2017.html,0/2,-
-/tablesm/manx2018.html,0/2,-
-/tablesm/manx2019.html,0/2,-
-/tablesm/manx2020.html,0/1,-
-/tablesm/manx2021.html,0/2,-
-/tablesm/manx2022.html,0/2,-
-/tablesm/manx2023.html,0/2,-
-/tablesm/manx2024.html,0/3,-
-/tablesm/manx2025.html,7/3,Isle of Man 2024/25
-/tablesm/manx2026.html,6/4,Isle of Man 2025/26
-/tablesm/manx2champ.html,1/2,Isle of Man - List of Second Level Champions
-/tablesm/manx96.html,0/2,-
-/tablesm/manx97.html,0/2,-
-/tablesm/manx98.html,0/2,-
-/tablesm/manx99.html,0/2,-
-/tablesm/manxchamp.html,33/3,Isle of Man - List of Champions
-/tablesm/manxcuphist.html,32/3,Isle of Man - List of Cup Winners
-/tablesm/manxfound.html,1/2,Isle of Man - List of Foundation Dates Clubs
-/tablesm/mar-sucre73.html,1/1,Copa Mariscal Sucre
-/tablesm/marahhalim.html,0/2,-
-/tablesm/marcamadrid.html,1/1,Trofeo Diario Marca (Madrid)
+/tablesm/magloire56.html,0/2,?
+/tablesm/mahonjuv.html,1/2,Trofeo Internacional Juvenil de Mahón (Menorca)
+/tablesm/makita8894.html,1/2,Makita Tournament 1988-1994
+/tablesm/malaw-indep-overview.html,0/2,?
+/tablesm/malaw-indep06.html,0/1,?
+/tablesm/malaw-indep07.html,0/1,?
+/tablesm/malaw-indep08.html,0/1,?
+/tablesm/malaw-intres.html,1/2,Malawi - List of International Matches
+/tablesm/malaw-tourn89.html,0/2,?
+/tablesm/malaw-wom06a.html,0/1,?
+/tablesm/malaw-wom08.html,0/1,?
+/tablesm/malaw-wom2010.html,0/1,?
+/tablesm/malaw-wom2011.html,0/1,?
+/tablesm/malaw-wom2013.html,0/1,?
+/tablesm/malaw-wom2015.html,0/1,?
+/tablesm/malaw-wom2016.html,0/1,?
+/tablesm/malaw-wom2017.html,0/1,?
+/tablesm/malaw-wom2018.html,0/1,?
+/tablesm/malaw-wom2019.html,0/1,?
+/tablesm/malaw-wom2020.html,4/3,Malawi (Women) 2020
+/tablesm/malaw-wom2021.html,4/2,Malawi (Women) 2021/22
+/tablesm/malaw-wom2022.html,0/2,?
+/tablesm/malaw-wom2024.html,3/1,Malawi (Women) 2023/24
+/tablesm/malaw-wom97.html,0/1,?
+/tablesm/malaw-womcuphist.html,12/4,Malawi - List of Women Cup Winners
+/tablesm/malaw00.html,5/5,Malawi 1999/2000
+/tablesm/malaw01.html,5/4,Malawi 2000/01
+/tablesm/malaw02.html,5/5,Malawi 2001/02
+/tablesm/malaw03.html,5/4,Malawi 2002/03
+/tablesm/malaw04.html,5/4,Malawi 2004
+/tablesm/malaw05.html,5/4,Malawi 2005/06
+/tablesm/malaw06.html,5/4,Malawi 2006
+/tablesm/malaw07.html,5/5,Malawi 2007
+/tablesm/malaw08.html,5/5,Malawi 2008
+/tablesm/malaw09.html,5/5,Malawi 2009/10
+/tablesm/malaw2011.html,5/5,Malawi 2010/11
+/tablesm/malaw2012.html,5/5,Malawi 2011/12
+/tablesm/malaw2013.html,5/5,Malawi 2012/13
+/tablesm/malaw2014.html,5/5,Malawi 2013/14
+/tablesm/malaw2015.html,5/5,Malawi 2014
+/tablesm/malaw2015a.html,5/5,Malawi 2015
+/tablesm/malaw2016.html,5/5,Malawi 2016
+/tablesm/malaw2017.html,5/5,Malawi 2017
+/tablesm/malaw2018.html,5/5,Malawi 2018
+/tablesm/malaw2019.html,5/5,Malawi 2019
+/tablesm/malaw2020.html,5/5,Malawi 2020/21
+/tablesm/malaw2022.html,5/5,Malawi 2022
+/tablesm/malaw2023.html,5/5,Malawi 2023
+/tablesm/malaw2024.html,5/5,Malawi 2024
+/tablesm/malaw2025.html,5/6,Malawi 2025
+/tablesm/malaw2026.html,4/5,Malawi 2026
+/tablesm/malaw30s.html,3/1,Nyasaland (Malawi) 1930s
+/tablesm/malaw42.html,5/3,Nyasaland (Malawi) 1942
+/tablesm/malaw48.html,5/5,Nyasaland (Malawi) 1948
+/tablesm/malaw49.html,5/4,Nyasaland (Malawi) 1948/49
+/tablesm/malaw50.html,5/3,Nyasaland (Malawi) 1949/50
+/tablesm/malaw51.html,5/3,Nyasaland (Malawi) 1950/51
+/tablesm/malaw52.html,5/3,Nyasaland (Malawi) 1951/52
+/tablesm/malaw53.html,5/3,Nyasaland (Malawi) 1952/53
+/tablesm/malaw54.html,5/4,Nyasaland (Malawi) 1953/54
+/tablesm/malaw55.html,5/4,Nyasaland (Malawi) 1954/55
+/tablesm/malaw56.html,5/3,Nyasaland (Malawi) 1955/56
+/tablesm/malaw57.html,5/3,Nyasaland (Malawi) 1956/57
+/tablesm/malaw58.html,5/5,Nyasaland (Malawi) 1957/58
+/tablesm/malaw59.html,5/5,Nyasaland (Malawi) 1958/59
+/tablesm/malaw60.html,5/3,Nyasaland (Malawi) 1959/60
+/tablesm/malaw61.html,6/5,Nyasaland (Malawi) 1960/61
+/tablesm/malaw62.html,6/6,Nyasaland (Malawi) 1961/62
+/tablesm/malaw63.html,5/5,Nyasaland (Malawi) 1962/63
+/tablesm/malaw64.html,5/5,Nyasaland (Malawi) 1963/64
+/tablesm/malaw65.html,5/4,Malawi 1964/65
+/tablesm/malaw66.html,5/5,Malawi 1965/66
+/tablesm/malaw67.html,5/5,Malawi 1966/67
+/tablesm/malaw68.html,5/4,Malawi 1967/68
+/tablesm/malaw69.html,5/4,Malawi 1968/69
+/tablesm/malaw70s.html,5/3,Malawi 1977-1978
+/tablesm/malaw79.html,5/3,Malawi 1979
+/tablesm/malaw82.html,5/3,Malawi 1982
+/tablesm/malaw83.html,6/4,Malawi 1983
+/tablesm/malaw84.html,5/4,Malawi 1984
+/tablesm/malaw85.html,5/4,Malawi 1985
+/tablesm/malaw86.html,5/4,Malawi 1986
+/tablesm/malaw87.html,5/4,Malawi 1987
+/tablesm/malaw92.html,5/4,Malawi 1992
+/tablesm/malaw96.html,5/3,Malawi 1995/96
+/tablesm/malaw97.html,5/3,Malawi 1996/97
+/tablesm/malaw98.html,5/4,Malawi 1997/98
+/tablesm/malaw99.html,5/5,Malawi 1998/99
+/tablesm/malawchamp.html,62/68,Malawi - List of Champions
+/tablesm/malawcuphist.html,44/41,Malawi - List of Cup Winners
+/tablesm/malawfound.html,1/2,Malawi - List of Foundation Dates
+/tablesm/malawi-tourn81.html,0/2,?
+/tablesm/malawtops.html,1/2,Malawi - List of Topscorers
+/tablesm/malay-intercity84.html,0/2,?
+/tablesm/malay-intres.html,3/3,Malaysia International Matches 1953-2000
+/tablesm/malay-wom2015.html,0/1,?
+/tablesm/malay-wom2016.html,0/1,?
+/tablesm/malay-wom2017.html,0/1,?
+/tablesm/malay-wom2018.html,0/1,?
+/tablesm/malay-wom2019.html,0/1,?
+/tablesm/malay-wom2022.html,0/1,?
+/tablesm/malay-wom2023.html,0/1,?
+/tablesm/malay-wom2024.html,4/2,Malaysia (Women) 2024
+/tablesm/malay-wom2025.html,3/2,Malaysia (Women) 2025
+/tablesm/malay-womhist.html,7/4,Malaysia (Women) 1960-2020
+/tablesm/malay00.html,5/6,"Malaysia First Level (""Premier One"") 2000"
+/tablesm/malay01.html,6/5,Malaysia 2001
+/tablesm/malay02.html,6/5,Malaysia 2002
+/tablesm/malay03.html,6/5,Malaysia 2003
+/tablesm/malay04.html,6/5,Malaysia 2004
+/tablesm/malay05.html,6/5,Malaysia 2005
+/tablesm/malay06.html,6/6,Malaysia 2005/06
+/tablesm/malay07.html,6/5,Malaysia 2006/07
+/tablesm/malay08.html,6/5,Malaysia 2007/08
+/tablesm/malay09.html,7/5,Malaysia 2009
+/tablesm/malay2010.html,6/5,Malaysia 2010
+/tablesm/malay2011.html,6/5,Malaysia 2011
+/tablesm/malay2012.html,6/5,Malaysia 2012
+/tablesm/malay2013.html,6/5,Malaysia 2013
+/tablesm/malay2014.html,6/5,Malaysia 2014
+/tablesm/malay2015.html,6/5,Malaysia 2015
+/tablesm/malay2016.html,6/5,Malaysia 2016
+/tablesm/malay2017.html,6/5,Malaysia 2017
+/tablesm/malay2018.html,6/5,Malaysia 2018
+/tablesm/malay2019.html,6/5,Malaysia 2019
+/tablesm/malay2020.html,6/5,Malaysia 2020
+/tablesm/malay2021.html,6/5,Malaysia 2021
+/tablesm/malay2022.html,6/5,Malaysia 2022
+/tablesm/malay2023.html,6/5,Malaysia 2023
+/tablesm/malay2025.html,6/5,Malaysia 2024/25
+/tablesm/malay2026.html,6/7,Malaysia 2025/26
+/tablesm/malay21.html,4/2,Malaysia 1921
+/tablesm/malay22.html,5/3,Malaysia 1922
+/tablesm/malay23.html,5/3,Malaysia 1923
+/tablesm/malay24.html,5/3,Malaysia 1924
+/tablesm/malay25.html,5/3,Malaysia 1925
+/tablesm/malay26.html,5/3,Malaysia 1926
+/tablesm/malay27.html,5/3,Malaysia 1927
+/tablesm/malay28.html,5/3,Malaysia 1928
+/tablesm/malay29.html,5/3,Malaysia 1929
+/tablesm/malay2champ.html,1/27,Malaysia - List of Second Level Champions
+/tablesm/malay30.html,5/3,Malaysia 1930
+/tablesm/malay31.html,5/3,Malaysia 1931
+/tablesm/malay32.html,5/3,Malaysia 1932
+/tablesm/malay33.html,5/3,Malaysia 1933
+/tablesm/malay34.html,5/3,Malaysia 1934
+/tablesm/malay35.html,5/3,Malaysia 1935
+/tablesm/malay36.html,5/3,Malaysia 1936
+/tablesm/malay37.html,5/3,Malaysia 1937
+/tablesm/malay38.html,5/3,Malaysia 1938
+/tablesm/malay39.html,5/3,Malaysia 1939
+/tablesm/malay3champ.html,2/3,Malaysia - List of Third Level Champions
+/tablesm/malay40.html,5/3,Malaysia 1940
+/tablesm/malay41.html,5/3,Malaysia 1941
+/tablesm/malay48.html,5/3,Malaysia 1948
+/tablesm/malay49.html,5/4,Malaysia 1949
+/tablesm/malay50.html,5/3,Malaysia 1950
+/tablesm/malay51.html,5/4,Malaysia 1951
+/tablesm/malay52.html,5/3,Malaysia 1952
+/tablesm/malay53.html,5/3,Malaysia 1953
+/tablesm/malay54.html,5/3,Malaysia 1954
+/tablesm/malay55.html,6/5,Malaysia 1955
+/tablesm/malay56.html,5/4,Malaysia 1956
+/tablesm/malay57.html,5/4,Malaysia 1957
+/tablesm/malay58.html,5/4,Malaysia 1958
+/tablesm/malay59.html,5/4,Malaysia 1959
+/tablesm/malay60.html,5/4,Malaysia 1960
+/tablesm/malay61.html,5/4,Malaysia 1961
+/tablesm/malay62.html,5/4,Malaysia 1962
+/tablesm/malay63.html,5/4,Malaysia 1963
+/tablesm/malay64.html,5/4,Malaysia 1964
+/tablesm/malay65.html,5/4,Malaysia 1965
+/tablesm/malay66.html,5/4,Malaysia 1966
+/tablesm/malay67.html,5/4,Malaysia 1967
+/tablesm/malay68.html,5/4,Malaysia 1968
+/tablesm/malay69.html,5/4,Malaysia 1969
+/tablesm/malay70.html,5/4,Malaysia 1970
+/tablesm/malay71.html,6/3,Malaysia 1971
+/tablesm/malay72.html,6/3,Malaysia 1972
+/tablesm/malay73.html,6/3,Malaysia 1973
+/tablesm/malay74.html,5/3,Malaysia 1974
+/tablesm/malay75.html,5/3,Malaysia 1975
+/tablesm/malay76.html,5/3,Malaysia 1976
+/tablesm/malay77.html,5/3,Malaysia 1977
+/tablesm/malay78.html,6/4,Malaysia 1978
+/tablesm/malay79.html,5/3,Malaysia 1979
+/tablesm/malay80.html,5/3,Malaysia 1980
+/tablesm/malay81.html,5/3,Malaysia 1981
+/tablesm/malay82.html,5/4,Malaysia 1982
+/tablesm/malay83.html,5/4,Malaysia 1983
+/tablesm/malay84.html,6/4,Malaysia 1984
+/tablesm/malay85.html,6/4,Malaysia 1985
+/tablesm/malay86.html,5/4,Malaysia 1986
+/tablesm/malay87.html,5/4,Malaysia 1987
+/tablesm/malay88.html,6/4,Malaysia 1988
+/tablesm/malay89.html,6/4,Malaysia 1989
+/tablesm/malay90.html,5/3,Malaysia 1990
+/tablesm/malay91.html,6/4,Malaysia 1991
+/tablesm/malay92.html,6/4,Malaysia 1992
+/tablesm/malay93.html,5/3,Malaysia 1993
+/tablesm/malay94.html,5/5,Malaysia 1994
+/tablesm/malay95.html,5/6,Malaysia 1995
+/tablesm/malay96.html,6/6,Malaysia 1996
+/tablesm/malay97.html,5/6,Malaysia 1997
+/tablesm/malay98.html,5/6,Malaysia 1998
+/tablesm/malay99.html,5/6,Malaysia 1999
+/tablesm/malaya-tours5761.html,0/2,?
+/tablesm/malaychamp.html,47/101,Malaysia - List of Champions
+/tablesm/malaychinesetour58.html,1/2,Malayan Chinese FA tour of South Vietnam and Hong Kong 1958
+/tablesm/malayclub.html,0/1,Malaysia Club Info 1996
+/tablesm/malaycuphist.html,101/106,Malaysia - List of Cup Winners
+/tablesm/malayfound.html,1/2,Malaysia - Foundation Dates of Clubs
+/tablesm/malayregchamp.html,1/5,Malaysia - List of Regional Champions and Cup Winners
+/tablesm/maled-intres.html,1/2,Maledives International Matches 1984-2001
+/tablesm/maled-wom2012.html,3/3,Maldives (Women) 2014
+/tablesm/maled-wom2014.html,4/3,Maldives (Women) 2014
+/tablesm/maled-wom2015.html,0/3,?
+/tablesm/maled-wom2022.html,4/2,Maldives (Women) 2021/22
+/tablesm/maled-wom2025.html,3/3,Maldives (Women) 2025
+/tablesm/maled-womchamp.html,5/5,Maldives - List of Women Champions
+/tablesm/maled00.html,5/4,Maldives 2000
+/tablesm/maled01.html,5/5,Maldives 2001
+/tablesm/maled02.html,5/5,Maldives 2002
+/tablesm/maled03.html,5/5,Maldives 2003
+/tablesm/maled04.html,5/5,Maldives 2004
+/tablesm/maled05.html,5/5,Maldives 2005
+/tablesm/maled06.html,5/5,Maldives 2006
+/tablesm/maled07.html,5/6,Maldives 2007
+/tablesm/maled08.html,5/6,Maldives 2008
+/tablesm/maled09.html,5/6,Maldives 2009
+/tablesm/maled2010.html,5/6,Maldives 2010
+/tablesm/maled2011.html,5/6,Maldives 2011
+/tablesm/maled2012.html,5/6,Maldives 2012
+/tablesm/maled2013.html,5/6,Maldives 2013
+/tablesm/maled2014.html,5/6,Maldives 2014
+/tablesm/maled2015.html,5/6,Maldives 2015
+/tablesm/maled2016.html,5/6,Maldives 2016
+/tablesm/maled2017.html,5/6,Maldives 2017
+/tablesm/maled2018.html,5/6,Maldives 2018
+/tablesm/maled2019.html,5/6,Maldives 2019/20
+/tablesm/maled2021.html,5/6,Maldives 2020/21
+/tablesm/maled2022.html,5/5,Maldives 2022
+/tablesm/maled2023.html,5/4,Maldives 2022/23
+/tablesm/maled2024.html,5/3,Maldives 2024
+/tablesm/maled2025.html,5/3,Maldives 2025
+/tablesm/maled2026.html,4/6,Maldives 2025/26
+/tablesm/maled65.html,4/2,Maldives 1964/65
+/tablesm/maled67.html,5/3,Maldives 1967
+/tablesm/maled68.html,5/3,Maldives 1968
+/tablesm/maled69.html,5/4,Maldives 1968/69
+/tablesm/maled94.html,7/5,Maldives 1994
+/tablesm/maled97.html,6/6,Maldives 1997
+/tablesm/maled98.html,5/5,Maldives 1998
+/tablesm/maled99.html,5/5,Maldives 1999
+/tablesm/maledchamp.html,33/37,Maldives - List of Champions
+/tablesm/maledclubs.html,1/2,Maldives - Club Directory
+/tablesm/maledcup87.html,5/3,Maldives Cup 1987
+/tablesm/maledcup95.html,5/3,Maldives Cup 1995
+/tablesm/maledcuphist.html,32/40,Maldives - List of Cup Winners
+/tablesm/maledfound.html,1/2,Maldives - Foundation Dates of Clubs
+/tablesm/maledlowchamp.html,15/2,Maldives - List of Lower Division Champions
+/tablesm/mali-intres.html,1/3,Mali - List of International Matches
+/tablesm/mali-wom02.html,0/1,?
+/tablesm/mali-wom04.html,0/2,?
+/tablesm/mali-wom05.html,0/1,?
+/tablesm/mali-wom06.html,0/1,?
+/tablesm/mali-wom07.html,0/2,?
+/tablesm/mali-wom08.html,0/2,?
+/tablesm/mali-wom09.html,0/1,?
+/tablesm/mali-wom2010.html,0/1,?
+/tablesm/mali-wom2011.html,0/2,?
+/tablesm/mali-wom2012.html,0/2,?
+/tablesm/mali-wom2013.html,0/1,?
+/tablesm/mali-wom2014.html,0/2,?
+/tablesm/mali-wom2015.html,0/1,?
+/tablesm/mali-wom2016.html,0/3,?
+/tablesm/mali-wom2020.html,5/3,Mali (Women) 2019/20
+/tablesm/mali-wom2021.html,5/5,Mali (Women) 2021
+/tablesm/mali-wom2022.html,5/5,Mali (Women) 2022
+/tablesm/mali-wom2023.html,5/5,Mali (Women) 2022/23
+/tablesm/mali-wom2024.html,5/5,Mali (Women) 2024
+/tablesm/mali-wom2025.html,5/5,Mali (Women) 2024/25
+/tablesm/mali-wom2026.html,4/3,Mali (Women) 2025/26
+/tablesm/mali-wom99.html,0/1,?
+/tablesm/mali-womchamp.html,20/9,Mali - List of Women Champions
+/tablesm/mali-womcuphist.html,16/9,Mali - List of Women Cup Winners
+/tablesm/mali00.html,6/5,Mali 1999/2000
+/tablesm/mali01.html,6/5,Mali 2000/01
+/tablesm/mali02.html,6/5,Mali 2002
+/tablesm/mali03.html,6/5,Mali 2002/03
+/tablesm/mali04.html,6/5,Mali 2004
+/tablesm/mali05.html,6/5,Mali 2005
+/tablesm/mali06.html,6/5,Mali 2005/06
+/tablesm/mali07.html,6/5,Mali 2007
+/tablesm/mali08.html,6/5,Mali 2007/08
+/tablesm/mali09.html,6/5,Mali 2008/09
+/tablesm/mali2010.html,6/5,Mali 2009/10
+/tablesm/mali2011.html,6/5,Mali 2010/11
+/tablesm/mali2012.html,6/5,Mali 2011/12
+/tablesm/mali2013.html,6/5,Mali 2012/13
+/tablesm/mali2014.html,6/5,Mali 2013/14
+/tablesm/mali2015.html,6/5,Mali 2014/15
+/tablesm/mali2016.html,6/5,Mali 2016
+/tablesm/mali2017.html,6/5,Mali 2017
+/tablesm/mali2018.html,6/3,Mali 2018
+/tablesm/mali2020.html,6/5,Mali 2019/20
+/tablesm/mali2021.html,6/5,Mali 2021
+/tablesm/mali2022.html,6/5,Mali 2021/22
+/tablesm/mali2023.html,6/5,Mali 2022/23
+/tablesm/mali2024.html,6/5,Mali 2023/24
+/tablesm/mali2025.html,6/5,Mali 2024/25
+/tablesm/mali2026.html,5/6,Mali 2025/26
+/tablesm/mali37.html,4/2,French Sudan (Mali) Cup 1937
+/tablesm/mali57.html,5/3,French Sudan (Mali) 1956/57
+/tablesm/mali63.html,5/3,Mali 1963
+/tablesm/mali65.html,5/3,Mali 1965
+/tablesm/mali66.html,5/3,Mali 1966
+/tablesm/mali67.html,5/3,Mali 1967
+/tablesm/mali69.html,5/3,Mali 1969
+/tablesm/mali71.html,5/3,Mali 1971
+/tablesm/mali72.html,5/3,Mali 1972
+/tablesm/mali74.html,5/3,Mali 1974
+/tablesm/mali76.html,5/3,Mali 1976
+/tablesm/mali79.html,5/2,Mali 1979
+/tablesm/mali81.html,6/4,Mali 1980/81
+/tablesm/mali82.html,5/3,Mali 1981/82
+/tablesm/mali84.html,5/5,Mali 1983/84
+/tablesm/mali88.html,5/3,Mali 1987/88
+/tablesm/mali89.html,6/3,Mali 1988/89
+/tablesm/mali91.html,5/4,Mali 1990/91
+/tablesm/mali92.html,5/5,Mali 1991/92
+/tablesm/mali93.html,6/5,Mali 1992/93
+/tablesm/mali95.html,6/5,Mali 1994/95
+/tablesm/mali96.html,5/5,Mali 1995/96
+/tablesm/mali97.html,5/4,Mali 1996/97
+/tablesm/mali98.html,5/5,Mali 1997/98
+/tablesm/mali99.html,5/5,Mali 1998/99
+/tablesm/malichamp.html,42/55,Mali - List of Champions
+/tablesm/maliclublist.html,1/29,Mali - List of Clubs
+/tablesm/malicup61.html,5/3,Mali Cup 1960/61
+/tablesm/malicup87.html,5/3,Mali Cup 1986/87
+/tablesm/malicup94.html,5/4,Mali Cup 1993/94
+/tablesm/malicuphist.html,53/58,Mali - List of Cup Winners
+/tablesm/malifound.html,2/2,Mali - Foundation Dates of Clubs
+/tablesm/malle2012.html,0/1,?
+/tablesm/malmo-argtrip55.html,1/3,Malmö FF Trip to Argentina 1955
+/tablesm/malmo-braztrip49.html,1/2,Malmö FF Trip to Brazil 1949
+/tablesm/malmotour57.html,2/3,"Malmö FF (Sweden) tour of Morocco, Gibraltar, Monaco and France, 1957"
+/tablesm/malmotour61.html,1/3,Malmö FF UK and Asia Tour 1961
+/tablesm/malmotour63.html,2/2,Malmö FF (Sweden) tour of Nigeria 1963
+/tablesm/malsingres.html,3/3,The Causeway Derby: Malaysia vs. Singapore matches
+/tablesm/malt-int04.html,0/1,?
+/tablesm/malt-int06.html,0/1,?
+/tablesm/malt-int08.html,0/1,?
+/tablesm/malt-intres.html,2/4,Malta National Team List of Results
+/tablesm/malt-wom00.html,5/3,Malta (Women) 1999/2000
+/tablesm/malt-wom01.html,0/2,?
+/tablesm/malt-wom02.html,0/1,?
+/tablesm/malt-wom03.html,0/3,?
+/tablesm/malt-wom04.html,5/4,Malta (Women) 2003/04
+/tablesm/malt-wom05.html,5/5,Malta (Women) 2004/05
+/tablesm/malt-wom06.html,5/5,Malta (Women) 2005/06
+/tablesm/malt-wom07.html,5/5,Malta (Women) 2006/07
+/tablesm/malt-wom08.html,5/4,Malta (Women) 2007/08
+/tablesm/malt-wom09.html,5/4,Malta (Women) 2008/09
+/tablesm/malt-wom2010.html,5/4,Malta (Women) 2009/10
+/tablesm/malt-wom2011.html,5/4,Malta (Women) 2010/11
+/tablesm/malt-wom2012.html,5/4,Malta (Women) 2011/12
+/tablesm/malt-wom2013.html,5/4,Malta (Women) 2012/13
+/tablesm/malt-wom2014.html,5/4,Malta (Women) 2013/14
+/tablesm/malt-wom2015.html,5/5,Malta (Women) 2014/15
+/tablesm/malt-wom2016.html,5/5,Malta (Women) 2015/16
+/tablesm/malt-wom2017.html,5/5,Malta (Women) 2016/17
+/tablesm/malt-wom2018.html,5/5,Malta (Women) 2017/18
+/tablesm/malt-wom2019.html,5/5,Malta (Women) 2018/19
+/tablesm/malt-wom2020.html,5/4,Malta (Women) 2019/20
+/tablesm/malt-wom2021.html,5/4,Malta (Women) 2020/21
+/tablesm/malt-wom2022.html,5/5,Malta (Women) 2021/22
+/tablesm/malt-wom2023.html,5/5,Malta (Women) 2022/23
+/tablesm/malt-wom2024.html,5/5,Malta (Women) 2023/24
+/tablesm/malt-wom2025.html,4/5,Malta (Women) 2024/25
+/tablesm/malt-wom2champ.html,1/2,Malta - List of Women Second Level Champions
+/tablesm/malt-wom99.html,4/3,Malta (Women) 1998/99
+/tablesm/malt-womchamp.html,28/26,Malta - List of Women Champions
+/tablesm/malt-womcuphist.html,15/26,Malta - List of Women Cup Finals
+/tablesm/malt-womsupcuphist.html,1/2,Malta - List of Women Super Cup Finals
+/tablesm/malt00.html,8/6,Malta 1999/2000
+/tablesm/malt01.html,8/7,Malta 2000/01
+/tablesm/malt02.html,9/6,Malta 2001/02
+/tablesm/malt03.html,9/6,Malta 2002/03
+/tablesm/malt04.html,9/5,Malta 2003/04
+/tablesm/malt05.html,9/5,Malta 2004/05
+/tablesm/malt06.html,9/5,Malta 2005/06
+/tablesm/malt07.html,9/5,Malta 2006/07
+/tablesm/malt08.html,9/5,Malta 2007/08
+/tablesm/malt09.html,9/4,Malta 2008/09
+/tablesm/malt1910.html,8/4,Malta 1909/10
+/tablesm/malt20.html,9/3,Malta 1919/20
+/tablesm/malt2010.html,9/5,Malta 2009/10
+/tablesm/malt2011.html,9/5,Malta 2010/11
+/tablesm/malt2012.html,9/5,Malta 2011/12
+/tablesm/malt2013.html,9/5,Malta 2012/13
+/tablesm/malt2014.html,9/5,Malta 2013/14
+/tablesm/malt2015.html,9/5,Malta 2014/15
+/tablesm/malt2016.html,9/5,Malta 2015/16
+/tablesm/malt2017.html,9/5,Malta 2016/17
+/tablesm/malt2018.html,9/5,Malta 2017/18
+/tablesm/malt2019.html,9/5,Malta 2018/19
+/tablesm/malt2020.html,9/5,Malta 2019/20
+/tablesm/malt2021.html,9/5,Malta 2020/21
+/tablesm/malt2022.html,9/6,Malta 2021/22
+/tablesm/malt2023.html,9/6,Malta 2022/23
+/tablesm/malt2024.html,9/6,Malta 2023/24
+/tablesm/malt2025.html,10/6,Malta 2024/25
+/tablesm/malt2026.html,8/6,Malta 2025/26
+/tablesm/malt23.html,9/3,Malta 1922/23
+/tablesm/malt24.html,9/3,Malta 1923/24
+/tablesm/malt30.html,9/3,Malta 1929/30
+/tablesm/malt35.html,9/3,Malta 1934/35
+/tablesm/malt37.html,9/3,Malta 1936/37
+/tablesm/malt46.html,9/3,Malta 1945/46
+/tablesm/malt47.html,10/3,Malta 1946/47
+/tablesm/malt84.html,9/5,Malta 1983/84
+/tablesm/malt89.html,9/4,Malta 1988/89
+/tablesm/malt93.html,9/5,Malta 1992/93
+/tablesm/malt94.html,9/4,Malta 1993/94
+/tablesm/malt95.html,9/5,Malta 1994/95
+/tablesm/malt96.html,9/6,Malta 1995/96
+/tablesm/malt97.html,9/6,Malta 1996/97
+/tablesm/malt98.html,7/8,Malta 1997/98
+/tablesm/malt99.html,7/7,Malta 1998/99
+/tablesm/malta-u16.html,0/2,?
+/tablesm/maltamafoot.html,1/2,Malta - Amateur Football
+/tablesm/maltcassarhist.html,2/3,Malta - List of Cassar Cup Finals
+/tablesm/maltchamp.html,47/64,Malta - List of Champions and Runners-Up
+/tablesm/maltchristmashist.html,1/2,Malta - List of Christmas Cup Finals
+/tablesm/maltchronalltime.html,1/2,Malta - All-Time Table
+/tablesm/maltcup00.html,7/1,Malta Cup 1999/2000
+/tablesm/maltcup01.html,7/1,Malta Cup 2000/01
+/tablesm/maltcup02.html,7/1,Malta Cups 2001/02
+/tablesm/maltcup03.html,7/1,Malta Cups 2002/03
+/tablesm/maltcup04.html,7/1,Malta Cups 2003/04
+/tablesm/maltcup05.html,7/1,Malta Cups 2004/05
+/tablesm/maltcup06.html,7/1,Malta Cups 2005/06
+/tablesm/maltcup07.html,7/1,Malta Cups 2006/07
+/tablesm/maltcup08.html,7/1,Malta Cups 2007/08
+/tablesm/maltcup09.html,7/1,Malta Cups 2008/09
+/tablesm/maltcup97.html,9/1,Malta Cup 1996/97
+/tablesm/maltcup98.html,7/1,Malta Cup 1997/98
+/tablesm/maltcup99.html,5/1,-
+/tablesm/maltcuphist.html,37/65,Malta - List of Cup Finals
+/tablesm/maltfound.html,1/56,Malta - Foundation Dates Clubs
+/tablesm/maltgarmycup.html,1/2,Malta - Army Cup
+/tablesm/malthist.html,1/60,Malta - List of Final Tables
+/tablesm/maltleaguecuphist.html,4/3,Malta - List of League Cup Finals
+/tablesm/maltlowchamp.html,1/2,Malta - List of Lower Division Champions
+/tablesm/maltlowenbrauhist.html,4/3,Malta - List of Lowenbrau Cup Finals
+/tablesm/maltmaltacuphist.html,3/2,Malta - List of Malta Cup Finals
+/tablesm/maltoldcups.html,3/7,Malta - Results Various Cup Tournaments
+/tablesm/maltplall.html,1/2,Malta - Final Placings
+/tablesm/maltsciclunahist.html,6/6,Malta - List of Scicluna Cup Finals
+/tablesm/maltsonsofmaltahist.html,4/3,Malta - List of Sons of Malta Cup Finals
+/tablesm/maltsup5cuphist.html,1/2,Malta - List of Quadrangular Cup Finals
+/tablesm/maltsupcuphist.html,8/50,Malta - List of Super Cup Finals
+/tablesm/malttestaferratahist.html,5/4,Malta - List of Testaferrata Cup Finals
+/tablesm/malttops.html,1/59,Malta - List of Topscorers
+/tablesm/mamemic56.html,0/2,?
+/tablesm/manchester-3nat04.html,0/1,?
+/tablesm/mancity95.html,0/1,?
+/tablesm/mancomunidad.html,1/2,Trofeo Mancomunidad del Caudal (Asturias)
+/tablesm/mandela.html,0/2,?
+/tablesm/manila-iiy65.html,1/2,"Manila ""Investment in Youth"" Soccer Series 1965"
+/tablesm/manilaindie-tour35.html,4/5,Dutch East Indies Tour of Manila XI 1935
+/tablesm/manoloarnoiajuv.html,1/2,Trofeo Juvenil Manolo Arnoia (Ourense-Spain)
+/tablesm/mantecadojuv.html,1/2,Trofeo Ciudad del Mantecado (Estepa)
+/tablesm/manuelviolas07.html,1/1,Taça Manuel Violas 2007
+/tablesm/manutd-nz67.html,2/3,Manchester United FC Tour of New Zealand 1967
+/tablesm/manutd95.html,0/1,?
+/tablesm/manx-wom00.html,0/2,?
+/tablesm/manx-wom01.html,0/2,?
+/tablesm/manx-wom02.html,0/2,?
+/tablesm/manx-wom03.html,0/2,?
+/tablesm/manx-wom04.html,0/2,?
+/tablesm/manx-wom05.html,0/2,?
+/tablesm/manx-wom06.html,0/2,?
+/tablesm/manx-wom07.html,0/3,?
+/tablesm/manx-wom08.html,5/4,Isle of Man (Women) 2007/08
+/tablesm/manx-wom09.html,5/5,Isle of Man (Women) 2008/09
+/tablesm/manx-wom2010.html,5/5,Isle of Man (Women) 2009/10
+/tablesm/manx-wom2011.html,5/4,Isle of Man (Women) 2010/11
+/tablesm/manx-wom2012.html,0/3,?
+/tablesm/manx-wom2013.html,0/3,?
+/tablesm/manx-wom2014.html,5/4,Isle of Man (Women) 2013/14
+/tablesm/manx-wom2015.html,5/4,Isle of Man (Women) 2014/15
+/tablesm/manx-wom2016.html,0/3,?
+/tablesm/manx-wom2017.html,0/2,?
+/tablesm/manx-wom2018.html,5/4,Isle of Man (Women) 2017/18
+/tablesm/manx-wom2019.html,5/4,Isle of Man (Women) 2018/19
+/tablesm/manx-wom2020.html,0/2,?
+/tablesm/manx-wom2021.html,0/2,?
+/tablesm/manx-wom2022.html,0/2,?
+/tablesm/manx-wom2023.html,0/2,?
+/tablesm/manx-wom2024.html,5/3,Isle of Man (Women) 2023/24
+/tablesm/manx-wom2025.html,0/3,?
+/tablesm/manx-wom2026.html,4/2,Isle of Man (Women) 2025/26
+/tablesm/manx-wom2champ.html,1/2,Isle of Man - List of Women Second Level Champions
+/tablesm/manx-womchamp.html,24/11,Isle of Man - List of Women Champions
+/tablesm/manx-womcuphist.html,28/12,Isle of Man - List of Women Cup Winners
+/tablesm/manx00.html,5/5,Isle of Man 1999/2000
+/tablesm/manx01.html,5/5,Isle of Man 2000/01
+/tablesm/manx02.html,6/5,Isle of Man 2001/02
+/tablesm/manx03.html,6/5,Isle of Man 2002/03
+/tablesm/manx04.html,6/4,Isle of Man 2003/04
+/tablesm/manx05.html,6/4,Isle of Man 2004/05
+/tablesm/manx06.html,6/5,Isle of Man 2005/06
+/tablesm/manx07.html,6/5,Isle of Man 2006/07
+/tablesm/manx08.html,6/5,Isle of Man 2007/08
+/tablesm/manx09.html,6/5,Isle of Man 2008/09
+/tablesm/manx1898.html,4/6,Isle of Man 1890-1994/95 (partial information)
+/tablesm/manx2010.html,6/5,Isle of Man 2009/10
+/tablesm/manx2011.html,6/5,Isle of Man 2010/11
+/tablesm/manx2012.html,6/5,Isle of Man 2011/12
+/tablesm/manx2013.html,6/5,Isle of Man 2012/13
+/tablesm/manx2014.html,6/5,Isle of Man 2013/14
+/tablesm/manx2015.html,6/5,Isle of Man 2014/15
+/tablesm/manx2016.html,6/5,Isle of Man 2015/16
+/tablesm/manx2017.html,6/5,Isle of Man 2016/17
+/tablesm/manx2018.html,6/5,Isle of Man 2017/18
+/tablesm/manx2019.html,6/5,Isle of Man 2018/19
+/tablesm/manx2020.html,6/4,Isle of Man 2019/20
+/tablesm/manx2021.html,6/5,Isle of Man 2020/21
+/tablesm/manx2022.html,6/5,Isle of Man 2021/22
+/tablesm/manx2023.html,6/5,Isle of Man 2022/23
+/tablesm/manx2024.html,6/5,Isle of Man 2023/24
+/tablesm/manx2025.html,7/5,Isle of Man 2024/25
+/tablesm/manx2026.html,6/6,Isle of Man 2025/26
+/tablesm/manx2champ.html,1/4,Isle of Man - List of Second Level Champions
+/tablesm/manx96.html,5/5,Isle of Man 1995/96
+/tablesm/manx97.html,5/5,Isle of Man 1996/97
+/tablesm/manx98.html,5/5,Isle of Man 1997/98
+/tablesm/manx99.html,5/5,Isle of Man 1998/99
+/tablesm/manxchamp.html,33/36,Isle of Man - List of Champions
+/tablesm/manxcuphist.html,32/36,Isle of Man - List of Cup Winners
+/tablesm/manxfound.html,1/27,Isle of Man - List of Foundation Dates Clubs
+/tablesm/maple95.html,0/2,?
+/tablesm/maputo-tourn80.html,1/2,Torneio internacional de futebol de Maputo 1980
+/tablesm/mar-desafio93.html,2/1,Copa Desafío Mar del Plata 1993
+/tablesm/mar-desafio99.html,2/1,Copa Desafío Mar del Plata 1999
+/tablesm/mar-revancha02.html,2/1,Copa Revancha 2002
+/tablesm/mar-revancha93.html,2/1,Copa Revancha 1993
+/tablesm/mar-revancha95.html,2/1,Copa Revancha 1995 (Mar del Plata)
+/tablesm/mar-revancha96.html,2/1,Copa Revancha 1996 (Mar del Plata)
+/tablesm/mar-sucre73.html,1/2,Copa Mariscal Sucre
+/tablesm/marahhalim.html,3/11,Marah Halim Cup (Indonesia)
+/tablesm/maranchamp.html,0/9,Maranhão State League - List of Champions
+/tablesm/maranh00.html,5/2,Maranhão State League 2000
+/tablesm/maranh77.html,3/2,Maranhão State League 1977
+/tablesm/maranh78.html,4/3,Maranhão State League 1978
+/tablesm/maranh84.html,4/3,Maranhão State League 1984
+/tablesm/maranh91.html,4/3,Maranhão State League 1991
+/tablesm/maranh95.html,4/3,Maranhão State League 1995
+/tablesm/maranh97.html,4/3,Maranhão State League 1997
+/tablesm/maranh98.html,4/3,Maranhão State League 1998
+/tablesm/maranh99.html,4/3,Maranhão State League 1999
+/tablesm/maranhtops.html,1/2,Maranhão -- List of State Topscorers
+/tablesm/marbella04.html,1/1,Marbella Football Cup 2004
+/tablesm/marbella2012.html,1/2,Marbella Cup (Spain)
+/tablesm/marcamadrid.html,1/2,Trofeo Diario Marca (Madrid)
+/tablesm/mardelplata00.html,2/4,Copa Ciudad de Mar del Plata 2000
+/tablesm/mardelplata01.html,4/3,Torneo Verano Mar del Plata 2001
+/tablesm/mardelplata02.html,2/2,Copa Ciudad de Mar del Plata 2002
+/tablesm/mardelplata04.html,5/3,Torneo Pentagonal de Verano 2004
+/tablesm/mardelplata10.html,0/2,?
+/tablesm/mardelplata11.html,2/2,Copa Ciudad de Mar del Plata 2011
+/tablesm/mardelplata12.html,2/2,Copa Ciudad de Mar del Plata 2012
+/tablesm/mardelplata14.html,2/2,Copa Ciudad de Mar del Plata 2014
+/tablesm/mardelplata15.html,2/2,Copa Ciudad de Mar del Plata 2015
+/tablesm/mardelplata16.html,2/1,Copa Ciudad de Mar del Plata 2016
+/tablesm/mardelplata68.html,2/4,Copa Mar del Plata 1968
+/tablesm/mardelplata87.html,2/3,Copa Ciudad de Mar del Plata 1987
+/tablesm/mardelplata88.html,2/3,Copa Ciudad de Mar del Plata 1988
+/tablesm/mardelplata90.html,2/3,Copa Ciudad de Mar del Plata 1990
+/tablesm/mardelplata91.html,2/3,Copa Ciudad de Mar del Plata 1991
+/tablesm/mardelplata92.html,2/3,Copa Ciudad de Mar del Plata 1992
+/tablesm/mardelplata93.html,2/3,Copa Ciudad de Mar del Plata 1993
+/tablesm/mardelplata95.html,2/3,Copa Ciudad de Mar del Plata 1995
+/tablesm/mardelplata96.html,2/3,Copa Ciudad de Mar del Plata 1996
+/tablesm/mardelplata97.html,2/3,Copa Ciudad de Mar del Plata 1997
+/tablesm/mardelplata98.html,2/2,Copa Ciudad de Mar del Plata 1998
+/tablesm/mardelplata99.html,2/2,Copa Ciudad de Mar del Plata 1999
 /tablesm/marianasclubchamp2023.html,1/2,Marianas Club Championship 2023
-/tablesm/marin.html,1/1,Trofeo Villa de Marín (Pontevedra)
-/tablesm/maro-intres.html,8/1,Morocco - List of International Matches
-/tablesm/maro-intres-detwcq.html,0/1,-
-/tablesm/maro-intres0009.html,0/1,-
-/tablesm/maro-intres2016.html,0/1,-
-/tablesm/maro-intres2017.html,0/1,-
-/tablesm/maro-intres2018.html,0/1,-
-/tablesm/maro-intres2019.html,0/1,-
-/tablesm/maro-intres2020.html,0/1,-
-/tablesm/maro00.html,0/2,-
-/tablesm/maro01.html,0/2,-
-/tablesm/maro02.html,0/2,-
-/tablesm/maro03.html,0/2,-
-/tablesm/maro04.html,0/2,-
-/tablesm/maro05.html,0/2,-
-/tablesm/maro06.html,0/2,-
-/tablesm/maro07.html,0/2,-
-/tablesm/maro08.html,0/2,-
-/tablesm/maro09.html,0/2,-
-/tablesm/maro1916.html,0/2,-
-/tablesm/maro1917.html,0/1,-
-/tablesm/maro2010.html,0/2,-
-/tablesm/maro2011.html,0/2,-
-/tablesm/maro2012.html,0/2,-
-/tablesm/maro2013.html,0/3,-
-/tablesm/maro2014.html,0/3,-
-/tablesm/maro2015.html,0/2,-
-/tablesm/maro2016.html,0/2,-
-/tablesm/maro2017.html,0/2,-
-/tablesm/maro2018.html,0/2,-
-/tablesm/maro2019.html,0/2,-
-/tablesm/maro2020.html,0/2,-
-/tablesm/maro2021.html,0/2,-
-/tablesm/maro2022.html,0/2,-
-/tablesm/maro2023.html,0/2,-
-/tablesm/maro2024.html,0/3,-
-/tablesm/maro2025.html,6/3,Morocco 2024/25
-/tablesm/maro2026.html,5/3,Morocco 2025/26
-/tablesm/maro23.html,0/1,-
-/tablesm/maro25.html,0/1,-
-/tablesm/maro29.html,0/1,-
-/tablesm/maro30.html,0/1,-
-/tablesm/maro31.html,0/1,-
-/tablesm/maro32.html,0/1,-
-/tablesm/maro33.html,0/1,-
-/tablesm/maro34.html,0/2,-
-/tablesm/maro35.html,0/1,-
-/tablesm/maro36.html,0/2,-
-/tablesm/maro37.html,0/2,-
-/tablesm/maro38.html,0/1,-
-/tablesm/maro3944.html,0/2,-
-/tablesm/maro46.html,0/1,-
-/tablesm/maro47.html,0/1,-
-/tablesm/maro48.html,0/1,-
-/tablesm/maro49.html,0/1,-
-/tablesm/maro50.html,0/1,-
-/tablesm/maro51.html,0/1,-
-/tablesm/maro52.html,0/1,-
-/tablesm/maro53.html,0/1,-
-/tablesm/maro54.html,0/1,-
-/tablesm/maro55.html,0/1,-
-/tablesm/maro57.html,0/2,-
-/tablesm/maro58.html,0/2,-
-/tablesm/maro59.html,0/2,-
-/tablesm/maro60.html,0/2,-
-/tablesm/maro61.html,0/2,-
-/tablesm/maro62.html,0/2,-
-/tablesm/maro63.html,0/2,-
-/tablesm/maro64.html,0/2,-
-/tablesm/maro65.html,0/2,-
-/tablesm/maro66.html,0/2,-
-/tablesm/maro67.html,0/2,-
-/tablesm/maro68.html,0/2,-
-/tablesm/maro69.html,0/2,-
-/tablesm/maro70.html,0/2,-
-/tablesm/maro72.html,0/2,-
-/tablesm/maro73.html,0/2,-
-/tablesm/maro75.html,0/2,-
-/tablesm/maro76.html,0/2,-
-/tablesm/maro77.html,0/2,-
-/tablesm/maro78.html,0/2,-
-/tablesm/maro79.html,0/2,-
-/tablesm/maro80.html,0/2,-
-/tablesm/maro81.html,0/2,-
-/tablesm/maro83.html,0/2,-
-/tablesm/maro84.html,0/2,-
-/tablesm/maro85.html,0/2,-
-/tablesm/maro86.html,0/2,-
-/tablesm/maro87.html,0/2,-
-/tablesm/maro88.html,0/2,-
-/tablesm/maro89.html,0/2,-
-/tablesm/maro90.html,0/2,-
-/tablesm/maro91.html,0/2,-
-/tablesm/maro92.html,0/2,-
-/tablesm/maro93.html,0/2,-
-/tablesm/maro94.html,0/2,-
-/tablesm/maro95.html,0/2,-
-/tablesm/maro96.html,0/2,-
-/tablesm/maro97.html,0/2,-
-/tablesm/maro98.html,0/2,-
-/tablesm/maro99.html,0/2,-
-/tablesm/marochamp.html,99/5,Morocco - List of Champions
-/tablesm/maroclublist.html,1/1,Morocco - List of Clubs
-/tablesm/marocup71.html,0/2,-
-/tablesm/marocup74.html,0/2,-
-/tablesm/marocup82.html,0/2,-
-/tablesm/marocuphist.html,76/2,Morocco - List of Cup Finals
-/tablesm/maroothcuphist.html,0/1,-
-/tablesm/marotops.html,1/2,Morocco - List of Topscorers
-/tablesm/martin-intres.html,1/1,Martinique - List of International Matches
-/tablesm/martin00.html,0/2,-
-/tablesm/martin01.html,0/2,-
-/tablesm/martin02.html,0/2,-
-/tablesm/martin03.html,0/2,-
-/tablesm/martin04.html,0/2,-
-/tablesm/martin05.html,0/2,-
-/tablesm/martin06.html,0/2,-
-/tablesm/martin07.html,0/2,-
-/tablesm/martin08.html,0/2,-
-/tablesm/martin09.html,0/2,-
-/tablesm/martin79.html,0/1,-
-/tablesm/martin80.html,0/1,-
-/tablesm/martin82.html,0/1,-
-/tablesm/martin88.html,0/1,-
-/tablesm/martin89.html,0/1,-
-/tablesm/martin92.html,0/1,-
-/tablesm/martin93.html,0/1,-
-/tablesm/martinchamp.html,38/4,France - D.O.M. - Martinique - List of Champions
-/tablesm/martincup98.html,0/1,-
-/tablesm/martincuphist.html,30/4,France - D.O.M. - Martinique - List of Cup Winners
-/tablesm/martincuphistdata.html,0/1,-
-/tablesm/martinguad04.html,0/1,-
-/tablesm/martinguad05.html,0/1,-
-/tablesm/martinguad06.html,0/1,-
-/tablesm/martinguad07.html,0/1,-
-/tablesm/martinguad08.html,0/1,-
-/tablesm/martinguad09.html,0/1,-
-/tablesm/martinguad97.html,0/3,-
-/tablesm/martinguadchamp.html,25/5,France - D.O.M. - Antilles - List of Champions
-/tablesm/martinguadcuphist.html,0/3,-
-/tablesm/martinpre61.html,0/2,-
-/tablesm/martinusdexc.html,0/2,-
-/tablesm/maur-intres.html,1/1,Mauritania - List of International Matches
-/tablesm/maur00.html,0/2,-
-/tablesm/maur01.html,0/1,-
-/tablesm/maur02.html,0/1,-
-/tablesm/maur03.html,0/2,-
-/tablesm/maur04.html,0/2,-
-/tablesm/maur05.html,0/2,-
-/tablesm/maur06.html,0/2,-
-/tablesm/maur07.html,0/2,-
-/tablesm/maur08.html,0/2,-
-/tablesm/maur09.html,0/2,-
-/tablesm/maur2010.html,0/2,-
-/tablesm/maur2011.html,0/2,-
-/tablesm/maur2012.html,0/2,-
-/tablesm/maur2013.html,0/2,-
-/tablesm/maur2014.html,0/2,-
-/tablesm/maur2015.html,0/2,-
-/tablesm/maur2016.html,0/2,-
-/tablesm/maur2017.html,0/2,-
-/tablesm/maur2018.html,0/2,-
-/tablesm/maur2019.html,0/2,-
-/tablesm/maur2020.html,0/2,-
-/tablesm/maur2021.html,0/2,-
-/tablesm/maur2022.html,0/2,-
-/tablesm/maur2023.html,0/2,-
-/tablesm/maur2024.html,0/3,-
-/tablesm/maur2025.html,7/6,Mauritania 2024/25
-/tablesm/maur2026.html,4/4,Mauritania 2025/26
-/tablesm/maur74.html,0/2,-
-/tablesm/maur89.html,0/1,-
-/tablesm/maur90.html,0/1,-
-/tablesm/maur91.html,0/1,-
-/tablesm/maur92.html,0/2,-
-/tablesm/maur93.html,0/1,-
-/tablesm/maur99.html,0/2,-
-/tablesm/maurchamp.html,37/2,Mauritania - List of Champions
-/tablesm/maurcup98.html,0/2,-
-/tablesm/maurcuphist.html,31/2,Mauritania Cup Winners
-/tablesm/mauri-intres.html,1/1,Mauritius - List of International Matches
-/tablesm/mauri01.html,0/2,-
-/tablesm/mauri02.html,0/2,-
-/tablesm/mauri03.html,0/2,-
-/tablesm/mauri04.html,0/2,-
-/tablesm/mauri05.html,0/3,-
-/tablesm/mauri06.html,0/4,-
-/tablesm/mauri07.html,0/2,-
-/tablesm/mauri08.html,0/2,-
-/tablesm/mauri09.html,0/2,-
-/tablesm/mauri2010.html,0/2,-
-/tablesm/mauri2011.html,0/1,-
-/tablesm/mauri2012.html,0/2,-
-/tablesm/mauri2013.html,0/2,-
-/tablesm/mauri2014.html,0/2,-
-/tablesm/mauri2015.html,0/2,-
-/tablesm/mauri2016.html,0/2,-
-/tablesm/mauri2017.html,0/2,-
-/tablesm/mauri2018.html,0/2,-
-/tablesm/mauri2019.html,0/2,-
-/tablesm/mauri2020.html,0/2,-
-/tablesm/mauri2021.html,0/2,-
-/tablesm/mauri2023.html,0/2,-
-/tablesm/mauri2024.html,0/3,-
-/tablesm/mauri2025.html,6/4,Mauritius 2024/25
-/tablesm/mauri2026.html,4/4,Mauritius 2025/26
-/tablesm/mauri83.html,0/1,-
-/tablesm/mauri86.html,0/1,-
-/tablesm/mauri89.html,0/1,-
-/tablesm/mauri91.html,0/1,-
-/tablesm/mauri93.html,0/2,-
-/tablesm/mauri94.html,0/1,-
-/tablesm/mauri95.html,0/3,-
-/tablesm/mauri96.html,0/1,-
-/tablesm/mauri97.html,0/2,-
-/tablesm/mauri98.html,0/3,-
-/tablesm/mauri99.html,0/3,-
-/tablesm/maurichamp.html,37/2,Mauritius - List of Champions
-/tablesm/mauricup00.html,0/1,-
-/tablesm/mauricup88.html,0/1,-
-/tablesm/mauricuphist.html,33/2,Mauritius - List of Cup Winners
-/tablesm/mayo-intres.html,1/1,Mayotte - International Matches
-/tablesm/mayo00.html,0/2,-
-/tablesm/mayo01.html,0/2,-
-/tablesm/mayo02.html,0/2,-
-/tablesm/mayo03.html,0/2,-
-/tablesm/mayo04.html,0/2,-
-/tablesm/mayo05.html,0/2,-
-/tablesm/mayo06.html,0/2,-
-/tablesm/mayo07.html,0/2,-
-/tablesm/mayo08.html,0/2,-
-/tablesm/mayo09.html,0/2,-
-/tablesm/mayo2010.html,0/2,-
-/tablesm/mayo2011.html,0/2,-
-/tablesm/mayo2012.html,0/2,-
-/tablesm/mayo2013.html,0/2,-
-/tablesm/mayo2014.html,0/2,-
-/tablesm/mayo2015.html,0/2,-
-/tablesm/mayo2016.html,0/2,-
-/tablesm/mayo2017.html,0/2,-
-/tablesm/mayo2018.html,0/2,-
-/tablesm/mayo2019.html,0/2,-
-/tablesm/mayo2020.html,0/2,-
-/tablesm/mayo2021.html,0/2,-
-/tablesm/mayo2022.html,0/2,-
-/tablesm/mayo2023.html,0/3,-
-/tablesm/mayo2024.html,5/3,Mayotte 2024
-/tablesm/mayo2025.html,4/4,Mayotte 2025
-/tablesm/mayo99.html,0/1,-
-/tablesm/mayochamp.html,28/2,Mayotte - List of Champions
-/tablesm/mayocuphist.html,28/2,Mayotte - List of Cup Winners
-/tablesm/medcup49.html,0/1,-
-/tablesm/medcup53.html,0/1,-
-/tablesm/medcup58.html,0/1,-
-/tablesm/medgames.html,23/3,Mediterranean Cup and Mediterranean Games - Overview
-/tablesm/medgames01.html,0/1,-
-/tablesm/medgames05.html,0/1,-
-/tablesm/medgames09.html,0/1,-
-/tablesm/medgames2013.html,0/2,-
-/tablesm/medgames2018.html,4/2,Mediterranean Games 2018 (Spain)
+/tablesm/marianascup.html,0/4,?
+/tablesm/marin.html,1/2,Trofeo Villa de Marín (Pontevedra)
+/tablesm/marjan-split02.html,2/2,Marjan Tournament in Split 2002
+/tablesm/marjan-split77.html,2/3,Marjan Tournament in Split 1977
+/tablesm/marlboro.html,0/7,?
+/tablesm/maro-intres.html,8/9,Morocco - List of International Matches
+/tablesm/maro-intres-detwcq.html,2/2,Morocco - Details of World Cup Matches
+/tablesm/maro-intres0009.html,2/2,Morocco - Details of International Matches 2000-2009
+/tablesm/maro-intres2016.html,3/3,Morocco - Details of International Matches 2016
+/tablesm/maro-intres2017.html,4/4,Morocco - Details of International Matches 2017
+/tablesm/maro-intres2018.html,4/4,Morocco - Details of International Matches 2018
+/tablesm/maro-intres2019.html,4/4,Morocco - Details of International Matches 2019
+/tablesm/maro-intres2020.html,3/3,Morocco - Details of International Matches 2020
+/tablesm/maro-wom00.html,0/1,?
+/tablesm/maro-wom02.html,0/1,?
+/tablesm/maro-wom03.html,0/2,?
+/tablesm/maro-wom05.html,0/2,?
+/tablesm/maro-wom06.html,0/2,?
+/tablesm/maro-wom07.html,0/2,?
+/tablesm/maro-wom08.html,0/2,?
+/tablesm/maro-wom09.html,0/2,?
+/tablesm/maro-wom2010.html,0/2,?
+/tablesm/maro-wom2011.html,0/2,?
+/tablesm/maro-wom2012.html,0/2,?
+/tablesm/maro-wom2013.html,0/2,?
+/tablesm/maro-wom2014.html,0/2,?
+/tablesm/maro-wom2015.html,0/2,?
+/tablesm/maro-wom2016.html,0/3,?
+/tablesm/maro-wom2017.html,5/4,Morocco (Women) 2016/17
+/tablesm/maro-wom2018.html,5/4,Morocco (Women) 2017/18
+/tablesm/maro-wom2019.html,0/2,?
+/tablesm/maro-wom2020.html,0/3,?
+/tablesm/maro-wom2021.html,5/3,Morocco (Women) 2021
+/tablesm/maro-wom2022.html,5/5,Morocco (Women) 2021/22
+/tablesm/maro-wom2023.html,5/5,Morocco (Women) 2022/23
+/tablesm/maro-wom2024.html,5/5,Morocco (Women) 2023/24
+/tablesm/maro-wom2025.html,4/5,Morocco (Women) 2024/25
+/tablesm/maro-womchamp.html,23/8,Morocco - List of (Women) Champions
+/tablesm/maro-womcuphist.html,23/8,Morocco - List of (Women) Cup Winners
+/tablesm/maro00.html,5/5,Morocco 1999/2000
+/tablesm/maro01.html,5/5,Morocco 2000/01
+/tablesm/maro02.html,5/5,Morocco 2001/02
+/tablesm/maro03.html,5/5,Morocco 2002/03
+/tablesm/maro04.html,5/5,Morocco 2003/04
+/tablesm/maro05.html,5/5,Morocco 2004/05
+/tablesm/maro06.html,6/5,Morocco 2005/06
+/tablesm/maro07.html,6/6,Morocco 2006/07
+/tablesm/maro08.html,6/5,Morocco 2007/08
+/tablesm/maro09.html,6/6,Morocco 2008/09
+/tablesm/maro1916.html,4/3,Morocco 1915/16
+/tablesm/maro1917.html,5/3,Morocco 1916/17
+/tablesm/maro2010.html,6/5,Morocco 2009/10
+/tablesm/maro2011.html,6/5,Morocco 2010/11
+/tablesm/maro2012.html,6/5,Morocco 2011/12
+/tablesm/maro2013.html,6/7,Morocco 2012/13
+/tablesm/maro2014.html,6/6,Morocco 2013/14
+/tablesm/maro2015.html,6/5,Morocco 2014/15
+/tablesm/maro2016.html,6/5,Morocco 2015/16
+/tablesm/maro2017.html,6/5,Morocco 2016/17
+/tablesm/maro2018.html,6/6,Morocco 2017/18
+/tablesm/maro2019.html,6/5,Morocco 2018/19
+/tablesm/maro2020.html,6/5,Morocco 2019/20
+/tablesm/maro2021.html,6/6,Morocco 2020/21
+/tablesm/maro2022.html,6/5,Morocco 2021/22
+/tablesm/maro2023.html,6/5,Morocco 2022/23
+/tablesm/maro2024.html,6/5,Morocco 2023/24
+/tablesm/maro2025.html,6/6,Morocco 2024/25
+/tablesm/maro2026.html,5/4,Morocco 2025/26
+/tablesm/maro23.html,5/3,Morocco 1922/23
+/tablesm/maro25.html,5/3,Morocco 1924/25
+/tablesm/maro29.html,5/3,Morocco 1928/29
+/tablesm/maro2champ.html,1/2,Morocco - List of Second Level Champions
+/tablesm/maro30.html,5/3,Morocco 1929/30
+/tablesm/maro31.html,5/3,Morocco 1930/31
+/tablesm/maro32.html,5/3,Morocco 1931/32
+/tablesm/maro33.html,5/3,Morocco 1932/33
+/tablesm/maro34.html,5/4,Morocco 1933/34
+/tablesm/maro35.html,5/3,Morocco 1934/35
+/tablesm/maro36.html,5/4,Morocco 1935/36
+/tablesm/maro37.html,5/5,Morocco 1936/37
+/tablesm/maro38.html,5/3,Morocco 1937/38
+/tablesm/maro3944.html,5/4,Morocco 1939-1945
+/tablesm/maro46.html,5/3,Morocco 1945/46
+/tablesm/maro47.html,5/3,Morocco 1946/47
+/tablesm/maro48.html,5/3,Morocco 1947/48
+/tablesm/maro49.html,5/3,Morocco 1948/49
+/tablesm/maro50.html,5/3,Morocco 1949/50
+/tablesm/maro51.html,6/3,Morocco 1950/51
+/tablesm/maro52.html,6/3,Morocco 1951/52
+/tablesm/maro53.html,6/3,Morocco 1952/53
+/tablesm/maro54.html,5/3,Morocco 1953/54
+/tablesm/maro55.html,6/3,Morocco 1954/55
+/tablesm/maro57.html,5/6,Morocco 1956/57
+/tablesm/maro58.html,5/6,Morocco 1957/58
+/tablesm/maro59.html,5/6,Morocco 1958/59
+/tablesm/maro60.html,5/6,Morocco 1959/60
+/tablesm/maro61.html,5/6,Morocco 1960/61
+/tablesm/maro62.html,5/7,Morocco 1961/62
+/tablesm/maro63.html,5/7,Morocco 1962/63
+/tablesm/maro64.html,5/7,Morocco 1963/64
+/tablesm/maro65.html,5/6,Morocco 1964/65
+/tablesm/maro66.html,5/6,Morocco 1965/66
+/tablesm/maro67.html,5/6,Morocco 1966/67
+/tablesm/maro68.html,5/6,Morocco 1967/68
+/tablesm/maro69.html,5/6,Morocco 1968/69
+/tablesm/maro70.html,5/6,Morocco 1969/70
+/tablesm/maro72.html,5/6,Morocco 1971/72
+/tablesm/maro73.html,5/6,Morocco 1972/73
+/tablesm/maro75.html,5/6,Morocco 1974/75
+/tablesm/maro76.html,5/5,Morocco 1975/76
+/tablesm/maro77.html,5/5,Morocco 1976/77
+/tablesm/maro78.html,5/6,Morocco 1977/78
+/tablesm/maro79.html,5/6,Morocco 1978/79
+/tablesm/maro80.html,5/6,Morocco 1979/80
+/tablesm/maro81.html,5/6,Morocco 1980/81
+/tablesm/maro83.html,5/5,Morocco 1982/83
+/tablesm/maro84.html,5/5,Morocco 1983/84
+/tablesm/maro85.html,5/5,Morocco 1984/85
+/tablesm/maro86.html,5/5,Morocco 1985/86
+/tablesm/maro87.html,5/5,Morocco 1986/87
+/tablesm/maro88.html,5/5,Morocco 1987/88
+/tablesm/maro89.html,5/5,Morocco 1988/89
+/tablesm/maro90.html,5/6,Morocco 1989/90
+/tablesm/maro91.html,5/6,Morocco 1990/91
+/tablesm/maro92.html,5/5,Morocco 1991/92
+/tablesm/maro93.html,5/5,Morocco 1992/93
+/tablesm/maro94.html,5/5,Morocco 1993/94
+/tablesm/maro95.html,6/5,Morocco 1994/95
+/tablesm/maro96.html,5/5,Morocco 1995/96
+/tablesm/maro97.html,5/6,Morocco 1996/97
+/tablesm/maro98.html,5/6,Morocco 1997/98
+/tablesm/maro99.html,5/5,Morocco 1998/99
+/tablesm/marochamp.html,99/102,Morocco - List of Champions
+/tablesm/maroclublist.html,1/3,Morocco - List of Clubs
+/tablesm/marocup71.html,5/6,Morocco 1970/71
+/tablesm/marocup74.html,6/6,Morocco Cup 1973/74
+/tablesm/marocup82.html,5/6,Morocco 1981/82
+/tablesm/marocuphist.html,76/99,Morocco - List of Cup Finals
+/tablesm/marofound.html,1/2,Morocco - List of Foundation Dates
+/tablesm/maroothcuphist.html,1/2,Morocco - Various Pre-Independence Cup Tournaments
+/tablesm/marosupcuphist.html,1/3,Morocco - List of Super Cup Finals
+/tablesm/marotops.html,1/23,Morocco - List of Topscorers
+/tablesm/marseille-indoor90.html,0/2,?
+/tablesm/marseille-tourn87.html,1/2,Friendly Tournament Marseille 1987
+/tablesm/marseille33.html,1/2,Tournament in Marseille 1933
+/tablesm/marsh-wom00.html,0/1,?
+/tablesm/marsh-wom01.html,0/1,?
+/tablesm/marsh-wom02.html,0/1,?
+/tablesm/marsh-wom03.html,0/1,?
+/tablesm/marsh-wom04.html,0/1,?
+/tablesm/marsh-wom05.html,0/1,?
+/tablesm/marsh-wom06.html,0/1,?
+/tablesm/marsh-wom09.html,0/1,?
+/tablesm/marsh-wom2010.html,0/2,?
+/tablesm/marsh-wom2011.html,3/3,Marshall Islands (Women) 2011
+/tablesm/marsh-wom2012.html,3/4,Marshall Islands (Women) 2012
+/tablesm/marsh-wom2013.html,4/3,Marshall Islands (Women) 2013
+/tablesm/marsh-wom2014.html,0/2,?
+/tablesm/marsh-wom2015.html,0/1,?
+/tablesm/marsh-wom2016.html,0/2,?
+/tablesm/marsh-wom2017.html,4/2,Marshall Islands (Women) 2017
+/tablesm/marsh-wom2018.html,0/2,?
+/tablesm/marsh-wom2020.html,0/1,?
+/tablesm/marsh-wom2021.html,0/2,?
+/tablesm/marsh-wom2023.html,3/2,Marshall Islands (Women) 2023
+/tablesm/marsh-wom81.html,0/2,?
+/tablesm/marsh-wom87.html,0/1,?
+/tablesm/marsh-wom88.html,0/1,?
+/tablesm/marsh-wom89.html,0/1,?
+/tablesm/marsh-wom98.html,0/1,?
+/tablesm/marsh-wom99.html,0/1,?
+/tablesm/marsh-womchamp.html,27/5,Marshall Islands - List of Women Champions
+/tablesm/marsh00.html,0/1,?
+/tablesm/marsh01.html,0/1,?
+/tablesm/marsh02.html,0/1,?
+/tablesm/marsh03.html,0/1,?
+/tablesm/marsh04.html,0/1,?
+/tablesm/marsh05.html,0/1,?
+/tablesm/marsh06.html,0/1,?
+/tablesm/marsh09.html,0/1,?
+/tablesm/marsh2010.html,0/2,?
+/tablesm/marsh2011.html,4/3,Marshall Islands 2011
+/tablesm/marsh2012.html,4/4,Marshall Islands 2012
+/tablesm/marsh2013.html,4/3,Marshall Islands 2013
+/tablesm/marsh2014.html,0/2,?
+/tablesm/marsh2015.html,0/1,?
+/tablesm/marsh2016.html,0/2,?
+/tablesm/marsh2017.html,4/2,Marshall Islands 2017
+/tablesm/marsh2018.html,0/2,?
+/tablesm/marsh2020.html,0/1,?
+/tablesm/marsh2021.html,0/1,?
+/tablesm/marsh2022.html,0/1,?
+/tablesm/marsh2023.html,0/1,?
+/tablesm/marsh2025.html,0/1,?
+/tablesm/marsh2026.html,3/2,Marshall Islands 2026
+/tablesm/marsh67.html,0/1,?
+/tablesm/marsh68.html,0/1,?
+/tablesm/marsh69.html,0/1,?
+/tablesm/marsh70.html,0/1,?
+/tablesm/marsh71.html,0/1,?
+/tablesm/marsh72.html,0/1,?
+/tablesm/marsh73.html,0/1,?
+/tablesm/marsh74.html,0/1,?
+/tablesm/marsh75.html,0/1,?
+/tablesm/marsh76.html,0/1,?
+/tablesm/marsh77.html,0/1,?
+/tablesm/marsh78.html,0/1,?
+/tablesm/marsh79.html,0/1,?
+/tablesm/marsh80.html,0/1,?
+/tablesm/marsh81.html,0/1,?
+/tablesm/marsh88.html,0/1,?
+/tablesm/marsh89.html,0/1,?
+/tablesm/marsh98.html,0/1,?
+/tablesm/marsh99.html,0/1,?
+/tablesm/marshchamp.html,42/8,Marshall Islands - List of Champions
+/tablesm/marte-usatrip30.html,1/2,USA trip of Marte (Mexico) 1930
+/tablesm/martigues-tourn88.html,1/2,Friendly Tournament Martigues 1988
+/tablesm/martin-intres.html,1/2,Martinique - List of International Matches
+/tablesm/martin-wom03.html,0/1,?
+/tablesm/martin-wom04.html,0/1,?
+/tablesm/martin-wom05.html,0/1,?
+/tablesm/martin-wom06.html,0/1,?
+/tablesm/martin-wom07.html,0/1,?
+/tablesm/martin-wom08.html,0/2,?
+/tablesm/martin-wom09.html,4/2,Martinique (Women) 2008/09
+/tablesm/martin-wom2010.html,0/3,?
+/tablesm/martin-wom2011.html,4/3,Martinique (Women) 2010/11
+/tablesm/martin-wom2012.html,4/3,Martinique (Women) 2011/12
+/tablesm/martin-wom2013.html,0/2,?
+/tablesm/martin-wom2014.html,0/1,?
+/tablesm/martin-wom2015.html,0/2,?
+/tablesm/martin-womchamp.html,20/4,Martinique - List of Women Champions
+/tablesm/martin-womcuphist.html,8/2,Martinique - List of Women Cup Winners
+/tablesm/martin00.html,7/5,Martinique 1999/2000
+/tablesm/martin01.html,6/5,Martinique 2000/01
+/tablesm/martin02.html,6/5,Martinique 2001/02
+/tablesm/martin03.html,7/5,Martinique 2002/03
+/tablesm/martin04.html,7/6,Martinique 2003/04
+/tablesm/martin05.html,7/6,Martinique 2004/05
+/tablesm/martin06.html,8/6,Martinique 2005/06
+/tablesm/martin07.html,8/6,Martinique 2006/07
+/tablesm/martin08.html,8/6,Martinique 2007/08
+/tablesm/martin09.html,8/6,Martinique 2008/09
+/tablesm/martin79.html,7/3,Martinique 1978/79
+/tablesm/martin80.html,7/3,Martinique 1979/80
+/tablesm/martin82.html,7/3,Martinique 1982
+/tablesm/martin88.html,6/3,Martinique 1987/88
+/tablesm/martin89.html,6/3,Martinique 1988/89
+/tablesm/martin92.html,6/4,Martinique 1991/92
+/tablesm/martin93.html,6/3,Martinique 1992/93
+/tablesm/martinchamp.html,38/74,France - D.O.M. - Martinique - List of Champions
+/tablesm/martincup98.html,6/3,Martinique (Cup) 1997/98
+/tablesm/martincuphist.html,30/56,France - D.O.M. - Martinique - List of Cup Winners
+/tablesm/martincuphistdata.html,3/3,France - D.O.M. - Martinique - Cup Tournaments Data 1929-1980
+/tablesm/martinez.html,1/5,Martinez Shield
+/tablesm/martinfound.html,1/6,France - D.O.M. - Martinique - List of Foundation Dates
+/tablesm/martinguad04.html,11/7,Ligue des Antilles (Guadeloupe and Martinique) 2004
+/tablesm/martinguad05.html,11/5,Ligue des Antilles (Guadeloupe and Martinique) 2005
+/tablesm/martinguad06.html,11/5,Ligue des Antilles (Guadeloupe and Martinique) 2005/06
+/tablesm/martinguad07.html,11/5,Ligue des Antilles (Guadeloupe and Martinique) 2006/07
+/tablesm/martinguad08.html,11/5,Ligue des Antilles (Guadeloupe and Martinique) 2007/08
+/tablesm/martinguad09.html,11/5,Ligue des Antilles (Guadeloupe and Martinique) 2008/09
+/tablesm/martinguad97.html,13/10,Guadeloupe and Martinique 1996/97
+/tablesm/martinguadchamp.html,25/27,France - D.O.M. - Antilles - List of Champions
+/tablesm/martinguadcuphist.html,4/3,France - D.O.M. - Antilles - List of Cup Winners
+/tablesm/martinpre61.html,10/9,Martinique 1919-1978
+/tablesm/martinusdexc.html,5/7,Division Excellence/SXM Elite Championship (Saint-Martin/Sint Maarten)
+/tablesm/martinuselite2023.html,4/4,SXM Elite Championship 2022/23
+/tablesm/maspalomas.html,1/3,Maspalomas International Football Tournament
+/tablesm/masraja.html,1/2,MAS Fès vs Raja Casablanca
+/tablesm/matgr00.html,3/2,Mato Grosso State League 2000
+/tablesm/matgr77.html,3/2,Mato Grosso State League 1977
+/tablesm/matgr78.html,4/3,Mato Grosso State League 1978
+/tablesm/matgr84.html,4/3,Mato Grosso State League 1984
+/tablesm/matgr91.html,4/3,Mato Grosso State League 1991
+/tablesm/matgr95.html,4/4,Mato Grosso State League 1995
+/tablesm/matgr97.html,4/3,Mato Grosso State League 1997
+/tablesm/matgr98.html,4/3,Mato Grosso State League 1998
+/tablesm/matgr99.html,4/3,Mato Grosso State League 1999
+/tablesm/matgrchamp.html,0/14,Mato Grosso and Mato Grosso do Sul State League - List of Champions
+/tablesm/matgrsul00.html,3/2,Mato Grosso do Sul State League 2000
+/tablesm/matgrsul95.html,3/2,Mato Grosso do Sul State League 1995
+/tablesm/matgrsul97.html,4/3,Mato Grosso do Sul State League 1997
+/tablesm/matgrsul98.html,4/3,Mato Grosso do Sul State League 1998
+/tablesm/matgrsul99.html,4/3,Mato Grosso do Sul State League 1999
+/tablesm/matsu-trip82.html,1/2,Matsushita (Japan) tour of Singapore and Malaysia 1982
+/tablesm/matthews88.html,0/2,?
+/tablesm/maudi09.html,3/2,Audi Cup 2009 - München
+/tablesm/maudi09det.html,0/4,?
+/tablesm/maur-intres.html,1/2,Mauritania - List of International Matches
+/tablesm/maur-wom07.html,0/1,?
+/tablesm/maur-wom2017.html,0/1,?
+/tablesm/maur-wom2018.html,0/1,?
+/tablesm/maur-wom2019.html,0/1,?
+/tablesm/maur-wom2023.html,0/1,?
+/tablesm/maur-wom2024.html,0/1,?
+/tablesm/maur-wom2025.html,3/2,Mauritania (Women) 2025/26
+/tablesm/maur-womchamp.html,7/3,Mauritania - List of Women Champions
+/tablesm/maur00.html,5/4,Mauritania 2000
+/tablesm/maur01.html,5/3,Mauritania 2001
+/tablesm/maur02.html,5/3,Mauritania 2002
+/tablesm/maur03.html,5/4,Mauritania 2003
+/tablesm/maur04.html,5/4,Mauritania 2004
+/tablesm/maur05.html,5/4,Mauritania 2005
+/tablesm/maur06.html,5/4,Mauritania 2005/06
+/tablesm/maur07.html,5/5,Mauritania 2006/07
+/tablesm/maur08.html,5/5,Mauritania 2007/08
+/tablesm/maur09.html,5/5,Mauritania 2009
+/tablesm/maur2010.html,5/5,Mauritania 2010
+/tablesm/maur2011.html,5/5,Mauritania 2010/11
+/tablesm/maur2012.html,5/5,Mauritania 2011/12
+/tablesm/maur2013.html,5/5,Mauritania 2012/13
+/tablesm/maur2014.html,5/5,Mauritania 2013/14
+/tablesm/maur2015.html,5/5,Mauritania 2014/15
+/tablesm/maur2016.html,5/5,Mauritania 2015/16
+/tablesm/maur2017.html,5/5,Mauritania 2016/17
+/tablesm/maur2018.html,5/5,Mauritania 2017/18
+/tablesm/maur2019.html,5/5,Mauritania 2018/19
+/tablesm/maur2020.html,5/5,Mauritania 2019/20
+/tablesm/maur2021.html,5/5,Mauritania 2020/21
+/tablesm/maur2022.html,5/5,Mauritania 2021/22
+/tablesm/maur2023.html,5/5,Mauritania 2022/23
+/tablesm/maur2024.html,5/5,Mauritania 2023/24
+/tablesm/maur2025.html,7/10,Mauritania 2024/25
+/tablesm/maur2026.html,4/6,Mauritania 2025/26
+/tablesm/maur74.html,4/3,Mauritania 1973/74
+/tablesm/maur89.html,5/3,Mauritania 1988 (1988/89?)
+/tablesm/maur90.html,5/3,Mauritania 1990
+/tablesm/maur91.html,5/4,Mauritania 1991
+/tablesm/maur92.html,5/5,Mauritania 1992
+/tablesm/maur93.html,5/4,Mauritania 1993
+/tablesm/maur99.html,5/4,Mauritania 1999
+/tablesm/maurchamp.html,37/36,Mauritania - List of Champions
+/tablesm/maurcup98.html,5/4,Mauritania 1998
+/tablesm/maurcuphist.html,31/38,Mauritania Cup Winners
+/tablesm/maurfound.html,2/2,Mauritania - List of Foundation Dates
+/tablesm/mauri-indep08.html,0/1,?
+/tablesm/mauri-intres.html,1/2,Mauritius - List of International Matches
+/tablesm/mauri-wom02.html,0/1,?
+/tablesm/mauri-wom03.html,0/1,?
+/tablesm/mauri-wom04.html,0/1,?
+/tablesm/mauri-wom05.html,0/1,?
+/tablesm/mauri-wom06.html,0/1,?
+/tablesm/mauri-wom07.html,0/1,?
+/tablesm/mauri-wom08.html,0/1,?
+/tablesm/mauri-wom2015.html,0/1,?
+/tablesm/mauri-wom2016.html,0/1,?
+/tablesm/mauri-wom2017.html,0/2,?
+/tablesm/mauri-wom2019.html,4/3,Mauritius Women 2019
+/tablesm/mauri-wom2024.html,4/4,Mauritius Women 2023/24
+/tablesm/mauri-wom2025.html,3/3,Mauritius Women 2024/25
+/tablesm/mauri-womchamp.html,14/5,Mauritius - List of Women Champions
+/tablesm/mauri01.html,6/6,Mauritius 2000/01
+/tablesm/mauri02.html,5/5,Mauritius 2002
+/tablesm/mauri03.html,5/5,Mauritius 2003
+/tablesm/mauri04.html,5/5,Mauritius 2003/04
+/tablesm/mauri05.html,5/6,Mauritius 2004/05
+/tablesm/mauri06.html,5/7,Mauritius 2005/06
+/tablesm/mauri07.html,5/5,Mauritius 2006/07
+/tablesm/mauri08.html,5/5,Mauritius 2007/08
+/tablesm/mauri09.html,5/5,Mauritius 2008/09
+/tablesm/mauri2010.html,5/5,Mauritius 2010
+/tablesm/mauri2011.html,5/4,Mauritius 2011
+/tablesm/mauri2012.html,5/5,Mauritius 2011/12
+/tablesm/mauri2013.html,5/5,Mauritius 2012/13
+/tablesm/mauri2014.html,5/5,Mauritius 2013/14
+/tablesm/mauri2015.html,5/5,Mauritius 2014/15
+/tablesm/mauri2016.html,5/5,Mauritius 2015/16
+/tablesm/mauri2017.html,5/5,Mauritius 2016/17
+/tablesm/mauri2018.html,5/5,Mauritius 2017/18
+/tablesm/mauri2019.html,6/5,Mauritius 2018/19
+/tablesm/mauri2020.html,6/6,Mauritius 2019/20
+/tablesm/mauri2021.html,6/6,Mauritius 2020/21
+/tablesm/mauri2023.html,6/6,Mauritius 2022/23
+/tablesm/mauri2024.html,6/5,Mauritius 2023/24
+/tablesm/mauri2025.html,6/6,Mauritius 2024/25
+/tablesm/mauri2026.html,4/6,Mauritius 2025/26
+/tablesm/mauri83.html,5/4,Mauritius 1982/83
+/tablesm/mauri86.html,6/4,Mauritius 1985/86
+/tablesm/mauri89.html,6/6,Mauritius 1988/89
+/tablesm/mauri91.html,5/5,Mauritius 1990/91
+/tablesm/mauri93.html,5/5,Mauritius 1992/93
+/tablesm/mauri94.html,5/3,Mauritius 1993/94
+/tablesm/mauri95.html,5/7,Mauritius 1994/95
+/tablesm/mauri96.html,5/5,Mauritius 1995/96
+/tablesm/mauri97.html,5/6,Mauritius 1996/97
+/tablesm/mauri98.html,5/6,Mauritius 1997/98
+/tablesm/mauri99.html,6/7,Mauritius 1998/99
+/tablesm/maurichamp.html,37/40,Mauritius - List of Champions
+/tablesm/mauricup00.html,5/3,Mauritius Cup 1999/2000
+/tablesm/mauricup88.html,6/3,Mauritius Cup 1987/88
+/tablesm/mauricuphist.html,33/41,Mauritius - List of Cup Winners
+/tablesm/maurifound.html,1/2,Mauritius - Foundation Dates of Clubs
+/tablesm/mauritania-tourn84.html,0/2,?
+/tablesm/mayo-interregio05.html,3/3,Tournoi Inter-Régional (Mayotte) 2005
+/tablesm/mayo-interregio06.html,2/2,Tournoi Inter-Régional (Mayotte) 2006
+/tablesm/mayo-intres.html,1/2,Mayotte - International Matches
+/tablesm/mayo-wom06.html,0/1,?
+/tablesm/mayo-wom07.html,0/2,?
+/tablesm/mayo-wom08.html,0/2,?
+/tablesm/mayo-wom09.html,0/2,?
+/tablesm/mayo-wom2010.html,0/1,?
+/tablesm/mayo-wom2011.html,0/2,?
+/tablesm/mayo-wom2012.html,0/3,?
+/tablesm/mayo-wom2013.html,5/4,Mayotte (Women) 2013
+/tablesm/mayo-wom2014.html,5/5,Mayotte (Women) 2014
+/tablesm/mayo-wom2015.html,5/4,Mayotte (Women) 2015
+/tablesm/mayo-wom2016.html,0/3,?
+/tablesm/mayo-wom2017.html,0/2,?
+/tablesm/mayo-wom2018.html,0/2,?
+/tablesm/mayo-wom2019.html,0/2,?
+/tablesm/mayo-wom2020.html,0/1,?
+/tablesm/mayo-wom2021.html,0/2,?
+/tablesm/mayo-wom2022.html,0/3,?
+/tablesm/mayo-wom2023.html,5/4,Mayotte (Women) 2023
+/tablesm/mayo-wom2024.html,5/5,Mayotte (Women) 2024
+/tablesm/mayo-wom2025.html,4/5,Mayotte (Women) 2025
+/tablesm/mayo-womchamp.html,20/8,Mayotte - List of Women Champions
+/tablesm/mayo-womcuphist.html,19/8,Mayotte - List of Women Cup Winners
+/tablesm/mayo00.html,5/4,Mayotte 2000
+/tablesm/mayo01.html,5/4,Mayotte 2001
+/tablesm/mayo02.html,5/4,Mayotte 2002
+/tablesm/mayo03.html,5/4,Mayotte 2003
+/tablesm/mayo04.html,5/4,Mayotte 2004
+/tablesm/mayo05.html,5/4,Mayotte 2005
+/tablesm/mayo06.html,5/4,Mayotte 2006
+/tablesm/mayo07.html,5/5,Mayotte 2007
+/tablesm/mayo08.html,5/5,Mayotte 2008
+/tablesm/mayo09.html,5/5,Mayotte 2009
+/tablesm/mayo2010.html,5/4,Mayotte 2010
+/tablesm/mayo2011.html,5/5,Mayotte 2011
+/tablesm/mayo2012.html,5/4,Mayotte 2012
+/tablesm/mayo2013.html,5/5,Mayotte 2013
+/tablesm/mayo2014.html,5/5,Mayotte 2014
+/tablesm/mayo2015.html,5/5,Mayotte 2015
+/tablesm/mayo2016.html,5/5,Mayotte 2016
+/tablesm/mayo2017.html,5/5,Mayotte 2017
+/tablesm/mayo2018.html,5/5,Mayotte 2018
+/tablesm/mayo2019.html,5/5,Mayotte 2019
+/tablesm/mayo2020.html,5/5,Mayotte 2020
+/tablesm/mayo2021.html,5/5,Mayotte 2021/22
+/tablesm/mayo2022.html,5/5,Mayotte 2022
+/tablesm/mayo2023.html,5/5,Mayotte 2023/24
+/tablesm/mayo2024.html,5/5,Mayotte 2024
+/tablesm/mayo2025.html,4/6,Mayotte 2025
+/tablesm/mayo99.html,4/2,Mayotte 1999
+/tablesm/mayochamp.html,28/29,Mayotte - List of Champions
+/tablesm/mayocuphist.html,28/30,Mayotte - List of Cup Winners
+/tablesm/mayofound.html,1/2,Mayotte - List of Foundation Dates
+/tablesm/mazzi96.html,1/2,Memorial Eros Mazzi 1996 (Verona)
+/tablesm/mcgori.html,1/2,Memorial Mario Cecchi Gori (Firenze)
+/tablesm/mechelen-tourn.html,1/2,International Tournaments played in Mechelen 1909-1931
+/tablesm/medansing48.html,1/2,Visits between Singapore and Medan 1948
+/tablesm/medcup49.html,4/3,"Mediterranean Cup 1949 (Athinai, Greece)"
+/tablesm/medcup53.html,4/4,East Mediterranean Cup 1950-1953
+/tablesm/medcup58.html,3/3,Mediterranean Cup 1953-1957
+/tablesm/medellin53.html,0/2,?
+/tablesm/medellinsin83.html,0/2,?
+/tablesm/medgames.html,23/24,Mediterranean Cup and Mediterranean Games - Overview
+/tablesm/medgames01.html,5/3,Mediterranean Games 2001 (Tunisia)
+/tablesm/medgames05.html,4/3,Mediterranean Games 2005 (Spain)
+/tablesm/medgames09.html,4/3,Mediterranean Games 2009 (Italy)
+/tablesm/medgames2013.html,4/3,Mediterranean Games 2013 (Turkey)
+/tablesm/medgames2018.html,4/3,Mediterranean Games 2018 (Spain)
 /tablesm/medgames2022.html,3/4,Mediterranean Games 2022 (Algeria)
-/tablesm/medgames51.html,0/1,-
-/tablesm/medgames55.html,0/1,-
-/tablesm/medgames59.html,0/1,-
-/tablesm/medgames63.html,0/1,-
-/tablesm/medgames67.html,0/1,-
-/tablesm/medgames71.html,0/1,-
-/tablesm/medgames75.html,0/1,-
-/tablesm/medgames79.html,0/1,-
-/tablesm/medgames83.html,0/1,-
-/tablesm/medgames87.html,0/1,-
-/tablesm/medgames91.html,0/1,-
-/tablesm/medgames93.html,0/1,-
-/tablesm/medgames97.html,0/1,-
-/tablesm/melanesia02.html,0/1,-
-/tablesm/melanesia88.html,0/1,-
-/tablesm/melanesia89.html,0/1,-
-/tablesm/melanesia90.html,0/1,-
-/tablesm/melanesia92.html,0/1,-
-/tablesm/melanesia94.html,0/1,-
-/tablesm/melanesiacup.html,11/2,Melanesian Cup
+/tablesm/medgames51.html,4/2,"Mediterranean Games 1951 (Alexandria, Egypt)"
+/tablesm/medgames55.html,5/3,"Mediterranean Games 1955 (Barcelona, Spain)"
+/tablesm/medgames59.html,4/3,"Mediterranean Games 1959 (Beirut, Lebanon)"
+/tablesm/medgames63.html,4/3,Mediterranean Games 1963 (Italy)
+/tablesm/medgames67.html,4/3,"Mediterranean Games 1967 (Tunis, Tunisia)"
+/tablesm/medgames71.html,5/3,"Mediterranean Games 1971 (Izmir, Turkey)"
+/tablesm/medgames75.html,5/3,"Mediterranean Games 1975 (Alger, Algeria)"
+/tablesm/medgames79.html,5/3,"Mediterranean Games 1979 (Split, Yugoslavia)"
+/tablesm/medgames83.html,4/3,Mediterranean Games 1983 (Morocco)
+/tablesm/medgames87.html,4/3,Mediterranean Games 1987 (Syria)
+/tablesm/medgames91.html,4/4,"Mediterranean Games 1991 (Athinai, Greece)"
+/tablesm/medgames93.html,4/4,Mediterranean Games 1993 (France)
+/tablesm/medgames97.html,4/5,Mediterranean Games 1997 (Italy)
+/tablesm/mediolanum.html,1/2,SEF Mediolanum Milano
+/tablesm/mediterraneo.html,1/3,Coppa del Mediterraneo (Genova)
+/tablesm/mediterraneo-u18.html,0/1,?
+/tablesm/melanesia-tri03.html,2/2,Melanesian Tri-Nations Tournament 2003
+/tablesm/melanesia02.html,4/3,Melanesian Cup 2002 (Solomon Islands)
+/tablesm/melanesia88.html,3/3,Melanesian Cup 1988 (Solomon Islands)
+/tablesm/melanesia89.html,4/4,Melanesian Cup 1989 (Fiji)
+/tablesm/melanesia90.html,4/3,Melanesian Cup 1990 (New Caledonia)
+/tablesm/melanesia92.html,4/4,Melanesian Cup 1992 (Vanuatu)
+/tablesm/melanesia94.html,5/4,Melanesian Cup 1994 (Solomon Islands)
+/tablesm/melanesiacup.html,11/9,Melanesian Cup
 /tablesm/melanesiapm.html,3/3,MSG Prime Minister's Cup
 /tablesm/melasup.html,3/3,Melanesian Super Cup
 /tablesm/melasup2014.html,3/2,"Melanesian Super Cup 2014 (Port Vila, Vanuatu)"
 /tablesm/melasup2015.html,3/2,"Melanesian Super Cup 2015 (Port Vila, Vanuatu)"
-/tablesm/mendoza-friendlies.html,0/1,-
-/tablesm/mercosur-countries.html,4/1,Copa Mercosur
-/tablesm/mex-indep100-21.html,0/1,-
-/tablesm/mex-intres.html,7/2,Mexico - International Results
-/tablesm/mex-intres2039.html,0/1,-
-/tablesm/mex-intres4059.html,0/1,-
-/tablesm/mex-intres6069.html,0/1,-
-/tablesm/mex-intres7079.html,0/1,-
-/tablesm/mex-intres8084.html,0/1,-
-/tablesm/mex-intres9094.html,0/1,-
-/tablesm/mex00.html,0/1,-
-/tablesm/mex01.html,0/1,-
-/tablesm/mex02.html,0/1,-
-/tablesm/mex03.html,0/1,-
-/tablesm/mex04.html,0/1,-
-/tablesm/mex05.html,0/1,-
-/tablesm/mex06.html,0/1,-
-/tablesm/mex07.html,0/1,-
-/tablesm/mex08.html,0/1,-
-/tablesm/mex09.html,0/1,-
-/tablesm/mex1903.html,0/2,-
-/tablesm/mex1904.html,0/2,-
-/tablesm/mex1905.html,0/2,-
-/tablesm/mex1906.html,0/2,-
-/tablesm/mex1907.html,0/2,-
-/tablesm/mex1908.html,0/3,-
-/tablesm/mex1909.html,0/3,-
-/tablesm/mex1910.html,0/3,-
-/tablesm/mex1911.html,0/3,-
-/tablesm/mex1912.html,0/2,-
-/tablesm/mex1913.html,0/3,-
-/tablesm/mex1914.html,0/3,-
-/tablesm/mex1915.html,0/3,-
-/tablesm/mex1916.html,0/3,-
-/tablesm/mex1918.html,0/3,-
-/tablesm/mex1919.html,0/3,-
-/tablesm/mex2-2010.html,0/1,-
-/tablesm/mex20.html,0/3,-
-/tablesm/mex2011.html,0/1,-
-/tablesm/mex2012.html,0/1,-
-/tablesm/mex2013.html,0/2,-
-/tablesm/mex2014.html,0/3,-
-/tablesm/mex2015.html,0/3,-
-/tablesm/mex2016.html,0/3,-
-/tablesm/mex2017.html,0/3,-
-/tablesm/mex2018.html,0/3,-
-/tablesm/mex2019.html,0/3,-
-/tablesm/mex2020.html,0/3,-
-/tablesm/mex2021.html,0/2,-
-/tablesm/mex2022.html,0/2,-
-/tablesm/mex2023.html,0/2,-
-/tablesm/mex2024.html,0/3,-
-/tablesm/mex2025.html,9/3,Mexico 2024/25
-/tablesm/mex2026.html,8/3,Mexico 2025/26
-/tablesm/mex21.html,0/3,-
-/tablesm/mex22.html,0/3,-
-/tablesm/mex23.html,0/3,-
-/tablesm/mex24.html,0/3,-
-/tablesm/mex25.html,0/4,-
-/tablesm/mex26.html,9/4,Mexico 1925/26
-/tablesm/mex28.html,0/3,-
-/tablesm/mex29.html,0/2,-
-/tablesm/mex30.html,0/2,-
-/tablesm/mex31.html,0/2,-
-/tablesm/mex32.html,0/2,-
-/tablesm/mex33.html,0/3,-
-/tablesm/mex34.html,0/3,-
-/tablesm/mex35.html,0/2,-
-/tablesm/mex36.html,0/3,-
-/tablesm/mex37.html,0/3,-
-/tablesm/mex38.html,0/3,-
-/tablesm/mex39.html,0/4,-
-/tablesm/mex39euzkadi.html,0/1,-
-/tablesm/mex40.html,0/3,-
-/tablesm/mex41.html,0/3,-
-/tablesm/mex42.html,0/4,-
-/tablesm/mex43.html,0/4,-
-/tablesm/mex44.html,0/4,-
-/tablesm/mex45.html,0/4,-
-/tablesm/mex46.html,0/4,-
-/tablesm/mex47.html,0/4,-
-/tablesm/mex48.html,0/4,-
-/tablesm/mex49.html,0/4,-
-/tablesm/mex50.html,0/4,-
-/tablesm/mex51.html,0/4,-
-/tablesm/mex52.html,0/4,-
-/tablesm/mex53.html,0/4,-
-/tablesm/mex54.html,0/4,-
-/tablesm/mex55.html,0/4,-
-/tablesm/mex56.html,0/4,-
-/tablesm/mex57.html,0/3,-
-/tablesm/mex58.html,0/3,-
-/tablesm/mex59.html,0/3,-
-/tablesm/mex60.html,0/3,-
-/tablesm/mex61.html,0/3,-
-/tablesm/mex62.html,0/3,-
-/tablesm/mex63.html,0/3,-
-/tablesm/mex64.html,0/4,-
-/tablesm/mex65.html,0/3,-
-/tablesm/mex66.html,0/3,-
-/tablesm/mex67.html,0/3,-
-/tablesm/mex68.html,0/3,-
-/tablesm/mex69.html,0/3,-
-/tablesm/mex6970.html,0/3,-
-/tablesm/mex70.html,0/2,-
-/tablesm/mex71.html,0/4,-
-/tablesm/mex72.html,9/5,Mexico 1971/72
-/tablesm/mex73.html,9/4,Mexico 1972/73
-/tablesm/mex74.html,0/4,-
-/tablesm/mex75.html,0/2,-
-/tablesm/mex76.html,0/3,-
-/tablesm/mex77.html,0/2,-
-/tablesm/mex78.html,0/2,-
-/tablesm/mex79.html,0/2,-
-/tablesm/mex80.html,0/2,-
-/tablesm/mex81.html,0/2,-
-/tablesm/mex82.html,0/2,-
-/tablesm/mex83.html,0/2,-
-/tablesm/mex84.html,0/2,-
-/tablesm/mex85.html,0/1,-
-/tablesm/mex86.html,0/1,-
-/tablesm/mex87.html,0/1,-
-/tablesm/mex88.html,0/3,-
-/tablesm/mex89.html,0/1,-
-/tablesm/mex90.html,0/2,-
-/tablesm/mex91.html,0/2,-
-/tablesm/mex92.html,0/2,-
-/tablesm/mex93.html,0/1,-
-/tablesm/mex94.html,0/1,-
-/tablesm/mex95.html,0/2,-
-/tablesm/mex96.html,0/2,-
-/tablesm/mex97.html,0/2,-
-/tablesm/mex98.html,0/2,-
-/tablesm/mex99.html,0/1,-
-/tablesm/mexall.html,1/5,Mexican Divisional Moves Between First and Second Division
-/tablesm/mexchamp.html,126/5,Mexico - List of Champions
-/tablesm/mexcup-allt.html,0/1,-
-/tablesm/mexcuphist.html,76/5,Mexico - List of Cup Winners
-/tablesm/mexhist.html,83/6,México - List of Final Tables
-/tablesm/mexperures.html,1/1,Mexico - Peru matches
-/tablesm/mexsupcup.html,30/5,Mexico - List of Super Cup Winners
-/tablesm/mextops.html,1/5,Mexico - List of Topscorers
-/tablesm/mextrinres.html,1/1,Mexico - Trinidad and Tobago matches
-/tablesm/mexusares.html,1/1,Mexico - USA matches
-/tablesm/mexverachamp.html,0/1,-
+/tablesm/melgaco.html,1/2,Trofeu do Municipio de Melgaço
+/tablesm/melgaruni.html,1/2,FBC Melgar v Universitario
+/tablesm/memorial-quinocho.html,1/2,Memorial Quinocho
+/tablesm/memorial-uds.html,1/2,Trofeo Memorial UD Salamanca
+/tablesm/mempuerta2012.html,0/1,?
+/tablesm/men-desafio94.html,2/1,Copa Desafío Mendoza 1994
+/tablesm/men-desafio95.html,2/1,Copa Desafío Mendoza 1995
+/tablesm/men-desafio96.html,2/1,Copa Desafío Mendoza 1996
+/tablesm/men-desafio97.html,2/1,Copa Desafío Mendoza 1997
+/tablesm/men-provincia95.html,2/1,Copa Provincia de Mendoza 1995
+/tablesm/men-provincia96.html,2/1,Copa Provincia de Mendoza 1996
+/tablesm/men-revancha94.html,2/1,Copa Revancha Mendoza 1994
+/tablesm/mendoza-4int-64.html,1/6,Cuadrangular Internacional de Mendoza 1964
+/tablesm/mendoza-cuad81.html,1/5,Cuadrangular Internacional de Mendoza 1981
+/tablesm/mendoza-cuad82.html,1/3,Cuadrangular Mendoza 1982
+/tablesm/mendoza-friendlies.html,63/6,Friendly Matches played by Clubs and Combined from Mendoza
+/tablesm/mendoza-intfriendlies.html,0/4,?
+/tablesm/mendoza97.html,2/1,Copa Ciudad de Mendoza 1997
+/tablesm/mendrisio81.html,2/3,Mendrisio Tournament 1981 (Switzerland)
+/tablesm/mendrisio83.html,2/3,Mendrisio Tournament 1983 (Switzerland)
+/tablesm/menen1905.html,1/2,Tournoi International du SC Meninois 1905
+/tablesm/menorca2023.html,0/1,?
+/tablesm/menorca2024.html,2/1,Menorca 2023/24
+/tablesm/menpora.html,1/2,Piala Menpora 2013-2021
+/tablesm/menton-wom.html,1/3,Menton's Tournament (Women)
+/tablesm/mercosul95.html,0/2,?
+/tablesm/mercosur-countries.html,4/2,Copa Mercosur
+/tablesm/merd-singfest59.html,0/2,?
+/tablesm/merd-singfest61.html,0/2,?
+/tablesm/merd-singfest68.html,0/2,?
+/tablesm/merdeka.html,0/4,?
+/tablesm/merdeka64.html,0/1,?
+/tablesm/merdeka67.html,0/1,?
+/tablesm/merdeka68.html,0/1,?
+/tablesm/merdeka70.html,0/1,?
+/tablesm/merdeka74.html,0/1,?
+/tablesm/merdeka77.html,0/1,?
+/tablesm/merdeka83.html,0/1,?
+/tablesm/merdeka84.html,0/1,?
+/tablesm/merdeka85.html,0/1,?
+/tablesm/merdeka86.html,0/1,?
+/tablesm/merdeka87.html,0/1,?
+/tablesm/merdeka88.html,0/2,?
+/tablesm/merdeka91.html,4/4,Merdeka Tournament 1991
+/tablesm/merdeka93.html,5/4,Merdeka Tournament 1993
+/tablesm/merdeka95.html,0/2,?
+/tablesm/meridajuv.html,1/2,Torneo Juvenil Mérida Capital de Extremadura (Badajoz)
+/tablesm/meridian.html,0/2,?
+/tablesm/merlion.html,0/2,?
+/tablesm/merlion82.html,0/1,?
+/tablesm/merlion83.html,0/1,?
+/tablesm/merlion84.html,0/2,?
+/tablesm/merlion85.html,0/1,?
+/tablesm/merlion86.html,0/2,?
+/tablesm/merlion91.html,0/2,?
+/tablesm/merlion92.html,4/3,Merlion Cup 1992
+/tablesm/mero.html,1/1,Trofeo Vittorio Mero (Ravenna)
+/tablesm/mesdelapatria79.html,0/3,?
+/tablesm/mesoam2011.html,0/1,?
+/tablesm/messina.html,1/3,Messina Football Club
+/tablesm/messina-stadio04.html,1/1,Stadium Inauguration in Messina 2004 (Italy)
+/tablesm/metro20-77.html,1/3,"Metro 20th Anniversary Tournament 1977, Singapore"
+/tablesm/metromadrid62.html,1/2,Torneo Triangular del Metropolitano 1962 (Madrid)
+/tablesm/metropool78.html,1/3,Metropool Toernooi (Antwerpen) 1978-1984
+/tablesm/meuwsen.html,1/4,Meuwsenbeker (Amsterdam) 1912-1914
+/tablesm/mex-4tourn66.html,0/4,?
+/tablesm/mex-aug71.html,0/2,?
+/tablesm/mex-barrios.html,0/2,?
+/tablesm/mex-cdmexico71.html,0/2,?
+/tablesm/mex-clubtourn.html,0/7,?
+/tablesm/mex-indep100-21.html,9/5,Mexico Campeonato del Centenario 1921
+/tablesm/mex-intres.html,7/10,Mexico - International Results
+/tablesm/mex-intres2039.html,3/4,Mexico - International Results Details 1920-1939
+/tablesm/mex-intres4059.html,4/4,Mexico - International Results Details 1940-1959
+/tablesm/mex-intres6069.html,4/5,Mexico - International Results Details 1960-1969
+/tablesm/mex-intres7079.html,4/4,Mexico - International Results Details 1970-1979
+/tablesm/mex-intres8084.html,4/5,Mexico - International Results Details 1980-1989
+/tablesm/mex-intres9094.html,3/3,Mexico - International Results Details 1990-1994
+/tablesm/mex-wom08.html,0/1,?
+/tablesm/mex-wom09.html,0/1,?
+/tablesm/mex-wom2010.html,0/1,?
+/tablesm/mex-wom2011.html,0/1,?
+/tablesm/mex-wom2012.html,0/1,?
+/tablesm/mex-wom2013.html,0/1,?
+/tablesm/mex-wom2015.html,0/1,?
+/tablesm/mex-wom2018.html,4/4,Mexico (Women) 2017/18
+/tablesm/mex-wom2019.html,4/4,Mexico (Women) 2018/19
+/tablesm/mex-wom2020.html,4/4,Mexico (Women) 2019/20
+/tablesm/mex-wom2021.html,4/4,Mexico (Women) 2020/21
+/tablesm/mex-wom2022.html,4/4,Mexico (Women) 2021/22
+/tablesm/mex-wom2023.html,4/4,Mexico (Women) 2022/23
+/tablesm/mex-wom2024.html,4/4,Mexico (Women) 2023/24
+/tablesm/mex-wom2025.html,3/3,Mexico (Women) 2024/25
+/tablesm/mex-womchamp.html,15/9,Mexico - List of Women Champions
+/tablesm/mex00.html,9/4,Mexico 1999/2000
+/tablesm/mex01.html,9/4,Mexico 2000/01
+/tablesm/mex02.html,9/4,Mexico 2001/02
+/tablesm/mex03.html,9/4,Mexico 2002/03
+/tablesm/mex04.html,9/4,Mexico 2003/04
+/tablesm/mex05.html,9/4,Mexico 2004/05
+/tablesm/mex06.html,9/4,Mexico 2005/06
+/tablesm/mex07.html,9/4,Mexico 2006/07
+/tablesm/mex08.html,9/4,Mexico 2007/08
+/tablesm/mex09.html,9/4,Mexico 2008/09
+/tablesm/mex1903.html,9/5,Mexico 1902/03
+/tablesm/mex1904.html,10/6,Mexico 1903/04
+/tablesm/mex1905.html,9/6,Mexico 1904/05
+/tablesm/mex1906.html,9/6,Mexico 1905/06
+/tablesm/mex1907.html,9/6,Mexico 1906/07
+/tablesm/mex1908.html,9/7,Mexico 1907/08
+/tablesm/mex1909.html,9/7,Mexico 1908/09
+/tablesm/mex1910.html,9/7,Mexico 1909/10
+/tablesm/mex1911.html,9/7,Mexico 1910/11
+/tablesm/mex1912.html,9/6,Mexico 1911/12
+/tablesm/mex1913.html,10/8,Mexico 1912/13
+/tablesm/mex1913det.html,2/2,Mexico 1912/13 - Match Details
+/tablesm/mex1914.html,10/7,Mexico 1913/14
+/tablesm/mex1914det.html,2/2,Mexico 1913/14 - Match Details
+/tablesm/mex1915.html,9/7,Mexico 1914/15
+/tablesm/mex1916.html,9/7,Mexico 1915/16
+/tablesm/mex1918.html,9/7,Mexico 1917/18
+/tablesm/mex1919.html,9/7,Mexico 1918/19
+/tablesm/mex2-2010.html,9/4,Mexico 2009/10
+/tablesm/mex20.html,9/6,Mexico 1919/20
+/tablesm/mex2011.html,9/4,Mexico 2010/11
+/tablesm/mex2012.html,9/4,Mexico 2011/12
+/tablesm/mex2013.html,9/5,Mexico 2012/13
+/tablesm/mex2014.html,9/6,Mexico 2013/14
+/tablesm/mex2015.html,9/6,Mexico 2014/15
+/tablesm/mex2016.html,9/6,Mexico 2015/16
+/tablesm/mex2017.html,9/6,Mexico 2016/17
+/tablesm/mex2018.html,9/6,Mexico 2017/18
+/tablesm/mex2019.html,9/6,Mexico 2018/19
+/tablesm/mex2020.html,9/7,Mexico 2019/20
+/tablesm/mex2021.html,9/5,Mexico 2020/21
+/tablesm/mex2022.html,9/5,Mexico 2021/22
+/tablesm/mex2023.html,9/5,Mexico 2022/23
+/tablesm/mex2024.html,9/5,Mexico 2023/24
+/tablesm/mex2025.html,9/5,Mexico 2024/25
+/tablesm/mex2026.html,8/4,Mexico 2025/26
+/tablesm/mex21.html,9/6,Mexico 1920/21
+/tablesm/mex22.html,9/5,Mexico 1921/22
+/tablesm/mex23.html,9/7,Mexico 1922/23
+/tablesm/mex24.html,9/7,Mexico 1923/24
+/tablesm/mex25.html,9/8,Mexico 1924/25
+/tablesm/mex26.html,9/7,Mexico 1925/26
+/tablesm/mex28.html,9/6,Mexico 1927/28
+/tablesm/mex29.html,9/6,Mexico 1928/29
+/tablesm/mex2ahist.html,2/3,Mexico - List of Final Tables Second Level (1994-now)
+/tablesm/mex2alltime.html,1/2,Mexico - All-Time Tables Second Level
+/tablesm/mex2bhist.html,2/3,"Mexico - List of Final Tables Second Division ""B"" (Third Level 1982-1994)"
+/tablesm/mex2champ.html,21/2,Mexico - List of Second Level Champions
+/tablesm/mex2cuphist.html,1/2,Mexico - List of Cup Winners (Second Division)
+/tablesm/mex2hist.html,3/4,Mexico - List of Final Tables Second Division (1950-1995)
+/tablesm/mex2jest.html,0/2,?
+/tablesm/mex2supcuphist.html,1/2,Mexico - List of Super Cup Winners (Second Division)
+/tablesm/mex30.html,9/7,Mexico 1929/30
+/tablesm/mex31.html,9/4,Mexico 1930/31
+/tablesm/mex32.html,9/6,Mexico 1931/32
+/tablesm/mex33.html,9/8,Mexico 1932/33
+/tablesm/mex34.html,9/7,Mexico 1933/34
+/tablesm/mex35.html,9/6,Mexico 1934/35
+/tablesm/mex36.html,9/7,Mexico 1935/36
+/tablesm/mex37.html,9/7,Mexico 1936/37
+/tablesm/mex38.html,9/8,Mexico 1937/38
+/tablesm/mex39.html,10/11,Mexico 1938/39
+/tablesm/mex39euzkadi.html,3/4,Basque Country in Mexican League 1938/39
+/tablesm/mex3champ.html,1/2,Mexico - List of Third Level Champions
+/tablesm/mex3cuphist.html,1/2,Mexico - List of Cup Winners (Third Level)
+/tablesm/mex3supcuphist.html,1/2,Mexico - List of Super Cup Winners (Third Level)
+/tablesm/mex40.html,9/8,Mexico 1939/40
+/tablesm/mex41.html,9/7,Mexico 1940/41
+/tablesm/mex42.html,9/8,Mexico 1941/42
+/tablesm/mex43.html,9/8,Mexico 1942/43
+/tablesm/mex44.html,9/8,Mexico 1943/44
+/tablesm/mex45.html,9/9,Mexico 1944/45
+/tablesm/mex46.html,9/8,Mexico 1945/46
+/tablesm/mex47.html,9/8,Mexico 1946/47
+/tablesm/mex48.html,9/8,Mexico 1947/48
+/tablesm/mex49.html,9/8,Mexico 1948/49
+/tablesm/mex50.html,9/8,Mexico 1949/50
+/tablesm/mex51.html,9/10,Mexico 1950/51
+/tablesm/mex52.html,9/10,Mexico 1951/52
+/tablesm/mex53.html,9/10,Mexico 1952/53
+/tablesm/mex54.html,9/10,Mexico 1953/54
+/tablesm/mex55.html,9/10,Mexico 1954/55
+/tablesm/mex56.html,9/10,Mexico 1955/56
+/tablesm/mex57.html,9/8,Mexico 1956/57
+/tablesm/mex58.html,9/9,Mexico 1957/58
+/tablesm/mex59.html,9/8,Mexico 1958/59
+/tablesm/mex60.html,9/9,Mexico 1959/60
+/tablesm/mex61.html,9/9,Mexico 1960/61
+/tablesm/mex62.html,9/9,Mexico 1961/62
+/tablesm/mex63.html,9/9,Mexico 1962/63
+/tablesm/mex64.html,9/12,Mexico 1963/64
+/tablesm/mex65.html,9/9,Mexico 1964/65
+/tablesm/mex66.html,9/9,Mexico 1965/66
+/tablesm/mex67.html,9/9,Mexico 1966/67
+/tablesm/mex68.html,9/8,Mexico 1967/68
+/tablesm/mex69.html,9/8,Mexico 1968/69
+/tablesm/mex6970.html,10/8,Mexico 1969/70
+/tablesm/mex70.html,9/7,Mexico 1970
+/tablesm/mex71.html,9/8,Mexico 1970/71
+/tablesm/mex72.html,9/10,Mexico 1971/72
+/tablesm/mex73.html,9/8,Mexico 1972/73
+/tablesm/mex74.html,9/8,Mexico 1973/74
+/tablesm/mex75.html,9/8,Mexico 1974/75
+/tablesm/mex76.html,10/11,Mexico 1975/76
+/tablesm/mex77.html,9/8,Mexico 1976/77
+/tablesm/mex78.html,9/9,Mexico 1977/78
+/tablesm/mex79.html,9/7,Mexico 1978/79
+/tablesm/mex80.html,9/7,Mexico 1979/80
+/tablesm/mex81.html,9/9,Mexico 1980/81
+/tablesm/mex82.html,9/8,Mexico 1981/82
+/tablesm/mex83.html,9/9,Mexico 1982/83
+/tablesm/mex84.html,9/8,Mexico 1983/84
+/tablesm/mex85.html,9/6,Mexico 1984/85
+/tablesm/mex86.html,9/6,Mexico 1985/86
+/tablesm/mex87.html,9/7,Mexico 1986/87
+/tablesm/mex88.html,9/10,Mexico 1987/88
+/tablesm/mex89.html,9/6,Mexico 1988/89
+/tablesm/mex90.html,9/9,Mexico 1989/90
+/tablesm/mex91.html,9/7,Mexico 1990/91
+/tablesm/mex92.html,9/8,Mexico 1991/92
+/tablesm/mex93.html,9/6,Mexico 1992/93
+/tablesm/mex94.html,9/7,Mexico 1993/94
+/tablesm/mex95.html,9/7,Mexico 1994/95
+/tablesm/mex96.html,9/7,Mexico 1995/96
+/tablesm/mex97.html,9/6,Mexico 1996/97
+/tablesm/mex98.html,9/7,Mexico 1997/98
+/tablesm/mex99.html,9/5,Mexico 1998/99
+/tablesm/mexall.html,1/125,Mexican Divisional Moves Between First and Second Division
+/tablesm/mexallt.html,1/2,Mexico - All-Time Table 'Torneos Cortos'
+/tablesm/mexalltime.html,1/3,Mexico - All-Time Tables
+/tablesm/mexamachamp.html,1/2,Mexico - List of Amateur Champions
+/tablesm/mexarg74.html,0/2,?
+/tablesm/mexchamp.html,126/125,Mexico - List of Champions
+/tablesm/mexcup-allt.html,2/3,Mexico - All-Time Tables Cup Tournaments
+/tablesm/mexcuphist.html,76/126,Mexico - List of Cup Winners
+/tablesm/mexfound.html,1/1,Mexico - List of Foundation Dates
+/tablesm/mexguad-interc65.html,0/2,?
+/tablesm/mexhist.html,83/131,México - List of Final Tables
+/tablesm/mexico-tourn85.html,0/3,?
+/tablesm/mexicopenta70.html,0/1,?
+/tablesm/mexjaliscochamp.html,1/2,Mexico - Liga de Occidente - List of Champions
+/tablesm/mexperures.html,1/2,Mexico - Peru matches
+/tablesm/mexsupcup.html,30/126,Mexico - List of Super Cup Winners
+/tablesm/mexsuper.html,1/2,-
+/tablesm/mextops.html,1/126,Mexico - List of Topscorers
+/tablesm/mextops-allt.html,7/3,Mexico - All-Time Topscorers
+/tablesm/mextrinres.html,1/2,Mexico - Trinidad and Tobago matches
+/tablesm/mexusares.html,1/2,Mexico - USA matches
+/tablesm/mexverachamp.html,1/3,Mexico - Liga Veracruzana - List of Champions
+/tablesm/mff-indep30-05.html,0/1,?
+/tablesm/mff00-det.html,0/1,?
+/tablesm/mffgoldenjubilee00.html,0/2,?
+/tablesm/mhmgold85.html,1/2,M.H.Mohammed Gold Cup Invitation Tournament 1985 (Sri Lanka)
+/tablesm/miami.html,0/3,?
+/tablesm/miami01.html,0/1,?
+/tablesm/miami86.html,0/1,?
+/tablesm/miami91.html,0/1,?
+/tablesm/miami94.html,0/2,?
+/tablesm/miami97.html,0/1,?
 /tablesm/micro-intres.html,1/1,Micronesia - International Matches
-/tablesm/micro09.html,0/1,-
-/tablesm/micro2010.html,0/1,-
-/tablesm/micro2011.html,0/1,-
-/tablesm/micro2012.html,0/1,-
-/tablesm/micro2013.html,0/1,-
-/tablesm/micro2015.html,0/1,-
-/tablesm/micro2016.html,0/1,-
-/tablesm/micro2017.html,0/1,-
-/tablesm/micro2018.html,0/1,-
-/tablesm/micro2019.html,0/1,-
-/tablesm/micro2020.html,0/1,-
-/tablesm/micro2021.html,4/2,Micronesia 2021
-/tablesm/micro2022.html,4/4,Micronesia 2022
-/tablesm/micro2023.html,4/4,Micronesia 2023
-/tablesm/micro2024.html,0/1,-
+/tablesm/micro-wom2015.html,0/1,?
+/tablesm/micro-wom2016.html,2/1,Micronesia (Women) 2016
+/tablesm/micro09.html,4/3,Micronesia 2009
+/tablesm/micro2010.html,4/3,Micronesia 2010
+/tablesm/micro2011.html,4/3,Micronesia 2011
+/tablesm/micro2012.html,4/3,Micronesia 2012
+/tablesm/micro2013.html,4/3,Micronesia 2013
+/tablesm/micro2015.html,4/3,Micronesia 2014/15
+/tablesm/micro2016.html,4/3,Micronesia 2016
+/tablesm/micro2017.html,4/3,Micronesia 2017
+/tablesm/micro2018.html,4/3,Micronesia 2018
+/tablesm/micro2019.html,4/3,Micronesia 2019
+/tablesm/micro2020.html,4/2,Micronesia 2020
+/tablesm/micro2021.html,4/3,Micronesia 2021
+/tablesm/micro2022.html,4/5,Micronesia 2022
+/tablesm/micro2023.html,4/5,Micronesia 2023
+/tablesm/micro2024.html,4/3,Micronesia 2024
+/tablesm/micro2025.html,3/1,Micronesia 2025
+/tablesm/micro99.html,3/1,Micronesia 1999
+/tablesm/microfound.html,1/2,Micronesia - List of Foundation Dates
 /tablesm/micronesia01.html,4/4,Micronesia Games 2001
 /tablesm/micronesia2014.html,3/3,Micronesia Games 2014
 /tablesm/micronesia2018.html,3/3,Micronesia Games 2018
-/tablesm/micronesia98.html,3/4,Micronesian Games 1998
-/tablesm/micronesiacup99.html,3/4,Micronesian Cup 1999
-/tablesm/micropalm.html,14/3,Micronesia - Palmares
-/tablesm/mideast9899.html,0/1,-
-/tablesm/mignaburu.html,2/2,Copa Juan Mignaburu
-/tablesm/milan-satrip79.html,2/1,South American Trip of Milan AC 1979
-/tablesm/milindochine.html,1/1,Championnat du Militaire de l'Indochine
-/tablesm/military.html,16/5,World Military Championship
-/tablesm/military01.html,0/2,-
-/tablesm/military03.html,0/2,-
-/tablesm/military05.html,0/2,-
-/tablesm/military07.html,0/1,-
-/tablesm/military2011.html,0/1,-
-/tablesm/military2013.html,0/1,-
-/tablesm/military2015.html,0/1,-
-/tablesm/military2017.html,0/2,-
-/tablesm/military2019.html,3/2,World Military Games 2019 (Wuhan)
-/tablesm/military79-iraq.html,0/1,-
-/tablesm/military95.html,0/1,-
-/tablesm/military99.html,0/1,-
-/tablesm/militarywom.html,0/1,-
-/tablesm/milne.html,3/1,Milne Cup
-/tablesm/min-exterior.html,1/1,Copa Ministro de Relaciones Exteriores
-/tablesm/min-vivienda98.html,2/1,Copa Ministerio de Vivienda
-/tablesm/minor-satours.html,48/2,South-American National Teams Tournaments
-/tablesm/mit.html,61/58,Mitropa Cup
+/tablesm/micronesia98.html,3/5,Micronesian Games 1998
+/tablesm/micronesiacup99.html,3/6,Micronesian Cup 1999
+/tablesm/micropalm.html,14/20,Micronesia - Palmares
+/tablesm/middlesbrough98.html,1/2,Middlesbrough Trophy 1998
+/tablesm/middlesex-jpntour05.html,1/1,Middlesex Wanderers Japan Tour 2005
+/tablesm/mideast9899.html,0/2,-
+/tablesm/midlands-u15-08.html,0/1,?
+/tablesm/mig00.html,6/3,Championship of Minas Gerais 2000
+/tablesm/mig2-00.html,6/3,Championship of Minas Gerais Second Level 2000
+/tablesm/mig2-97.html,4/3,Championship of Minas Gerais Second Division (Modulo Intermediário) 1997
+/tablesm/mig2-99.html,5/4,Championship of Minas Gerais 1999 (Second Level)
+/tablesm/mig2champ.html,0/3,Minas Gerais Estate -- List of Second Division Champions
+/tablesm/mig3-97.html,4/3,Championship of Minas Gerais Third Level (Segunda Divisão) 1997
+/tablesm/mig3-99.html,4/3,Championship of Minas Gerais 1999 (Third Level)
+/tablesm/mig3champ.html,0/3,Minas Gerais Estate -- List of Third Division Champions
+/tablesm/mig76.html,3/3,State Championship of Minas Gerais 1976
+/tablesm/mig77.html,4/3,State Championship of Minas Gerais 1977
+/tablesm/mig92.html,4/3,State Championship of Minas Gerais 1992
+/tablesm/mig95.html,4/3,Championship of Minas Gerais 1995
+/tablesm/mig96.html,4/3,Championship of Minas Gerais 1996
+/tablesm/mig97.html,6/5,Championship of Minas Gerais 1997
+/tablesm/mig98.html,4/3,Championship of Minas Gerais 1998
+/tablesm/mig99.html,6/5,Championship of Minas Gerais 1999
+/tablesm/migchamp.html,0/14,Minas Gerais Estate -- List of Champions
+/tablesm/mignaburu.html,2/3,Copa Juan Mignaburu
+/tablesm/miguelprieto.html,1/2,Trofeo Memorial Miguel Prieto (Granada)
+/tablesm/miguelturra.html,1/2,Trofeo Villa de Miguelturra
+/tablesm/milan-satrip58.html,1/3,AC Milan Trip to Río de la Plata 1958
+/tablesm/milan-satrip62.html,1/3,South American Trip of Milan AC 1962
+/tablesm/milan-satrip66.html,2/3,South American Trip of Milan AC 1966
+/tablesm/milan-satrip79.html,2/2,South American Trip of Milan AC 1979
+/tablesm/milan100-00.html,1/2,Trofeo Centenario Milan 2000 (Milano)
+/tablesm/milanese.html,1/2,Unione Sportiva Milanese
+/tablesm/milano93.html,1/3,Torneo di Milano 1993 (Italy)
+/tablesm/milindochine.html,1/2,Championnat du Militaire de l'Indochine
+/tablesm/military.html,16/19,World Military Championship
+/tablesm/military01.html,4/4,World Military Cup 2001 (Cairo)
+/tablesm/military01wom.html,3/2,1st World Military Women's Football Championship (CISM) 2001
+/tablesm/military02wom.html,4/4,2nd World Military Women's Football Championship (CISM) 2002
+/tablesm/military03.html,4/4,World Military Games 2003 (Catania)
+/tablesm/military03wom.html,4/3,3rd World Military Women's Football Championship (CISM) 2003
+/tablesm/military04wom.html,4/3,4th World Military Women's Football Championship (CISM) 2004
+/tablesm/military05.html,4/4,World Military Cup 2005 (Warendorf)
+/tablesm/military06wom.html,4/3,5th World Military Women's Football Championship (CISM) 2006
+/tablesm/military07.html,4/3,World Military Games 2007 (Hyderabad)
+/tablesm/military07wom.html,4/3,4th Military World Games and 6th Women's Football Championship 2007
+/tablesm/military08wom.html,4/3,7th World Military Women's Football Championship (CISM) 2008
+/tablesm/military09wom.html,4/3,8th World Military Women's Football Championship (CISM) 2009
+/tablesm/military2010wom.html,4/3,9th World Military Women's Football Championship (CISM) 2010
+/tablesm/military2011.html,4/3,World Military Games 2011 (Rio de Janeiro)
+/tablesm/military2011wom.html,4/3,5th Military World Games and 10th Women's Football Championship 2011
+/tablesm/military2012wom.html,4/3,11th World Military Women's Football Championship (CISM) 2012
+/tablesm/military2013.html,4/3,World Military Cup 2013 (Baku)
+/tablesm/military2015.html,4/3,World Military Games 2015 (Mungyeong)
+/tablesm/military2015wom.html,4/3,6th Military World Games and 12th Women's Football Championship 2015
+/tablesm/military2016wom.html,4/3,13th World Military Women's Football Championship (CISM) 2016
+/tablesm/military2017.html,4/3,World Military Cup 2017 (Muscat)
+/tablesm/military2018wom.html,4/3,14th World Military Women's Football Championship (CISM) 2018
+/tablesm/military2019.html,3/3,World Military Games 2019 (Wuhan)
+/tablesm/military2019wom.html,4/3,7th Military World Games and 15th Women's Football Championship 2019
+/tablesm/military2022wom.html,4/3,16th Women's Football Championship 2022
+/tablesm/military2023wom.html,3/3,17th World Military Championship Football Women 2023
+/tablesm/military79-iraq.html,2/2,1979 CISM World Military Championship - Match Details Iraq
+/tablesm/military95.html,3/3,World Military Games 1995 (Roma)
+/tablesm/military99.html,4/3,World Military Games 1999
+/tablesm/militarywom.html,19/19,World Military Women Championship
+/tablesm/miljanic-u16.html,0/2,?
+/tablesm/millenium-miami99.html,0/2,?
+/tablesm/millonarios-amtrip63.html,1/2,Central American and Mexican Trip of Millonarios (Bogotá) 1962-63
+/tablesm/millonarios-intl.html,1/2,International Matches of Millonarios de Bogotá
+/tablesm/millonarios-veneztrip73.html,2/2,Millonarios Trip to Venezuela 1973
+/tablesm/millsupsoc2001.html,0/1,?
+/tablesm/milne.html,3/5,Milne Cup
+/tablesm/milo-u18-01.html,0/1,?
+/tablesm/min-exterior.html,1/2,Copa Ministro de Relaciones Exteriores
+/tablesm/min-vivienda98.html,2/2,Copa Ministerio de Vivienda
+/tablesm/minho2012.html,0/1,?
+/tablesm/minicalanda09.html,1/1,Calanda Cup 2009 in Chur (Switzerland)
+/tablesm/minicarouge08.html,1/1,Mini Tournoi de Carouge 2008 (Switzerland)
+/tablesm/minor-satours.html,48/4,South-American National Teams Tournaments
+/tablesm/minsk-u17.html,0/2,?
+/tablesm/miranda06.html,1/2,Torneo Triangular de Miranda 2006
+/tablesm/misiones86.html,0/2,?
+/tablesm/mistru-kosice97.html,1/2,Turnaj Mistru in Kosice 1997
+/tablesm/mit.html,61/61,Mitropa Cup
 /tablesm/mit-ranking.html,4/3,Mitropa Cup 1927-1939 - Rankings and Club Name Information
 /tablesm/mit-trivia.html,3/4,Mitropa Cup 1927-1939 - Trivia
 /tablesm/mit27.html,3/2,Mitropa Cup 1927
-/tablesm/mit28.html,4/3,Mitropa Cup 1928
-/tablesm/mit29.html,4/3,Mitropa Cup 1929
+/tablesm/mit28.html,4/4,Mitropa Cup 1928
+/tablesm/mit29.html,4/4,Mitropa Cup 1929
 /tablesm/mit30.html,4/3,Mitropa Cup 1930
 /tablesm/mit31.html,4/3,Mitropa Cup 1931
 /tablesm/mit32.html,4/3,Mitropa Cup 1932
 /tablesm/mit33.html,4/3,Mitropa Cup 1933
 /tablesm/mit34.html,4/3,Mitropa Cup 1934
 /tablesm/mit35.html,4/3,Mitropa Cup 1935
-/tablesm/mit36.html,4/3,Mitropa Cup 1936
+/tablesm/mit36.html,4/4,Mitropa Cup 1936
 /tablesm/mit37.html,4/3,Mitropa Cup 1937
 /tablesm/mit38.html,4/3,Mitropa Cup 1938
 /tablesm/mit39.html,4/3,Mitropa Cup 1939
 /tablesm/mit40.html,6/4,Mitropa Cup 1940
-/tablesm/mit55.html,7/4,Mitropa Cup 1955
-/tablesm/mit56.html,6/3,Mitropa Cup 1956
+/tablesm/mit55.html,7/6,Mitropa Cup 1955
+/tablesm/mit56.html,6/5,Mitropa Cup 1956
 /tablesm/mit57.html,6/4,Mitropa Cup 1957
 /tablesm/mit59.html,6/4,Mitropa Cup 1959
 /tablesm/mit60.html,4/3,Mitropa Cup 1960
 /tablesm/mit61.html,4/3,Mitropa Cup 1961
-/tablesm/mit62.html,4/3,Mitropa Cup 1962
+/tablesm/mit62.html,4/4,Mitropa Cup 1962
 /tablesm/mit63.html,4/3,Mitropa Cup 1963
 /tablesm/mit64.html,4/3,Mitropa Cup 1964
 /tablesm/mit65.html,4/3,Mitropa Cup 1965
 /tablesm/mit66.html,4/3,Mitropa Cup 1966
-/tablesm/mit67.html,4/3,Mitropa Cup 1966/67
+/tablesm/mit67.html,4/4,Mitropa Cup 1966/67
 /tablesm/mit68.html,4/3,Mitropa Cup 1967/68
 /tablesm/mit69.html,4/3,Mitropa Cup 1968/69
 /tablesm/mit70.html,4/3,Mitropa Cup 1969/70
@@ -1009,254 +1680,461 @@ path,links,title
 /tablesm/mit89.html,4/3,Mitropa Cup 1988/89
 /tablesm/mit90.html,4/3,Mitropa Cup 1990
 /tablesm/mit91.html,5/3,Mitropa Cup 1991
-/tablesm/mit92.html,4/2,Mitropa Cup 1992
-/tablesm/mitamateur.html,1/1,Amateur-Mitropacup
-/tablesm/mitchell.html,0/1,-
-/tablesm/mitsubishi-argtrip93.html,2/1,Mitsubishi Urawa Trip to Argentina 1993
-/tablesm/mittops.html,1/2,Mitropa Cup Topscorers
-/tablesm/mold-futs-intres.html,1/1,Moldova - List of International Futsal Matches
-/tablesm/mold-intres.html,3/2,Moldova - International Results
-/tablesm/mold00.html,0/1,-
-/tablesm/mold01.html,0/1,-
-/tablesm/mold02.html,0/1,-
-/tablesm/mold03.html,0/1,-
-/tablesm/mold04.html,0/1,-
-/tablesm/mold05.html,0/1,-
-/tablesm/mold06.html,0/1,-
-/tablesm/mold07.html,0/1,-
-/tablesm/mold08.html,0/1,-
-/tablesm/mold09.html,0/1,-
-/tablesm/mold2010.html,0/2,-
-/tablesm/mold2011.html,0/2,-
-/tablesm/mold2012.html,0/2,-
-/tablesm/mold2013.html,0/2,-
-/tablesm/mold2014.html,0/2,-
-/tablesm/mold2015.html,0/2,-
-/tablesm/mold2016.html,0/2,-
-/tablesm/mold2017.html,0/2,-
-/tablesm/mold2017a.html,0/1,-
-/tablesm/mold2018.html,0/2,-
-/tablesm/mold2019.html,0/2,-
-/tablesm/mold2020.html,0/2,-
-/tablesm/mold2022.html,0/2,-
-/tablesm/mold2023.html,0/2,-
-/tablesm/mold2024.html,0/2,-
-/tablesm/mold2025.html,0/3,-
-/tablesm/mold2026.html,6/3,Moldova 2025/26
-/tablesm/mold2027.html,5/4,Moldova 2026/27
-/tablesm/mold92.html,0/2,-
-/tablesm/mold93.html,0/2,-
-/tablesm/mold94.html,0/2,-
-/tablesm/mold95.html,0/2,-
-/tablesm/mold96.html,0/2,-
-/tablesm/mold97.html,0/1,-
-/tablesm/mold98.html,0/1,-
-/tablesm/mold99.html,0/1,-
-/tablesm/moldchamp.html,39/2,Moldova - List of Champions
-/tablesm/moldcup00.html,0/1,-
-/tablesm/moldcup01.html,0/1,-
-/tablesm/moldcup02.html,0/1,-
-/tablesm/moldcup03.html,0/1,-
-/tablesm/moldcup04.html,0/1,-
-/tablesm/moldcup05.html,0/1,-
-/tablesm/moldcup06.html,0/1,-
-/tablesm/moldcup07.html,0/1,-
-/tablesm/moldcup08.html,0/1,-
-/tablesm/moldcup09.html,0/1,-
-/tablesm/moldcup97.html,0/1,-
-/tablesm/moldcup98.html,0/1,-
-/tablesm/moldcup99.html,0/1,-
-/tablesm/moldcuphist.html,37/2,Moldova - List of Cup Winners
-/tablesm/moldhist.html,0/2,-
-/tablesm/moldtops.html,1/2,Moldova - List of Topscorers
+/tablesm/mit92.html,4/3,Mitropa Cup 1992
+/tablesm/mitadmundo.html,1/4,Copa Mitad del Mundo (Ecuador)
+/tablesm/mitamateur.html,1/3,Amateur-Mitropacup
+/tablesm/mitchell.html,2/3,Mitchell and Sutherland Shields
+/tablesm/mitsu-koln80.html,1/2,Mitsubishi Cup in Köln 1980
+/tablesm/mitsu89.html,1/2,"""Mitsubishi World Soccer '89"""
+/tablesm/mitsubishi-argtrip93.html,2/2,Mitsubishi Urawa Trip to Argentina 1993
+/tablesm/mitsubishi-samtrip70.html,1/2,Mitsubishi Trip to South America 1970
+/tablesm/mittops.html,1/3,Mitropa Cup Topscorers
+/tablesm/mlsz75.html,1/4,MLSZ Cup 1975 (Budapest)
+/tablesm/mmoretti08.html,0/1,?
+/tablesm/mmoretti2012.html,2/2,Challenge Michel Moretti 2008-2013 (Ajaccio)
+/tablesm/mohamed-v.html,1/8,"Coupe Mohamed V (Casablanca, Morocco)"
+/tablesm/moirans06.html,1/1,Tournoi de Moirans-en-Montagne 2006 (France)
+/tablesm/mold-futs-intres.html,1/2,Moldova - List of International Futsal Matches
+/tablesm/mold-intres.html,3/4,Moldova - International Results
+/tablesm/mold-wom00.html,4/4,Moldova (Women) 1999/00
+/tablesm/mold-wom02.html,0/2,?
+/tablesm/mold-wom07.html,0/1,?
+/tablesm/mold-wom08.html,0/1,?
+/tablesm/mold-wom09.html,0/1,?
+/tablesm/mold-wom2012.html,0/2,?
+/tablesm/mold-wom2013.html,5/3,Moldova (Women) 2012/13
+/tablesm/mold-wom2014.html,5/5,Moldova (Women) 2013/14
+/tablesm/mold-wom2015.html,5/5,Moldova (Women) 2014/15
+/tablesm/mold-wom2016.html,5/5,Moldova (Women) 2015/16
+/tablesm/mold-wom2017.html,5/5,Moldova (Women) 2016/17
+/tablesm/mold-wom2018.html,5/5,Moldova (Women) 2017/18
+/tablesm/mold-wom2019.html,5/5,Moldova (Women) 2018/19
+/tablesm/mold-wom2020.html,5/5,Moldova (Women) 2019/20
+/tablesm/mold-wom2021.html,5/5,Moldova (Women) 2020/21
+/tablesm/mold-wom2022.html,5/5,Moldova (Women) 2021/22
+/tablesm/mold-wom2023.html,5/5,Moldova (Women) 2022/23
+/tablesm/mold-wom2024.html,5/5,Moldova (Women) 2023/24
+/tablesm/mold-wom2025.html,5/5,Moldova (Women) 2024/25
+/tablesm/mold-wom2026.html,4/5,Moldova (Women) 2025/26
+/tablesm/mold-wom97.html,3/4,Moldova (Women) 1996/97
+/tablesm/mold-womchamp.html,22/17,Moldova - List of Women Champions
+/tablesm/mold-womcuphist.html,14/16,Moldova - List of Women Cup Finals
+/tablesm/mold00.html,5/5,Moldova 1999/2000
+/tablesm/mold01.html,5/5,Moldova 2000/01
+/tablesm/mold02.html,5/5,Moldova 2001/02
+/tablesm/mold03.html,6/5,Moldova 2002/03
+/tablesm/mold04.html,6/5,Moldova 2003/04
+/tablesm/mold05.html,6/5,Moldova 2004/05
+/tablesm/mold06.html,6/5,Moldova 2005/06
+/tablesm/mold07.html,6/5,Moldova 2006/07
+/tablesm/mold08.html,6/5,Moldova 2007/08
+/tablesm/mold09.html,6/4,Moldova 2008/09
+/tablesm/mold2010.html,6/5,Moldova 2009/10
+/tablesm/mold2011.html,6/5,Moldova 2010/11
+/tablesm/mold2012.html,6/5,Moldova 2011/12
+/tablesm/mold2013.html,6/5,Moldova 2012/13
+/tablesm/mold2014.html,6/5,Moldova 2013/14
+/tablesm/mold2015.html,6/5,Moldova 2014/15
+/tablesm/mold2016.html,6/5,Moldova 2015/16
+/tablesm/mold2017.html,6/5,Moldova 2016/17
+/tablesm/mold2017a.html,6/4,Moldova 2017
+/tablesm/mold2018.html,6/5,Moldova 2018
+/tablesm/mold2019.html,6/5,Moldova 2019
+/tablesm/mold2020.html,6/5,Moldova 2020/21
+/tablesm/mold2022.html,6/5,Moldova 2021/22
+/tablesm/mold2023.html,6/5,Moldova 2022/23
+/tablesm/mold2024.html,6/5,Moldova 2023/24
+/tablesm/mold2025.html,6/6,Moldova 2024/25
+/tablesm/mold2026.html,6/5,Moldova 2025/26
+/tablesm/mold2027.html,5/6,Moldova 2026/27
+/tablesm/mold2champ.html,1/2,Moldova - List of Second Level Champions
+/tablesm/mold3champ.html,1/2,Moldova - List of Third Level Champions
+/tablesm/mold92.html,5/4,Moldova 1992
+/tablesm/mold93.html,5/5,Moldova 1992/93
+/tablesm/mold94.html,5/5,Moldova 1993/94
+/tablesm/mold95.html,5/5,Moldova 1994/95
+/tablesm/mold96.html,5/6,Moldova 1995/96
+/tablesm/mold97.html,5/6,Moldova 1996/97
+/tablesm/mold98.html,5/7,Moldova 1997/98
+/tablesm/mold99.html,5/6,Moldova 1998/99
+/tablesm/moldchamp.html,39/52,Moldova - List of Champions
+/tablesm/moldcup00.html,4/1,Moldova Cup 1999/2000
+/tablesm/moldcup01.html,4/1,Moldova Cup 2000/01
+/tablesm/moldcup02.html,4/1,Moldova Cup 2001/02
+/tablesm/moldcup03.html,4/1,Moldova Cup 2002/03
+/tablesm/moldcup04.html,4/1,Moldova Cup 2003/04
+/tablesm/moldcup05.html,4/1,Moldova Cup 2004/05
+/tablesm/moldcup06.html,4/1,Moldova Cup 2005/06
+/tablesm/moldcup07.html,4/1,Moldova Cup 2006/07
+/tablesm/moldcup08.html,4/1,Moldova Cup 2007/08
+/tablesm/moldcup09.html,4/1,Moldova Cup 2008/09
+/tablesm/moldcup97.html,5/1,Moldova Cup 1996/97
+/tablesm/moldcup98.html,5/1,Moldova Cup 1997/98
+/tablesm/moldcup99.html,4/1,Moldova Cup 1998/99
+/tablesm/moldcuphist.html,37/51,Moldova - List of Cup Winners
+/tablesm/moldfound.html,1/2,Moldova - List of Foundation Dates
+/tablesm/moldhist.html,1/4,Moldova - Final Tables 1946-1992
+/tablesm/moldsupcuphist.html,1/3,Moldova - List of Super Cup Finals
+/tablesm/moldtops.html,1/27,Moldova - List of Topscorers
 /tablesm/molromres.html,3/3,Derby al Prutului - Moldova-Romania matches
 /tablesm/monaco-intres.html,1/1,Monaco International Matches
-/tablesm/monaco04.html,0/2,-
-/tablesm/monaco07.html,0/1,-
-/tablesm/monaco08.html,0/1,-
-/tablesm/monaco09.html,0/1,-
-/tablesm/monaco2010.html,0/1,-
-/tablesm/monaco2011.html,0/1,-
-/tablesm/monaco2012.html,0/1,-
-/tablesm/monaco2013.html,0/1,-
-/tablesm/monaco2014.html,0/1,-
-/tablesm/monaco2015.html,0/1,-
-/tablesm/monaco2016.html,0/1,-
-/tablesm/monaco2017.html,0/1,-
-/tablesm/monaco2018.html,0/1,-
-/tablesm/monaco2019.html,0/1,-
-/tablesm/monaco2020.html,0/1,-
-/tablesm/monaco2021.html,0/2,-
-/tablesm/monaco2022.html,5/2,Monaco 2021/22
-/tablesm/monaco2023.html,5/4,Monaco 2022/23
-/tablesm/monacochamp.html,3/2,Monaco - List of Champions
-/tablesm/monacoclublist.html,1/1,Monaco - List of Clubs
-/tablesm/monacocuphist.html,19/3,Monaco - List of Cup Winners
-/tablesm/mondo-women70.html,0/1,-
-/tablesm/mong-intres.html,1/1,Mongolia - List of International Matches
-/tablesm/mong00.html,0/1,-
-/tablesm/mong01.html,0/1,-
-/tablesm/mong02.html,0/1,-
-/tablesm/mong03.html,0/1,-
-/tablesm/mong04.html,0/1,-
-/tablesm/mong05.html,0/1,-
-/tablesm/mong06.html,0/1,-
-/tablesm/mong07.html,0/1,-
-/tablesm/mong08.html,0/2,-
-/tablesm/mong09.html,0/1,-
-/tablesm/mong2010.html,0/1,-
-/tablesm/mong2011.html,0/1,-
-/tablesm/mong2012.html,0/2,-
-/tablesm/mong2013.html,0/1,-
-/tablesm/mong2014.html,0/2,-
-/tablesm/mong2015.html,0/2,-
-/tablesm/mong2016.html,0/2,-
-/tablesm/mong2017.html,0/2,-
-/tablesm/mong2018.html,0/2,-
-/tablesm/mong2019.html,0/2,-
-/tablesm/mong2020.html,0/2,-
-/tablesm/mong2021.html,0/2,-
-/tablesm/mong2022.html,0/2,-
-/tablesm/mong2023.html,0/2,-
-/tablesm/mong2024.html,0/3,-
-/tablesm/mong2025.html,5/2,Mongolia 2024/25
-/tablesm/mong2026.html,4/3,Mongolia 2025/26
-/tablesm/mong70.html,0/1,-
-/tablesm/mong74.html,0/1,-
-/tablesm/mong85.html,0/1,-
-/tablesm/mong87.html,0/1,-
-/tablesm/mong89.html,0/1,-
-/tablesm/mong96.html,0/1,-
-/tablesm/mong97.html,0/1,-
-/tablesm/mong98.html,0/1,-
-/tablesm/mong99.html,0/1,-
-/tablesm/mongchamp.html,38/2,Mongolia - List of Champions
-/tablesm/mongcuphist.html,14/2,Mongolia - List of Cup Winners
-/tablesm/mongprehist.html,0/1,-
-/tablesm/montcfe2023.html,2/1,Trophée des Champions Foot Entreprises 2023
-/tablesm/montebianco.html,0/1,-
-/tablesm/monteg-intres.html,6/4,Montenegro - List of International Matches
-/tablesm/monteg07.html,0/1,-
-/tablesm/monteg08.html,0/1,-
-/tablesm/monteg09.html,0/1,-
-/tablesm/monteg2010.html,0/2,-
-/tablesm/monteg2011.html,0/2,-
-/tablesm/monteg2012.html,0/2,-
-/tablesm/monteg2013.html,0/2,-
-/tablesm/monteg2014.html,0/2,-
-/tablesm/monteg2015.html,0/2,-
-/tablesm/monteg2016.html,0/2,-
-/tablesm/monteg2017.html,0/2,-
-/tablesm/monteg2018.html,0/2,-
-/tablesm/monteg2019.html,0/2,-
-/tablesm/monteg2020.html,0/2,-
-/tablesm/monteg2021.html,0/2,-
-/tablesm/monteg2022.html,0/2,-
-/tablesm/monteg2023.html,0/2,-
-/tablesm/monteg2024.html,0/3,-
-/tablesm/monteg2025.html,6/3,Montenegro 2024/25
-/tablesm/monteg2026.html,5/4,Montenegro 2025/26
-/tablesm/montegchamp.html,24/3,Montenegro - List of Champions
-/tablesm/montegcup07.html,0/1,-
-/tablesm/montegcup08.html,0/1,-
-/tablesm/montegcup09.html,0/1,-
-/tablesm/montegcuphist.html,21/2,Montenegro - List of Cup Finals
-/tablesm/montegfound.html,1/2,Montenegro - List of Foundation Dates
-/tablesm/monteghist.html,0/1,-
-/tablesm/montevideo12.html,1/1,Copa Montevideo
-/tablesm/montilla.html,1/1,Trofeo de la Vendimia (Montilla-Córdoba)
-/tablesm/montserrat-intres.html,1/1,Montserrat - List of International Matches
-/tablesm/moz-intres.html,1/1,Mozambique - List of International Matches
-/tablesm/moz00.html,0/2,-
-/tablesm/moz01.html,0/2,-
-/tablesm/moz02.html,0/2,-
-/tablesm/moz03.html,0/2,-
-/tablesm/moz04.html,0/2,-
-/tablesm/moz05.html,0/2,-
-/tablesm/moz06.html,0/2,-
-/tablesm/moz07.html,0/2,-
-/tablesm/moz08.html,0/2,-
-/tablesm/moz09.html,0/2,-
-/tablesm/moz2010.html,0/2,-
-/tablesm/moz2011.html,0/2,-
-/tablesm/moz2012.html,0/2,-
-/tablesm/moz2013.html,0/2,-
-/tablesm/moz2014.html,0/2,-
-/tablesm/moz2015.html,0/2,-
-/tablesm/moz2016.html,0/2,-
-/tablesm/moz2017.html,0/2,-
-/tablesm/moz2018.html,0/2,-
-/tablesm/moz2019.html,0/2,-
-/tablesm/moz2020.html,0/2,-
-/tablesm/moz2021.html,0/2,-
-/tablesm/moz2022.html,0/2,-
-/tablesm/moz2023.html,0/2,-
-/tablesm/moz2024.html,0/3,-
-/tablesm/moz2025.html,5/3,Mozambique 2025
-/tablesm/moz2026.html,4/4,Mozambique 2026
-/tablesm/moz74.html,0/1,-
-/tablesm/moz75.html,0/1,-
-/tablesm/moz76.html,0/1,-
-/tablesm/moz77.html,0/1,-
-/tablesm/moz78.html,0/2,-
-/tablesm/moz79.html,0/2,-
-/tablesm/moz80.html,0/2,-
-/tablesm/moz81.html,0/2,-
-/tablesm/moz82.html,0/2,-
-/tablesm/moz83.html,0/2,-
-/tablesm/moz84.html,0/2,-
-/tablesm/moz85.html,0/2,-
-/tablesm/moz86.html,0/2,-
-/tablesm/moz87.html,0/2,-
-/tablesm/moz88.html,0/2,-
-/tablesm/moz89.html,0/2,-
-/tablesm/moz90.html,0/2,-
-/tablesm/moz91.html,0/2,-
-/tablesm/moz92.html,0/2,-
-/tablesm/moz93.html,0/1,-
-/tablesm/moz94.html,0/2,-
-/tablesm/moz95.html,0/2,-
-/tablesm/moz96.html,0/2,-
-/tablesm/moz97.html,0/2,-
-/tablesm/moz98.html,0/1,-
-/tablesm/moz99.html,0/2,-
-/tablesm/mozchamp.html,54/2,Mozambique - List of Champions
-/tablesm/mozcuphist.html,49/2,Mozambique - List of Cup Winners
-/tablesm/mugardos.html,1/1,Trofeo Ayuntamiento de Mugardos
-/tablesm/muncordoba95.html,1/1,Copa Municipalidad de Córdoba
-/tablesm/mund80.html,1/1,Mundialito 1980
-/tablesm/mundialito-women.html,0/1,-
-/tablesm/mundo-women71.html,0/1,-
-/tablesm/mupeace.html,1/2,Peace Cup
-/tablesm/muratti.html,3/1,Muratti Vase
-/tablesm/myan-intres.html,1/1,Myanmar (Burma) - List of International Matches
-/tablesm/myan00.html,0/1,-
-/tablesm/myan02.html,0/1,-
-/tablesm/myan03.html,0/1,-
-/tablesm/myan04.html,0/1,-
-/tablesm/myan05.html,0/1,-
-/tablesm/myan06.html,0/1,-
-/tablesm/myan07.html,0/1,-
-/tablesm/myan08.html,0/1,-
-/tablesm/myan09.html,0/2,-
-/tablesm/myan09a.html,0/1,-
-/tablesm/myan2010.html,0/1,-
-/tablesm/myan2010a.html,0/1,-
-/tablesm/myan2011.html,0/2,-
-/tablesm/myan2012.html,0/2,-
-/tablesm/myan2013.html,0/2,-
-/tablesm/myan2014.html,0/2,-
-/tablesm/myan2015.html,0/2,-
-/tablesm/myan2016.html,0/2,-
-/tablesm/myan2017.html,0/2,-
-/tablesm/myan2018.html,0/2,-
-/tablesm/myan2019.html,0/2,-
-/tablesm/myan2020.html,0/1,-
-/tablesm/myan2022.html,0/1,-
-/tablesm/myan2023.html,0/1,-
-/tablesm/myan2024.html,5/3,Myanmar 2024/25
-/tablesm/myan2024a.html,0/2,-
-/tablesm/myan2026.html,4/4,Myanmar 2025/26
-/tablesm/myan98.html,0/1,-
-/tablesm/myanchamp.html,34/2,Myanmar (Burma) - List of Champions
-/tablesm/myancuphist.html,17/2,Myanmar (Burma) - List of Cup Winners
+/tablesm/monaco-u18.html,0/2,?
+/tablesm/monaco04.html,4/3,Monaco 2003/04
+/tablesm/monaco07.html,5/4,Monaco 2006/07
+/tablesm/monaco08.html,5/3,Monaco 2007/08
+/tablesm/monaco09.html,5/3,Monaco 2008/09
+/tablesm/monaco2010.html,5/3,Monaco 2009/10
+/tablesm/monaco2011.html,5/3,Monaco 2010/11
+/tablesm/monaco2012.html,5/3,Monaco 2011/12
+/tablesm/monaco2013.html,5/3,Monaco 2012/13
+/tablesm/monaco2014.html,5/3,Monaco 2013/14
+/tablesm/monaco2015.html,5/3,Monaco 2014/15
+/tablesm/monaco2016.html,5/3,Monaco 2015/16
+/tablesm/monaco2017.html,5/4,Monaco 2016/17
+/tablesm/monaco2018.html,5/4,Monaco 2017/18
+/tablesm/monaco2019.html,5/4,Monaco 2018/19
+/tablesm/monaco2020.html,5/4,Monaco 2019/20
+/tablesm/monaco2021.html,5/4,Monaco 2020/21
+/tablesm/monaco2022.html,5/5,Monaco 2021/22
+/tablesm/monaco2023.html,5/5,Monaco 2022/23
+/tablesm/monacochamp.html,3/20,Monaco - List of Champions
+/tablesm/monacoclublist.html,1/2,Monaco - List of Clubs
+/tablesm/monacocuphist.html,19/21,Monaco - List of Cup Winners
+/tablesm/monchorivera.html,1/2,"Trofeo Victoria ""Memorial Moncho Rivera"""
+/tablesm/mondo-women70.html,2/6,Coppa del Mondo (Women) 1970
+/tablesm/monforte.html,1/2,Trofeo Ayuntamiento de Monforte
+/tablesm/monfortejuv.html,1/2,"Trofeo Juvenil Monforte (Monforte de Lemos, Lugo)"
+/tablesm/mong-intres.html,1/2,Mongolia - List of International Matches
+/tablesm/mong-wom2015.html,0/1,?
+/tablesm/mong-wom2017.html,0/1,?
+/tablesm/mong-wom2019.html,0/2,?
+/tablesm/mong-wom2020.html,4/3,Mongolia (Women) 2020
+/tablesm/mong-wom2021.html,4/4,Mongolia (Women) 2021
+/tablesm/mong-wom2022.html,4/3,Mongolia (Women) 2022
+/tablesm/mong-wom2023.html,0/3,?
+/tablesm/mong-wom2024.html,4/3,Mongolia (Women) 2024
+/tablesm/mong-wom2026.html,3/3,Mongolia (Women) 2025/26
+/tablesm/mong-womchamp.html,10/6,Mongolia - List of Women Champions
+/tablesm/mong00.html,4/3,Mongolia 2000
+/tablesm/mong01.html,4/3,Mongolia 2001
+/tablesm/mong02.html,4/3,Mongolia 2002
+/tablesm/mong03.html,4/4,Mongolia 2003
+/tablesm/mong04.html,4/3,Mongolia 2004
+/tablesm/mong05.html,4/3,Mongolia 2005
+/tablesm/mong06.html,4/4,Mongolia 2006
+/tablesm/mong07.html,4/4,Mongolia 2007
+/tablesm/mong08.html,4/5,Mongolia 2008
+/tablesm/mong09.html,4/4,Mongolia 2009
+/tablesm/mong2010.html,4/4,Mongolia 2010
+/tablesm/mong2011.html,4/4,Mongolia 2011
+/tablesm/mong2012.html,4/5,Mongolia 2012
+/tablesm/mong2013.html,4/4,Mongolia 2013
+/tablesm/mong2014.html,5/5,Mongolia 2014
+/tablesm/mong2015.html,5/5,Mongolia 2015
+/tablesm/mong2016.html,5/5,Mongolia 2016
+/tablesm/mong2017.html,5/5,Mongolia 2017
+/tablesm/mong2018.html,5/5,Mongolia 2018
+/tablesm/mong2019.html,5/5,Mongolia 2019
+/tablesm/mong2020.html,5/5,Mongolia 2020
+/tablesm/mong2021.html,5/5,Mongolia 2021
+/tablesm/mong2022.html,5/5,Mongolia 2021/22
+/tablesm/mong2023.html,5/5,Mongolia 2022/23
+/tablesm/mong2024.html,5/6,Mongolia 2023/24
+/tablesm/mong2025.html,5/4,Mongolia 2024/25
+/tablesm/mong2026.html,4/4,Mongolia 2025/26
+/tablesm/mong2champ.html,1/2,Mongolia - List of Second Level Champions
+/tablesm/mong70.html,4/3,Mongolia 1970
+/tablesm/mong74.html,5/3,Mongolia 1974
+/tablesm/mong85.html,5/3,Mongolia 1985
+/tablesm/mong87.html,4/3,Mongolia 1987
+/tablesm/mong89.html,5/3,Mongolia 1989
+/tablesm/mong96.html,4/3,Mongolia 1996
+/tablesm/mong97.html,4/4,Mongolia 1997
+/tablesm/mong98.html,4/3,Mongolia 1998
+/tablesm/mong99.html,4/3,Mongolia 1999
+/tablesm/mongchamp.html,38/39,Mongolia - List of Champions
+/tablesm/mongcuphist.html,14/15,Mongolia - List of Cup Winners
+/tablesm/mongfound.html,1/2,Mongolia - List of Foundation Dates
+/tablesm/mongprehist.html,3/3,Mongolia 1946-1961 Available Data
+/tablesm/monrovia79.html,0/2,?
+/tablesm/montafongs05.html,1/1,Montafoner Goldschlüssel Cup 2005 (Austria)
+/tablesm/montaigu.html,0/6,?
+/tablesm/montaigu00.html,0/1,?
+/tablesm/montcfe2023.html,2/2,Trophée des Champions Foot Entreprises 2023
+/tablesm/montebianco.html,1/2,Trofeo Monte Bianco - Coppa Casino de la Vallée
+/tablesm/monteg-intres.html,6/7,Montenegro - List of International Matches
+/tablesm/monteg-wom09.html,0/1,?
+/tablesm/monteg-wom2010.html,0/1,?
+/tablesm/monteg-wom2011.html,0/1,?
+/tablesm/monteg-wom2012.html,0/2,?
+/tablesm/monteg-wom2013.html,4/3,Montenegro (Women) 2012/13
+/tablesm/monteg-wom2014.html,4/3,Montenegro (Women) 2013/14
+/tablesm/monteg-wom2016.html,0/2,?
+/tablesm/monteg-wom2018.html,4/3,Montenegro (Women) 2017/18
+/tablesm/monteg-wom2019.html,4/4,Montenegro (Women) 2018/19
+/tablesm/monteg-wom2020.html,4/4,Montenegro (Women) 2019/20
+/tablesm/monteg-wom2021.html,4/4,Montenegro (Women) 2020/21
+/tablesm/monteg-wom2022.html,4/4,Montenegro (Women) 2021/22
+/tablesm/monteg-wom2023.html,4/4,Montenegro (Women) 2022/23
+/tablesm/monteg-wom2024.html,4/4,Montenegro (Women) 2023/24
+/tablesm/monteg-wom2025.html,3/3,Montenegro (Women) 2024/25
+/tablesm/monteg-womchamp.html,15/11,Montenegro - List of Women Champions
+/tablesm/monteg07.html,5/5,Montenegro 2006/07
+/tablesm/monteg08.html,6/5,Montenegro 2007/08
+/tablesm/monteg09.html,6/4,Montenegro 2008/09
+/tablesm/monteg2010.html,6/5,Montenegro 2009/10
+/tablesm/monteg2011.html,6/5,Montenegro 2010/11
+/tablesm/monteg2012.html,6/5,Montenegro 2011/12
+/tablesm/monteg2013.html,6/5,Montenegro 2012/13
+/tablesm/monteg2014.html,6/5,Montenegro 2013/14
+/tablesm/monteg2015.html,6/5,Montenegro 2014/15
+/tablesm/monteg2016.html,6/5,Montenegro 2015/16
+/tablesm/monteg2017.html,6/5,Montenegro 2016/17
+/tablesm/monteg2018.html,6/5,Montenegro 2017/18
+/tablesm/monteg2019.html,6/5,Montenegro 2018/19
+/tablesm/monteg2020.html,6/5,Montenegro 2019/20
+/tablesm/monteg2021.html,6/5,Montenegro 2020/21
+/tablesm/monteg2022.html,6/5,Montenegro 2021/22
+/tablesm/monteg2023.html,6/5,Montenegro 2022/23
+/tablesm/monteg2024.html,6/5,Montenegro 2023/24
+/tablesm/monteg2025.html,6/5,Montenegro 2024/25
+/tablesm/monteg2026.html,5/6,Montenegro 2025/26
+/tablesm/monteg2champ.html,1/2,Montenegro - List of Second Level Champions
+/tablesm/montegalltime.html,1/2,Montenegro - All Time Table 2006/07-2007/08
+/tablesm/montegchamp.html,24/25,Montenegro - List of Champions
+/tablesm/montegcup07.html,2/1,Montenegro Cup 2006/07
+/tablesm/montegcup08.html,4/1,Montenegro Cup 2007/08
+/tablesm/montegcup09.html,5/1,Montenegro Cup 2008/09
+/tablesm/montegcuphist.html,21/24,Montenegro - List of Cup Finals
+/tablesm/montegfound.html,1/22,Montenegro - List of Foundation Dates
+/tablesm/monteghist.html,2/4,Montenegro - List of Final Tables 1946-1982
+/tablesm/montegplall.html,1/2,Montenegro - All Time Final Placings 2006/07-2007/08
+/tablesm/montegregchamp.html,1/2,Montenegro - List of Regional Champions
+/tablesm/montegtops.html,1/1,Montenegro - List of Topscorers
+/tablesm/monterrey-u17-00.html,0/1,?
+/tablesm/monterrey400-96.html,0/2,?
+/tablesm/monterreytigres.html,1/2,Monterrey v Tigres UANL - Derby of Monterrey (Clásico Regio)
+/tablesm/montevideo12.html,1/2,Copa Montevideo
+/tablesm/montevideo63.html,0/4,?
+/tablesm/monthey.html,43/3,Tournoi Espoirs U-20 de Monthey (Switzerland)
+/tablesm/monthey00.html,0/1,?
+/tablesm/monthey01.html,0/1,?
+/tablesm/monthey02.html,0/1,?
+/tablesm/monthey03.html,0/1,?
+/tablesm/monthey04.html,0/1,?
+/tablesm/monthey05.html,0/1,?
+/tablesm/monthey06.html,0/1,?
+/tablesm/monthey07.html,0/1,?
+/tablesm/monthey08.html,0/1,?
+/tablesm/monthey09.html,0/1,?
+/tablesm/monthey2010.html,0/1,?
+/tablesm/monthey2011.html,0/1,?
+/tablesm/monthey2012.html,0/1,?
+/tablesm/monthey50-60.html,1/2,50th Anniversary of FC Monthey - 1960
+/tablesm/monthey71.html,0/1,?
+/tablesm/monthey72.html,0/1,?
+/tablesm/monthey73.html,0/1,?
+/tablesm/monthey74.html,0/1,?
+/tablesm/monthey75.html,0/1,?
+/tablesm/monthey76.html,0/1,?
+/tablesm/monthey77.html,0/1,?
+/tablesm/monthey78.html,0/1,?
+/tablesm/monthey79.html,0/1,?
+/tablesm/monthey80.html,0/1,?
+/tablesm/monthey81.html,0/1,?
+/tablesm/monthey82.html,0/1,?
+/tablesm/monthey83.html,0/1,?
+/tablesm/monthey84.html,0/1,?
+/tablesm/monthey85.html,0/1,?
+/tablesm/monthey86.html,0/1,?
+/tablesm/monthey87.html,0/1,?
+/tablesm/monthey88.html,0/3,?
+/tablesm/monthey89.html,0/1,?
+/tablesm/monthey90.html,0/1,?
+/tablesm/monthey91.html,0/1,?
+/tablesm/monthey92.html,0/1,?
+/tablesm/monthey93.html,0/1,?
+/tablesm/monthey94.html,0/1,?
+/tablesm/monthey95.html,0/3,?
+/tablesm/monthey96.html,0/1,?
+/tablesm/monthey97.html,0/1,?
+/tablesm/monthey98.html,0/1,?
+/tablesm/monthey99.html,0/1,?
+/tablesm/montilla.html,1/2,Trofeo de la Vendimia (Montilla-Córdoba)
+/tablesm/montillamoriles.html,1/4,Trofeo Internacional Montilla-Moriles
+/tablesm/montreal-350-92.html,0/2,?
+/tablesm/montreux05.html,1/1,Mini-Tournament of Montreux 2005 (Switzerland)
+/tablesm/montriond-trip16.html,2/3,Iberian Trip of Montriond-Sport (Lausanne) 1916
+/tablesm/montriond14.html,1/2,Tournoi du Montriond (Lausanne) 1914
+/tablesm/montserrat-intres.html,1/2,Montserrat - List of International Matches
+/tablesm/montserrat00.html,0/2,?
+/tablesm/montserrat01.html,4/2,Montserrat 2001
+/tablesm/montserrat02.html,0/2,?
+/tablesm/montserrat04.html,0/1,?
+/tablesm/montserrat2016.html,0/1,?
+/tablesm/montserrat2018.html,3/2,Montserrat 2018
+/tablesm/montserrat74.html,0/1,?
+/tablesm/montserrat97.html,0/1,?
+/tablesm/montserratchamp.html,8/4,Montserrat - List of Champions
+/tablesm/montserratfound.html,1/2,Montserrat - List of Foundation Dates
+/tablesm/morosinimem2012.html,0/1,?
+/tablesm/moskva-u16-03.html,0/1,?
+/tablesm/motherwell-satrip28.html,2/5,South American Trip of Motherwell FC 1928
+/tablesm/motril.html,1/2,Trofeo Ciudad de Motril
+/tablesm/mountainvillage-em08.html,1/1,Mountain Village - EM 2008
+/tablesm/moz-4nat-06.html,0/1,?
+/tablesm/moz-intres.html,1/2,Mozambique - List of International Matches
+/tablesm/moz-wom02.html,0/1,?
+/tablesm/moz-wom05.html,0/1,?
+/tablesm/moz-wom06.html,0/1,?
+/tablesm/moz-wom07.html,0/1,?
+/tablesm/moz-wom08.html,0/1,?
+/tablesm/moz-wom2011.html,0/1,?
+/tablesm/moz-wom2012.html,0/1,?
+/tablesm/moz-wom2013.html,0/1,?
+/tablesm/moz-wom2014.html,0/1,?
+/tablesm/moz-wom2015.html,0/1,?
+/tablesm/moz-wom2016.html,0/1,?
+/tablesm/moz-wom2017.html,0/1,?
+/tablesm/moz-wom2018.html,0/1,?
+/tablesm/moz-wom2018a.html,0/1,?
+/tablesm/moz-wom2019.html,0/1,?
+/tablesm/moz-wom2019a.html,0/2,?
+/tablesm/moz-wom2022.html,4/3,Mozambique (Women) 2022
+/tablesm/moz-wom2023.html,4/4,Mozambique (Women) 2023
+/tablesm/moz-wom2024.html,3/3,Mozambique (Women) 2024
+/tablesm/moz-womchamp.html,20/5,Mozambique - List of (Women) Champions
+/tablesm/moz00.html,5/5,Mozambique 1999/2000
+/tablesm/moz01.html,5/5,Mozambique 2000/01
+/tablesm/moz02.html,5/5,Mozambique 2002
+/tablesm/moz03.html,5/5,Mozambique 2003
+/tablesm/moz04.html,5/5,Mozambique 2004
+/tablesm/moz05.html,5/5,Mozambique 2005
+/tablesm/moz06.html,5/5,Mozambique 2006
+/tablesm/moz07.html,5/5,Mozambique 2007
+/tablesm/moz08.html,5/5,Mozambique 2008
+/tablesm/moz09.html,6/6,Mozambique 2009
+/tablesm/moz09det.html,2/1,Mozambique 2009 - Match Details
+/tablesm/moz2010.html,5/5,Mozambique 2010
+/tablesm/moz2011.html,5/5,Mozambique 2011
+/tablesm/moz2012.html,5/5,Mozambique 2012
+/tablesm/moz2013.html,5/5,Mozambique 2013
+/tablesm/moz2014.html,5/5,Mozambique 2014
+/tablesm/moz2015.html,5/5,Mozambique 2015
+/tablesm/moz2016.html,5/5,Mozambique 2016
+/tablesm/moz2017.html,5/5,Mozambique 2017
+/tablesm/moz2018.html,5/5,Mozambique 2018
+/tablesm/moz2019.html,5/5,Mozambique 2019
+/tablesm/moz2020.html,5/5,Mozambique 2020
+/tablesm/moz2021.html,5/5,Mozambique 2021
+/tablesm/moz2022.html,5/5,Mozambique 2022
+/tablesm/moz2023.html,5/5,Mozambique 2023
+/tablesm/moz2024.html,5/5,Mozambique 2024
+/tablesm/moz2025.html,5/5,Mozambique 2025
+/tablesm/moz2026.html,4/6,Mozambique 2026
+/tablesm/moz74.html,4/3,Mozambique 1974
+/tablesm/moz75.html,5/4,Mozambique 1975
+/tablesm/moz76.html,5/4,Mozambique 1976
+/tablesm/moz77.html,5/4,Mozambique 1977
+/tablesm/moz78.html,5/5,Mozambique 1978
+/tablesm/moz79.html,5/5,Mozambique 1979
+/tablesm/moz80.html,5/6,Mozambique 1980
+/tablesm/moz81.html,5/6,Mozambique 1981
+/tablesm/moz82.html,5/6,Mozambique 1982
+/tablesm/moz83.html,5/6,Mozambique 1983
+/tablesm/moz84.html,5/5,Mozambique 1984
+/tablesm/moz85.html,5/4,Mozambique 1985
+/tablesm/moz86.html,5/4,Mozambique 1986
+/tablesm/moz87.html,5/5,Mozambique 1987
+/tablesm/moz88.html,5/4,Mozambique 1988
+/tablesm/moz89.html,5/4,Mozambique 1989
+/tablesm/moz90.html,5/4,Mozambique 1990
+/tablesm/moz91.html,5/4,Mozambique 1991
+/tablesm/moz92.html,5/5,Mozambique 1992
+/tablesm/moz93.html,5/4,Mozambique 1993
+/tablesm/moz94.html,5/4,Mozambique 1994
+/tablesm/moz95.html,5/4,Mozambique 1995
+/tablesm/moz96.html,5/4,Mozambique 1996
+/tablesm/moz97.html,5/4,Mozambique 1997
+/tablesm/moz98.html,5/4,Mozambique 1998
+/tablesm/moz99.html,5/5,Mozambique 1998/99
+/tablesm/mozchamp.html,54/56,Mozambique - List of Champions
+/tablesm/mozcuphist.html,49/56,Mozambique - List of Cup Winners
+/tablesm/mozfound.html,2/2,Mozambique - List of Foundation Dates
+/tablesm/moztops.html,1/2,Mozambique - List of Topscorers
+/tablesm/mscnapoli2012.html,0/1,?
+/tablesm/mtk-mextour30.html,1/2,Mexican trip of MTK (Budapest) 1930
+/tablesm/mtoplice2012.html,0/1,?
+/tablesm/muehleholz34.html,5/4,"Fußballturnier in Mühleholz (near Vaduz, Liechtenstein) 1934"
+/tablesm/mugardos.html,1/2,Trofeo Ayuntamiento de Mugardos
+/tablesm/mukuru2026.html,0/1,?
+/tablesm/munchen27.html,1/2,Internationales Turnier (München) 1927
+/tablesm/munchen52.html,2/3,Osterturnier München 1952
+/tablesm/munchen53.html,3/4,Osterturnier München 1953
+/tablesm/munchen53b.html,2/3,Pfingstturnier München 1953
+/tablesm/muncordoba95.html,1/2,Copa Municipalidad de Córdoba
+/tablesm/mund-youth.html,0/2,?
+/tablesm/mund80.html,1/4,Mundialito 1980
+/tablesm/mundialito-u15-caracas.html,1/4,U-15 Mundialito de Fútbol Infantil (Venezuela)
+/tablesm/mundialito-women.html,1/4,Mundialito (Women) 1981-1988
+/tablesm/mundialitoclubs.html,1/2,Mundialito de Clubs
+/tablesm/mundo-women71.html,2/6,II Campeonato Mundial de Fútbol Femenil (Women) 1971
+/tablesm/mungralpueyrredon87.html,2/2,Copa Municipalidad de General Pueyrredón 1987
+/tablesm/municipallima-mextour59.html,1/2,Mexican Trip of Deportivo Municipal (Lima) 1959
+/tablesm/muniuni.html,1/2,Universitario v Deportivo Municipal - El Clásico Moderno
+/tablesm/munot93.html,1/2,Munot Cup 1993
+/tablesm/mupeace.html,1/3,Peace Cup
+/tablesm/muratti.html,3/5,Muratti Vase
+/tablesm/mwanderers-argtrip1910.html,2/4,Montevideo Wanderers Trip to Argentina 1910
+/tablesm/mwanderers-argtrip1921.html,2/4,Montevideo Wanderers Trip to Argentina 1921
+/tablesm/mwanderers-braztrip28.html,2/3,Brazilian Trip of Montevideo Wanderers 1928
+/tablesm/mwanderers-trip32.html,2/3,Brazilian Trip of Montevideo Wanderers 1932
+/tablesm/myan-intres.html,1/2,Myanmar (Burma) - List of International Matches
+/tablesm/myan-wom02.html,0/1,?
+/tablesm/myan-wom05.html,0/1,?
+/tablesm/myan-wom06.html,0/1,?
+/tablesm/myan-wom2013.html,0/2,?
+/tablesm/myan-wom2017.html,4/3,Myanmar (Women) 2016/17
+/tablesm/myan-wom2018.html,4/4,Myanmar (Women) 2017/18
+/tablesm/myan-wom2019.html,4/4,Myanmar (Women) 2018/19
+/tablesm/myan-wom2022.html,4/4,Myanmar (Women) 2022
+/tablesm/myan-wom2023.html,4/4,Myanmar (Women) 2023
+/tablesm/myan-wom2024.html,4/4,Myanmar (Women) 2024
+/tablesm/myan-wom2025.html,3/3,Myanmar (Women) 2025/26
+/tablesm/myan-womchamp.html,12/8,Myanmar - List of Women Champions
+/tablesm/myan00.html,4/4,Myanmar 1999/00
+/tablesm/myan01.html,4/2,Myanmar 2000/01
+/tablesm/myan02.html,4/3,Myanmar 2001/02
+/tablesm/myan03.html,4/4,Myanmar 2002/03
+/tablesm/myan04.html,4/4,Myanmar 2003/04
+/tablesm/myan05.html,4/3,Myanmar 2004/05
+/tablesm/myan06.html,5/4,Myanmar 2005/06
+/tablesm/myan07.html,5/3,Myanmar 2006/07
+/tablesm/myan08.html,5/3,Myanmar 2007/08
+/tablesm/myan09.html,5/5,Myanmar 2008/09
+/tablesm/myan09a.html,5/3,Myanmar 2009
+/tablesm/myan2010.html,5/4,Myanmar 2009/10
+/tablesm/myan2010a.html,5/4,Myanmar 2010
+/tablesm/myan2011.html,5/5,Myanmar 2011
+/tablesm/myan2012.html,5/5,Myanmar 2012
+/tablesm/myan2013.html,5/5,Myanmar 2013
+/tablesm/myan2014.html,5/5,Myanmar 2014
+/tablesm/myan2015.html,5/5,Myanmar 2015
+/tablesm/myan2016.html,5/5,Myanmar 2016
+/tablesm/myan2017.html,5/5,Myanmar 2017
+/tablesm/myan2018.html,5/5,Myanmar 2018
+/tablesm/myan2019.html,5/5,Myanmar 2019
+/tablesm/myan2020.html,5/4,Myanmar 2020
+/tablesm/myan2022.html,5/4,Myanmar 2022
+/tablesm/myan2023.html,5/4,Myanmar 2023
+/tablesm/myan2024.html,5/6,Myanmar 2024/25
+/tablesm/myan2024a.html,5/3,Myanmar 2024
+/tablesm/myan2026.html,4/5,Myanmar 2025/26
+/tablesm/myan2champ.html,1/2,Myanmar - List of Second Level Champions
+/tablesm/myan98.html,4/3,Myanmar 1997/98
+/tablesm/myanchamp.html,34/37,Myanmar (Burma) - List of Champions
+/tablesm/myancuphist.html,17/25,Myanmar (Burma) - List of Cup Winners
+/tablesm/myanfound.html,1/2,Myanmar - Foundation Dates of Clubs
+/tablesm/myanu20-thai89.html,0/2,?
+/tablesm/mysoresing5657.html,1/2,Mysore Hunters FC (India) tour of Malaya and Singapore 1956-57
+/tablesm/mysoresing61.html,1/2,Mysore (India) tour of Singapore and Malaya 1961

@@ -1,98 +1,342 @@
 path,links,title
-/sacups/aldao.html,0/2,-
-/sacups/allcopas-alltime.html,0/1,-
-/sacups/almirantebrion.html,0/1,-
-/sacups/argurucuptie.html,0/2,-
-/sacups/arguruhonor.html,0/2,-
-/sacups/asoargcup.html,0/1,-
-/sacups/bottaro57.html,0/1,-
-/sacups/conmebol.html,0/1,-
-/sacups/conmebol-arg.html,0/1,-
-/sacups/conmebol-peru.html,0/1,-
-/sacups/conmebol-venez.html,0/1,-
-/sacups/conmebolpts.html,0/1,-
-/sacups/conmeboltops.html,0/1,-
-/sacups/copa-5yr-ranking.html,0/2,-
-/sacups/copa-u20.html,0/2,-
-/sacups/copa-wom.html,0/1,-
-/sacups/copa-wom-allt.html,0/1,-
-/sacups/copa-wom2025.html,0/2,-
-/sacups/copa00.html,0/1,-
-/sacups/copa05.html,0/1,-
-/sacups/copa06.html,0/1,-
-/sacups/copa07.html,0/1,-
-/sacups/copa08.html,0/1,-
-/sacups/copa09.html,0/1,-
-/sacups/copa2010.html,0/1,-
-/sacups/copa2011.html,0/1,-
-/sacups/copa2012.html,0/1,-
-/sacups/copa2013.html,0/1,-
-/sacups/copa2014.html,0/1,-
-/sacups/copa2015.html,0/1,-
-/sacups/copa2016.html,0/1,-
-/sacups/copa2017.html,0/1,-
-/sacups/copa2018.html,0/1,-
-/sacups/copa2019.html,0/1,-
-/sacups/copa2020.html,0/1,-
-/sacups/copa2021.html,0/1,-
-/sacups/copa2022.html,0/1,-
-/sacups/copa2024.html,0/3,-
-/sacups/copa48.html,0/1,-
-/sacups/copa79.html,0/1,-
-/sacups/copa93.html,0/1,-
-/sacups/copa98.html,0/1,-
-/sacups/copa99.html,0/1,-
-/sacups/copabalance.html,0/1,-
-/sacups/copalib.html,0/4,-
-/sacups/copalib-clubrec.html,0/1,-
-/sacups/copalibarg.html,0/1,-
-/sacups/copalibchil.html,0/1,-
-/sacups/copalibcoach.html,0/1,-
-/sacups/copalibcol.html,0/1,-
-/sacups/copalibmex.html,0/1,-
-/sacups/copalibperu.html,0/1,-
-/sacups/copalibpts.html,0/1,-
-/sacups/copalibtops.html,0/1,-
-/sacups/copalibvenez.html,0/1,-
-/sacups/escobargerona.html,0/2,-
-/sacups/feme00.html,0/1,-
-/sacups/indep-sf-copa.html,0/1,-
-/sacups/mastconmebol96.html,0/1,-
-/sacups/merconorte.html,0/1,-
-/sacups/merconorte-venez.html,0/1,-
-/sacups/mercosur.html,0/1,-
-/sacups/mercosur-arg.html,0/1,-
-/sacups/mercosur98.html,0/1,-
-/sacups/oro96.html,0/1,-
-/sacups/panamcup02.html,0/2,-
-/sacups/penarol-copa.html,0/1,-
-/sacups/penarol-icc.html,0/1,-
-/sacups/penarol-msur.html,0/1,-
-/sacups/recopa.html,0/1,-
-/sacups/recopa-allt.html,0/1,-
-/sacups/recopa-venez.html,0/1,-
-/sacups/recopa2025.html,0/1,-
-/sacups/recopa70.html,0/1,-
-/sacups/recopa71.html,0/1,-
-/sacups/sacups-chil.html,0/1,-
-/sacups/sam-futsalclub.html,0/1,-
-/sacups/sam-interior-tourn01.html,0/1,-
-/sacups/samisc.html,0/2,-
-/sacups/sanisidro.html,0/1,-
-/sacups/sasup.html,0/1,-
-/sacups/sasupmas92.html,0/1,-
-/sacups/sasuppts.html,0/1,-
-/sacups/sasupsup98.html,0/1,-
-/sacups/sasuptops.html,0/1,-
-/sacups/simonbolivar.html,0/1,-
-/sacups/sudamcup.html,0/1,-
-/sacups/sudamcup-allt.html,0/1,-
-/sacups/sudamcup-arg.html,0/1,-
-/sacups/sudamcup-peru.html,0/1,-
-/sacups/sudamcup-venez.html,0/1,-
-/sacups/sudamcup03.html,0/1,-
-/sacups/sudamcup2024.html,0/2,-
-/sacups/supcopa-arg.html,0/1,-
-/sacups/supcopa68.html,0/1,-
-/sacups/supcopa69.html,0/1,-
-/sacups/tachira-sacups.html,0/1,-
+/sacups/aldao.html,3/4,Campeonato Rioplatense - Copa Dr. Ricardo C. Aldao (1913 - 1957)
+/sacups/aldaodet.html,0/3,?
+/sacups/allcopas-alltime.html,17/2,All-Time Table Conmebol Cups
+/sacups/almirantebrion.html,3/9,Copa Gran Almirante Pedro Luis Brion
+/sacups/argurucuptie.html,27/27,Cup Tie Competition - First Division
+/sacups/argurucuptiedet.html,0/3,?
+/sacups/arguruhonor.html,3/4,Copa de Honor Cousenier
+/sacups/arguruhonordet.html,0/3,?
+/sacups/asoargcup.html,3/2,Copa Asociación Argentina - Argentine Asociation Cup
+/sacups/asoargcupdet.html,0/2,?
+/sacups/bottaro57.html,1/4,-
+/sacups/conmebol.html,14/5,Copa Conmebol
+/sacups/conmebol-arg.html,1/2,Argentinian clubs in Copa Conmebol
+/sacups/conmebol-peru.html,1/3,Peruvian clubs in Copa Conmebol
+/sacups/conmebol-venez.html,0/2,Venezolan clubs in Copa Conmebol
+/sacups/conmebol92.html,0/1,?
+/sacups/conmebol93.html,0/1,?
+/sacups/conmebol93det.html,0/1,?
+/sacups/conmebol94.html,0/1,?
+/sacups/conmebol94det.html,0/1,?
+/sacups/conmebol95.html,0/2,?
+/sacups/conmebol96.html,0/1,?
+/sacups/conmebol96det.html,0/1,?
+/sacups/conmebol97.html,0/1,?
+/sacups/conmebol98.html,0/1,?
+/sacups/conmebol99.html,0/3,?
+/sacups/conmebolpts.html,1/3,Copa Conmebol All-Time Table 1992-1999
+/sacups/conmeboltops.html,1/2,Copa Conmebol Topscorers 1992-1999
+/sacups/copa-5yr-ranking.html,2/3,Copa Libertadores de América - Five Year Coefficient Ranking
+/sacups/copa-u20.html,1/3,U-20 Copa Libertadores
+/sacups/copa-wom.html,19/3,Women's Copa Libertadores
+/sacups/copa-wom-allt.html,2/3,All Time Table Women's Copa Libertadores
+/sacups/copa-wom09.html,0/1,?
+/sacups/copa-wom2010.html,0/1,?
+/sacups/copa-wom2011.html,0/2,?
+/sacups/copa-wom2012.html,0/1,?
+/sacups/copa-wom2013.html,0/1,?
+/sacups/copa-wom2014.html,0/1,?
+/sacups/copa-wom2015.html,0/1,?
+/sacups/copa-wom2016.html,0/1,?
+/sacups/copa-wom2017.html,0/1,?
+/sacups/copa-wom2018.html,0/1,?
+/sacups/copa-wom2019.html,0/1,?
+/sacups/copa-wom2020.html,0/1,?
+/sacups/copa-wom2021.html,0/1,?
+/sacups/copa-wom2022.html,0/1,?
+/sacups/copa-wom2023.html,0/1,?
+/sacups/copa-wom2024.html,0/2,?
+/sacups/copa-wom2025.html,3/3,XVII Women's Copa Libertadores 2025
+/sacups/copa00.html,4/3,Copa Libertadores 2000
+/sacups/copa01.html,0/2,?
+/sacups/copa02.html,0/1,?
+/sacups/copa03.html,0/1,?
+/sacups/copa04.html,0/3,?
+/sacups/copa05.html,4/3,Copa Libertadores 2005
+/sacups/copa06.html,4/4,Copa Libertadores 2006
+/sacups/copa07.html,4/4,Copa Libertadores 2007
+/sacups/copa08.html,4/4,Copa Libertadores 2008
+/sacups/copa09.html,4/4,Copa Libertadores 2009
+/sacups/copa2010.html,4/4,Copa Libertadores 2010
+/sacups/copa2011.html,4/4,Copa Libertadores 2011
+/sacups/copa2012.html,4/4,Copa Libertadores 2012
+/sacups/copa2013.html,4/5,Copa Libertadores 2013
+/sacups/copa2014.html,4/4,Copa Libertadores 2014
+/sacups/copa2015.html,4/4,Copa Libertadores 2015
+/sacups/copa2016.html,4/4,Copa Libertadores 2016
+/sacups/copa2017.html,5/4,Copa Libertadores 2017
+/sacups/copa2018.html,5/4,Copa Libertadores 2018
+/sacups/copa2019.html,5/4,Copa Libertadores 2019
+/sacups/copa2020.html,5/4,Copa Libertadores 2020
+/sacups/copa2021.html,5/4,Copa Libertadores 2021
+/sacups/copa2022.html,6/3,Copa Libertadores 2022
+/sacups/copa2023.html,0/3,?
+/sacups/copa2024.html,4/4,Copa Libertadores 2024
+/sacups/copa48.html,2/4,South American Club Championship 1948
+/sacups/copa48det.html,0/3,?
+/sacups/copa60.html,0/1,?
+/sacups/copa60det.html,0/2,?
+/sacups/copa61.html,0/1,?
+/sacups/copa61det.html,0/2,?
+/sacups/copa62.html,0/1,?
+/sacups/copa62det.html,0/1,?
+/sacups/copa63.html,0/2,?
+/sacups/copa64.html,0/1,?
+/sacups/copa65.html,0/1,?
+/sacups/copa66.html,0/1,?
+/sacups/copa67.html,0/1,?
+/sacups/copa68.html,0/2,?
+/sacups/copa69.html,0/1,?
+/sacups/copa70.html,0/2,?
+/sacups/copa71.html,0/2,?
+/sacups/copa72.html,0/1,?
+/sacups/copa73.html,0/1,?
+/sacups/copa74.html,0/2,?
+/sacups/copa75.html,0/1,?
+/sacups/copa76.html,0/2,?
+/sacups/copa77.html,0/2,?
+/sacups/copa78.html,0/2,?
+/sacups/copa79.html,5/2,Copa Libertadores 1979
+/sacups/copa80.html,0/2,?
+/sacups/copa81.html,0/1,?
+/sacups/copa82.html,0/1,?
+/sacups/copa83.html,0/1,?
+/sacups/copa84.html,0/1,?
+/sacups/copa85.html,0/2,?
+/sacups/copa86.html,0/1,?
+/sacups/copa87.html,0/1,?
+/sacups/copa88.html,0/2,?
+/sacups/copa89.html,0/1,?
+/sacups/copa90.html,0/3,?
+/sacups/copa91.html,0/1,?
+/sacups/copa91full.html,0/1,?
+/sacups/copa92.html,0/3,?
+/sacups/copa93.html,5/2,Copa Libertadores 1993
+/sacups/copa93full.html,0/2,?
+/sacups/copa94.html,0/3,?
+/sacups/copa95.html,0/2,?
+/sacups/copa96.html,0/1,?
+/sacups/copa97.html,0/2,?
+/sacups/copa98.html,4/4,Copa Libertadores 1998
+/sacups/copa99.html,4/4,Copa Libertadores 1999
+/sacups/copabalance.html,2/2,Copa Libertadores Club Histories
+/sacups/copalib.html,75/36,Copa Libertadores de América
+/sacups/copalib-clubrec.html,1/3,Club Records in Copa Libertadores
+/sacups/copalibarg.html,1/3,Argentinian Clubs in Copa Libertadores
+/sacups/copalibchil.html,1/3,Chilean clubs in Copa Libertadores
+/sacups/copalibcoach.html,1/3,Copa Libertadores - Winning Coaches
+/sacups/copalibcol.html,4/4,Colombian clubs in Copa Libertadores
+/sacups/copalibmex.html,1/2,Mexican clubs in Copa Libertadores
+/sacups/copalibperu.html,0/2,Peruvian clubs in Copa Libertadores
+/sacups/copalibpts.html,1/3,Copa Libertadores - All-Time Table
+/sacups/copalibtops.html,2/3,Copa Libertadores - Topscorers
+/sacups/copalibvenez.html,0/2,Venezolan clubs in Copa Libertadores
+/sacups/escobargerona.html,3/3,Copa de Confraternidad Escobar - Gerona
+/sacups/escobargeronadet.html,0/3,?
+/sacups/feme00.html,1/1,South American Club Championship (Women) 2000
+/sacups/indep-sf-copa.html,2/4,Independiente Santa Fe in Copa Libertadores
+/sacups/mastconmebol96.html,1/4,-
+/sacups/merconorte.html,9/5,Copa Merconorte
+/sacups/merconorte-allt.html,0/2,?
+/sacups/merconorte-venez.html,1/2,Venezolan clubs in Copa Merconorte
+/sacups/merconorte00.html,0/1,?
+/sacups/merconorte01.html,0/2,?
+/sacups/merconorte98.html,0/1,?
+/sacups/merconorte99.html,0/1,?
+/sacups/merconortetops.html,0/2,?
+/sacups/mercosur.html,8/7,Copa Mercosur
+/sacups/mercosur-allt.html,0/2,?
+/sacups/mercosur-arg.html,1/2,Argentinian clubs in Copa Mercosur
+/sacups/mercosur00.html,0/1,?
+/sacups/mercosur01.html,0/1,?
+/sacups/mercosur98.html,3/3,Copa Mercosur 1998
+/sacups/mercosur99.html,0/3,?
+/sacups/mercosurtops.html,0/1,?
+/sacups/oro-mdp.html,0/10,Copa de Oro - Mar del Plata
+/sacups/oro-mdp00.html,0/1,?
+/sacups/oro-mdp11.html,0/1,?
+/sacups/oro-mdp12.html,0/1,?
+/sacups/oro-mdp68.html,0/2,?
+/sacups/oro-mdp69.html,0/3,?
+/sacups/oro-mdp70.html,0/1,?
+/sacups/oro-mdp71.html,0/1,?
+/sacups/oro-mdp72.html,0/2,?
+/sacups/oro-mdp73.html,0/1,?
+/sacups/oro-mdp74.html,0/1,?
+/sacups/oro-mdp75.html,0/1,?
+/sacups/oro-mdp76.html,0/1,?
+/sacups/oro-mdp77.html,0/1,?
+/sacups/oro-mdp78.html,0/1,?
+/sacups/oro-mdp79.html,0/4,?
+/sacups/oro-mdp80.html,0/2,?
+/sacups/oro-mdp81.html,0/2,?
+/sacups/oro-mdp83.html,0/1,?
+/sacups/oro-mdp84.html,0/1,?
+/sacups/oro-mdp85.html,0/1,?
+/sacups/oro-mdp86a.html,0/1,?
+/sacups/oro-mdp86b.html,0/2,?
+/sacups/oro-mdp87.html,0/1,?
+/sacups/oro-mdp88.html,0/1,?
+/sacups/oro-mdp89.html,0/1,?
+/sacups/oro-mdp90.html,0/1,?
+/sacups/oro-mdp91.html,0/1,?
+/sacups/oro-mdp92.html,0/1,?
+/sacups/oro-mdp93.html,0/1,?
+/sacups/oro-mdp95.html,0/1,?
+/sacups/oro-mdp96.html,0/1,?
+/sacups/oro-mdp97.html,0/1,?
+/sacups/oro-mdp98.html,0/1,?
+/sacups/oro-mdp99.html,0/1,?
+/sacups/oro93.html,0/2,?
+/sacups/oro93det.html,0/2,?
+/sacups/oro95.html,0/3,?
+/sacups/oro96.html,7/4,Copa de Oro 1996
+/sacups/panamcup02.html,6/6,Copa Pan-Americana 2003
+/sacups/penarol-copa.html,7/2,Peñarol in Copa Libertadores
+/sacups/penarol-copa1969.html,0/1,?
+/sacups/penarol-copa1979.html,0/1,?
+/sacups/penarol-copa1989.html,0/1,?
+/sacups/penarol-copa1998.html,0/1,?
+/sacups/penarol-copa2009.html,0/1,?
+/sacups/penarol-copa2019.html,0/1,?
+/sacups/penarol-icc.html,1/2,Peñarol in Intercontinental Cup
+/sacups/penarol-msur.html,1/2,Peñarol in Copa Mercosur
+/sacups/recopa.html,41/5,Recopa
+/sacups/recopa-allt.html,2/3,Conmebol Recopa - All-Time Table
+/sacups/recopa-venez.html,1/2,Venezolan clubs in Recopa Sudamericana
+/sacups/recopa02.html,0/1,?
+/sacups/recopa03.html,0/1,?
+/sacups/recopa04.html,0/1,?
+/sacups/recopa05.html,0/2,?
+/sacups/recopa06.html,0/1,?
+/sacups/recopa07.html,0/1,?
+/sacups/recopa08.html,0/1,?
+/sacups/recopa09.html,0/1,?
+/sacups/recopa2010.html,0/2,?
+/sacups/recopa2011.html,0/1,?
+/sacups/recopa2012.html,0/1,?
+/sacups/recopa2013.html,0/2,?
+/sacups/recopa2014.html,0/1,?
+/sacups/recopa2015.html,0/1,?
+/sacups/recopa2016.html,0/1,?
+/sacups/recopa2017.html,0/2,?
+/sacups/recopa2018.html,0/2,?
+/sacups/recopa2019.html,0/1,?
+/sacups/recopa2020.html,0/2,?
+/sacups/recopa2021.html,0/1,?
+/sacups/recopa2022.html,0/1,?
+/sacups/recopa2023.html,0/1,?
+/sacups/recopa2024.html,0/2,?
+/sacups/recopa2025.html,3/2,Recopa 2025
+/sacups/recopa70.html,9/9,Recopa Sudamericana de Clubes 1970
+/sacups/recopa71.html,6/3,Recopa Sudamericana de Clubes 1971
+/sacups/recopa88.html,0/2,?
+/sacups/recopa89.html,0/1,?
+/sacups/recopa91.html,0/2,?
+/sacups/recopa92.html,0/1,?
+/sacups/recopa93.html,0/1,?
+/sacups/recopa94.html,0/1,?
+/sacups/recopa95.html,0/2,?
+/sacups/recopa96.html,0/2,?
+/sacups/sa-summer-club61.html,0/4,?
+/sacups/sacups-chil.html,1/2,Chilean Clubs in South American Tournaments 1991-2001
+/sacups/sam-futsal00.html,0/1,?
+/sacups/sam-futsal01.html,0/1,?
+/sacups/sam-futsal02.html,0/1,?
+/sacups/sam-futsal03.html,0/1,?
+/sacups/sam-futsal04.html,0/1,?
+/sacups/sam-futsal05.html,0/1,?
+/sacups/sam-futsal06.html,0/1,?
+/sacups/sam-futsal07.html,0/1,?
+/sacups/sam-futsal08.html,0/1,?
+/sacups/sam-futsal09.html,0/1,?
+/sacups/sam-futsal2010.html,0/1,?
+/sacups/sam-futsal2011.html,0/1,?
+/sacups/sam-futsal2013.html,0/1,?
+/sacups/sam-futsal2014.html,0/1,?
+/sacups/sam-futsal2015.html,0/1,?
+/sacups/sam-futsal2016.html,0/1,?
+/sacups/sam-futsal2017.html,0/1,?
+/sacups/sam-futsal2018.html,0/1,?
+/sacups/sam-futsal2019.html,0/1,?
+/sacups/sam-futsal2020.html,0/1,?
+/sacups/sam-futsal2022.html,0/1,?
+/sacups/sam-futsal2023.html,0/1,?
+/sacups/sam-futsal2024.html,0/1,?
+/sacups/sam-futsal2025.html,0/1,?
+/sacups/sam-futsalclub.html,25/3,Torneo Sudamericano de Clubes de Futsal
+/sacups/sam-interior-tourn01.html,1/1,1st Torneo Sudamericano de Clubes Campeones del Interior - Copa Uruguay 2001
+/sacups/samisc.html,17/7,"South America - ""Other Copas"""
+/sacups/sanisidro.html,7/2,Copa San Isidro de Curuguaty
+/sacups/sanisidro02.html,0/1,?
+/sacups/sanisidro08.html,0/1,?
+/sacups/sanisidro2012.html,0/1,?
+/sacups/sanisidro2014.html,0/1,?
+/sacups/sasup.html,17/8,Supercopa Libertadores (Supercopa João Havelange)
+/sacups/sasupmas92.html,2/4,Copa Master Supercopa Libertadores 1992
+/sacups/sasupmas94.html,0/1,?
+/sacups/sasuppts.html,2/2,Supercopa Libertadores Points Rankings 1988-1997
+/sacups/sasupsup98.html,2/3,Supercopa Masters 1998
+/sacups/sasuptops.html,2/2,Supercopa Libertadores Topscorers 1988-1997
+/sacups/simonbolivar.html,7/2,Copa Simón Bolívar
+/sacups/simonbolivar70.html,0/1,?
+/sacups/simonbolivar71.html,0/1,?
+/sacups/simonbolivar72.html,0/2,?
+/sacups/simonbolivar74.html,0/1,?
+/sacups/simonbolivar76.html,0/1,?
+/sacups/simonbolivar76b.html,0/2,?
+/sacups/simonbolivar83.html,0/2,?
+/sacups/sudamcup.html,28/5,Copa Sudamericana
+/sacups/sudamcup-allt.html,2/3,Copa Sudamericana - All-Time Table
+/sacups/sudamcup-arg.html,1/3,Argentinian clubs in Copa Sudamericana
+/sacups/sudamcup-peru.html,1/2,Peruvian clubs in Copa Sudamericana
+/sacups/sudamcup-venez.html,1/2,Venezolan clubs in Copa Sudamericana
+/sacups/sudamcup02.html,0/4,?
+/sacups/sudamcup03.html,5/3,Copa Sudamericana 2003
+/sacups/sudamcup04.html,0/2,?
+/sacups/sudamcup05.html,0/1,?
+/sacups/sudamcup06.html,0/1,?
+/sacups/sudamcup07.html,0/1,?
+/sacups/sudamcup08.html,0/1,?
+/sacups/sudamcup09.html,0/1,?
+/sacups/sudamcup2010.html,0/1,?
+/sacups/sudamcup2011.html,0/1,?
+/sacups/sudamcup2012.html,0/1,?
+/sacups/sudamcup2013.html,0/1,?
+/sacups/sudamcup2014.html,0/1,?
+/sacups/sudamcup2015.html,0/1,?
+/sacups/sudamcup2016.html,0/1,?
+/sacups/sudamcup2017.html,0/2,?
+/sacups/sudamcup2018.html,0/2,?
+/sacups/sudamcup2019.html,0/2,?
+/sacups/sudamcup2020.html,0/2,?
+/sacups/sudamcup2021.html,0/3,?
+/sacups/sudamcup2022.html,0/2,?
+/sacups/sudamcup2023.html,0/2,?
+/sacups/sudamcup2024.html,3/4,Copa Sudamericana 2024
+/sacups/supcopa-arg.html,1/2,Argentinian clubs in Supercopa Libertadores
+/sacups/supcopa68.html,2/2,Recopa Sudamericana 1968
+/sacups/supcopa69.html,3/3,Supercopa 1969
+/sacups/supcopa69det.html,0/4,?
+/sacups/supcopa88.html,0/2,?
+/sacups/supcopa88det.html,0/3,?
+/sacups/supcopa89.html,0/1,?
+/sacups/supcopa89det.html,0/3,?
+/sacups/supcopa90.html,0/1,?
+/sacups/supcopa90full.html,0/3,?
+/sacups/supcopa91.html,0/1,?
+/sacups/supcopa91full.html,0/2,?
+/sacups/supcopa92.html,0/2,?
+/sacups/supcopa92full.html,0/2,?
+/sacups/supcopa93.html,0/1,?
+/sacups/supcopa93full.html,0/2,?
+/sacups/supcopa94.html,0/1,?
+/sacups/supcopa94full.html,0/2,?
+/sacups/supcopa95.html,0/3,?
+/sacups/supcopa95full.html,0/3,?
+/sacups/supcopa96.html,0/1,?
+/sacups/supcopa96det.html,0/2,?
+/sacups/supcopa97.html,0/1,?
+/sacups/supcopa97det.html,0/2,?
+/sacups/tachira-sacups.html,0/2,Táchira in South American Cups

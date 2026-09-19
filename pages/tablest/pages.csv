@@ -1,311 +1,632 @@
 path,links,title
-/tablest/tahiti-intres.html,1/1,Tahiti International Matches
-/tablest/tahiti00.html,0/2,-
-/tablest/tahiti01.html,0/2,-
-/tablest/tahiti02.html,0/2,-
-/tablest/tahiti03.html,0/2,-
-/tablest/tahiti04.html,0/2,-
-/tablest/tahiti05.html,0/2,-
-/tablest/tahiti06.html,0/2,-
-/tablest/tahiti07.html,0/2,-
-/tablest/tahiti08.html,0/2,-
-/tablest/tahiti09.html,0/2,-
-/tablest/tahiti2010.html,0/2,-
-/tablest/tahiti2011.html,0/2,-
-/tablest/tahiti2012.html,0/2,-
-/tablest/tahiti2013.html,0/2,-
-/tablest/tahiti2014.html,0/3,-
-/tablest/tahiti2015.html,0/2,-
-/tablest/tahiti2016.html,0/2,-
-/tablest/tahiti2017.html,0/2,-
-/tablest/tahiti2018.html,0/2,-
-/tablest/tahiti2019.html,0/2,-
-/tablest/tahiti2020.html,0/2,-
-/tablest/tahiti2021.html,0/4,-
-/tablest/tahiti2022.html,8/4,French Polynesia 2021/22
-/tablest/tahiti2023.html,0/5,-
-/tablest/tahiti2024.html,8/4,French Polynesia 2023/24
-/tablest/tahiti2025.html,8/6,French Polynesia 2024/25
-/tablest/tahiti2026.html,7/4,French Polynesia 2025/26
-/tablest/tahiti68.html,0/1,-
-/tablest/tahiti69.html,0/2,-
-/tablest/tahiti70.html,0/3,-
-/tablest/tahiti71.html,0/1,-
-/tablest/tahiti85.html,0/1,-
-/tablest/tahiti99.html,0/2,-
-/tablest/tahitichamp.html,34/4,Tahiti - List of Champions
-/tablest/tahitichampcuphist.html,8/4,Tahiti - List of Trophée des Champions Winners
-/tablest/tahiticuphist.html,32/4,Tahiti - List of Cup Winners
-/tablest/tahitifound.html,1/4,Tahiti - List of Foundation Dates
-/tablest/taiwan-intres.html,1/1,Taiwan - List of International Matches
-/tablest/taiwan00.html,0/1,-
-/tablest/taiwan05.html,0/1,-
-/tablest/taiwan06.html,0/1,-
-/tablest/taiwan07.html,0/1,-
-/tablest/taiwan08.html,0/1,-
-/tablest/taiwan09.html,0/1,-
-/tablest/taiwan2010.html,0/1,-
-/tablest/taiwan2011.html,0/1,-
-/tablest/taiwan2012.html,0/1,-
-/tablest/taiwan2013.html,0/1,-
-/tablest/taiwan2014.html,0/1,-
-/tablest/taiwan2015.html,0/1,-
-/tablest/taiwan2017.html,0/1,-
-/tablest/taiwan2018.html,0/1,-
-/tablest/taiwan2019.html,0/1,-
-/tablest/taiwan2020.html,0/1,-
-/tablest/taiwan2021.html,0/1,-
-/tablest/taiwan2022.html,0/1,-
-/tablest/taiwan2023.html,0/2,-
-/tablest/taiwan2024.html,4/2,Taiwan 2024
-/tablest/taiwan2026.html,3/3,Taiwan 2025/26
-/tablest/taiwan68.html,0/1,-
-/tablest/taiwan83.html,0/1,-
-/tablest/taiwan85.html,0/1,-
-/tablest/taiwan8693.html,0/1,-
-/tablest/taiwan94.html,0/1,-
-/tablest/taiwan9596.html,0/1,-
-/tablest/taiwan98.html,0/1,-
-/tablest/taiwanchamp.html,29/2,Taiwan - List of Champions
-/tablest/taji-intres.html,1/1,Tajikistan - List of International Matches
-/tablest/taji00.html,0/1,-
-/tablest/taji01.html,0/2,-
-/tablest/taji02.html,0/2,-
-/tablest/taji03.html,0/1,-
-/tablest/taji04.html,0/2,-
-/tablest/taji05.html,0/2,-
-/tablest/taji06.html,0/2,-
-/tablest/taji07.html,0/2,-
-/tablest/taji08.html,0/2,-
-/tablest/taji09.html,0/2,-
-/tablest/taji2010.html,0/2,-
-/tablest/taji2011.html,0/1,-
-/tablest/taji2012.html,0/2,-
-/tablest/taji2013.html,0/2,-
-/tablest/taji2014.html,0/2,-
-/tablest/taji2015.html,0/2,-
-/tablest/taji2016.html,0/2,-
-/tablest/taji2017.html,0/2,-
-/tablest/taji2018.html,0/2,-
-/tablest/taji2019.html,0/2,-
-/tablest/taji2020.html,0/2,-
-/tablest/taji2021.html,0/2,-
-/tablest/taji2022.html,0/2,-
-/tablest/taji2023.html,0/2,-
-/tablest/taji2024.html,0/3,-
-/tablest/taji2025.html,5/3,Tajikistan 2025
-/tablest/taji2026.html,4/4,Tajikistan 2026
-/tablest/taji84.html,0/1,-
-/tablest/taji92.html,0/2,-
-/tablest/taji93.html,0/2,-
-/tablest/taji94.html,0/2,-
-/tablest/taji95.html,0/2,-
-/tablest/taji96.html,0/1,-
-/tablest/taji97.html,0/2,-
-/tablest/taji98.html,0/2,-
-/tablest/taji99.html,0/2,-
-/tablest/tajichamp.html,40/2,Tajikistan - List of Champions
-/tablest/tajicuphist.html,34/2,Tajikistan - List of Cup Finals
-/tablest/tajihist.html,0/2,-
-/tablest/tanz-intres.html,1/1,Tanzania (Tanganyika) - List of International Matches
-/tablest/tanz00.html,0/3,-
-/tablest/tanz01.html,4/6,Tanzania 2001
+/tablest/t5nat-wom07.html,0/2,?
+/tablest/taca-atlanticosul73.html,0/2,?
+/tablest/taca-atlanticosul73det.html,0/2,?
+/tablest/taca-atlanticosul74.html,0/4,?
+/tablest/taca-morumbi57.html,0/2,?
+/tablest/taca-stacat-youth.html,0/2,?
+/tablest/taca20min85.html,0/3,?
+/tablest/tacamartimor2010.html,1/1,Taça do Mar de Timor 2010
+/tablest/tacasalvador72.html,0/2,?
+/tablest/tacasalvador72det.html,0/2,?
+/tablest/tacitaplata74.html,0/2,?
+/tablest/tact-ny.html,0/2,?
+/tablest/tahiti-intres.html,1/2,Tahiti International Matches
+/tablest/tahiti-tourn88.html,1/2,Tahiti Tournament 1988
+/tablest/tahiti-wom06.html,0/1,?
+/tablest/tahiti-wom07.html,0/1,?
+/tablest/tahiti-wom08.html,0/1,?
+/tablest/tahiti-wom09.html,0/1,?
+/tablest/tahiti-wom2010.html,0/1,?
+/tablest/tahiti-wom2011.html,0/1,?
+/tablest/tahiti-wom2012.html,0/1,?
+/tablest/tahiti-wom2016.html,0/1,?
+/tablest/tahiti-wom2017.html,0/2,?
+/tablest/tahiti-wom2019.html,4/3,Tahiti (Women) 2018/19
+/tablest/tahiti-wom2020.html,4/4,Tahiti (Women) 2019/20
+/tablest/tahiti-wom2021.html,4/4,Tahiti (Women) 2020/21
+/tablest/tahiti-wom2023.html,0/2,?
+/tablest/tahiti-wom2025.html,4/3,Tahiti (Women) 2024/25
+/tablest/tahiti-wom2026.html,3/3,Tahiti (Women) 2025/26
+/tablest/tahiti-womchamp.html,15/6,Tahiti - List of Women Champions
+/tablest/tahiti00.html,7/5,Tahiti 1999/2000
+/tablest/tahiti01.html,6/5,Tahiti 2000/01
+/tablest/tahiti02.html,7/3,Tahiti 2001/02
+/tablest/tahiti03.html,7/4,Tahiti 2002/03
+/tablest/tahiti04.html,7/4,French Polynesia 2003/04
+/tablest/tahiti05.html,8/4,French Polynesia 2004/05
+/tablest/tahiti06.html,8/5,French Polynesia 2005/06
+/tablest/tahiti07.html,8/5,French Polynesia 2006/07
+/tablest/tahiti08.html,8/5,French Polynesia 2007/08
+/tablest/tahiti09.html,8/5,French Polynesia 2008/09
+/tablest/tahiti2010.html,8/5,French Polynesia 2009/10
+/tablest/tahiti2011.html,8/5,French Polynesia 2010/11
+/tablest/tahiti2012.html,8/5,French Polynesia 2011/12
+/tablest/tahiti2013.html,8/5,French Polynesia 2012/13
+/tablest/tahiti2014.html,8/6,French Polynesia 2013/14
+/tablest/tahiti2015.html,8/5,French Polynesia 2014/15
+/tablest/tahiti2016.html,8/5,French Polynesia 2015/16
+/tablest/tahiti2017.html,8/5,French Polynesia 2016/17
+/tablest/tahiti2018.html,8/5,French Polynesia 2017/18
+/tablest/tahiti2019.html,8/5,French Polynesia 2018/19
+/tablest/tahiti2020.html,8/5,French Polynesia 2019/20
+/tablest/tahiti2021.html,8/6,French Polynesia 2020/21
+/tablest/tahiti2022.html,8/7,French Polynesia 2021/22
+/tablest/tahiti2023.html,8/6,French Polynesia 2022/23
+/tablest/tahiti2024.html,8/6,French Polynesia 2023/24
+/tablest/tahiti2025.html,8/8,French Polynesia 2024/25
+/tablest/tahiti2026.html,7/6,French Polynesia 2025/26
+/tablest/tahiti65.html,7/1,Tahiti 1965
+/tablest/tahiti68.html,8/3,Tahiti 1968
+/tablest/tahiti69.html,8/6,Tahiti 1969
+/tablest/tahiti70.html,8/7,Tahiti 1970
+/tablest/tahiti71.html,8/5,Tahiti 1971
+/tablest/tahiti78.html,8/2,Tahiti 1978
+/tablest/tahiti85.html,10/4,Tahiti 1985
+/tablest/tahiti99.html,7/4,Tahiti 1998/99
+/tablest/tahitichamp.html,34/56,Tahiti - List of Champions
+/tablest/tahitichampcuphist.html,8/38,Tahiti - List of Trophée des Champions Winners
+/tablest/tahiticuphist.html,32/56,Tahiti - List of Cup Winners
+/tablest/tahitifound.html,1/31,Tahiti - List of Foundation Dates
+/tablest/taipei2017.html,0/2,?
+/tablest/taipeiintcup91.html,1/2,Taipei International Cup 1991
+/tablest/taiwan-intres.html,1/2,Taiwan - List of International Matches
+/tablest/taiwan-seatour62.html,0/3,?
+/tablest/taiwan-three-nat71.html,0/1,?
+/tablest/taiwan-wom05.html,3/3,Taiwan (Women) 2005
+/tablest/taiwan-wom06.html,4/4,Taiwan (Women) 2006
+/tablest/taiwan-wom08.html,4/4,Taiwan (Women) 2008
+/tablest/taiwan-wom09.html,4/3,Taiwan (Women) 2009
+/tablest/taiwan-wom2011.html,0/3,?
+/tablest/taiwan-wom2012.html,4/3,Taiwan (Women) 2012/13
+/tablest/taiwan-wom2014.html,4/4,Taiwan (Women) 2014
+/tablest/taiwan-wom2015.html,4/4,Taiwan (Women) 2015
+/tablest/taiwan-wom2016.html,4/4,Taiwan (Women) 2016
+/tablest/taiwan-wom2017.html,4/4,Taiwan (Women) 2017
+/tablest/taiwan-wom2018.html,4/4,Taiwan (Women) 2018
+/tablest/taiwan-wom2019.html,4/4,Taiwan (Women) 2019
+/tablest/taiwan-wom2020.html,4/4,Taiwan (Women) 2020
+/tablest/taiwan-wom2021.html,4/4,Taiwan (Women) 2021
+/tablest/taiwan-wom2022.html,4/4,Taiwan (Women) 2022
+/tablest/taiwan-wom2023.html,4/4,Taiwan (Women) 2023
+/tablest/taiwan-wom2024.html,4/4,Taiwan (Women) 2024
+/tablest/taiwan-wom2026.html,3/3,Taiwan (Women) 2025/26
+/tablest/taiwan-womchamp.html,19/19,Taiwan - List of Women Champions
+/tablest/taiwan00.html,4/4,Taiwan 2000/01
+/tablest/taiwan05.html,4/4,Taiwan 2005
+/tablest/taiwan06.html,4/4,Taiwan 2006
+/tablest/taiwan07.html,4/5,Taiwan 2007
+/tablest/taiwan08.html,4/4,Taiwan 2008
+/tablest/taiwan09.html,4/4,Taiwan 2009
+/tablest/taiwan2010.html,4/4,Taiwan 2010
+/tablest/taiwan2011.html,4/4,Taiwan 2011
+/tablest/taiwan2012.html,4/4,Taiwan 2012
+/tablest/taiwan2013.html,4/4,Taiwan 2013
+/tablest/taiwan2014.html,4/4,Taiwan 2014
+/tablest/taiwan2015.html,4/4,Taiwan 2015/16
+/tablest/taiwan2017.html,5/4,Taiwan 2016/17
+/tablest/taiwan2018.html,4/4,Taiwan 2018
+/tablest/taiwan2019.html,4/4,Taiwan 2019
+/tablest/taiwan2020.html,4/4,Taiwan 2020
+/tablest/taiwan2021.html,4/4,Taiwan 2021
+/tablest/taiwan2022.html,4/4,Taiwan 2022
+/tablest/taiwan2023.html,4/4,Taiwan 2023
+/tablest/taiwan2024.html,4/4,Taiwan 2024
+/tablest/taiwan2026.html,3/4,Taiwan 2025/26
+/tablest/taiwan2champ.html,1/2,Taiwan - List of Second Level Champions
+/tablest/taiwan68.html,3/2,Taiwan 1967/68
+/tablest/taiwan83.html,4/3,Taiwan 1983
+/tablest/taiwan85.html,5/5,Taiwan 1985
+/tablest/taiwan8693.html,3/3,Taiwan 1986-1993
+/tablest/taiwan94.html,4/5,Taiwan 1994
+/tablest/taiwan9596.html,3/3,Taiwan 1995-1996
+/tablest/taiwan98.html,4/3,Taiwan 1997
+/tablest/taiwanchamp.html,29/28,Taiwan - List of Champions
+/tablest/taiwanfound.html,1/2,Taiwan - Foundation Dates of Clubs
+/tablest/taiwanintercup90.html,1/4,Taiwan International Cup 1990
+/tablest/taiwanpres90.html,1/3,Taiwan President's Cup 1990
+/tablest/taji-intres.html,1/2,Tajikistan - List of International Matches
+/tablest/taji-wom2014.html,0/1,?
+/tablest/taji-wom2021.html,2/1,Tajikistan (Women) 2021
+/tablest/taji00.html,5/4,Tajikistan 2000
+/tablest/taji01.html,5/5,Tajikistan 2001
+/tablest/taji02.html,5/5,Tajikistan 2002
+/tablest/taji03.html,5/4,Tajikistan 2003
+/tablest/taji04.html,5/5,Tajikistan 2004
+/tablest/taji05.html,5/4,Tajikistan 2005
+/tablest/taji06.html,5/5,Tajikistan 2006
+/tablest/taji07.html,5/5,Tajikistan 2007
+/tablest/taji08.html,5/5,Tajikistan 2008
+/tablest/taji09.html,5/5,Tajikistan 2009
+/tablest/taji2010.html,5/5,Tajikistan 2010
+/tablest/taji2011.html,5/4,Tajikistan 2011
+/tablest/taji2012.html,5/5,Tajikistan 2012
+/tablest/taji2013.html,5/5,Tajikistan 2013
+/tablest/taji2014.html,5/5,Tajikistan 2014
+/tablest/taji2015.html,5/5,Tajikistan 2015
+/tablest/taji2016.html,5/5,Tajikistan 2016
+/tablest/taji2017.html,5/5,Tajikistan 2017
+/tablest/taji2018.html,5/6,Tajikistan 2018
+/tablest/taji2019.html,5/6,Tajikistan 2019
+/tablest/taji2020.html,5/6,Tajikistan 2020
+/tablest/taji2021.html,5/7,Tajikistan 2021
+/tablest/taji2022.html,5/7,Tajikistan 2022
+/tablest/taji2023.html,5/7,Tajikistan 2023
+/tablest/taji2024.html,5/7,Tajikistan 2024
+/tablest/taji2025.html,5/8,Tajikistan 2025
+/tablest/taji2026.html,4/6,Tajikistan 2026
+/tablest/taji2champ.html,1/2,Tajikistan - List of Second Level Champions
+/tablest/taji84.html,5/2,Tajikistan 1984
+/tablest/taji92.html,7/5,Tajikistan 1992
+/tablest/taji93.html,6/5,Tajikistan 1993
+/tablest/taji94.html,5/5,Tajikistan 1994
+/tablest/taji95.html,5/6,Tajikistan 1995
+/tablest/taji96.html,5/5,Tajikistan 1996
+/tablest/taji97.html,5/6,Tajikistan 1997
+/tablest/taji98.html,5/6,Tajikistan 1998
+/tablest/taji99.html,5/5,Tajikistan 1999
+/tablest/tajichamp.html,40/39,Tajikistan - List of Champions
+/tablest/tajicuphist.html,34/39,Tajikistan - List of Cup Finals
+/tablest/tajifftcuphist.html,9/2,Tajikistan - List of FFT Cup Finals
+/tablest/tajifound.html,1/2,Tajikistan - List of Foundation Dates
+/tablest/tajifriend05.html,0/1,?
+/tablest/tajihist.html,3/3,Tajikistan - Final Tables and Cup Results 1937-1981
+/tablest/tajisupcuphist.html,6/3,Tajikistan - List of Super Cup Finals
+/tablest/tajitops.html,1/1,Tajikistan - List of Topscorers
+/tablest/talleres-chiltrip23.html,1/2,Talleres (Córdoba) Trip to Chile 1923
+/tablest/talleres-mextrip2015.html,1/2,Mexican Trip of CA Talleres (Córdoba) 2015
+/tablest/tammouz73.html,0/2,?
+/tablest/tanz-ddrussr87.html,0/2,?
+/tablest/tanz-indep06.html,0/1,?
+/tablest/tanz-intres.html,1/2,Tanzania (Tanganyika) - List of International Matches
+/tablest/tanz-wom07.html,0/1,?
+/tablest/tanz-wom2011.html,0/1,?
+/tablest/tanz-wom2015.html,4/1,Tanzania (Women) 2014/15
+/tablest/tanz-wom2017.html,0/3,?
+/tablest/tanz-wom2018.html,4/3,Tanzania (Women) 2017/18
+/tablest/tanz-wom2019.html,4/4,Tanzania (Women) 2018/19
+/tablest/tanz-wom2020.html,4/4,Tanzania (Women) 2019/20
+/tablest/tanz-wom2021.html,4/4,Tanzania (Women) 2020/21
+/tablest/tanz-wom2022.html,4/4,Tanzania (Women) 2021/22
+/tablest/tanz-wom2023.html,4/4,Tanzania (Women) 2022/23
+/tablest/tanz-wom2024.html,4/4,Tanzania (Women) 2023/24
+/tablest/tanz-wom2025.html,3/3,Tanzania (Women) 2024/25
+/tablest/tanz-womchamp.html,11/11,Tanzania - List of Women Champions
+/tablest/tanz00.html,4/5,Tanzania 2000
+/tablest/tanz01.html,4/8,Tanzania 2001
 /tablest/tanz02.html,4/6,Tanzania 2002
-/tablest/tanz03.html,6/5,Tanzania 2003
-/tablest/tanz04.html,5/4,Tanzania (Mainland) 2004
-/tablest/tanz05.html,6/4,Tanzania (Mainland) 2005
-/tablest/tanz06.html,5/3,Tanzania (Mainland) 2006
-/tablest/tanz07.html,0/3,-
-/tablest/tanz08.html,6/3,Tanzania (Mainland) 2007/08
-/tablest/tanz09.html,5/4,Tanzania (Mainland) 2008/09
-/tablest/tanz2010.html,5/4,Tanzania (Mainland) 2009/10
-/tablest/tanz2011.html,5/4,Tanzania (Mainland) 2010/11
-/tablest/tanz2012.html,5/4,Tanzania (Mainland) 2011/12
-/tablest/tanz2013.html,5/4,Tanzania (Mainland) 2012/13
-/tablest/tanz2014.html,5/4,Tanzania (Mainland) 2013/14
-/tablest/tanz2015.html,5/4,Tanzania (Mainland) 2014/15
-/tablest/tanz2016.html,5/4,Tanzania (Mainland) 2015/16
-/tablest/tanz2017.html,5/4,Tanzania (Mainland) 2016/17
-/tablest/tanz2018.html,5/4,Tanzania (Mainland) 2017/18
-/tablest/tanz2019.html,5/4,Tanzania (Mainland) 2018/19
-/tablest/tanz2020.html,5/4,Tanzania (Mainland) 2019/20
-/tablest/tanz2021.html,5/4,Tanzania (Mainland) 2020/21
-/tablest/tanz2022.html,5/4,Tanzania (Mainland) 2021/22
-/tablest/tanz2023.html,5/4,Tanzania (Mainland) 2022/23
-/tablest/tanz2024.html,5/4,Tanzania (Mainland) 2023/24
-/tablest/tanz2025.html,5/4,Tanzania (Mainland) 2024/25
-/tablest/tanz2026.html,4/4,Tanzania (Mainland) 2025/26
-/tablest/tanz29.html,0/1,-
-/tablest/tanz30.html,0/1,-
-/tablest/tanz32.html,0/1,-
-/tablest/tanz65.html,0/2,-
-/tablest/tanz74.html,4/2,Tanzania 1974
-/tablest/tanz77.html,0/1,-
-/tablest/tanz82.html,0/2,-
-/tablest/tanz83.html,0/2,-
-/tablest/tanz84.html,0/2,-
-/tablest/tanz85.html,0/2,-
-/tablest/tanz86.html,0/2,-
-/tablest/tanz87.html,0/2,-
-/tablest/tanz88.html,0/1,-
-/tablest/tanz89.html,0/1,-
-/tablest/tanz90.html,0/1,-
-/tablest/tanz91.html,0/2,-
-/tablest/tanz96.html,0/2,-
-/tablest/tanz97.html,0/2,-
-/tablest/tanz98.html,4/4,Tanzania 1998
-/tablest/tanz99.html,0/3,-
-/tablest/tanzchamp.html,48/29,Tanzania - List of Champions
-/tablest/tanzcup67.html,4/2,Tanzania Cup 1967
-/tablest/tanzcuphist.html,36/30,Tanzania - List of Cup Winners
-/tablest/teixeira90.html,2/1,Copa Teixeira 1990
-/tablest/teruel.html,1/1,Trofeo Ciudad de Teruel
-/tablest/texaco.html,4/4,Anglo-Scottish Cup & Texaco Cup
-/tablest/texacohist.html,2/1,Anglo-Scottish Cup & Texaco Cup - Full Results
-/tablest/thai-intres.html,1/1,Thailand International Results
-/tablest/thai-queen.html,2/3,Queen's Cup (Thailand)
-/tablest/thai00.html,0/1,-
-/tablest/thai01.html,0/1,-
-/tablest/thai03.html,0/1,-
-/tablest/thai04.html,0/1,-
-/tablest/thai05.html,0/2,-
-/tablest/thai06.html,0/2,-
-/tablest/thai07.html,0/1,-
-/tablest/thai08.html,0/1,-
-/tablest/thai09.html,0/2,-
-/tablest/thai2010.html,0/2,-
-/tablest/thai2011.html,0/2,-
-/tablest/thai2012.html,0/2,-
-/tablest/thai2013.html,0/2,-
-/tablest/thai2014.html,0/2,-
-/tablest/thai2015.html,0/2,-
-/tablest/thai2016.html,0/2,-
-/tablest/thai2017.html,0/2,-
-/tablest/thai2018.html,0/2,-
-/tablest/thai2019.html,0/2,-
-/tablest/thai2020.html,0/2,-
-/tablest/thai2022.html,0/2,-
-/tablest/thai2023.html,0/2,-
-/tablest/thai2024.html,0/3,-
-/tablest/thai2025.html,6/3,Thailand 2024/25
-/tablest/thai2026.html,5/4,Thailand 2025/26
-/tablest/thai69.html,0/1,-
-/tablest/thai84.html,0/2,-
-/tablest/thai85.html,0/2,-
-/tablest/thai86.html,0/1,-
-/tablest/thai91.html,0/1,-
-/tablest/thai92.html,0/2,-
-/tablest/thai97.html,0/1,-
-/tablest/thai97b.html,0/1,-
-/tablest/thai98.html,0/2,-
-/tablest/thai99.html,0/2,-
-/tablest/thaiarmygames60.html,1/1,Thai Army Games 1960
-/tablest/thaichamp.html,37/3,Thailand - List of Champions
-/tablest/thaicup89.html,0/1,-
-/tablest/thaicuphist.html,29/3,Thailand - List of Cup Winners
-/tablest/thailowchamp.html,0/1,-
-/tablest/tnistru2024.html,0/1,-
-/tablest/tnistru2025.html,3/1,Transnistria 2025
-/tablest/tnistru2026.html,2/2,Transnistria 2026
-/tablest/togo-intres.html,1/1,Togo - List of International Matches
-/tablest/togo00.html,0/2,-
-/tablest/togo01.html,0/2,-
-/tablest/togo02.html,0/2,-
-/tablest/togo03.html,0/2,-
-/tablest/togo05.html,0/2,-
-/tablest/togo06.html,0/2,-
-/tablest/togo07.html,0/2,-
-/tablest/togo09.html,0/1,-
-/tablest/togo2012.html,0/1,-
-/tablest/togo2013.html,0/1,-
-/tablest/togo2014.html,0/1,-
-/tablest/togo2015.html,0/1,-
-/tablest/togo2016.html,0/2,-
-/tablest/togo2018.html,0/2,-
-/tablest/togo2019.html,0/2,-
-/tablest/togo2020.html,0/1,-
-/tablest/togo2021.html,0/2,-
-/tablest/togo2022.html,0/2,-
-/tablest/togo2023.html,0/2,-
-/tablest/togo2024.html,0/3,-
-/tablest/togo2025.html,5/3,Togo 2024/25
-/tablest/togo2026.html,4/4,Togo 2025/26
-/tablest/togo33.html,0/1,-
-/tablest/togo53.html,0/1,-
-/tablest/togo57.html,0/1,-
-/tablest/togo79.html,0/1,-
-/tablest/togo80.html,0/1,-
-/tablest/togo81.html,0/2,-
-/tablest/togo83.html,0/1,-
-/tablest/togo84.html,0/2,-
-/tablest/togo85.html,0/1,-
-/tablest/togo88.html,0/1,-
-/tablest/togo89.html,0/1,-
-/tablest/togo90.html,0/1,-
-/tablest/togo92.html,0/1,-
-/tablest/togo93.html,0/1,-
-/tablest/togo94.html,0/1,-
-/tablest/togo95.html,0/1,-
-/tablest/togo96.html,0/1,-
-/tablest/togo97.html,0/1,-
-/tablest/togo99.html,0/2,-
-/tablest/togochamp.html,42/2,Togo - List of Champions
-/tablest/togocuphist.html,21/2,Togo - List of Cup Winners
-/tablest/tonga-intres.html,1/1,Tonga - List of International Matches
-/tablest/tonga00.html,0/1,-
-/tablest/tonga02.html,0/2,-
-/tablest/tonga03.html,0/2,-
-/tablest/tonga06.html,0/1,-
-/tablest/tonga09.html,0/2,-
-/tablest/tonga2011.html,0/2,-
-/tablest/tonga2013.html,0/1,-
-/tablest/tonga2014.html,0/1,-
-/tablest/tonga2015.html,0/1,-
-/tablest/tonga2016.html,0/1,-
-/tablest/tonga2017.html,0/1,-
-/tablest/tonga2018.html,0/1,-
-/tablest/tonga2019.html,0/1,-
-/tablest/tonga2020.html,0/1,-
-/tablest/tonga2021.html,0/2,-
-/tablest/tonga2022.html,5/2,Tonga 2022
-/tablest/tonga2023.html,4/3,Tonga 2023
-/tablest/tonga70.html,0/1,-
-/tablest/tonga71.html,0/1,-
-/tablest/tonga72.html,0/1,-
-/tablest/tonga75.html,0/1,-
-/tablest/tonga78.html,0/1,-
-/tablest/tonga79.html,0/1,-
-/tablest/tonga81.html,0/1,-
-/tablest/tonga82.html,0/1,-
-/tablest/tonga83.html,0/1,-
-/tablest/tonga84.html,0/2,-
-/tablest/tonga85.html,0/1,-
-/tablest/tonga88.html,0/1,-
-/tablest/tonga89.html,0/1,-
-/tablest/tonga90.html,0/1,-
-/tablest/tonga91.html,0/1,-
-/tablest/tonga94.html,0/1,-
-/tablest/tonga98.html,0/1,-
-/tablest/tonga99.html,0/1,-
-/tablest/tongachamp.html,35/2,Tonga - List of Champions
-/tablest/tongacuphist.html,7/2,Tonga - List of Cup Winners
-/tablest/topdivgoalrecs.html,1/1,Top Division Scoring Records
-/tablest/torcamp79.html,0/1,-
-/tablest/tortola-intres.html,1/1,Tortola (British Virgin Islands) - List of International Matches
-/tablest/toyota.html,54/48,Intercontinental Club Cup
-/tablest/toyota-honour.html,1/1,Intercontinental Club Cup Cup 1960-1998 - Hall of Honour
-/tablest/toyota00.html,4/3,Intercontinental Club Cup 2000
-/tablest/toyota01.html,4/3,Intercontinental Club Cup 2001
+/tablest/tanz03.html,6/7,Tanzania 2003
+/tablest/tanz04.html,5/5,Tanzania (Mainland) 2004
+/tablest/tanz05.html,6/5,Tanzania (Mainland) 2005
+/tablest/tanz06.html,5/4,Tanzania (Mainland) 2006
+/tablest/tanz07.html,5/4,Tanzania (Mainland) 2007
+/tablest/tanz08.html,6/5,Tanzania (Mainland) 2007/08
+/tablest/tanz09.html,5/5,Tanzania (Mainland) 2008/09
+/tablest/tanz2010.html,5/5,Tanzania (Mainland) 2009/10
+/tablest/tanz2011.html,5/5,Tanzania (Mainland) 2010/11
+/tablest/tanz2012.html,5/5,Tanzania (Mainland) 2011/12
+/tablest/tanz2013.html,5/5,Tanzania (Mainland) 2012/13
+/tablest/tanz2014.html,5/5,Tanzania (Mainland) 2013/14
+/tablest/tanz2015.html,5/5,Tanzania (Mainland) 2014/15
+/tablest/tanz2016.html,5/5,Tanzania (Mainland) 2015/16
+/tablest/tanz2017.html,5/5,Tanzania (Mainland) 2016/17
+/tablest/tanz2018.html,5/5,Tanzania (Mainland) 2017/18
+/tablest/tanz2019.html,5/5,Tanzania (Mainland) 2018/19
+/tablest/tanz2020.html,5/5,Tanzania (Mainland) 2019/20
+/tablest/tanz2021.html,5/5,Tanzania (Mainland) 2020/21
+/tablest/tanz2022.html,5/5,Tanzania (Mainland) 2021/22
+/tablest/tanz2023.html,5/5,Tanzania (Mainland) 2022/23
+/tablest/tanz2024.html,5/5,Tanzania (Mainland) 2023/24
+/tablest/tanz2025.html,5/5,Tanzania (Mainland) 2024/25
+/tablest/tanz2026.html,4/6,Tanzania (Mainland) 2025/26
+/tablest/tanz29.html,4/2,Tanzania 1929
+/tablest/tanz30.html,5/3,Tanzania 1930
+/tablest/tanz32.html,5/3,Tanzania 1932
+/tablest/tanz37.html,5/2,Tanzania 1937
+/tablest/tanz38.html,5/2,Tanzania 1937/38
+/tablest/tanz39.html,5/2,Tanzania 1938/39
+/tablest/tanz40.html,5/2,Tanzania 1940
+/tablest/tanz51.html,5/2,Tanzania 1951
+/tablest/tanz52.html,4/2,Tanzania 1952
+/tablest/tanz53.html,4/2,Tanzania 1953
+/tablest/tanz54.html,4/2,Tanzania 1954
+/tablest/tanz65.html,5/3,Tanzania 1965
+/tablest/tanz74.html,4/3,Tanzania 1974
+/tablest/tanz77.html,4/2,Tanzania 1977
+/tablest/tanz80.html,4/2,Tanzania 1980
+/tablest/tanz82.html,4/5,Tanzania 1982
+/tablest/tanz83.html,4/4,Tanzania 1983
+/tablest/tanz84.html,4/6,Tanzania 1984
+/tablest/tanz85.html,4/6,Tanzania 1985
+/tablest/tanz86.html,4/6,Tanzania 1986
+/tablest/tanz87.html,4/5,Tanzania 1987
+/tablest/tanz88.html,5/3,Tanzania 1988
+/tablest/tanz89.html,4/3,Tanzania 1989
+/tablest/tanz90.html,4/3,Tanzania 1990
+/tablest/tanz91.html,4/5,Tanzania 1991
+/tablest/tanz96.html,4/4,Tanzania 1995/96
+/tablest/tanz97.html,4/4,Tanzania 1996/97
+/tablest/tanz98.html,4/8,Tanzania 1998
+/tablest/tanz99.html,4/5,Tanzania 1999
+/tablest/tanzchamp.html,48/59,Tanzania - List of Champions
+/tablest/tanzcup67.html,4/3,Tanzania Cup 1967
+/tablest/tanzcuphist.html,36/36,Tanzania - List of Cup Winners
+/tablest/tanzfound.html,1/2,Tanzania - List of Foundation Dates
+/tablest/tap73.html,1/2,Taça TAP 1973 (Luanda)
+/tablest/tarazona.html,1/1,"Trofeo Comarca de Tarazona y El Moncayo (Tarazona, Zaragoza)"
+/tablest/tarilorvecine38.html,2/3,Eduard Benes' Cup 1937/38
+/tablest/tarralva.html,1/2,Trofeo Hermanos Tarralva (Grado)
+/tablest/taurus2012.html,1/1,Taurus Cup 2012 - Belek
+/tablest/tecate94.html,0/2,?
+/tablest/tecate99.html,0/2,?
+/tablest/teh-goldestone02.html,1/2,Tehran Goldestone Cup 2002
+/tablest/tehran-intltourn05.html,0/1,?
+/tablest/teide.html,1/2,"Trofeo Teide (Tenerife, Spain)"
+/tablest/teixeira90.html,2/2,Copa Teixeira 1990
+/tablest/telefonica-u17-04.html,0/2,?
+/tablest/telemagazine67.html,1/2,2nd Télé-magazine International Cup (Marseille) 1966/67
+/tablest/telemovi02.html,0/1,?
+/tablest/telemovi03.html,0/1,?
+/tablest/temuco-cuad70.html,1/3,Cuadrangular Internacional de Temuco 1970
+/tablest/temuco2012.html,0/1,?
+/tablest/tenerife-argtrip93.html,1/3,Club Deportivo Tenerife Trip to Argentina 1993
+/tablest/tenerife-veneztrip96.html,1/2,Club Deportivo Tenerife Trip to Venezuela 1996
+/tablest/tenerife50-72.html,2/3,Trofeo Bodas de Oro del CD Tenerife 1972
+/tablest/tenerife75-97.html,2/3,75th Anniversary of CD Tenerife (Spain) 1997
+/tablest/teplitz-satrip22.html,1/4,Río de la Plata Trip of Teplitzer Fußball-Klub 1922
+/tablest/teplitzerfk20-23.html,1/2,20th Anniversary Teplitzer FK 1923
+/tablest/teresa-herrera.html,1/10,Trofeo Teresa Herrera
+/tablest/teresarivero.html,1/1,"Trofeo Teresa Rivero (Vallecas, Madrid)"
+/tablest/teruel.html,1/2,Trofeo Ciudad de Teruel
+/tablest/teshrin04.html,1/1,Teshrin Cup 2004
+/tablest/texaco.html,4/6,Anglo-Scottish Cup & Texaco Cup
+/tablest/texacohist.html,2/2,Anglo-Scottish Cup & Texaco Cup - Full Results
+/tablest/tfrance-fem02.html,0/1,?
+/tablest/tfrance88.html,0/2,?
+/tablest/tfrance97.html,0/1,?
+/tablest/tfrancefem.html,0/1,?
+/tablest/tgyika-ind61.html,0/2,?
+/tablest/tgyika-seven64.html,1/2,"Tanganyika National ""Saba Saba"" Festival Tournament 1964"
+/tablest/thai-bimst-ec-u18.html,0/1,?
+/tablest/thai-intres.html,1/2,Thailand International Results
+/tablest/thai-queen.html,2/44,Queen's Cup (Thailand)
+/tablest/thai-u21-83.html,0/2,?
+/tablest/thai-u21-84.html,0/1,?
+/tablest/thai-u21-86.html,0/2,?
+/tablest/thai-u21-88.html,0/2,?
+/tablest/thai-u21-90.html,0/1,?
+/tablest/thai-u21-ov.html,0/1,?
+/tablest/thai-wom09.html,0/1,?
+/tablest/thai-wom2011.html,0/1,?
+/tablest/thai-wom2012.html,0/1,?
+/tablest/thai-wom2013.html,0/1,?
+/tablest/thai-wom2017.html,0/2,?
+/tablest/thai-wom2019.html,4/3,Thailand (Women) 2019
+/tablest/thai-wom2021.html,4/4,Thailand (Women) 2020/21
+/tablest/thai-wom2024.html,4/4,Thailand (Women) 2024
+/tablest/thai-wom2025.html,3/3,Thailand (Women) 2025
+/tablest/thai-womchamp.html,10/5,Thailand - List of Women Champions
+/tablest/thai00.html,6/4,Thailand 2000
+/tablest/thai01.html,6/4,Thailand 2001/02
+/tablest/thai03.html,6/4,Thailand 2002/03
+/tablest/thai04.html,6/4,Thailand 2003/04
+/tablest/thai05.html,6/5,Thailand 2004/05
+/tablest/thai06.html,6/5,Thailand 2006
+/tablest/thai07.html,6/4,Thailand 2007
+/tablest/thai08.html,6/4,Thailand 2008
+/tablest/thai09.html,6/6,Thailand 2009
+/tablest/thai2010.html,6/5,Thailand 2010
+/tablest/thai2011.html,6/5,Thailand 2011/12
+/tablest/thai2012.html,6/5,Thailand 2012
+/tablest/thai2013.html,6/5,Thailand 2013
+/tablest/thai2014.html,6/5,Thailand 2014
+/tablest/thai2015.html,6/5,Thailand 2015
+/tablest/thai2016.html,6/5,Thailand 2016
+/tablest/thai2017.html,6/5,Thailand 2017
+/tablest/thai2018.html,6/5,Thailand 2018
+/tablest/thai2019.html,6/5,Thailand 2019
+/tablest/thai2020.html,6/5,Thailand 2020/21
+/tablest/thai2022.html,6/5,Thailand 2021/22
+/tablest/thai2023.html,6/5,Thailand 2022/23
+/tablest/thai2024.html,6/5,Thailand 2023/24
+/tablest/thai2025.html,6/5,Thailand 2024/25
+/tablest/thai2026.html,5/6,Thailand 2025/26
+/tablest/thai69.html,5/2,Thailand 1969
+/tablest/thai84.html,7/6,Thailand 1984
+/tablest/thai85.html,7/6,Thailand 1985
+/tablest/thai86.html,6/4,Thailand 1986
+/tablest/thai87.html,0/1,?
+/tablest/thai91.html,6/3,Thailand 1991
+/tablest/thai92.html,6/5,Thailand 1992
+/tablest/thai97.html,6/4,Thailand 1996/97
+/tablest/thai97b.html,6/4,Thailand 1997
+/tablest/thai98.html,6/6,Thailand 1998
+/tablest/thai99.html,6/5,Thailand 1999
+/tablest/thaiarmygames60.html,1/2,Thai Army Games 1960
+/tablest/thaichamp.html,37/42,Thailand - List of Champions
+/tablest/thaicup89.html,7/4,Thailand (Toyota Cup) 1989
+/tablest/thaicuphist.html,29/41,Thailand - List of Cup Winners
+/tablest/thaiduit65.html,0/2,?
+/tablest/thaifound.html,1/2,Thailand - List of Foundation Dates
+/tablest/thailowchamp.html,2/3,Thailand - List of Lower Level Champions
+/tablest/thaipremier97.html,1/3,Thailand Premier Cup 1997
+/tablest/thanglong2010.html,0/1,?
+/tablest/thermal.html,1/3,Thermal Cup
+/tablest/theux1906.html,1/2,Tournoi du SC Theux 1906
+/tablest/thomascook.html,1/2,Thomas Cook Trophy (Manchester)
+/tablest/thrakicup94.html,1/2,Thraki Cup 1994 (Xanthi)
+/tablest/thueringen-u19-03.html,0/1,?
+/tablest/tianjin-tourn.html,1/3,Jin Wan Bao Cup 1985-1987
+/tablest/tianjin-trip87.html,1/2,Tianjin (China) tour of Africa 1987
+/tablest/tibet-womint.html,1/2,Tibet - International Women's Football Tournament
+/tablest/tibet09.html,0/1,?
+/tablest/tibet2010.html,0/1,?
+/tablest/tibet2011.html,0/1,?
+/tablest/tibet2012.html,0/1,?
+/tablest/tibet2013.html,0/1,?
+/tablest/tibet2014.html,0/1,?
+/tablest/tibet2016.html,0/1,?
+/tablest/tibet2017.html,0/1,?
+/tablest/tibet2018.html,0/1,?
+/tablest/tibet2019.html,0/2,?
+/tablest/tibet2020.html,4/1,Tibet 2020
+/tablest/tibet2021.html,0/2,?
+/tablest/tibet2022.html,0/1,?
+/tablest/tibet2023.html,0/1,?
+/tablest/tibet2024.html,0/2,?
+/tablest/tibet2025.html,3/2,Tibet 2025
+/tablest/tibetcuphist.html,17/5,Tibet - GCMGC Gold Cup Winners
+/tablest/tibetmisc.html,2/2,Tibet - Miscellaneous Information
+/tablest/ticino.html,1/3,Coppa Ticino 1952-1964 (Switzerland)
+/tablest/tiensoeharto86.html,0/2,?
+/tablest/tiffo.html,1/1,Tournoi International de Football Féminin de Ouagadougou
+/tablest/tifoco03.html,0/1,?
+/tablest/tigajak78.html,3/3,Triangular Tournament (Jakarta) 1978
+/tablest/tiger-indo53.html,1/2,Tiger Sporting Association (Singapore) tour of Indonesia 1953
+/tablest/tigerbeer03.html,0/1,?
+/tablest/tigerpools01.html,0/1,?
+/tablest/tigertri04.html,0/1,?
+/tablest/tigres.html,1/2,Club Tigres de la UANL
+/tablest/tijuanacup2011.html,0/2,?
+/tablest/tilburg96.html,1/2,Tilburg Tournament 1996
+/tablest/tim-trieste.html,2/2,Trofeo TIM
+/tablest/timisoara81.html,1/2,International Tournament in Timisoara 1981
+/tablest/tiparis.html,1/2,Tournoi International de Paris
+/tablest/tlm.html,1/3,Coupe TLM
+/tablest/tm-mayor.html,1/2,Mayor's Cup
+/tablest/tnistru2016.html,2/2,Transnistria 2016
+/tablest/tnistru2018.html,3/3,Transnistria 2018
+/tablest/tnistru2019.html,3/3,Transnistria 2019
+/tablest/tnistru2021.html,3/3,Transnistria 2021
+/tablest/tnistru2022.html,3/2,Transnistria 2022
+/tablest/tnistru2023.html,3/3,Transnistria 2023
+/tablest/tnistru2024.html,3/2,Transnistria 2024
+/tablest/tnistru2025.html,3/3,Transnistria 2025
+/tablest/tnistru2026.html,2/4,Transnistria 2026
+/tablest/tocan00.html,3/2,Tocantins State League 2000
+/tablest/tocan94.html,3/1,Tocantins State League 1994
+/tablest/tocan95.html,4/3,Tocantins State League 1995
+/tablest/tocan96.html,4/3,Tocantins State League 1996
+/tablest/tocan97.html,5/3,Tocantins State League 1997
+/tablest/tocan98.html,4/3,Tocantins State League 1998
+/tablest/tocan99.html,4/3,Tocantins State League 1999
+/tablest/tocanchamp.html,0/7,Tocantins - List of Champions
+/tablest/toerkonje1906.html,1/2,Tournoi International de l'Exposition de Tourcoing 1906
+/tablest/togo-intres.html,1/2,Togo - List of International Matches
+/tablest/togo-wom00.html,0/1,?
+/tablest/togo-wom02.html,0/1,?
+/tablest/togo-wom04.html,0/1,?
+/tablest/togo-wom2012.html,0/1,?
+/tablest/togo-wom2014.html,0/1,?
+/tablest/togo-wom2015.html,0/2,?
+/tablest/togo-wom2017.html,4/2,Togo (Women) 2016/17
+/tablest/togo-wom2018.html,0/2,?
+/tablest/togo-wom2020.html,0/2,?
+/tablest/togo-wom2021.html,4/3,Togo (Women) 2021
+/tablest/togo-wom2022.html,4/4,Togo (Women) 2022
+/tablest/togo-wom2023.html,4/4,Togo (Women) 2023
+/tablest/togo-wom2024.html,3/4,Togo (Women) 2024/25
+/tablest/togo-womchamp.html,14/7,Togo - List of Women Champions
+/tablest/togo00.html,5/5,Togo 2000
+/tablest/togo01.html,5/5,Togo 2001
+/tablest/togo02.html,5/5,Togo 2002
+/tablest/togo03.html,5/5,Togo 2003/04
+/tablest/togo05.html,5/5,Togo 2004/05
+/tablest/togo06.html,5/4,Togo 2005/06
+/tablest/togo07.html,5/5,Togo 2006/07
+/tablest/togo09.html,5/4,Togo 2009-2011
+/tablest/togo2012.html,5/4,Togo 2011/12
+/tablest/togo2013.html,5/4,Togo 2013
+/tablest/togo2014.html,5/4,Togo 2014
+/tablest/togo2015.html,5/3,Togo 2015
+/tablest/togo2016.html,5/6,Togo 2016/17
+/tablest/togo2018.html,5/5,Togo 2017/18
+/tablest/togo2019.html,5/5,Togo 2018/19
+/tablest/togo2020.html,5/4,Togo 2019/20
+/tablest/togo2021.html,5/5,Togo 2021
+/tablest/togo2022.html,5/5,Togo 2021/22
+/tablest/togo2023.html,5/5,Togo 2022/23
+/tablest/togo2024.html,5/5,Togo 2023/24
+/tablest/togo2025.html,5/5,Togo 2024/25
+/tablest/togo2026.html,4/6,Togo 2025/26
+/tablest/togo33.html,5/2,Togo 1933/34
+/tablest/togo53.html,6/3,Togo 1952/53
+/tablest/togo57.html,5/3,Togo 1956/57
+/tablest/togo59.html,6/2,Togo 1959
+/tablest/togo61.html,6/2,Togo 1960/61
+/tablest/togo79.html,5/3,Togo 1979
+/tablest/togo80.html,5/3,Togo 1980
+/tablest/togo81.html,5/6,Togo 1980/81
+/tablest/togo83.html,6/5,Togo 1983
+/tablest/togo84.html,5/4,Togo 1984
+/tablest/togo85.html,5/3,Togo 1985
+/tablest/togo88.html,5/3,Togo 1988
+/tablest/togo89.html,6/4,Togo 1989
+/tablest/togo90.html,5/3,Togo 1990
+/tablest/togo92.html,5/3,Togo 1992
+/tablest/togo93.html,5/3,Togo 1993
+/tablest/togo94.html,5/2,Togo 1994
+/tablest/togo95.html,5/4,Togo 1995
+/tablest/togo96.html,5/3,Togo 1996
+/tablest/togo97.html,5/5,Togo 1997
+/tablest/togo99.html,5/5,Togo 1998/99
+/tablest/togochamp.html,42/44,Togo - List of Champions
+/tablest/togocuphist.html,21/46,Togo - List of Cup Winners
+/tablest/togofound.html,2/2,Togo - List of Foundation Dates
+/tablest/togokloto.html,1/2,Tournoi Renaissance Kloto (Togo)
+/tablest/tok-u14.html,1/4,Tokyo U-14 International Youth Football Tournament
+/tablest/tokelau.html,2/1,Tokelau
+/tablest/tokyo-tourn63.html,0/3,?
+/tablest/toledo.html,1/2,Trofeo Ferias de Toledo
+/tablest/toluca100-2017.html,0/2,?
+/tablest/tolucacuad80.html,0/2,?
+/tablest/tomelloso.html,1/2,Trofeo Ayuntamiento de Tomelloso
+/tablest/tonga-bergamo91.html,0/2,?
+/tablest/tonga-intres.html,1/2,Tonga - List of International Matches
+/tablest/tonga-labasa71.html,1/3,Labasa and Southern Division combined team (Fiji) tour of Tonga 1971
+/tablest/tonga-lami85.html,1/2,Lami (Fiji) tour of Tonga 1985
+/tablest/tonga-nztour78.html,0/2,?
+/tablest/tonga-nztour85.html,0/2,?
+/tablest/tonga-wom2020.html,0/1,?
+/tablest/tonga-wom2021.html,4/2,Tonga Women 2021
+/tablest/tonga-wom2022.html,0/2,?
+/tablest/tonga-wom2025.html,3/1,Tonga Women 2025
+/tablest/tonga00.html,5/3,Tonga 2000
+/tablest/tonga02.html,5/4,Tonga 2002
+/tablest/tonga03.html,5/4,Tonga 2003
+/tablest/tonga06.html,5/3,Tonga 2006
+/tablest/tonga09.html,5/4,Tonga 2009
+/tablest/tonga2011.html,5/4,Tonga 2010/11
+/tablest/tonga2013.html,5/4,Tonga 2013
+/tablest/tonga2014.html,5/3,Tonga 2013/14
+/tablest/tonga2015.html,5/3,Tonga 2015
+/tablest/tonga2016.html,5/3,Tonga 2016
+/tablest/tonga2017.html,5/3,Tonga 2017
+/tablest/tonga2018.html,5/3,Tonga 2018
+/tablest/tonga2019.html,5/3,Tonga 2019
+/tablest/tonga2020.html,5/4,Tonga 2020
+/tablest/tonga2021.html,5/4,Tonga 2021
+/tablest/tonga2022.html,5/3,Tonga 2022
+/tablest/tonga2023.html,4/4,Tonga 2023
+/tablest/tonga70.html,3/2,Tonga 1969/70
+/tablest/tonga71.html,4/4,Tonga 1970/71
+/tablest/tonga72.html,5/4,Tonga 1971/72
+/tablest/tonga75.html,4/3,Tonga 1975
+/tablest/tonga78.html,4/3,Tonga 1977/78
+/tablest/tonga79.html,4/3,Tonga 1979
+/tablest/tonga81.html,4/3,Tonga 1980/81
+/tablest/tonga82.html,4/3,Tonga 1982
+/tablest/tonga83.html,4/3,Tonga 1983
+/tablest/tonga84.html,5/4,Tonga 1984
+/tablest/tonga85.html,5/3,Tonga 1985
+/tablest/tonga88.html,4/3,Tonga 1988
+/tablest/tonga89.html,4/3,Tonga 1989
+/tablest/tonga90.html,4/3,Tonga 1990
+/tablest/tonga91.html,4/3,Tonga 1991
+/tablest/tonga94.html,4/3,Tonga 1994
+/tablest/tonga98.html,4/3,Tonga 1998
+/tablest/tonga99.html,4/3,Tonga 1999
+/tablest/tongachamp.html,35/41,Tonga - List of Champions
+/tablest/tongacuphist.html,7/19,Tonga - List of Cup Winners
+/tablest/tongafound.html,1/2,Tonga - List of Foundation Dates
+/tablest/tongyeong06.html,1/1,Tongyeong Cup 2006
+/tablest/topdivgoalrecs.html,1/3,Top Division Scoring Records
+/tablest/torcal.html,1/2,Trofeo Ciudad de El Torcal (Spain)
+/tablest/torcamp79.html,1/4,Torneo de Campeones 1979
+/tablest/torino-braztrip48.html,2/3,Brazilian Trip of Torino FC 1948
+/tablest/torino-satrip14.html,4/5,South American Trip of Torino FC 1914 - Match Details
+/tablest/torino-vercelli-braztrip14.html,4/4,South American Trip of Torino and Pro Vercelli in 1914
+/tablest/torino1900.html,1/2,Various former clubs from Torino
+/tablest/torinocoppa10.html,2/3,Torneo Interfederale Coppa Torino 1910
+/tablest/torinocoppa12.html,2/3,Torneo Interfederale Coppa Torino 1912
+/tablest/torinosimbolo4951.html,1/3,Torino Simbolo - Benefit match 1949 and 50th Anniversary of River Plate 1951
+/tablest/torneiolisboa.html,1/2,Torneio Internacional de Lisboa
+/tablest/torneoserio1963.html,0/2,?
+/tablest/toronto-isl06.html,0/2,?
+/tablest/toronto66.html,0/2,?
+/tablest/toronto70.html,0/2,?
+/tablest/torpedo-japtour65.html,1/2,Torpedo Moskva (USSR) tour of Japan 1965
+/tablest/torrance89.html,0/2,?
+/tablest/torrevigia80.html,0/2,?
+/tablest/tortola-intres.html,1/2,Tortola (British Virgin Islands) - List of International Matches
+/tablest/tortola-u13-03.html,0/1,?
+/tablest/toshkent-tourn05.html,1/1,Toshkent International Tournament 2005
+/tablest/tottenham-satrip09.html,2/5,Río de la Plata Trip of Tottenham Hotspur 1909
+/tablest/toulon.html,53/4,Tournoi Espoirs de Toulon
+/tablest/toulon00.html,0/1,?
+/tablest/toulon01.html,0/1,?
+/tablest/toulon02.html,0/1,?
+/tablest/toulon03.html,0/1,?
+/tablest/toulon04.html,0/1,?
+/tablest/toulon05.html,0/1,?
+/tablest/toulon06.html,0/1,?
+/tablest/toulon07.html,0/1,?
+/tablest/toulon08.html,0/1,?
+/tablest/toulon09.html,0/1,?
+/tablest/toulon2010.html,0/1,?
+/tablest/toulon2011.html,0/1,?
+/tablest/toulon2012.html,0/1,?
+/tablest/toulon2013.html,0/1,?
+/tablest/toulon2014.html,0/1,?
+/tablest/toulon2015.html,0/1,?
+/tablest/toulon2016.html,0/1,?
+/tablest/toulon2017.html,0/1,?
+/tablest/toulon2018.html,0/1,?
+/tablest/toulon2019.html,0/1,?
+/tablest/toulon2022.html,0/1,?
+/tablest/toulon2023.html,0/1,?
+/tablest/toulon2024.html,0/1,?
+/tablest/toulon2025.html,0/1,?
+/tablest/toulon67.html,0/2,?
+/tablest/toulon74.html,0/2,?
+/tablest/toulon75.html,0/1,?
+/tablest/toulon76.html,0/1,?
+/tablest/toulon77.html,0/1,?
+/tablest/toulon78.html,0/1,?
+/tablest/toulon79.html,0/1,?
+/tablest/toulon80.html,0/1,?
+/tablest/toulon81.html,0/1,?
+/tablest/toulon82.html,0/1,?
+/tablest/toulon83.html,0/1,?
+/tablest/toulon84.html,0/1,?
+/tablest/toulon85.html,0/1,?
+/tablest/toulon86.html,0/1,?
+/tablest/toulon87.html,0/1,?
+/tablest/toulon88.html,0/1,?
+/tablest/toulon89.html,0/1,?
+/tablest/toulon90.html,0/1,?
+/tablest/toulon91.html,0/1,?
+/tablest/toulon92.html,0/1,?
+/tablest/toulon93.html,0/1,?
+/tablest/toulon94.html,0/1,?
+/tablest/toulon95.html,0/1,?
+/tablest/toulon96.html,0/1,?
+/tablest/toulon97.html,0/1,?
+/tablest/toulon98.html,0/1,?
+/tablest/toulon99.html,0/1,?
+/tablest/toulouse-tourn.html,1/2,Toulouse - Friendly Tournaments
+/tablest/tourlapeilz50-71.html,1/2,50th Aniversary of CS La Tour-de-Peilz (Switzerland) 1971
+/tablest/tourn-iles03.html,0/1,?
+/tablest/tournations2017.html,0/1,?
+/tablest/toymekong.html,5/5,Toyota Mekong Club Championship
+/tablest/toymekong2014.html,3/2,"Toyota Mekong Club Championship 2014 (Binh Duong, Vietnam)"
+/tablest/toymekong2015.html,4/3,Toyota Mekong Club Championship 2015
+/tablest/toymekong2016.html,4/3,Toyota Mekong Club Championship 2016/17
+/tablest/toymekong2017.html,3/3,Toyota Mekong Club Championship 2017/18
+/tablest/toyota.html,54/51,Intercontinental Club Cup
+/tablest/toyota-honour.html,1/2,Intercontinental Club Cup Cup 1960-1998 - Hall of Honour
+/tablest/toyota00.html,4/4,Intercontinental Club Cup 2000
+/tablest/toyota01.html,4/4,Intercontinental Club Cup 2001
 /tablest/toyota02.html,4/3,Intercontinental Club Cup 2002
-/tablest/toyota03.html,4/3,Intercontinental Club Cup 2003
+/tablest/toyota03.html,4/4,Intercontinental Club Cup 2003
 /tablest/toyota04.html,3/2,Intercontinental Club Cup 2004
 /tablest/toyota80.html,4/3,Intercontinental Club Cup 1980
 /tablest/toyota81.html,4/3,Intercontinental Club Cup 1981
 /tablest/toyota82.html,4/3,Intercontinental Club Cup 1982
 /tablest/toyota83.html,4/3,Intercontinental Club Cup 1983
-/tablest/toyota84.html,4/3,Intercontinental Club Cup 1984
-/tablest/toyota85.html,4/3,Intercontinental Club Cup 1985
-/tablest/toyota86.html,4/3,Intercontinental Club Cup 1986
+/tablest/toyota84.html,4/4,Intercontinental Club Cup 1984
+/tablest/toyota85.html,4/4,Intercontinental Club Cup 1985
+/tablest/toyota86.html,4/4,Intercontinental Club Cup 1986
 /tablest/toyota87.html,4/3,Intercontinental Club Cup 1987
 /tablest/toyota88.html,4/3,Intercontinental Club Cup 1988
 /tablest/toyota89.html,4/3,Intercontinental Club Cup 1989
@@ -313,500 +634,734 @@ path,links,title
 /tablest/toyota91.html,4/3,Intercontinental Club Cup 1991
 /tablest/toyota92.html,4/3,Intercontinental Club Cup 1992
 /tablest/toyota93.html,4/3,Intercontinental Club Cup 1993
-/tablest/toyota94.html,4/3,Intercontinental Club Cup 1994
+/tablest/toyota94.html,4/4,Intercontinental Club Cup 1994
 /tablest/toyota95.html,4/3,Intercontinental Club Cup 1995
-/tablest/toyota96.html,4/3,Intercontinental Club Cup 1996
+/tablest/toyota96.html,4/4,Intercontinental Club Cup 1996
 /tablest/toyota97.html,4/3,Intercontinental Club Cup 1997
-/tablest/toyota98.html,4/4,Intercontinental Club Cup 1998
+/tablest/toyota98.html,4/5,Intercontinental Club Cup 1998
 /tablest/toyota99.html,4/3,Intercontinental Club Cup 1999
-/tablest/toyotaatt.html,1/2,European/South American Cup - All-Time Table
-/tablest/toyotacoach.html,2/2,Intercontinental Cup and FIFA Club World Cup - Winning Coaches
+/tablest/toyotaatt.html,1/3,European/South American Cup - All-Time Table
+/tablest/toyotacoach.html,2/4,Intercontinental Cup and FIFA Club World Cup - Winning Coaches
 /tablest/toyotamvp.html,3/2,Toyota Cup - Most Valuable Player of the Match Award
 /tablest/toyotatrivia.html,1/1,Trivia on Intercontinental (Toyota) Cup
-/tablest/transcauc.html,1/1,Trans-Caucasian Championships
-/tablest/transtas88.html,0/1,-
-/tablest/transtasman.html,4/1,Trans-Tasman Cup
-/tablest/trin-intres.html,4/1,Trinidad and Tobago - List of International Matches
-/tablest/trin-intres-det00.html,0/1,-
-/tablest/trin-intres-detgc.html,0/1,-
-/tablest/trin-intres-detwcq.html,0/1,-
-/tablest/trin00.html,0/2,-
-/tablest/trin01.html,0/2,-
-/tablest/trin02.html,0/2,-
-/tablest/trin03.html,0/2,-
-/tablest/trin04.html,0/2,-
-/tablest/trin05.html,0/2,-
-/tablest/trin06.html,0/2,-
-/tablest/trin07.html,0/2,-
-/tablest/trin08.html,0/2,-
-/tablest/trin09.html,0/2,-
-/tablest/trin1908.html,0/1,-
-/tablest/trin1909.html,0/1,-
-/tablest/trin1910.html,0/1,-
-/tablest/trin1911.html,0/1,-
-/tablest/trin1912.html,0/1,-
-/tablest/trin1913.html,0/1,-
-/tablest/trin1914.html,0/1,-
-/tablest/trin1915.html,0/1,-
-/tablest/trin1920.html,0/1,-
-/tablest/trin1924.html,0/1,-
-/tablest/trin1925.html,0/1,-
-/tablest/trin1927.html,0/1,-
-/tablest/trin1928.html,0/1,-
-/tablest/trin2010.html,0/2,-
-/tablest/trin2012.html,0/2,-
-/tablest/trin2013.html,0/2,-
-/tablest/trin2014.html,0/2,-
-/tablest/trin2015.html,0/2,-
-/tablest/trin2016.html,0/2,-
-/tablest/trin2017.html,0/2,-
-/tablest/trin2017a.html,0/2,-
-/tablest/trin2018.html,0/2,-
-/tablest/trin2020.html,0/2,-
-/tablest/trin2022.html,0/2,-
-/tablest/trin2023.html,0/2,-
-/tablest/trin2024.html,0/3,-
-/tablest/trin2025.html,5/3,Trinidad and Tobago 2024/25
-/tablest/trin2026.html,4/3,Trinidad and Tobago 2025/26
-/tablest/trin31.html,0/2,-
-/tablest/trin32.html,0/2,-
-/tablest/trin33.html,0/2,-
-/tablest/trin38.html,0/2,-
-/tablest/trin39.html,0/2,-
-/tablest/trin40.html,0/2,-
-/tablest/trin41.html,0/1,-
-/tablest/trin44.html,0/2,-
-/tablest/trin45.html,0/2,-
-/tablest/trin46.html,0/2,-
-/tablest/trin48.html,0/2,-
-/tablest/trin49.html,0/2,-
-/tablest/trin55.html,0/2,-
-/tablest/trin56.html,0/1,-
-/tablest/trin57.html,0/2,-
-/tablest/trin66.html,0/1,-
-/tablest/trin68.html,0/1,-
-/tablest/trin69.html,0/1,-
-/tablest/trin70.html,0/1,-
-/tablest/trin72.html,0/1,-
-/tablest/trin74.html,0/1,-
-/tablest/trin78.html,0/1,-
-/tablest/trin81.html,0/1,-
-/tablest/trin82.html,0/1,-
-/tablest/trin83.html,0/1,-
-/tablest/trin84.html,0/1,-
-/tablest/trin86.html,0/1,-
-/tablest/trin87.html,0/1,-
-/tablest/trin97.html,0/1,-
-/tablest/trin98.html,0/1,-
-/tablest/trin99.html,0/1,-
-/tablest/trinchamp.html,70/2,Trinidad and Tobago - List of Champions
-/tablest/trincup94.html,0/1,-
-/tablest/trincuphist.html,40/3,Trinidad and Tobago - List of Cup Winners
-/tablest/trivia.html,0/1,-
-/tablest/trompowski50.html,1/1,"Copa Trompowski (Rio de Janeiro, Brazil 1950)"
-/tablest/tropiques.html,4/1,Jeux de la Coupe des Tropiques 1962-1964
-/tablest/tropiques62.html,0/1,-
-/tablest/tropiques64.html,0/1,-
-/tablest/tsja02.html,0/1,-
-/tablest/tsja03.html,0/1,-
-/tablest/tsja04.html,0/1,-
-/tablest/tsja05.html,0/1,-
-/tablest/tsja06.html,0/1,-
-/tablest/tsja08.html,0/2,-
-/tablest/tsja09.html,0/2,-
-/tablest/tsja2010.html,0/2,-
-/tablest/tsja2011.html,0/2,-
-/tablest/tsja2012.html,0/2,-
-/tablest/tsja2013.html,0/2,-
-/tablest/tsja2014.html,0/2,-
-/tablest/tsja2016.html,0/1,-
-/tablest/tsja2017.html,0/1,-
-/tablest/tsja2018.html,0/1,-
-/tablest/tsja2019.html,0/2,-
-/tablest/tsja2020.html,0/1,-
-/tablest/tsja2021.html,0/1,-
-/tablest/tsja2022.html,0/1,-
-/tablest/tsja2023.html,0/2,-
-/tablest/tsja2024.html,0/2,-
-/tablest/tsja2025.html,5/2,Chad 2024/25
-/tablest/tsja2026.html,4/3,Chad 2025/26
-/tablest/tsjachamp.html,24/2,Chad - List of Champions
-/tablest/tsjacuphist.html,10/2,Chad - List of Cup Winners
-/tablest/tsje-ec.html,1/1,Czech teams in Eurocups
-/tablest/tsje-futs-intres.html,1/1,Czech Republic - Futsal - International Matches
-/tablest/tsje-intres.html,11/7,Czech Republic - List of International Matches
-/tablest/tsje-intres-det.html,0/1,-
-/tablest/tsje-u19-intres.html,1/1,Czech Republic U-19 - Details of International Matches
-/tablest/tsje-u20-intres.html,1/1,Czech Republic U-20 - Details of International Matches
-/tablest/tsje-u21-intres.html,1/1,Czech Republic U-21 - International Matches
-/tablest/tsje00.html,0/1,-
-/tablest/tsje01.html,0/1,-
-/tablest/tsje02.html,0/1,-
-/tablest/tsje03.html,0/1,-
-/tablest/tsje04.html,0/1,-
-/tablest/tsje05.html,0/1,-
-/tablest/tsje06.html,0/1,-
-/tablest/tsje07.html,0/1,-
-/tablest/tsje08.html,0/1,-
-/tablest/tsje09.html,0/1,-
-/tablest/tsje2010.html,0/2,-
-/tablest/tsje2011.html,0/2,-
-/tablest/tsje2012.html,0/2,-
-/tablest/tsje2013.html,0/2,-
-/tablest/tsje2014.html,0/2,-
-/tablest/tsje2015.html,0/2,-
-/tablest/tsje2016.html,0/2,-
-/tablest/tsje2017.html,0/2,-
-/tablest/tsje2018.html,0/2,-
-/tablest/tsje2019.html,0/2,-
-/tablest/tsje2020.html,0/2,-
-/tablest/tsje2021.html,0/2,-
-/tablest/tsje2022.html,0/2,-
-/tablest/tsje2023.html,0/2,-
-/tablest/tsje2024.html,0/3,-
-/tablest/tsje2025.html,8/3,Czechia 2024/25
-/tablest/tsje2026.html,7/4,Czechia 2025/26
-/tablest/tsje22.html,0/1,-
-/tablest/tsje2tops.html,1/2,Czech Republic - List of Second Level Topscorers
-/tablest/tsje94.html,0/2,-
-/tablest/tsje95.html,0/2,-
-/tablest/tsje96.html,0/2,-
-/tablest/tsje97.html,0/2,-
-/tablest/tsje98.html,0/1,-
-/tablest/tsje99.html,0/1,-
-/tablest/tsjechamp.html,39/2,Czech Republic - List of Champions
-/tablest/tsjecharitycup.html,0/1,-
-/tablest/tsjecup00.html,0/1,-
-/tablest/tsjecup01.html,0/1,-
-/tablest/tsjecup02.html,0/1,-
-/tablest/tsjecup03.html,0/1,-
-/tablest/tsjecup04.html,0/1,-
-/tablest/tsjecup05.html,0/1,-
-/tablest/tsjecup06.html,0/1,-
-/tablest/tsjecup07.html,0/1,-
-/tablest/tsjecup08.html,0/1,-
-/tablest/tsjecup09.html,0/1,-
-/tablest/tsjecup98.html,0/1,-
-/tablest/tsjecup99.html,0/1,-
-/tablest/tsjecuphist.html,38/3,Czech Republic - List of Cup Finals
-/tablest/tsjeduit13.html,0/1,-
-/tablest/tsjeduit17.html,0/1,-
-/tablest/tsjesupcuphist.html,3/2,Czech Republic - List of Super Cup Finals
-/tablest/tsjetops.html,1/2,Czech Republic - List of Topscorers
-/tablest/tsjetops-allt.html,1/2,Czech Republic - All-Time Topscorers
-/tablest/tsjsl-amat-intres.html,4/1,Czechoslovakia Amateur International Results (1925-1937)
-/tablest/tsjsl-intres.html,9/7,Czechoslovakia - List of International Matches
-/tablest/tsjsl10-28.html,0/1,-
-/tablest/tsjslamachamp.html,0/1,-
-/tablest/tsjslchamp.html,0/2,-
-/tablest/tsjslcuphist.html,8/5,Czechoslovakia - List of Cup Finals
-/tablest/tsjslcuphistfull.html,0/1,-
-/tablest/tsjsldasso.html,2/1,Czechoslovakia - Matches Ethnic German Associations 1918-1944
-/tablest/tsjslhist.html,0/1,-
-/tablest/tsjslsupcuphist.html,4/4,Czecho-Slovak Super Cup Finals
-/tablest/tsunami2017.html,0/1,-
-/tablest/tun-intres.html,2/1,Tunisia - List of International Matches
-/tablest/tun-intres0009.html,0/1,-
-/tablest/tun00.html,0/2,-
-/tablest/tun01.html,0/2,-
-/tablest/tun02.html,0/2,-
-/tablest/tun03.html,0/2,-
-/tablest/tun04.html,0/2,-
-/tablest/tun05.html,0/2,-
-/tablest/tun06.html,0/2,-
-/tablest/tun07.html,0/2,-
-/tablest/tun08.html,0/2,-
-/tablest/tun09.html,0/1,-
-/tablest/tun1907.html,0/1,-
-/tablest/tun1911.html,0/1,-
-/tablest/tun1914.html,0/1,-
-/tablest/tun1920.html,0/1,-
-/tablest/tun2009.html,0/2,-
-/tablest/tun2010.html,0/2,-
-/tablest/tun2011.html,0/2,-
-/tablest/tun2012.html,0/2,-
-/tablest/tun2013.html,0/2,-
-/tablest/tun2014.html,0/2,-
-/tablest/tun2015.html,0/2,-
-/tablest/tun2016.html,0/2,-
-/tablest/tun2017.html,0/2,-
-/tablest/tun2018.html,0/2,-
-/tablest/tun2019.html,0/2,-
-/tablest/tun2020.html,0/2,-
-/tablest/tun2021.html,0/2,-
-/tablest/tun2022.html,0/2,-
-/tablest/tun2023.html,0/2,-
-/tablest/tun2024.html,0/3,-
-/tablest/tun2025.html,8/3,Tunisia 2024/25
-/tablest/tun2026.html,7/4,Tunisia 2025/26
-/tablest/tun28.html,0/2,-
-/tablest/tun32.html,9/3,Tunisia 1931/32
-/tablest/tun34.html,6/4,Tunisia 1933/34
-/tablest/tun39.html,8/4,Tunisia 1938/39
-/tablest/tun40.html,0/3,-
-/tablest/tun50.html,6/3,Tunisia 1949/50
-/tablest/tun52.html,0/1,-
-/tablest/tun53.html,0/1,-
-/tablest/tun56.html,0/2,-
-/tablest/tun57.html,0/2,-
-/tablest/tun61.html,0/2,-
-/tablest/tun62.html,0/2,-
-/tablest/tun63.html,0/2,-
-/tablest/tun64.html,0/2,-
-/tablest/tun65.html,0/2,-
-/tablest/tun69.html,0/2,-
-/tablest/tun71.html,0/2,-
-/tablest/tun72.html,0/2,-
-/tablest/tun74.html,0/2,-
-/tablest/tun75.html,0/2,-
-/tablest/tun77.html,0/2,-
-/tablest/tun78.html,0/1,-
-/tablest/tun81.html,0/2,-
-/tablest/tun83.html,0/2,-
-/tablest/tun87.html,0/2,-
-/tablest/tun88.html,0/2,-
-/tablest/tun89.html,0/2,-
-/tablest/tun90.html,0/2,-
-/tablest/tun91.html,0/2,-
-/tablest/tun92.html,0/2,-
-/tablest/tun93.html,0/2,-
-/tablest/tun94.html,0/2,-
-/tablest/tun95.html,0/2,-
-/tablest/tun96.html,0/2,-
-/tablest/tun97.html,0/2,-
-/tablest/tun98.html,0/2,-
-/tablest/tun99.html,0/2,-
-/tablest/tunalltime.html,1/2,Tunisia - All-Time Table
-/tablest/tunchamp.html,83/12,Tunisia - List of Champions
-/tablest/tuncup23.html,0/1,-
-/tablest/tuncup24.html,0/1,-
-/tablest/tuncup25.html,0/1,-
-/tablest/tuncup26.html,0/1,-
-/tablest/tuncup27.html,0/1,-
-/tablest/tuncup30.html,0/1,-
-/tablest/tuncup31.html,0/2,-
-/tablest/tuncup33.html,0/3,-
-/tablest/tuncup35.html,0/2,-
-/tablest/tuncup36.html,0/2,-
-/tablest/tuncup37.html,7/4,Tunisia 1936/37
+/tablest/tozzi95.html,0/2,?
+/tablest/transcauc.html,1/3,Trans-Caucasian Championships
+/tablest/transplata1889.html,0/2,?
+/tablest/transtas88.html,3/2,Trans-Tasman Cup 1988
+/tablest/transtasman.html,4/5,Trans-Tasman Cup
+/tablest/trapani.html,1/3,Trapani Associazione Sportiva
+/tablest/trappers25-55.html,0/2,?
+/tablest/trasandina92.html,0/2,?
+/tablest/trasandino-arg46.html,1/3,Argentine Trip of Atlético Trasandino (Chile) 1946
+/tablest/trentinobrera.html,1/3,Trentino Cup - Memorial Gianni Brera (Italy)
+/tablest/trento01.html,1/2,Triangolare di Trento
+/tablest/tresciudades47.html,0/3,?
+/tablest/tri-caracas67.html,0/2,?
+/tablest/tri-caracas70b.html,0/1,?
+/tablest/tri-caracas76.html,0/1,?
+/tablest/tri-caracas77det.html,0/2,?
+/tablest/tri-elsalvador64.html,0/2,?
+/tablest/tri-genova02.html,1/1,Trofeo Grafoplast Wiremakers 2002 (Genova)
+/tablest/tri-revolucion95.html,0/2,?
+/tablest/tri-verano-baires40s.html,0/2,?
+/tablest/trian-u15.html,0/2,?
+/tablest/triancona2012.html,0/1,?
+/tablest/triang-baires62.html,2/5,Torneo Triangular de Buenos Aires 1962
+/tablest/triang-baires63.html,2/5,Torneo Triangular Buenos Aires 1963
+/tablest/triangolare-u23-66.html,0/2,?
+/tablest/triangolari-di-italia.html,1/2,Triangolari
+/tablest/tridasawarsa75.html,1/2,Piala Tri Dasawarsa (Three Decades Cup) 1975 (Jakarta)
+/tablest/trieste-adria03.html,2/2,Adria Cup 2003 (Trieste)
+/tablest/triestina.html,1/2,Unione Sportiva Triestina
+/tablest/trin-in-uk53.html,0/2,?
+/tablest/trin-intres.html,4/6,Trinidad and Tobago - List of International Matches
+/tablest/trin-intres-det00.html,2/3,Trinidad and Tobago - Details of International Matches 2000-2003
+/tablest/trin-intres-detgc.html,2/2,Trinidad and Tobago - Details of Gold Cup Matches
+/tablest/trin-intres-detwcq.html,2/3,Trinidad and Tobago - Details of World Cup Qualifiers
+/tablest/trin-quad59.html,0/2,?
+/tablest/trin-sbowl89.html,0/2,?
+/tablest/trin-veneztrip71.html,1/2,Trinidad and Tobago Trip to Venezuela 1971
+/tablest/trin-wom00.html,0/2,?
+/tablest/trin-wom01.html,0/2,?
+/tablest/trin-wom02.html,0/2,?
+/tablest/trin-wom03.html,0/2,?
+/tablest/trin-wom04.html,0/2,?
+/tablest/trin-wom05.html,0/2,?
+/tablest/trin-wom06.html,0/2,?
+/tablest/trin-wom07.html,0/2,?
+/tablest/trin-wom08.html,0/2,?
+/tablest/trin-wom09.html,0/1,?
+/tablest/trin-wom2010.html,0/2,?
+/tablest/trin-wom2011.html,0/1,?
+/tablest/trin-wom2012.html,0/2,?
+/tablest/trin-wom2013.html,0/2,?
+/tablest/trin-wom2014.html,0/1,?
+/tablest/trin-wom2015.html,0/1,?
+/tablest/trin-wom2016.html,0/1,?
+/tablest/trin-wom2017.html,0/1,?
+/tablest/trin-wom2018.html,0/1,?
+/tablest/trin-wom2019.html,0/1,?
+/tablest/trin-wom2021.html,0/2,?
+/tablest/trin-wom2022.html,5/1,Trinidad and Tobago Women 2022
+/tablest/trin-wom2023.html,0/2,?
+/tablest/trin-wom2024.html,4/1,Trinidad and Tobago Women 2024
+/tablest/trin-wom99.html,0/1,?
+/tablest/trin-womchamp.html,23/4,Trinidad and Tobago - List of Women Champions
+/tablest/trin-womcuphist.html,13/4,Trinidad and Tobago - List of Women Cup Winners
+/tablest/trin00.html,5/5,Trinidad and Tobago 2000
+/tablest/trin01.html,5/5,Trinidad and Tobago 2001
+/tablest/trin02.html,5/5,Trinidad and Tobago 2002
+/tablest/trin03.html,5/5,Trinidad and Tobago 2003/04
+/tablest/trin04.html,5/5,Trinidad and Tobago 2004
+/tablest/trin05.html,5/5,Trinidad and Tobago 2005
+/tablest/trin06.html,5/6,Trinidad and Tobago 2006
+/tablest/trin07.html,5/5,Trinidad and Tobago 2007
+/tablest/trin08.html,5/5,Trinidad and Tobago 2008
+/tablest/trin09.html,5/5,Trinidad and Tobago 2009
+/tablest/trin1908.html,4/3,Trinidad and Tobago 1908
+/tablest/trin1909.html,5/5,Trinidad and Tobago 1909
+/tablest/trin1910.html,5/5,Trinidad and Tobago 1910
+/tablest/trin1911.html,5/5,Trinidad and Tobago 1911
+/tablest/trin1912.html,5/3,Trinidad and Tobago 1912
+/tablest/trin1913.html,5/3,Trinidad and Tobago 1913
+/tablest/trin1914.html,5/3,Trinidad and Tobago 1914
+/tablest/trin1915.html,5/3,Trinidad and Tobago 1915
+/tablest/trin1918.html,5/2,Trinidad and Tobago 1918
+/tablest/trin1920.html,5/3,Trinidad and Tobago 1920
+/tablest/trin1924.html,6/3,Trinidad and Tobago 1924
+/tablest/trin1925.html,5/3,Trinidad and Tobago 1925
+/tablest/trin1927.html,5/2,Trinidad and Tobago 1927
+/tablest/trin1928.html,5/3,Trinidad and Tobago 1928
+/tablest/trin2010.html,5/6,Trinidad and Tobago 2010/11
+/tablest/trin2012.html,5/5,Trinidad and Tobago 2011/12
+/tablest/trin2013.html,5/5,Trinidad and Tobago 2012/13
+/tablest/trin2014.html,5/5,Trinidad and Tobago 2013/14
+/tablest/trin2015.html,5/5,Trinidad and Tobago 2014/15
+/tablest/trin2016.html,5/5,Trinidad and Tobago 2015/16
+/tablest/trin2017.html,5/5,Trinidad and Tobago 2016/17
+/tablest/trin2017a.html,5/5,Trinidad and Tobago 2017
+/tablest/trin2018.html,5/5,Trinidad and Tobago 2018
+/tablest/trin2020.html,5/6,Trinidad and Tobago 2019/20
+/tablest/trin2022.html,5/4,Trinidad and Tobago 2022
+/tablest/trin2023.html,5/5,Trinidad and Tobago 2023
+/tablest/trin2024.html,5/6,Trinidad and Tobago 2023/24
+/tablest/trin2025.html,5/6,Trinidad and Tobago 2024/25
+/tablest/trin2026.html,4/4,Trinidad and Tobago 2025/26
+/tablest/trin31.html,5/5,Trinidad and Tobago 1931
+/tablest/trin32.html,5/4,Trinidad and Tobago 1932
+/tablest/trin33.html,5/4,Trinidad and Tobago 1933
+/tablest/trin38.html,5/4,Trinidad and Tobago 1938
+/tablest/trin39.html,5/4,Trinidad and Tobago 1939
+/tablest/trin40.html,5/4,Trinidad and Tobago 1940
+/tablest/trin41.html,5/3,Trinidad and Tobago 1941
+/tablest/trin44.html,5/4,Trinidad and Tobago 1944
+/tablest/trin45.html,5/4,Trinidad and Tobago 1945
+/tablest/trin46.html,5/4,Trinidad and Tobago 1946
+/tablest/trin48.html,5/4,Trinidad and Tobago 1948
+/tablest/trin49.html,5/4,Trinidad and Tobago 1949
+/tablest/trin55.html,5/4,Trinidad and Tobago 1955
+/tablest/trin56.html,5/3,Trinidad and Tobago 1956
+/tablest/trin57.html,5/4,Trinidad and Tobago 1957
+/tablest/trin66.html,5/3,Trinidad and Tobago 1966
+/tablest/trin68.html,5/3,Trinidad and Tobago 1968
+/tablest/trin69.html,5/3,Trinidad and Tobago 1969
+/tablest/trin70.html,5/3,Trinidad and Tobago 1970
+/tablest/trin72.html,5/3,Trinidad and Tobago 1972
+/tablest/trin74.html,5/3,Trinidad and Tobago 1974
+/tablest/trin78.html,6/3,Trinidad and Tobago 1978
+/tablest/trin80.html,5/2,Trinidad and Tobago 1980
+/tablest/trin81.html,5/3,Trinidad and Tobago 1981
+/tablest/trin82.html,5/3,Trinidad and Tobago 1982
+/tablest/trin83.html,5/3,Trinidad and Tobago 1983
+/tablest/trin84.html,5/3,Trinidad and Tobago 1984
+/tablest/trin86.html,5/3,Trinidad and Tobago 1986
+/tablest/trin87.html,6/4,Trinidad and Tobago 1987
+/tablest/trin97.html,6/6,Trinidad and Tobago 1997
+/tablest/trin98.html,4/4,Trinidad and Tobago 1998
+/tablest/trin99.html,5/4,Trinidad and Tobago 1999
+/tablest/trinchamp.html,70/75,Trinidad and Tobago - List of Champions
+/tablest/trincup94.html,5/3,Trinidad and Tobago Cup 1994
+/tablest/trincuphist.html,40/76,Trinidad and Tobago - List of Cup Winners
+/tablest/trinfound.html,1/2,Trinidad and Tobago - List of Foundation Dates
+/tablest/trinidad-tri90.html,0/2,?
+/tablest/trinidad-wom94.html,0/2,?
+/tablest/triofeb2012.html,0/1,?
+/tablest/triomar2012.html,0/1,?
+/tablest/tripoli-tourn65.html,0/1,?
+/tablest/tripoli-tourn66.html,0/1,?
+/tablest/tripoli-tourn74.html,2/1,Tripoli International Fair Tournament 1974
+/tablest/tripoli-tournov.html,0/2,?
+/tablest/tristan2016.html,0/1,?
+/tablest/tristan2017.html,3/1,Tristan da Cunha 2017
+/tablest/tristan57.html,0/1,?
+/tablest/trivia.html,0/1,World Cup Trivia
+/tablest/trofej-jugoslavija.html,0/3,?
+/tablest/trompowski50.html,1/2,"Copa Trompowski (Rio de Janeiro, Brazil 1950)"
+/tablest/tropiques.html,4/4,Jeux de la Coupe des Tropiques 1962-1964
+/tablest/tropiques62.html,3/3,Coupe des Tropiques 1962 (Bangui)
+/tablest/tropiques64.html,4/2,Coupe des Tropiques 1964 (Yaoundé)
+/tablest/troyes-tourn80.html,1/2,Friendly Tournament Troyes 1980
+/tablest/trujillanos-coltrip05.html,0/1,Trujillanos Trip to Colombia 2005
+/tablest/tsja-wom06.html,0/1,?
+/tablest/tsja-wom2010.html,0/1,?
+/tablest/tsja-wom2011.html,0/1,?
+/tablest/tsja-wom2012.html,0/1,?
+/tablest/tsja-wom2014.html,0/1,?
+/tablest/tsja-wom2018.html,0/2,?
+/tablest/tsja-wom2019.html,4/2,Chad (Women) 2019
+/tablest/tsja-wom2021.html,0/2,?
+/tablest/tsja-wom2023.html,4/2,Chad (Women) 2023
+/tablest/tsja-wom2024.html,3/3,Chad (Women) 2024
+/tablest/tsja-womchamp.html,9/5,Chad - List of Women Champions
+/tablest/tsja02.html,4/2,Chad 2002
+/tablest/tsja03.html,5/3,Chad 2003
+/tablest/tsja04.html,5/3,Chad 2003/04
+/tablest/tsja05.html,5/3,Chad 2005
+/tablest/tsja06.html,5/3,Chad 2006
+/tablest/tsja08.html,5/4,Chad 2008
+/tablest/tsja09.html,5/4,Chad 2009
+/tablest/tsja2010.html,5/4,Chad 2010
+/tablest/tsja2011.html,5/5,Chad 2011
+/tablest/tsja2012.html,5/4,Chad 2012
+/tablest/tsja2013.html,5/4,Chad 2013
+/tablest/tsja2014.html,5/4,Chad 2014/15
+/tablest/tsja2016.html,5/3,Chad 2016
+/tablest/tsja2017.html,5/3,Chad 2017
+/tablest/tsja2018.html,5/4,Chad 2018
+/tablest/tsja2019.html,5/5,Chad 2019
+/tablest/tsja2020.html,5/3,Chad 2019/20
+/tablest/tsja2021.html,5/3,Chad 2021
+/tablest/tsja2022.html,5/4,Chad 2022
+/tablest/tsja2023.html,5/6,Chad 2022/23
+/tablest/tsja2024.html,5/4,Chad 2023/24
+/tablest/tsja2025.html,5/4,Chad 2024/25
+/tablest/tsja2026.html,4/4,Chad 2025/26
+/tablest/tsjachamp.html,24/25,Chad - List of Champions
+/tablest/tsjacuphist.html,10/25,Chad - List of Cup Winners
+/tablest/tsjafound.html,1/1,Chad - List of Foundation Dates
+/tablest/tsje-ec.html,1/2,Czech teams in Eurocups
+/tablest/tsje-futs-intres.html,1/2,Czech Republic - Futsal - International Matches
+/tablest/tsje-intres.html,11/10,Czech Republic - List of International Matches
+/tablest/tsje-intres-det.html,2/2,Czech Republic - Details of International Matches
+/tablest/tsje-names.html,1/2,Czech Republic - Name Changes
+/tablest/tsje-u19-intres.html,1/2,Czech Republic U-19 - Details of International Matches
+/tablest/tsje-u20-intres.html,1/2,Czech Republic U-20 - Details of International Matches
+/tablest/tsje-u21-intres.html,1/2,Czech Republic U-21 - International Matches
+/tablest/tsje-wom-intres.html,0/2,?
+/tablest/tsje-wom00.html,3/3,Czech Republic Women 1999/00
+/tablest/tsje-wom01.html,0/2,?
+/tablest/tsje-wom04.html,0/2,?
+/tablest/tsje-wom05.html,3/3,Czech Republic Women 2004/05
+/tablest/tsje-wom06.html,3/4,Czech Republic Women 2005/06
+/tablest/tsje-wom07.html,3/4,Czech Republic Women 2006/07
+/tablest/tsje-wom08.html,3/4,Czech Republic Women 2007/08
+/tablest/tsje-wom09.html,3/5,Czech Republic Women 2008/09
+/tablest/tsje-wom2010.html,3/5,Czech Republic Women 2009/10
+/tablest/tsje-wom2011.html,3/5,Czech Republic Women 2010/11
+/tablest/tsje-wom2012.html,3/5,Czech Republic Women 2011/12
+/tablest/tsje-wom2013.html,4/5,Czech Republic Women 2012/13
+/tablest/tsje-wom2014.html,5/5,Czech Republic Women 2013/14
+/tablest/tsje-wom2015.html,5/5,Czech Republic Women 2014/15
+/tablest/tsje-wom2016.html,5/5,Czech Republic Women 2015/16
+/tablest/tsje-wom2017.html,5/5,Czech Republic Women 2016/17
+/tablest/tsje-wom2018.html,5/5,Czech Republic Women 2017/18
+/tablest/tsje-wom2019.html,5/5,Czech Republic Women 2018/19
+/tablest/tsje-wom2020.html,5/4,Czech Republic Women 2019/20
+/tablest/tsje-wom2021.html,5/4,Czech Republic Women 2020/21
+/tablest/tsje-wom2022.html,5/5,Czech Republic Women 2021/22
+/tablest/tsje-wom2023.html,5/5,Czech Republic Women 2022/23
+/tablest/tsje-wom2024.html,5/5,Czech Republic Women 2023/24
+/tablest/tsje-wom2025.html,4/3,Czech Republic Women 2024/25
+/tablest/tsje-wom70.html,0/3,?
+/tablest/tsje-wom99.html,3/3,Czech Republic Women 1998/99
+/tablest/tsje-womchamp.html,26/14,Czech Republic - List of Women Champions
+/tablest/tsje-womcuphist.html,16/15,Czech Republic - List of Women Cup Winners
+/tablest/tsje00.html,5/5,Czech Republic 1999/2000
+/tablest/tsje01.html,5/5,Czech Republic 2000/01
+/tablest/tsje02.html,5/5,Czech Republic 2001/02
+/tablest/tsje03.html,8/5,Czech Republic 2002/03
+/tablest/tsje04.html,8/5,Czech Republic 2003/04
+/tablest/tsje05.html,8/5,Czech Republic 2004/05
+/tablest/tsje06.html,8/5,Czech Republic 2005/06
+/tablest/tsje07.html,8/5,Czech Republic 2006/07
+/tablest/tsje08.html,8/5,Czech Republic 2007/08
+/tablest/tsje09.html,8/4,Czech Republic 2008/09
+/tablest/tsje2010.html,8/5,Czech Republic 2009/10
+/tablest/tsje2011.html,8/5,Czech Republic 2010/11
+/tablest/tsje2012.html,8/5,Czech Republic 2011/12
+/tablest/tsje2013.html,8/5,Czech Republic 2012/13
+/tablest/tsje2014.html,8/5,Czech Republic 2013/14
+/tablest/tsje2015.html,8/5,Czech Republic 2014/15
+/tablest/tsje2016.html,8/5,Czech Republic 2015/16
+/tablest/tsje2017.html,8/5,Czech Republic 2016/17
+/tablest/tsje2018.html,8/5,Czech Republic 2017/18
+/tablest/tsje2019.html,8/5,Czech Republic 2018/19
+/tablest/tsje2020.html,8/5,Czech Republic 2019/20
+/tablest/tsje2021.html,8/5,Czech Republic 2020/21
+/tablest/tsje2022.html,8/5,Czech Republic 2021/22
+/tablest/tsje2023.html,8/5,Czech Republic 2022/23
+/tablest/tsje2024.html,8/5,Czech Republic 2023/24
+/tablest/tsje2025.html,8/5,Czechia 2024/25
+/tablest/tsje2026.html,7/6,Czechia 2025/26
+/tablest/tsje22.html,4/3,Czechoslovakia 1922
+/tablest/tsje2champ.html,1/2,Czech Republic - List of Second Level Champions
+/tablest/tsje2tops.html,1/26,Czech Republic - List of Second Level Topscorers
+/tablest/tsje94.html,5/5,Czech Republic 1993/94
+/tablest/tsje95.html,5/5,Czech Republic 1994/95
+/tablest/tsje96.html,5/5,Czech Republic 1995/96
+/tablest/tsje97.html,5/7,Czech Republic 1996/97
+/tablest/tsje98.html,5/6,Czech Republic 1997/98
+/tablest/tsje99.html,5/5,Czech Republic 1998/99
+/tablest/tsjechamp.html,39/49,Czech Republic - List of Champions
+/tablest/tsjecharitycup.html,3/2,Bohemia - Pohár Dobrocinnosti (Charity Cup) 1906-1916
+/tablest/tsjecup00.html,4/1,Czech Republic Cup 1999/2000
+/tablest/tsjecup01.html,4/1,Czech Republic Cup 2000/01
+/tablest/tsjecup02.html,4/1,Czech Republic Cup 2001/02
+/tablest/tsjecup03.html,4/1,Czech Republic Cup 2002/03
+/tablest/tsjecup04.html,4/1,Czech Republic Cup 2003/04
+/tablest/tsjecup05.html,4/1,Czech Republic Cup 2004/05
+/tablest/tsjecup06.html,4/1,Czech Republic Cup 2005/06
+/tablest/tsjecup07.html,4/1,Czech Republic Cup 2006/07
+/tablest/tsjecup08.html,4/1,Czech Republic Cup 2007/08
+/tablest/tsjecup09.html,4/1,Czech Republic Cup 2008/09
+/tablest/tsjecup98.html,4/1,Czech Republic Cup 1997/98
+/tablest/tsjecup99.html,4/1,Czech Republic Cup 1998/99
+/tablest/tsjecuphist.html,38/52,Czech Republic - List of Cup Finals
+/tablest/tsjeduit13.html,5/3,Bohemia 1912/13
+/tablest/tsjeduit17.html,6/4,Bohemia 1917
+/tablest/tsjefound.html,2/2,Czech Republic - List of Foundation Dates
+/tablest/tsjesupcuphist.html,3/5,Czech Republic - List of Super Cup Finals
+/tablest/tsjetops.html,1/26,Czech Republic - List of Topscorers
+/tablest/tsjetops-allt.html,1/26,Czech Republic - All-Time Topscorers
+/tablest/tsjsl-allt.html,1/2,Czechoslovakia - All-Time Table
+/tablest/tsjsl-amat-intres.html,4/2,Czechoslovakia Amateur International Results (1925-1937)
+/tablest/tsjsl-argtrip79.html,0/3,?
+/tablest/tsjsl-intres.html,9/9,Czechoslovakia - List of International Matches
+/tablest/tsjsl-satrip56.html,0/3,?
+/tablest/tsjsl-satrip65.html,0/3,?
+/tablest/tsjsl-venez71.html,1/2,Czechoslovak Trip to Venezuela 1971
+/tablest/tsjsl10-28.html,1/3,Slavic Tournament 1928 (Praha)
+/tablest/tsjsl2hist.html,2/3,Czech(oslovak)ia - List of Second Level League Tables 1970-2005
+/tablest/tsjsl2hist1.html,2/3,Czechoslovakia - List of Second Level League Tables 1934-1943
+/tablest/tsjslamachamp.html,5/5,Czechoslovakia - Amateur Championship
+/tablest/tsjslchamp.html,8/8,Czechoslovakia - List of Champions
+/tablest/tsjslcuphist.html,8/8,Czechoslovakia - List of Cup Finals
+/tablest/tsjslcuphistfull.html,1/3,Czechoslovakia Cup Full Results 1980-1993
+/tablest/tsjsldasso.html,2/2,Czechoslovakia - Matches Ethnic German Associations 1918-1944
+/tablest/tsjslduitinterbellum.html,12/11,Czechoslovakia - German Federation (DFV) 1919-1945
+/tablest/tsjslhist.html,2/4,Czechoslovakia / Czech Republic - List of League Tables
+/tablest/tsjslsupcuphist.html,4/5,Czecho-Slovak Super Cup Finals
+/tablest/tsjsltops.html,1/2,Czechoslovakia - List of Topscorers
+/tablest/tsjsltops-allt.html,1/3,Czechoslovakia - All-Time Topscorers
+/tablest/tsunami2017.html,1/2,Piala Tsunami Solidariti Dunai Aceh (Banda Aceh) 2017
+/tablest/tucuman-braz30.html,1/3,Tucumán Select Trip to Brazil 1930
+/tablest/tun-7nov-03.html,0/1,?
+/tablest/tun-intres.html,2/3,Tunisia - List of International Matches
+/tablest/tun-intres0009.html,2/2,Tunisia - Details of International Matches 2000-2009
+/tablest/tun-wom05.html,0/3,?
+/tablest/tun-wom06.html,5/3,Tunisia (Women) 2005/06
+/tablest/tun-wom07.html,0/3,?
+/tablest/tun-wom08.html,0/2,?
+/tablest/tun-wom09.html,0/2,?
+/tablest/tun-wom2010.html,0/2,?
+/tablest/tun-wom2011.html,0/2,?
+/tablest/tun-wom2013.html,0/2,?
+/tablest/tun-wom2014.html,0/2,?
+/tablest/tun-wom2015.html,0/1,?
+/tablest/tun-wom2016.html,0/3,?
+/tablest/tun-wom2017.html,5/3,Tunisia (Women) 2016/17
+/tablest/tun-wom2018.html,0/3,?
+/tablest/tun-wom2019.html,0/2,?
+/tablest/tun-wom2021.html,0/2,?
+/tablest/tun-wom2021a.html,5/2,Tunisia (Women) 2021
+/tablest/tun-wom2022.html,0/3,?
+/tablest/tun-wom2023.html,5/5,Tunisia (Women) 2022/23
+/tablest/tun-wom2025.html,4/3,Tunisia (Women) 2024/25
+/tablest/tun-wom2champ.html,1/2,Tunisia - List of Women Second Level Champions
+/tablest/tun-womchamp.html,20/7,Tunisia - List of Women Champions
+/tablest/tun-womcuphist.html,15/7,Tunisia - List of Women Cup Finals
+/tablest/tun00.html,5/5,Tunisia 1999/2000
+/tablest/tun01.html,5/5,Tunisia 2000/01
+/tablest/tun02.html,5/5,Tunisia 2001/02
+/tablest/tun03.html,8/5,Tunisia 2002/03
+/tablest/tun04.html,8/5,Tunisia 2003/04
+/tablest/tun05.html,8/5,Tunisia 2004/05
+/tablest/tun06.html,8/5,Tunisia 2005/06
+/tablest/tun07.html,8/5,Tunisia 2006/07
+/tablest/tun08.html,8/5,Tunisia 2007/08
+/tablest/tun09.html,6/3,Tunisia 1908/09
+/tablest/tun1907.html,5/2,Tunisia 1907
+/tablest/tun1911.html,6/3,Tunisia 1910/11
+/tablest/tun1914.html,6/4,Tunisia 1913/14
+/tablest/tun1920.html,6/3,Tunisia 1919/20
+/tablest/tun2009.html,8/5,Tunisia 2008/09
+/tablest/tun2010.html,8/5,Tunisia 2009/10
+/tablest/tun2011.html,8/5,Tunisia 2010/11
+/tablest/tun2012.html,8/5,Tunisia 2011/12
+/tablest/tun2013.html,8/5,Tunisia 2012/13
+/tablest/tun2014.html,8/5,Tunisia 2013/14
+/tablest/tun2015.html,8/5,Tunisia 2014/15
+/tablest/tun2016.html,8/5,Tunisia 2015/16
+/tablest/tun2017.html,8/5,Tunisia 2016/17
+/tablest/tun2018.html,8/5,Tunisia 2017/18
+/tablest/tun2019.html,8/5,Tunisia 2018/19
+/tablest/tun2020.html,8/5,Tunisia 2019/20
+/tablest/tun2021.html,8/5,Tunisia 2020/21
+/tablest/tun2022.html,8/5,Tunisia 2021/22
+/tablest/tun2023.html,8/5,Tunisia 2022/23
+/tablest/tun2024.html,8/5,Tunisia 2023/24
+/tablest/tun2025.html,8/5,Tunisia 2024/25
+/tablest/tun2026.html,7/6,Tunisia 2025/26
+/tablest/tun28.html,8/4,Tunisia 1927/28
+/tablest/tun2champ.html,1/2,Tunisia - List of Second Level Champions
+/tablest/tun32.html,9/6,Tunisia 1931/32
+/tablest/tun34.html,6/6,Tunisia 1933/34
+/tablest/tun39.html,8/5,Tunisia 1938/39
+/tablest/tun3champ.html,1/2,Tunisia - List of Third Level Champions
+/tablest/tun40.html,6/3,Tunisia 1940
+/tablest/tun50.html,6/7,Tunisia 1949/50
+/tablest/tun52.html,6/3,Tunisia 1951/52
+/tablest/tun53.html,6/3,Tunisia 1952/53
+/tablest/tun56.html,6/6,Tunisia 1955/56
+/tablest/tun57.html,7/7,Tunisia 1956/57
+/tablest/tun61.html,7/7,Tunisia 1960/61
+/tablest/tun62.html,6/6,Tunisia 1961/62
+/tablest/tun63.html,6/5,Tunisia 1962/63
+/tablest/tun64.html,6/5,Tunisia 1963/64
+/tablest/tun65.html,7/7,Tunisia 1964/65
+/tablest/tun69.html,8/6,Tunisia 1968/69
+/tablest/tun71.html,7/5,Tunisia 1970/71
+/tablest/tun72.html,7/7,Tunisia 1971/72
+/tablest/tun74.html,7/6,Tunisia 1973/74
+/tablest/tun75.html,7/6,Tunisia 1974/75
+/tablest/tun77.html,7/5,Tunisia 1976/77
+/tablest/tun78.html,7/4,Tunisia 1977/78
+/tablest/tun81.html,7/6,Tunisia 1980/81
+/tablest/tun83.html,8/6,Tunisia 1982/83
+/tablest/tun87.html,7/7,Tunisia 1986/87
+/tablest/tun88.html,5/5,Tunisia 1987/88
+/tablest/tun89.html,5/5,Tunisia 1988/89
+/tablest/tun90.html,5/5,Tunisia 1989/90
+/tablest/tun91.html,5/5,Tunisia 1990/91
+/tablest/tun92.html,6/5,Tunisia 1991/92
+/tablest/tun93.html,5/5,Tunisia 1992/93
+/tablest/tun94.html,5/5,Tunisia 1993/94
+/tablest/tun95.html,5/5,Tunisia 1994/95
+/tablest/tun96.html,5/5,Tunisia 1995/96
+/tablest/tun97.html,5/6,Tunisia 1996/97
+/tablest/tun98.html,6/6,Tunisia 1997/98
+/tablest/tun99.html,5/5,Tunisia 1998/99
+/tablest/tunalltime.html,1/26,Tunisia - All-Time Table
+/tablest/tunchamp.html,83/111,Tunisia - List of Champions
+/tablest/tuncup23.html,6/3,Tunisia Cup 1922/23
+/tablest/tuncup24.html,6/3,Tunisia Cup 1923/24
+/tablest/tuncup25.html,6/3,Tunisia Cup 1924/25
+/tablest/tuncup26.html,6/3,Tunisia Cup 1925/26
+/tablest/tuncup27.html,6/3,Tunisia Cup 1926/27
+/tablest/tuncup30.html,6/3,Tunisia Cup 1929/30
+/tablest/tuncup31.html,6/3,Tunisia Cup 1930/31
+/tablest/tuncup33.html,6/3,Tunisia 1932/33
+/tablest/tuncup35.html,6/3,Tunisia Cup 1934/35
+/tablest/tuncup36.html,6/3,Tunisia 1935/36
+/tablest/tuncup37.html,7/5,Tunisia 1936/37
 /tablest/tuncup38.html,6/5,Tunisia 1937/38
-/tablest/tuncup42.html,7/3,Tunisia 1941/42
-/tablest/tuncup45.html,0/2,-
-/tablest/tuncup46.html,0/1,-
-/tablest/tuncup47.html,0/2,-
-/tablest/tuncup48.html,0/2,-
-/tablest/tuncup49.html,0/3,-
-/tablest/tuncup51.html,0/3,-
-/tablest/tuncup54.html,0/2,-
-/tablest/tuncup55.html,0/2,-
-/tablest/tuncup58.html,0/1,-
-/tablest/tuncup59.html,0/1,-
-/tablest/tuncup60.html,0/1,-
-/tablest/tuncup66.html,0/1,-
-/tablest/tuncup67.html,0/1,-
-/tablest/tuncup68.html,0/1,-
-/tablest/tuncup70.html,0/1,-
-/tablest/tuncup73.html,0/1,-
-/tablest/tuncup76.html,0/1,-
-/tablest/tuncup79.html,0/1,-
-/tablest/tuncup80.html,0/1,-
-/tablest/tuncup82.html,0/1,-
-/tablest/tuncup84.html,0/1,-
-/tablest/tuncup85.html,0/1,-
-/tablest/tuncup86.html,0/1,-
-/tablest/tuncuphist.html,97/10,Tunisia - List of Cup Winners
-/tablest/tunhist.html,1/10,Tunisia - List of Final Tables
-/tablest/tuntops.html,1/2,Tunisia - List of Topscorers
-/tablest/tur00.html,0/1,-
-/tablest/tur01.html,0/1,-
-/tablest/tur02.html,0/1,-
-/tablest/tur03.html,0/1,-
-/tablest/tur04.html,0/1,-
-/tablest/tur05.html,0/1,-
-/tablest/tur06.html,0/1,-
-/tablest/tur07.html,0/1,-
-/tablest/tur08.html,0/1,-
-/tablest/tur09.html,0/1,-
-/tablest/tur2010.html,0/2,-
-/tablest/tur2011.html,0/2,-
-/tablest/tur2012.html,0/2,-
-/tablest/tur2013.html,0/2,-
-/tablest/tur2014.html,0/2,-
-/tablest/tur2015.html,0/2,-
-/tablest/tur2016.html,0/2,-
-/tablest/tur2017.html,0/2,-
-/tablest/tur2018.html,0/2,-
-/tablest/tur2019.html,0/2,-
-/tablest/tur2020.html,0/2,-
-/tablest/tur2021.html,0/2,-
-/tablest/tur2022.html,0/2,-
-/tablest/tur2023.html,0/2,-
-/tablest/tur2024.html,0/3,-
-/tablest/tur2025.html,10/3,Turkey 2024/25
-/tablest/tur2026.html,9/4,Turkey 2025/26
-/tablest/tur24.html,0/2,-
-/tablest/tur27.html,0/2,-
-/tablest/tur32.html,0/2,-
-/tablest/tur33.html,0/2,-
-/tablest/tur34.html,0/2,-
-/tablest/tur35.html,0/2,-
-/tablest/tur37.html,0/2,-
-/tablest/tur38.html,0/2,-
-/tablest/tur39.html,0/2,-
-/tablest/tur40.html,0/2,-
-/tablest/tur41.html,0/2,-
-/tablest/tur42.html,0/2,-
-/tablest/tur43.html,0/2,-
-/tablest/tur44.html,0/3,-
-/tablest/tur45.html,0/3,-
-/tablest/tur46.html,0/3,-
-/tablest/tur47.html,0/3,-
-/tablest/tur49.html,0/2,-
-/tablest/tur50.html,0/3,-
-/tablest/tur51.html,0/2,-
-/tablest/tur57.html,0/2,-
-/tablest/tur58.html,0/2,-
-/tablest/tur59.html,0/2,-
-/tablest/tur77.html,0/2,-
-/tablest/tur85.html,0/2,-
-/tablest/tur86.html,0/2,-
-/tablest/tur87.html,0/2,-
-/tablest/tur88.html,0/3,-
-/tablest/tur89.html,0/3,-
-/tablest/tur90.html,0/3,-
-/tablest/tur91.html,0/3,-
-/tablest/tur92.html,0/3,-
-/tablest/tur93.html,0/3,-
-/tablest/tur94.html,0/3,-
-/tablest/tur95.html,0/3,-
-/tablest/tur96.html,0/3,-
-/tablest/tur97.html,0/2,-
-/tablest/tur98.html,0/1,-
-/tablest/tur99.html,0/1,-
-/tablest/turk-ankchamp.html,0/1,-
-/tablest/turk-ankhist.html,0/1,-
-/tablest/turk-intres.html,9/8,Turkey - List of International Matches
-/tablest/turk-istchamp.html,0/1,-
-/tablest/turk-istpre14.html,0/1,-
-/tablest/turk-izmchamp.html,0/1,-
-/tablest/turk-izmhist.html,0/1,-
-/tablest/turkalltime.html,1/2,Turkey - All-Time Table 1958-1998
-/tablest/turkchamp.html,71/3,Turkey - List of Champions
-/tablest/turkcup00.html,0/1,-
-/tablest/turkcup01.html,0/1,-
-/tablest/turkcup02.html,0/1,-
-/tablest/turkcup03.html,0/1,-
-/tablest/turkcup04.html,0/1,-
-/tablest/turkcup05.html,0/1,-
-/tablest/turkcup06.html,0/1,-
-/tablest/turkcup07.html,0/1,-
-/tablest/turkcup08.html,0/1,-
-/tablest/turkcup09.html,0/1,-
-/tablest/turkcup97.html,0/1,-
-/tablest/turkcup98.html,0/1,-
-/tablest/turkcup99.html,0/1,-
-/tablest/turkcuphist.html,41/2,Turkey - List of Cup Finals
-/tablest/turkcuphistfull.html,0/1,-
-/tablest/turkhist.html,43/3,Turkey - Final Tables
-/tablest/turkm-intres.html,1/1,Turkmenistan - List of International Matches
-/tablest/turkm00.html,0/2,-
-/tablest/turkm01.html,0/1,-
-/tablest/turkm02.html,0/2,-
-/tablest/turkm03.html,0/2,-
-/tablest/turkm04.html,0/2,-
-/tablest/turkm05.html,0/2,-
-/tablest/turkm06.html,0/2,-
-/tablest/turkm07.html,0/2,-
-/tablest/turkm08.html,0/2,-
-/tablest/turkm09.html,0/2,-
-/tablest/turkm2010.html,0/2,-
-/tablest/turkm2011.html,0/2,-
-/tablest/turkm2012.html,0/2,-
-/tablest/turkm2013.html,0/2,-
-/tablest/turkm2014.html,0/2,-
-/tablest/turkm2015.html,0/2,-
-/tablest/turkm2016.html,0/2,-
-/tablest/turkm2017.html,0/2,-
-/tablest/turkm2018.html,0/2,-
-/tablest/turkm2019.html,0/2,-
-/tablest/turkm2020.html,0/2,-
-/tablest/turkm2021.html,0/2,-
-/tablest/turkm2022.html,0/2,-
-/tablest/turkm2023.html,0/2,-
-/tablest/turkm2024.html,0/3,-
-/tablest/turkm2025.html,5/3,Turkmenistan 2025
-/tablest/turkm2026.html,4/4,Turkmenistan 2026
-/tablest/turkm69.html,0/1,-
-/tablest/turkm71.html,0/1,-
-/tablest/turkm92.html,0/1,-
-/tablest/turkm93.html,0/2,-
-/tablest/turkm94.html,0/2,-
-/tablest/turkm95.html,0/2,-
-/tablest/turkm96.html,0/2,-
-/tablest/turkm98.html,0/2,-
-/tablest/turkm99.html,0/1,-
-/tablest/turkmchamp.html,39/2,Turkmenistan - List of Champions
-/tablest/turkmcuphist.html,33/2,Turkmenistan - List of Cup Finals
-/tablest/turkscaicos-intres.html,2/1,Turks and Caicos Islands - List of International Matches
-/tablest/turkscaicos-intres-det.html,0/1,-
-/tablest/turkscaicos00.html,0/2,-
-/tablest/turkscaicos01.html,0/1,-
-/tablest/turkscaicos02.html,0/1,-
-/tablest/turkscaicos03.html,0/2,-
-/tablest/turkscaicos04.html,0/2,-
-/tablest/turkscaicos05.html,0/1,-
-/tablest/turkscaicos06.html,0/2,-
-/tablest/turkscaicos07.html,0/2,-
-/tablest/turkscaicos08.html,0/1,-
-/tablest/turkscaicos09.html,0/2,-
-/tablest/turkscaicos2010.html,0/2,-
-/tablest/turkscaicos2011.html,0/2,-
-/tablest/turkscaicos2012.html,0/2,-
-/tablest/turkscaicos2013.html,0/2,-
-/tablest/turkscaicos2014.html,0/2,-
-/tablest/turkscaicos2015.html,0/2,-
-/tablest/turkscaicos2016.html,0/2,-
-/tablest/turkscaicos2017.html,0/2,-
-/tablest/turkscaicos2018.html,0/1,-
-/tablest/turkscaicos2019.html,0/2,-
-/tablest/turkscaicos2020.html,0/1,-
-/tablest/turkscaicos2021.html,0/2,-
-/tablest/turkscaicos2023.html,0/2,-
-/tablest/turkscaicos2024.html,0/3,-
-/tablest/turkscaicos2025.html,5/3,Turks and Caicos Islands 2024/25
-/tablest/turkscaicos2026.html,4/4,Turks and Caicos Islands 2025/26
-/tablest/turkscaicos99.html,0/1,-
-/tablest/turkscaicoschamp.html,28/2,Turks and Caicos Islands - List of Champions
-/tablest/turkscaicoscuphist.html,21/2,Turks and Caicos Islands - List of Cup Winners
-/tablest/turksupcuphist.html,2/3,Turkey - List of Super Cup (President's Cup) Finals
-/tablest/turktops.html,1/2,Turkey - Topscorers
-/tablest/turkvarcuphist.html,7/3,Turkey - List of Prime Minister's Cup and Atatürk Cup Finals
+/tablest/tuncup42.html,7/5,Tunisia 1941/42
+/tablest/tuncup45.html,6/3,Tunisia Cup 1944/45
+/tablest/tuncup46.html,6/3,Tunisia Cup 1945/46
+/tablest/tuncup47.html,6/6,Tunisia 1946/47
+/tablest/tuncup48.html,6/6,Tunisia 1947/48
+/tablest/tuncup49.html,6/6,Tunisia 1948/49
+/tablest/tuncup51.html,6/6,Tunisia 1950/51
+/tablest/tuncup54.html,6/6,Tunisia 1953/54
+/tablest/tuncup55.html,6/6,Tunisia 1954/55
+/tablest/tuncup58.html,6/3,Tunisia Cup 1957/58
+/tablest/tuncup59.html,6/3,Tunisia Cup 1958/59
+/tablest/tuncup60.html,6/3,Tunisia Cup 1959/60
+/tablest/tuncup66.html,6/3,Tunisia Cup 1965/66
+/tablest/tuncup67.html,6/3,Tunisia Cup 1966/67
+/tablest/tuncup68.html,6/3,Tunisia Cup 1967/68
+/tablest/tuncup70.html,6/3,Tunisia Cup 1969/70
+/tablest/tuncup73.html,6/3,Tunisia Cup 1972/73
+/tablest/tuncup76.html,6/3,Tunisia Cup 1975/76
+/tablest/tuncup79.html,6/3,Tunisia Cup 1978/79
+/tablest/tuncup80.html,6/2,Tunisia Cup 1979/80
+/tablest/tuncup82.html,6/3,Tunisia Cup 1981/82
+/tablest/tuncup84.html,7/3,Tunisia Cup 1983/84
+/tablest/tuncup85.html,6/3,Tunisia Cup 1984/85
+/tablest/tuncup86.html,6/3,Tunisia Cup 1985/86
+/tablest/tuncuphist.html,97/111,Tunisia - List of Cup Winners
+/tablest/tunfound.html,1/2,Tunisia - Foundation Dates of Clubs
+/tablest/tunhist.html,1/95,Tunisia - List of Final Tables
+/tablest/tunis-4nat03.html,0/1,?
+/tablest/tuntops.html,1/26,Tunisia - List of Topscorers
+/tablest/tur-wom01.html,0/1,?
+/tablest/tur-wom02.html,0/1,?
+/tablest/tur-wom03.html,0/1,?
+/tablest/tur-wom06.html,0/1,?
+/tablest/tur-wom07.html,0/2,?
+/tablest/tur-wom08.html,4/2,Turkey (Women) 2007/08
+/tablest/tur-wom09.html,0/3,?
+/tablest/tur-wom2010.html,4/3,Turkey (Women) 2009/10
+/tablest/tur-wom2011.html,4/4,Turkey (Women) 2010/11
+/tablest/tur-wom2012.html,4/4,Turkey (Women) 2011/12
+/tablest/tur-wom2013.html,4/4,Turkey (Women) 2012/13
+/tablest/tur-wom2014.html,4/4,Turkey (Women) 2013/14
+/tablest/tur-wom2015.html,4/4,Turkey (Women) 2014/15
+/tablest/tur-wom2016.html,4/4,Turkey (Women) 2015/16
+/tablest/tur-wom2017.html,4/4,Turkey (Women) 2016/17
+/tablest/tur-wom2018.html,4/4,Turkey (Women) 2017/18
+/tablest/tur-wom2019.html,4/4,Turkey (Women) 2018/19
+/tablest/tur-wom2020.html,4/4,Turkey (Women) 2019/20
+/tablest/tur-wom2021.html,4/4,Turkey (Women) 2020/21
+/tablest/tur-wom2022.html,4/4,Turkey (Women) 2021/22
+/tablest/tur-wom2023.html,4/4,Turkey (Women) 2022/23
+/tablest/tur-wom2024.html,4/4,Turkey (Women) 2023/24
+/tablest/tur-wom2025.html,3/3,Turkey (Women) 2024/25
+/tablest/tur-womchamp.html,24/19,Turkey - List of Women Champions
+/tablest/tur00.html,7/5,Turkey 1999/2000
+/tablest/tur01.html,7/5,Turkey 2000/01
+/tablest/tur02.html,8/5,Turkey 2001/02
+/tablest/tur03.html,10/5,Turkey 2002/03
+/tablest/tur04.html,10/5,Turkey 2003/04
+/tablest/tur05.html,10/5,Turkey 2004/05
+/tablest/tur06.html,10/5,Turkey 2005/06
+/tablest/tur07.html,10/5,Turkey 2006/07
+/tablest/tur08.html,10/5,Turkey 2007/08
+/tablest/tur09.html,10/4,Turkey 2008/09
+/tablest/tur2010.html,10/5,Turkey 2009/10
+/tablest/tur2011.html,10/5,Turkey 2010/11
+/tablest/tur2012.html,10/5,Turkey 2011/12
+/tablest/tur2013.html,10/5,Turkey 2012/13
+/tablest/tur2014.html,10/5,Turkey 2013/14
+/tablest/tur2015.html,10/5,Turkey 2014/15
+/tablest/tur2016.html,10/5,Turkey 2015/16
+/tablest/tur2017.html,10/5,Turkey 2016/17
+/tablest/tur2018.html,10/5,Turkey 2017/18
+/tablest/tur2019.html,10/5,Turkey 2018/19
+/tablest/tur2020.html,10/5,Turkey 2019/20
+/tablest/tur2021.html,10/5,Turkey 2020/21
+/tablest/tur2022.html,10/5,Turkey 2021/22
+/tablest/tur2023.html,10/5,Turkey 2022/23
+/tablest/tur2024.html,10/5,Turkey 2023/24
+/tablest/tur2025.html,10/5,Turkey 2024/25
+/tablest/tur2026.html,9/6,Turkey 2025/26
+/tablest/tur24.html,8/7,Turkey 1924
+/tablest/tur27.html,9/6,Turkey 1927
+/tablest/tur32.html,9/6,Turkey 1932
+/tablest/tur33.html,9/6,Turkey 1933
+/tablest/tur34.html,9/6,Turkey 1934
+/tablest/tur35.html,9/6,Turkey 1935
+/tablest/tur37.html,9/5,Turkey 1937
+/tablest/tur38.html,9/5,Turkey 1938
+/tablest/tur39.html,9/5,Turkey 1939
+/tablest/tur40.html,9/6,Turkey 1940
+/tablest/tur41.html,9/6,Turkey 1941
+/tablest/tur42.html,9/6,Turkey 1942
+/tablest/tur43.html,9/5,Turkey 1943
+/tablest/tur44.html,9/7,Turkey 1944
+/tablest/tur45.html,9/7,Turkey 1945
+/tablest/tur46.html,9/7,Turkey 1946
+/tablest/tur47.html,9/7,Turkey 1947
+/tablest/tur49.html,9/6,Turkey 1949
+/tablest/tur50.html,10/7,Turkey 1950
+/tablest/tur51.html,9/6,Turkey 1951
+/tablest/tur57.html,9/5,Turkey 1956/57
+/tablest/tur58.html,9/5,Turkey 1957/58
+/tablest/tur59.html,9/6,Turkey 1959
+/tablest/tur77.html,7/6,Turkey 1976/77
+/tablest/tur85.html,7/5,Turkey 1984/85
+/tablest/tur86.html,7/5,Turkey 1985/86
+/tablest/tur87.html,7/5,Turkey 1986/87
+/tablest/tur88.html,7/6,Turkey 1987/88
+/tablest/tur89.html,7/6,Turkey 1988/89
+/tablest/tur90.html,7/6,Turkey 1989/90
+/tablest/tur91.html,7/6,Turkey 1990/91
+/tablest/tur92.html,7/6,Turkey 1991/92
+/tablest/tur93.html,7/6,Turkey 1992/93
+/tablest/tur94.html,7/6,Turkey 1993/94
+/tablest/tur95.html,7/6,Turkey 1994/95
+/tablest/tur96.html,7/6,Turkey 1995/96
+/tablest/tur97.html,7/6,Turkey 1996/97
+/tablest/tur98.html,7/6,Turkey 1997/98
+/tablest/tur99.html,7/5,Turkey 1998/99
+/tablest/turfound.html,2/2,Turkey - List of Foundation Dates
+/tablest/turk-ankchamp.html,5/9,Turkey - List of Ankara League Champions
+/tablest/turk-ankhist.html,8/7,Turkey - Ankara League Final Tables
+/tablest/turk-intres.html,9/10,Turkey - List of International Matches
+/tablest/turk-istchamp.html,7/10,Turkey - List of İstanbul League Champions
+/tablest/turk-isthist.html,0/1,?
+/tablest/turk-istpre14.html,8/6,Turkey - İstanbul League 1904-1918
+/tablest/turk-isttops.html,3/3,Turkey - Istanbul League Topscorers
+/tablest/turk-izmchamp.html,5/9,Turkey - List of İzmir League Champions
+/tablest/turk-izmhist.html,8/7,Turkey - İzmir League Final Tables
+/tablest/turk2champ.html,1/3,Turkey - List of Second Level Champions
+/tablest/turkalltime.html,1/58,Turkey - All-Time Table 1958-1998
+/tablest/turkchamp.html,71/89,Turkey - List of Champions
+/tablest/turkcup00.html,6/1,Turkey Cup 1999/2000
+/tablest/turkcup01.html,6/2,Turkey Cup 2000/01
+/tablest/turkcup02.html,6/1,Turkey Cup 2001/02
+/tablest/turkcup03.html,6/1,Turkey Cup 2002/03
+/tablest/turkcup04.html,6/1,Turkey Cup 2003/04
+/tablest/turkcup05.html,6/1,Turkey Cup 2004/05
+/tablest/turkcup06.html,6/1,Turkey Cup 2005/06
+/tablest/turkcup07.html,6/1,Turkey Cup 2006/07
+/tablest/turkcup08.html,6/1,Turkey Cup 2007/08
+/tablest/turkcup09.html,6/1,Turkey Cup 2008/09
+/tablest/turkcup97.html,5/2,Turkey Cup 1996/97
+/tablest/turkcup98.html,5/1,Turkey Cup 1997/98
+/tablest/turkcup99.html,6/1,Turkey Cup 1998/99
+/tablest/turkcuphist.html,41/81,Turkey - List of Cup Finals
+/tablest/turkcuphistfull.html,2/2,Turkey -  Cup Tournaments 1962-1987
+/tablest/turkhist.html,43/87,Turkey - Final Tables
+/tablest/turkm-intres.html,1/2,Turkmenistan - List of International Matches
+/tablest/turkm-names.html,1/2,Turkmenistan - List of Name Changes
+/tablest/turkm-wom09.html,4/2,Turkmenistan (Women) 2009
+/tablest/turkm-wom2014.html,4/2,Turkmenistan (Women) 2014
+/tablest/turkm00.html,5/5,Turkmenistan 2000
+/tablest/turkm01.html,5/4,Turkmenistan 2001
+/tablest/turkm02.html,5/5,Turkmenistan 2002
+/tablest/turkm03.html,5/5,Turkmenistan 2003
+/tablest/turkm04.html,5/5,Turkmenistan 2004
+/tablest/turkm05.html,5/5,Turkmenistan 2005
+/tablest/turkm06.html,5/5,Turkmenistan 2006
+/tablest/turkm07.html,5/5,Turkmenistan 2007
+/tablest/turkm08.html,5/5,Turkmenistan 2008
+/tablest/turkm09.html,5/5,Turkmenistan 2009
+/tablest/turkm2010.html,5/5,Turkmenistan 2010
+/tablest/turkm2011.html,5/5,Turkmenistan 2011
+/tablest/turkm2012.html,5/5,Turkmenistan 2012
+/tablest/turkm2013.html,5/5,Turkmenistan 2013
+/tablest/turkm2014.html,5/5,Turkmenistan 2014
+/tablest/turkm2015.html,5/5,Turkmenistan 2015
+/tablest/turkm2016.html,5/5,Turkmenistan 2016
+/tablest/turkm2017.html,5/5,Turkmenistan 2017
+/tablest/turkm2018.html,5/5,Turkmenistan 2018
+/tablest/turkm2019.html,5/5,Turkmenistan 2019
+/tablest/turkm2020.html,5/5,Turkmenistan 2020
+/tablest/turkm2021.html,5/5,Turkmenistan 2021
+/tablest/turkm2022.html,5/5,Turkmenistan 2022
+/tablest/turkm2023.html,5/5,Turkmenistan 2023
+/tablest/turkm2024.html,5/5,Turkmenistan 2024
+/tablest/turkm2025.html,5/5,Turkmenistan 2025
+/tablest/turkm2026.html,4/6,Turkmenistan 2026
+/tablest/turkm28.html,4/1,Turkmenistan 1928
+/tablest/turkm69.html,5/3,Turkmenistan 1969
+/tablest/turkm71.html,5/3,Turkmenistan 1971
+/tablest/turkm92.html,6/5,Turkmenistan 1992
+/tablest/turkm93.html,5/6,Turkmenistan 1993
+/tablest/turkm94.html,5/6,Turkmenistan 1994
+/tablest/turkm95.html,5/6,Turkmenistan 1995
+/tablest/turkm96.html,5/5,Turkmenistan 1996
+/tablest/turkm98.html,5/5,Turkmenistan 1997/98
+/tablest/turkm99.html,5/3,Turkmenistan 1998/99
+/tablest/turkmchamp.html,39/41,Turkmenistan - List of Champions
+/tablest/turkmcuphist.html,33/41,Turkmenistan - List of Cup Finals
+/tablest/turkmfound.html,1/2,Turkmenistan - Foundation Dates of Clubs
+/tablest/turkmini-u18-03.html,0/1,?
+/tablest/turkmpres.html,1/2,Turkmenistan President's Cup
+/tablest/turkregcuphist.html,7/2,Turkey - List of Regional Shield and Cup Finals
+/tablest/turkscaicos-intres.html,2/3,Turks and Caicos Islands - List of International Matches
+/tablest/turkscaicos-intres-det.html,2/2,Turks and Caicos Islands - Details on International Matches
+/tablest/turkscaicos-wom01.html,0/2,?
+/tablest/turkscaicos-wom02.html,0/3,?
+/tablest/turkscaicos-wom03.html,5/4,Turks and Caicos Islands (Women) 2002/03
+/tablest/turkscaicos-wom04.html,5/5,Turks and Caicos Islands (Women) 2003/04
+/tablest/turkscaicos-wom05.html,5/4,Turks and Caicos Islands (Women) 2004/05
+/tablest/turkscaicos-wom06.html,0/3,?
+/tablest/turkscaicos-wom07.html,0/1,?
+/tablest/turkscaicos-wom09.html,0/1,?
+/tablest/turkscaicos-wom2010.html,0/1,?
+/tablest/turkscaicos-wom2011.html,0/2,?
+/tablest/turkscaicos-wom2012.html,0/2,?
+/tablest/turkscaicos-wom2013.html,0/2,?
+/tablest/turkscaicos-wom2014.html,0/2,?
+/tablest/turkscaicos-wom2015.html,0/3,?
+/tablest/turkscaicos-wom2016.html,5/3,Turks and Caicos Islands (Women) 2016
+/tablest/turkscaicos-wom2018.html,0/2,?
+/tablest/turkscaicos-wom2021.html,0/2,?
+/tablest/turkscaicos-wom2022.html,0/1,?
+/tablest/turkscaicos-wom2023.html,0/1,?
+/tablest/turkscaicos-wom2024.html,0/2,?
+/tablest/turkscaicos-wom2025.html,4/2,Turks and Caicos Islands (Women) 2024/25
+/tablest/turkscaicos-womchamp.html,22/7,Turks and Caicos Islands - List of Women Champions
+/tablest/turkscaicos-womcuphist.html,14/7,Turks and Caicos Islands - List of Women Cup Winners
+/tablest/turkscaicos00.html,4/5,Turks and Caicos Islands 2000
+/tablest/turkscaicos01.html,4/3,Turks and Caicos Islands 2001
+/tablest/turkscaicos02.html,4/3,Turks and Caicos Islands 2002
+/tablest/turkscaicos03.html,4/5,Turks and Caicos Islands 2002/03
+/tablest/turkscaicos04.html,4/5,Turks and Caicos Islands 2003/04
+/tablest/turkscaicos05.html,4/4,Turks and Caicos Islands 2004/05
+/tablest/turkscaicos06.html,4/4,Turks and Caicos Islands 2005/06
+/tablest/turkscaicos07.html,4/4,Turks and Caicos Islands 2006/07
+/tablest/turkscaicos08.html,4/4,Turks and Caicos Islands 2007/08
+/tablest/turkscaicos09.html,4/5,Turks and Caicos Islands 2008/09
+/tablest/turkscaicos2010.html,4/5,Turks and Caicos Islands 2009/10
+/tablest/turkscaicos2011.html,4/5,Turks and Caicos Islands 2010/11
+/tablest/turkscaicos2012.html,4/5,Turks and Caicos Islands 2012
+/tablest/turkscaicos2013.html,4/5,Turks and Caicos Islands 2013
+/tablest/turkscaicos2014.html,4/5,Turks and Caicos Islands 2014
+/tablest/turkscaicos2015.html,4/5,Turks and Caicos Islands 2014/15
+/tablest/turkscaicos2016.html,4/5,Turks and Caicos Islands 2016
+/tablest/turkscaicos2017.html,4/5,Turks and Caicos Islands 2017
+/tablest/turkscaicos2018.html,4/4,Turks and Caicos Islands 2018
+/tablest/turkscaicos2019.html,5/5,Turks and Caicos Islands 2019
+/tablest/turkscaicos2020.html,5/4,Turks and Caicos Islands 2019/20
+/tablest/turkscaicos2021.html,5/5,Turks and Caicos Islands 2021/22
+/tablest/turkscaicos2023.html,5/5,Turks and Caicos Islands 2022/23
+/tablest/turkscaicos2024.html,5/5,Turks and Caicos Islands 2023/24
+/tablest/turkscaicos2025.html,5/5,Turks and Caicos Islands 2024/25
+/tablest/turkscaicos2026.html,4/6,Turks and Caicos Islands 2025/26
+/tablest/turkscaicos99.html,3/3,Turks and Caicos Islands 1999
+/tablest/turkscaicoschamp.html,28/28,Turks and Caicos Islands - List of Champions
+/tablest/turkscaicoscuphist.html,21/9,Turks and Caicos Islands - List of Cup Winners
+/tablest/turkscaicosfound.html,1/2,Turks and Caicos Islands - List of Foundation Dates
+/tablest/turksislandfestival08.html,0/1,?
+/tablest/turksupcuphist.html,2/51,Turkey - List of Super Cup (President's Cup) Finals
+/tablest/turktops.html,1/50,Turkey - Topscorers
+/tablest/turktsydcuphist.html,1/2,Turkey - List of TSYD Istanbul Kupasi Winners
+/tablest/turkvarcuphist.html,7/51,Turkey - List of Prime Minister's Cup and Atatürk Cup Finals
 /tablest/tusker-kenia.html,3/3,Tusker Cup 2005 (Nairobi)
-/tablest/tusker06.html,4/3,Tusker Cup 2006 (Dar-es-Salaam)
+/tablest/tusker06.html,4/4,Tusker Cup 2006 (Dar-es-Salaam)
 /tablest/tusker07.html,4/3,Tusker Cup 2007 (Dar-es-Salaam)
 /tablest/tusker08.html,4/3,Tusker Cup 2008 (Dar-es-Salaam)
 /tablest/tusker09.html,3/2,Tusker Cup 2009 (Dar-es-Salaam)
-/tablest/tuvalu-intres.html,1/1,Tuvalu - List of International Matches
-/tablest/tuvalu05.html,0/1,-
-/tablest/tuvalu06.html,0/1,-
-/tablest/tuvalu07.html,0/1,-
-/tablest/tuvalu08.html,0/1,-
-/tablest/tuvalu2010.html,0/1,-
-/tablest/tuvalu2011.html,0/1,-
-/tablest/tuvalu2012.html,0/2,-
-/tablest/tuvalu2013.html,0/2,-
-/tablest/tuvalu2014.html,0/2,-
-/tablest/tuvalu2016.html,0/1,-
-/tablest/tuvalu2017.html,0/1,-
-/tablest/tuvalu2018.html,0/1,-
-/tablest/tuvalu2019.html,0/2,-
-/tablest/tuvalu2020.html,0/2,-
-/tablest/tuvalu2021.html,0/2,-
-/tablest/tuvalu2022.html,0/2,-
-/tablest/tuvalu2023.html,0/2,-
-/tablest/tuvalu2024.html,0/2,-
-/tablest/tuvalu2025.html,5/2,Tuvalu 2025
-/tablest/tuvalu2026.html,4/3,Tuvalu 2026
-/tablest/tuvaluchamp.html,18/2,Tuvalu - List of Champions
-/tablest/tuvalucup02.html,0/1,-
-/tablest/tuvalucuphist.html,13/2,Tuvalu - List of Cup Winners
+/tablest/tuv-names.html,1/2,Tuvalu - List of Name Changes
+/tablest/tuvalu-intres.html,1/2,Tuvalu - List of International Matches
+/tablest/tuvalu-wom2011.html,0/1,?
+/tablest/tuvalu-wom2012.html,0/2,?
+/tablest/tuvalu-wom2013.html,5/3,Tuvalu (Women) 2013
+/tablest/tuvalu-wom2014.html,0/3,?
+/tablest/tuvalu-wom2020.html,0/1,?
+/tablest/tuvalu-wom2021.html,0/1,?
+/tablest/tuvalu-wom2022.html,0/2,?
+/tablest/tuvalu-wom2023.html,5/2,Tuvalu (Women) 2023
+/tablest/tuvalu-wom2024.html,0/1,?
+/tablest/tuvalu-womchamp.html,3/3,Tuvalu - List of Women Champions
+/tablest/tuvalu-womcuphist.html,9/3,Tuvalu - List of Women Cup Winners
+/tablest/tuvalu05.html,5/3,Tuvalu 2005
+/tablest/tuvalu06.html,5/3,Tuvalu 2006
+/tablest/tuvalu07.html,5/3,Tuvalu 2007
+/tablest/tuvalu08.html,5/3,Tuvalu 2008
+/tablest/tuvalu2010.html,5/3,Tuvalu 2009/10
+/tablest/tuvalu2011.html,5/4,Tuvalu 2011
+/tablest/tuvalu2012.html,5/5,Tuvalu 2012
+/tablest/tuvalu2013.html,5/5,Tuvalu 2013
+/tablest/tuvalu2014.html,5/5,Tuvalu 2014
+/tablest/tuvalu2015.html,5/2,Tuvalu 2015
+/tablest/tuvalu2016.html,5/3,Tuvalu 2016
+/tablest/tuvalu2017.html,5/3,Tuvalu 2017
+/tablest/tuvalu2018.html,5/3,Tuvalu 2018
+/tablest/tuvalu2019.html,5/4,Tuvalu 2019
+/tablest/tuvalu2020.html,5/5,Tuvalu 2020
+/tablest/tuvalu2021.html,5/4,Tuvalu 2021
+/tablest/tuvalu2022.html,5/4,Tuvalu 2022
+/tablest/tuvalu2023.html,5/5,Tuvalu 2023
+/tablest/tuvalu2024.html,5/3,Tuvalu 2024
+/tablest/tuvalu2025.html,5/4,Tuvalu 2025
+/tablest/tuvalu2026.html,4/4,Tuvalu 2026
+/tablest/tuvaluchamp.html,18/25,Tuvalu - List of Champions
+/tablest/tuvalucup02.html,4/2,Tuvalu 2002
+/tablest/tuvalucuphist.html,13/24,Tuvalu - List of Cup Winners
+/tablest/tuvalufound.html,1/2,Tuvalu - List of Foundation Dates
+/tablest/tuvalutour2013.html,0/2,?
+/tablest/tytalleres-chiltrip29.html,1/3,Tracción y Talleres (Mendoza) Trip to Chile 1929

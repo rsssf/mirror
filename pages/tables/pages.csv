@@ -1,495 +1,580 @@
 path,links,title
-/tables/00a.html,7/4,African Nations Cup 2000
-/tables/00a-det.html,0/1,-
+/tables/00a.html,7/6,African Nations Cup 2000
+/tables/00a-det.html,3/2,African Nations Cup 2000 - Final Tournament Details
 /tables/00a-qdet.html,3/2,African Nations Cup 2000 - Qualifying Tournament Details
-/tables/00a-scor.html,0/2,-
+/tables/00a-scor.html,3/3,African Nations Cup 2000 (Final Tournament) - Goal Scorers
 /tables/00allanch.html,9/9,African Nations Championship
-/tables/00as-scor.html,0/2,-
-/tables/00asch.html,6/3,Asian Nations Cup 2000
-/tables/00asch-ext.html,0/1,-
-/tables/00e.html,6/3,European Championship 2000
-/tables/00e-ext.html,0/1,-
-/tables/00e-final.html,0/1,-
-/tables/00e-scor.html,0/1,-
-/tables/00gc.html,0/3,-
-/tables/00gc-details.html,2/1,"CONCACAF Championship, Gold Cup 2000 - Full Details"
-/tables/00gc-scor.html,0/1,-
-/tables/00oc.html,0/2,-
-/tables/00oc-scor.html,0/1,-
-/tables/02a.html,6/3,African Nations Cup 2002
-/tables/02a-det.html,0/1,-
-/tables/02a-scor.html,0/2,-
-/tables/02gc.html,0/2,-
-/tables/02gc-scor.html,0/1,-
-/tables/02oc.html,0/1,-
-/tables/02oc-scor.html,0/1,-
-/tables/03gc.html,0/2,-
-/tables/03gc-scor.html,0/1,-
-/tables/04a.html,6/3,African Nations Cup 2004
-/tables/04a-det.html,0/1,-
-/tables/04a-scor.html,0/2,-
-/tables/04as-scor.html,0/1,-
-/tables/04asch.html,5/3,Asian Nations Cup 2004
-/tables/04asch-ext.html,0/1,-
-/tables/04e.html,6/3,European Championship 2004
-/tables/04e-ext.html,0/1,-
-/tables/04e-scor.html,0/2,-
-/tables/04oc.html,0/2,-
-/tables/04oc-scor.html,0/1,-
-/tables/05gc.html,0/2,-
-/tables/05gc-scor.html,0/1,-
-/tables/06a.html,8/5,African Nations Cup 2006
-/tables/06a-det.html,0/1,-
+/tables/00as-scor.html,3/3,Asian Cup 2000 (Final Tournament) - Goal Scorers
+/tables/00asch.html,6/5,Asian Nations Cup 2000
+/tables/00asch-ext.html,2/1,Asian Nations Cup 2000 Final Tournament - Extended File
+/tables/00e.html,6/6,European Championship 2000
+/tables/00e-ext.html,3/3,European Championship 2000 - Details
+/tables/00e-final.html,3/3,European Championship 2000 - Full Details Final Tournament
+/tables/00e-scor.html,3/1,European Championship 2000 (Final and Qualifying Tournament) - Goal Scorers
+/tables/00gc.html,10/10,"CONCACAF Championship, Gold Cup 2000"
+/tables/00gc-details.html,2/2,"CONCACAF Championship, Gold Cup 2000 - Full Details"
+/tables/00gc-full.html,2/2,"CONCACAF Championship, Gold Cup 2000 - Full Details"
+/tables/00gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2000 - Goal Scorers"
+/tables/00oc.html,6/6,Oceanian Nations Cup 2000
+/tables/00oc-scor.html,3/3,Oceanian Nations Cup 2000 (Final Tournament) - Goal Scorers
+/tables/02a.html,6/5,African Nations Cup 2002
+/tables/02a-det.html,3/1,African Nations Cup 2002 - Final Tournament Details
+/tables/02a-scor.html,3/3,African Nations Cup 2002 (Final Tournament) - Goal Scorers
+/tables/02gc.html,7/6,"CONCACAF Championship, Gold Cup 2002"
+/tables/02gc-full.html,2/2,"CONCACAF Championship, Gold Cup 2002 - Full Details"
+/tables/02gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2002 - Goal Scorers"
+/tables/02oc.html,5/4,Oceanian Nations Cup 2002
+/tables/02oc-scor.html,3/3,Oceanian Nations Cup 2002 (Final Tournament) - Goal Scorers
+/tables/03gc.html,7/7,"CONCACAF Championship, Gold Cup 2003"
+/tables/03gc-full.html,2/1,"CONCACAF Championship, Gold Cup 2003 - Full Details"
+/tables/03gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2003 - Goal Scorers"
+/tables/04a.html,6/5,African Nations Cup 2004
+/tables/04a-det.html,3/1,African Nations Cup 2004 - Final Tournament Details
+/tables/04a-scor.html,3/2,African Nations Cup 2004 (Final Tournament) - Goal Scorers
+/tables/04as-scor.html,3/1,Asian Cup 2004 (Final Tournament) - Goal Scorers
+/tables/04asch.html,5/5,Asian Nations Cup 2004
+/tables/04asch-ext.html,2/1,Asian Nations Cup 2004 Final Tournament - Extended File
+/tables/04e.html,6/5,European Championship 2004
+/tables/04e-ext.html,3/1,European Championship 2004 - Details
+/tables/04e-scor.html,3/2,European Championship 2004 (Final and Qualifying Tournament) - Goal Scorers
+/tables/04oc.html,7/5,Oceanian Nations Cup 2004
+/tables/04oc-scor.html,3/2,Oceanian Nations Cup 2004 (Final Tournament) - Goal Scorers
+/tables/05gc.html,7/5,"CONCACAF Championship, Gold Cup 2005"
+/tables/05gc-full.html,2/1,"CONCACAF Championship, Gold Cup 2005 - Full Details"
+/tables/05gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2005 - Goal Scorers"
+/tables/06a.html,8/8,African Nations Cup 2006
+/tables/06a-det.html,3/1,African Nations Cup 2006 - Final Tournament Details
 /tables/06a-qdet.html,4/2,African Nations Cup 2006 - Qualifying Tournament Details
-/tables/06a-scor.html,0/1,-
-/tables/07as-scor.html,0/1,-
-/tables/07asch.html,5/3,Asian Nations Cup 2007
-/tables/07asch-det.html,0/1,-
-/tables/07gc.html,0/2,-
-/tables/07gc-scor.html,0/1,-
-/tables/08a.html,6/3,African Nations Cup 2008
-/tables/08a-det.html,0/1,-
-/tables/08a-scor.html,0/2,-
-/tables/08e.html,5/3,European Championship 2008
-/tables/08e-det.html,0/1,-
-/tables/08oc.html,0/2,-
-/tables/08oc-scor.html,0/1,-
-/tables/09anch.html,4/2,African Nations Championship 2009
-/tables/09anch-det.html,0/1,-
-/tables/09gc.html,0/2,-
-/tables/09gc-scor.html,0/1,-
-/tables/11asch.html,6/4,Asian Nations Cup 2011
-/tables/16sa-scor.html,0/1,-
+/tables/06a-scor.html,3/1,African Nations Cup 2006 (Final Tournament) - Goal Scorers
+/tables/07as-scor.html,3/1,Asian Cup 2007 (Final Tournament) - Goal Scorers
+/tables/07asch.html,5/5,Asian Nations Cup 2007
+/tables/07asch-det.html,2/1,Asian Nations Cup 2007 - Qualifying - Match Details
+/tables/07gc.html,7/5,"CONCACAF Championship, Gold Cup 2007"
+/tables/07gc-full.html,2/1,"CONCACAF Championship, Gold Cup 2007 - Full Details"
+/tables/07gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2007 - Goal Scorers"
+/tables/08a.html,6/5,African Nations Cup 2008
+/tables/08a-det.html,3/2,African Nations Cup 2008 - Match Details
+/tables/08a-scor.html,3/2,African Nations Cup 2008 (Final Tournament) - Goal Scorers
+/tables/08e.html,5/4,European Championship 2008
+/tables/08e-det.html,2/1,European Championship 2008 (Details)
+/tables/08oc.html,8/6,Oceanian Nations Cup 2008
+/tables/08oc-scor.html,3/2,Oceanian Nations Cup 2008 (Final Tournament) - Goal Scorers
+/tables/09anch.html,4/3,African Nations Championship 2009
+/tables/09anch-det.html,2/2,African Nations Championship 2009 - Details
+/tables/09gc.html,7/6,"CONCACAF Championship, Gold Cup 2009"
+/tables/09gc-full.html,2/1,"CONCACAF Championship, Gold Cup 2009 - Full Details"
+/tables/09gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2009 - Goal Scorers"
+/tables/11asch.html,6/5,Asian Nations Cup 2011
+/tables/11octubre71.html,0/2,?
+/tables/150-pasoandes67.html,1/3,Copa 150° Aniversario Paso de los Andes 19672
+/tables/16sa.html,3/2,"South American Championship 1916 (Argentina, July 2-17)"
+/tables/16sa-scor.html,1/1,Copa América 1916 - Goal Scorers
 /tables/16safull.html,2/2,South American Championship 1916
-/tables/17sa-scor.html,0/1,-
+/tables/17sa.html,4/3,"South American Championship 1917 (Uruguay, September 30-October 14)"
+/tables/17sa-scor.html,1/1,Copa América 1917 - Goal Scorers
 /tables/17safull.html,2/2,Southamerican Championship 1917
-/tables/1933chile-perutour.html,0/1,-
-/tables/19sa-scor.html,0/1,-
+/tables/1923-china-tour-oz.html,0/2,?
+/tables/1924-canada-tour-oz.html,0/2,?
+/tables/1924-china-tour-nz.html,0/2,?
+/tables/1927-bohemians-tour-oz.html,1/3,Bohemians AFK Vršovice (Praha) Tour of Australia 1927
+/tables/1927-china-tour-oz.html,0/2,?
+/tables/1933chile-perutour.html,1/5,"European Tour of the ""Combinado del Pacífico"" 1933-34"
+/tables/19sa.html,4/2,"Copa America 1919 (Brazil, May 11-29)"
+/tables/19sa-scor.html,1/1,Copa América 1919 - Goal Scorers
 /tables/19safull.html,2/3,Southamerican Championship 1919
-/tables/2001sa-scor.html,0/1,-
+/tables/1fck-wafr72.html,0/1,?
+/tables/2001sa.html,4/2,Copa América 2001
+/tables/2001sa-scor.html,1/1,Copa América 2001 - Goal Scorers
 /tables/2001safull.html,2/2,Copa América 2001
-/tables/2002f.html,7/6,World Cup 2002
-/tables/2002f-countries.html,0/1,-
-/tables/2002full.html,2/3,World Cup 2002 - Match Details
-/tables/2002q.html,5/5,World Cup 2002 Qualifying
+/tables/2002f.html,7/7,World Cup 2002
+/tables/2002f-countries.html,2/1,World Cup 2002 - Info on Qualified Countries
+/tables/2002full.html,2/4,World Cup 2002 - Match Details
+/tables/2002q.html,5/7,World Cup 2002 Qualifying
 /tables/2002q-scor.html,4/2,World Cup 2002 (Final Tournament and Qualifiers) - Goal Scorers
 /tables/2002wcq-afr.html,2/2,World Cup 2002 Qualifying - Africa
-/tables/2002wcq-sam.html,0/1,-
-/tables/2004sa-scor.html,0/1,-
-/tables/2004safull.html,2/2,Copa América 2004
+/tables/2002wcq-sam.html,2/2,World Cup 2002 Qualifying - South America
+/tables/2002wcq-sam-caps.html,2/1,World Cup 2002 Qualifying - South America - Caps
+/tables/2004sa.html,6/3,Copa América 2004
+/tables/2004sa-ext.html,3/1,Copa América 2004 - Details
+/tables/2004sa-scor.html,1/1,Copa América 2004 - Goal Scorers
+/tables/2004safull.html,2/3,Copa América 2004
 /tables/2006f.html,6/6,World Cup 2006
 /tables/2006full.html,2/3,World Cup 2006 - Match Details
-/tables/2006q.html,8/5,World Cup 2006 Qualifying
-/tables/2006q-det.html,0/2,-
+/tables/2006q.html,8/7,World Cup 2006 Qualifying
+/tables/2006q-det.html,3/3,World Cup 2006 Qualifying - Match Details
 /tables/2006q-scor.html,4/3,World Cup 2006 (Qualifiers) - Goal Scorers
-/tables/2007sa-scor.html,0/1,-
-/tables/2007safull.html,2/2,Copa América 2007
-/tables/2010a.html,10/4,African Nations Cup 2010
-/tables/2010a-det.html,0/1,-
+/tables/2007sa.html,5/2,Copa América 2007
+/tables/2007sa-scor.html,1/1,Copa América 2007 - Goal Scorers
+/tables/2007safull.html,2/3,Copa América 2007
+/tables/2010a.html,10/6,African Nations Cup 2010
+/tables/2010a-det.html,3/2,African Nations Cup 2010 - Final Tournament Details
 /tables/2010a-qdet.html,4/3,African Nations Cup 2010 - Qualifying Tournament Details
-/tables/2010a-scor.html,0/2,-
+/tables/2010a-scor.html,3/2,African Nations Cup 2010 (Final Tournament) - Goal Scorers
 /tables/2010f.html,6/5,World Cup 2010
-/tables/2010full.html,2/3,World Cup 2010 - Match Details
-/tables/2010q.html,7/4,World Cup 2010 Qualifying
-/tables/2010q-det.html,0/1,-
-/tables/2011anch.html,5/3,African Nations Championship 2011
-/tables/2011anch-det.html,0/1,-
-/tables/2011as-scor.html,0/1,-
-/tables/2011gc.html,0/2,-
-/tables/2011gc-scor.html,0/1,-
-/tables/2011sa.html,0/1,-
-/tables/2011sa-scor.html,0/1,-
-/tables/2011safull.html,2/1,Copa América 2011
-/tables/2012a.html,6/4,African Nations Cup 2012
-/tables/2012a-det.html,0/1,-
+/tables/2010full.html,2/4,World Cup 2010 - Match Details
+/tables/2010q.html,7/6,World Cup 2010 Qualifying
+/tables/2010q-det.html,3/2,World Cup 2010 Qualifying - Match Details
+/tables/2011anch.html,5/4,African Nations Championship 2011
+/tables/2011anch-det.html,2/2,African Nations Championship 2011 - Match Details
+/tables/2011as-scor.html,3/1,Asian Cup 2011 (Final Tournament) - Goal Scorers
+/tables/2011gc.html,7/7,"CONCACAF Championship, Gold Cup 2011"
+/tables/2011gc-full.html,2/1,"CONCACAF Championship, Gold Cup 2011 - Full Details"
+/tables/2011gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2011 - Goal Scorers"
+/tables/2011sa.html,5/2,Copa América 2011
+/tables/2011sa-scor.html,1/1,Copa América 2011 - Goal Scorers
+/tables/2011safull.html,2/2,Copa América 2011
+/tables/2012a.html,6/6,African Nations Cup 2012
+/tables/2012a-det.html,3/2,African Nations Cup 2012 - Final Tournament Details
 /tables/2012a-qdet.html,3/2,African Nations Cup 2012 - Qualifying Tournament Details
-/tables/2012a-scor.html,0/1,-
-/tables/2012e.html,5/3,European Championship 2012
-/tables/2012e-det.html,0/1,-
-/tables/2012oc.html,0/3,-
-/tables/2012oc-scor.html,0/1,-
-/tables/2013a.html,5/4,African Nations Cup 2013
+/tables/2012a-scor.html,3/1,African Nations Cup 2012 (Final Tournament) - Goal Scorers
+/tables/2012e.html,5/4,European Championship 2012
+/tables/2012e-det.html,2/1,European Championship 2012 (Details Final Tournament)
+/tables/2012oc.html,4/5,Oceanian Nations Cup 2012
+/tables/2012oc-scor.html,3/1,Oceanian Nations Cup 2012 (Final Tournament) - Goal Scorers
+/tables/2013a.html,5/5,African Nations Cup 2013
 /tables/2013a-qdet.html,3/2,African Nations Cup 2013 - Qualifying Tournament Details
-/tables/2013a-scor.html,0/1,-
-/tables/2013gc.html,0/3,-
-/tables/2013gc-scor.html,0/1,-
-/tables/2014anch.html,5/3,African Nations Championship 2014
-/tables/2014anch-det.html,0/1,-
+/tables/2013a-scor.html,3/1,African Nations Cup 2013 (Final Tournament) - Goal Scorers
+/tables/2013gc.html,7/5,"CONCACAF Championship, Gold Cup 2013"
+/tables/2013gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2013 - Goal Scorers"
+/tables/2014anch.html,5/4,African Nations Championship 2014
+/tables/2014anch-det.html,2/2,African Nations Championship 2014 - Match Details
 /tables/2014f.html,6/5,World Cup 2014
-/tables/2014full.html,2/3,World Cup 2014 - Match Details
+/tables/2014full.html,2/4,World Cup 2014 - Match Details
 /tables/2014q.html,4/2,World Cup 2014 Qualifying
-/tables/2015a.html,6/5,African Nations Cup 2015
+/tables/2015a.html,6/6,African Nations Cup 2015
 /tables/2015a-det.html,3/2,African Nations Cup 2015 - Final Tournament Details
 /tables/2015a-qdet.html,3/2,African Nations Cup 2015 - Qualifying Tournament Details
-/tables/2015a-scor.html,0/1,-
-/tables/2015as-scor.html,0/1,-
-/tables/2015asch.html,7/3,Asian Nations Cup 2015
-/tables/2015asch-det.html,0/1,-
-/tables/2015conc.html,4/2,CONCACAF Cup 2015
-/tables/2015gc.html,0/3,-
-/tables/2015gc-scor.html,0/1,-
-/tables/2015sa.html,4/2,Copa América 2015
-/tables/2015sa-scor.html,0/1,-
-/tables/2016anch.html,5/3,African Nations Championship 2016
-/tables/2016anch-det.html,0/1,-
-/tables/2016concpo.html,0/1,-
-/tables/2016e.html,5/3,European Championship 2016
-/tables/2016e-det.html,0/1,-
-/tables/2016oc.html,4/3,Oceanian Nations Cup 2016
-/tables/2016oc-scor.html,0/1,-
-/tables/2016sa.html,5/3,Copa América (Centenario) 2016
-/tables/2016sa-scor.html,0/1,-
+/tables/2015a-scor.html,3/1,African Nations Cup 2015 (Final Tournament) - Goal Scorers
+/tables/2015as-scor.html,3/1,Asian Cup 2015 (Final Tournament) - Goal Scorers
+/tables/2015asch.html,7/5,Asian Nations Cup 2015
+/tables/2015asch-det.html,3/1,Asian Cup 2015 - final tournament match details
+/tables/2015conc.html,4/4,CONCACAF Cup 2015
+/tables/2015gc.html,9/6,"CONCACAF Championship, Gold Cup 2015"
+/tables/2015gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2015 - Goal Scorers"
+/tables/2015sa.html,4/4,Copa América 2015
+/tables/2015sa-scor.html,1/1,Copa América 2015 - Goal Scorers
+/tables/2016anch.html,5/4,African Nations Championship 2016
+/tables/2016anch-det.html,2/3,African Nations Championship 2016 - Match Details
+/tables/2016concpo.html,3/2,Copa América (Centenario) 2016 - CONCACAF Playoff Qualification
+/tables/2016e.html,5/4,European Championship 2016
+/tables/2016e-det.html,2/1,European Championship 2016 (Details Final Tournament)
+/tables/2016oc.html,4/6,Oceanian Nations Cup 2016
+/tables/2016oc-scor.html,3/1,Oceanian Nations Cup 2016 (Final Tournament) - Goal Scorers
+/tables/2016sa.html,5/5,Copa América (Centenario) 2016
+/tables/2016sa-scor.html,1/1,Copa América 2016 - Goal Scorers
 /tables/2016soli.html,5/4,2016 AFC Solidarity Cup (Malaysia)
-/tables/2017a.html,6/4,African Nations Cup 2017
-/tables/2017a-det.html,0/1,-
+/tables/2017a.html,6/6,African Nations Cup 2017
+/tables/2017a-det.html,3/2,African Nations Cup 2017 - Final Tournament Details
 /tables/2017a-qdet.html,3/2,African Nations Cup 2017 - Qualifying Tournament Details
-/tables/2017a-scor.html,0/1,-
-/tables/2017gc.html,0/2,-
-/tables/2017gc-scor.html,0/1,-
-/tables/2018anch.html,5/3,African Nations Championship 2018
-/tables/2018anch-det.html,0/1,-
+/tables/2017a-scor.html,3/1,African Nations Cup 2017 (Final Tournament) - Goal Scorers
+/tables/2017gc.html,7/4,"CONCACAF Championship, Gold Cup 2017"
+/tables/2017gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2017 - Goal Scorers"
+/tables/2018anch.html,5/4,African Nations Championship 2018
+/tables/2018anch-det.html,2/3,African Nations Championship 2018 - Match Details
 /tables/2018f.html,6/5,World Cup 2018
-/tables/2018full.html,2/3,World Cup 2018 - Match Details
+/tables/2018full.html,2/4,World Cup 2018 - Match Details
 /tables/2018q.html,5/5,World Cup 2018 Qualifying
-/tables/2019a.html,6/3,African Nations Cup 2019
-/tables/2019a-det.html,0/1,-
-/tables/2019a-qdet.html,0/1,-
-/tables/2019a-scor.html,0/1,-
-/tables/2019as-scor.html,0/1,-
-/tables/2019asch.html,6/5,Asian Nations Cup 2019
-/tables/2019gc.html,0/3,-
-/tables/2019gc-scor.html,0/1,-
+/tables/2019a.html,6/6,African Nations Cup 2019
+/tables/2019a-det.html,3/2,African Nations Cup 2019 - Final Tournament Details
+/tables/2019a-qdet.html,3/2,African Nations Cup 2019 - Qualifying Tournament Details
+/tables/2019a-scor.html,3/1,African Nations Cup 2019 (Final Tournament) - Goal Scorers
+/tables/2019as-scor.html,3/1,Asian Cup 2019 (Final Tournament) - Goal Scorers
+/tables/2019asch.html,6/6,Asian Nations Cup 2019
+/tables/2019gc.html,5/5,"CONCACAF Championship, Gold Cup 2019"
+/tables/2019gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2019 - Goal Scorers"
 /tables/2019sa.html,4/3,Copa América 2019
-/tables/2019sa-scor.html,0/1,-
+/tables/2019sa-scor.html,1/1,Copa América 2019 - Goal Scorers
 /tables/2019uefanl.html,4/3,UEFA Nations League 2018/19
-/tables/2020anch.html,5/3,African Nations Championship 2020/21
-/tables/2020anch-det.html,0/1,-
-/tables/2020concanl.html,5/4,CONCACAF Nations League 2018-21
-/tables/2020e.html,7/5,European Championship 2021
-/tables/2021a.html,6/5,African Nations Cup 2021/22
+/tables/2020anch.html,5/4,African Nations Championship 2020/21
+/tables/2020anch-det.html,2/2,African Nations Championship 2020/21 - Match Details
+/tables/2020concanl.html,5/7,CONCACAF Nations League 2018-21
+/tables/2020e.html,7/6,European Championship 2021
+/tables/2021a.html,6/6,African Nations Cup 2021/22
 /tables/2021a-det.html,3/2,African Nations Cup 2021 - Final Tournament Details
 /tables/2021a-qdet.html,3/2,African Nations Cup 2021 - Qualifying Tournament Details
-/tables/2021a-scor.html,0/1,-
-/tables/2021e-det.html,0/1,-
-/tables/2021gc.html,0/5,-
-/tables/2021gc-scor.html,0/1,-
+/tables/2021a-scor.html,3/1,African Nations Cup 2022 (Final Tournament) - Goal Scorers
+/tables/2021e-det.html,2/2,European Championship 2021 (Details Final Tournament)
+/tables/2021gc.html,5/6,"CONCACAF Championship, Gold Cup 2021"
+/tables/2021gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2021 - Goal Scorers"
 /tables/2021sa.html,4/3,Copa América 2021
-/tables/2021sa-scor.html,0/1,-
+/tables/2021sa-scor.html,1/1,Copa América 2021 - Goal Scorers
 /tables/2021uefanl.html,4/3,UEFA Nations League 2020/21
 /tables/2022anch.html,4/3,African Nations Championship 2022/23
 /tables/2022f.html,4/5,World Cup 2022
 /tables/2022q.html,4/5,World Cup 2022 Qualifying
-/tables/2023a.html,6/5,African Nations Cup 2023/24
+/tables/2023a.html,6/6,African Nations Cup 2023/24
 /tables/2023a-det.html,3/2,African Nations Cup 2023 - Final Tournament Details
 /tables/2023a-qdet.html,3/2,African Nations Cup 2023 - Qualifying Tournament Details
-/tables/2023a-scor.html,0/1,-
-/tables/2023as-scor.html,0/1,-
-/tables/2023asch.html,4/5,Asian Nations Cup 2024
+/tables/2023a-scor.html,3/1,African Nations Cup 2024 (Final Tournament) - Goal Scorers
+/tables/2023as-scor.html,3/1,Asian Cup 2024 (Final Tournament) - Goal Scorers
+/tables/2023asch.html,4/6,Asian Nations Cup 2024
 /tables/2023concanl.html,5/4,CONCACAF Nations League 2022-23
-/tables/2023gc.html,5/5,"CONCACAF Championship, Gold Cup 2023"
-/tables/2023gc-scor.html,0/1,-
+/tables/2023gc.html,5/6,"CONCACAF Championship, Gold Cup 2023"
+/tables/2023gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2023 - Goal Scorers"
 /tables/2023uefanl.html,4/4,UEFA Nations League 2022/23
 /tables/2024anch.html,3/4,African Nations Championship 2024/25
 /tables/2024concanl.html,5/4,CONCACAF Nations League 2023-24
 /tables/2024e.html,4/4,European Championship 2024
 /tables/2024oc.html,3/4,Oceanian Nations Cup 2024
-/tables/2024oc-scor.html,0/1,-
+/tables/2024oc-scor.html,3/1,Oceanian Nations Cup 2024 (Final Tournament) - Goal Scorers
 /tables/2024sa.html,4/5,Copa América 2024
-/tables/2024sa-scor.html,0/1,-
+/tables/2024sa-scor.html,1/1,Copa América 2024 - Goal Scorers
 /tables/2024wuefanl.html,4/4,UEFA Women's Nations League 2023/24
 /tables/2025a.html,5/6,African Nations Cup 2025/26
 /tables/2025a-det.html,3/2,African Nations Cup 2025 - Final Tournament Details
 /tables/2025a-qdet.html,3/2,African Nations Cup 2025 - Qualifying Tournament Details
 /tables/2025concanl.html,2/4,CONCACAF Nations League 2024-25
 /tables/2025gc.html,4/5,"CONCACAF Championship, Gold Cup 2025"
-/tables/2025gc-scor.html,0/1,-
+/tables/2025gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 2025 - Goal Scorers"
 /tables/2025uefanl.html,3/4,UEFA Nations League 2024/25
-/tables/2025wuefanl.html,3/3,UEFA Women's Nations League 2025
-/tables/2026a-scor.html,0/1,-
-/tables/20sa-scor.html,0/1,-
+/tables/2025wuefanl.html,3/4,UEFA Women's Nations League 2025
+/tables/2026a-scor.html,2/1,African Nations Cup 2026 (Final Tournament) - Goal Scorers
+/tables/20sa.html,4/2,"Copa America 1920 (Chile, September 11-26)"
+/tables/20sa-scor.html,1/1,Copa América 1920 - Goal Scorers
 /tables/20safull.html,2/2,Southamerican Championship 1920
-/tables/21sa-scor.html,0/1,-
+/tables/21sa.html,4/2,"Copa America 1921 (Argentina, October 2-30)"
+/tables/21sa-scor.html,1/1,Copa América 1921 - Goal Scorers
 /tables/21safull.html,2/2,Southamerican Championship 1921
-/tables/22sa-scor.html,0/1,-
+/tables/22sa.html,4/2,"Copa America 1922 (Brazil, September 17-October 22)"
+/tables/22sa-scor.html,1/1,Copa América 1922 - Goal Scorers
 /tables/22safull.html,2/2,Southamerican Championship 1922
-/tables/23sa-scor.html,0/1,-
+/tables/23sa.html,4/2,"Copa America 1923 (Uruguay, October 29-December 2)"
+/tables/23sa-scor.html,1/1,Copa América 1923 - Goal Scorers
 /tables/23safull.html,2/3,Southamerican Championship 1923
-/tables/24sa-scor.html,0/1,-
+/tables/24sa.html,4/2,"Copa America 1924 (Uruguay, October 12-November 2)"
+/tables/24sa-scor.html,1/1,Copa América 1924 - Goal Scorers
 /tables/24safull.html,2/2,Southamerican Championship 1924
-/tables/25sa-scor.html,0/1,-
+/tables/25sa.html,4/2,"Copa America 1925 (Argentina, November 29-December 25)"
+/tables/25sa-scor.html,1/1,Copa América 1925 - Goal Scorers
 /tables/25safull.html,2/2,Southamerican Championship 1925
-/tables/26sa-scor.html,0/1,-
+/tables/26sa.html,4/2,"Copa America 1926 (Chile, October 12-November 3)"
+/tables/26sa-scor.html,1/1,Copa América 1926 - Goal Scorers
 /tables/26safull.html,2/2,Southamerican Championship 1926
-/tables/27sa-scor.html,0/1,-
+/tables/27sa.html,4/2,"Copa America 1927 (Peru, October 30-November 27)"
+/tables/27sa-scor.html,1/1,Copa América 1927 - Goal Scorers
 /tables/27safull.html,2/2,Southamerican Championship 1927
-/tables/29sa-scor.html,0/1,-
+/tables/29sa.html,4/2,"Copa America 1929 (Argentina, November 1-17)"
+/tables/29sa-scor.html,1/1,Copa América 1929 - Goal Scorers
 /tables/29safull.html,2/2,Southamerican Championship 1929
-/tables/3002f.html,1/2,World Cup Final Tournaments 1930-2022 - Total Rankings
-/tables/30all-scor.html,2/2,World Cup 1930-2026 - Final Tournaments - Top-100 Goal Scorers
-/tables/30f.html,8/4,World Cup 1930
+/tables/3002f.html,1/3,World Cup Final Tournaments 1930-2022 - Total Rankings
+/tables/300cayenne36.html,3/6,Triangular Tournament (Cayenne) 1935/36
+/tables/30all-scor.html,2/3,World Cup 1930-2026 - Final Tournaments - Top-100 Goal Scorers
+/tables/30f.html,8/9,World Cup 1930
 /tables/30f-hattrick.html,1/3,The first World Cup hat trick
-/tables/30f-scor.html,4/2,World Cup 1930 - Goal Scorers
-/tables/30full.html,8/4,World Cup 1930 finals
-/tables/30q.html,0/1,-
-/tables/34cubacampaign.html,2/3,Cuba in the 1934 World Cup versus Haiti and Mexico
+/tables/30f-scor.html,4/3,World Cup 1930 - Goal Scorers
+/tables/30full.html,8/11,World Cup 1930 finals
+/tables/30q.html,3/1,World Cup 1930 Qualifying
+/tables/34cubacampaign.html,2/4,Cuba in the 1934 World Cup versus Haiti and Mexico
 /tables/34f.html,6/5,World Cup 1934
 /tables/34full.html,0/4,World Cup 1934 finals
 /tables/34q.html,5/6,World Cup 1934 Qualifying
-/tables/34qf-scor.html,6/2,World Cup 1934 - Goal Scorers
-/tables/34qual.html,3/4,WORLD CUP 1934 - QUALIFYING
-/tables/35sa-scor.html,0/1,-
+/tables/34qf-scor.html,6/3,World Cup 1934 - Goal Scorers
+/tables/34qual.html,3/5,WORLD CUP 1934 - QUALIFYING
+/tables/35sa.html,4/2,"South American Championship 1935 (Peru, January 6-27)"
+/tables/35sa-scor.html,1/1,Copa América 1935 - Goal Scorers
 /tables/35safull.html,2/2,Southamerican Championship 1935
-/tables/37sa-scor.html,0/1,-
+/tables/37sa.html,4/2,"Copa America 1937 (Argentina, December 27 (1936)-February 1)"
+/tables/37sa-scor.html,1/1,Copa América 1937 - Goal Scorers
 /tables/37safull.html,2/2,Southamerican Championship 1937
 /tables/38f.html,6/5,World Cup 1938
-/tables/38full.html,0/5,World Cup 1938 finals
+/tables/38full.html,0/12,World Cup 1938 finals
 /tables/38q.html,4/3,World Cup 1938 Qualifying
-/tables/38qf-scor.html,6/2,World Cup 1938 - Goal Scorers
-/tables/38qual.html,1/4,WORLD CUP 1938 - QUALIFYING
-/tables/39sa-scor.html,0/1,-
+/tables/38qf-scor.html,6/3,World Cup 1938 - Goal Scorers
+/tables/38qual.html,1/5,WORLD CUP 1938 - QUALIFYING
+/tables/39sa.html,4/2,"Copa America 1939 (Peru, January 15-February 12)"
+/tables/39sa-scor.html,1/1,Copa América 1939 - Goal Scorers
 /tables/39safull.html,2/2,Southamerican Championship 1939
-/tables/3rdlanark-satrip23.html,0/1,-
-/tables/41sa-scor.html,0/1,-
+/tables/3muenster70.html,1/2,Drei Münster Cup 1970
+/tables/3nat1goal2021.html,0/1,?
+/tables/3natpres2010.html,0/1,?
+/tables/3rdlanark-satrip23.html,2/6,Río de la Plata Trip of Third Lanark 1923
+/tables/3torreon71.html,0/2,?
+/tables/4-nations-santiago-u20-07.html,0/1,?
+/tables/41sa.html,4/2,"South American Championship 1941 (Chile, February 2-March 4)"
+/tables/41sa-scor.html,1/1,Copa América 1941 - Goal Scorers
 /tables/41safull.html,2/2,Southamerican Championship 1941
-/tables/42sa-scor.html,0/1,-
+/tables/42sa.html,4/2,"Copa America 1942 (Uruguay, January 10-February 7)"
+/tables/42sa-scor.html,1/1,Copa América 1942 - Goal Scorers
 /tables/42safull.html,2/2,Southamerican Championship 1942
-/tables/45sa-scor.html,0/1,-
+/tables/45sa.html,4/2,"South American Championship 1945 (Chile, January 14-February 28)"
+/tables/45sa-scor.html,1/1,Copa América 1945 - Goal Scorers
 /tables/45safull.html,2/2,Southamerican Championship 1945
-/tables/46sa-scor.html,0/1,-
+/tables/46sa.html,4/2,"South American Championship 1946 (Argentina, January 12-February 10)"
+/tables/46sa-scor.html,1/1,Copa América 1946 - Goal Scorers
 /tables/46safull.html,2/2,Southamerican Championship 1946
-/tables/47sa-scor.html,0/1,-
+/tables/47sa.html,4/2,"Copa America 1947 (Ecuador, November 30-December 30)"
+/tables/47sa-scor.html,1/1,Copa América 1947 - Goal Scorers
 /tables/47safull.html,2/2,Southamerican Championship 1947
-/tables/49sa-scor.html,0/1,-
+/tables/49sa.html,4/2,"Copa America 1949 (Brazil, April 3-May 11)"
+/tables/49sa-scor.html,1/1,Copa América 1949 - Goal Scorers
 /tables/49safull.html,2/2,Southamerican Championship 1949
+/tables/4cdmex81.html,0/2,?
+/tables/4clubs-ecua91.html,0/2,?
+/tables/4n-friend-u23-2015.html,0/1,?
+/tables/4torreon71.html,0/2,?
 /tables/50f.html,6/6,World Cup 1950
 /tables/50full.html,0/4,World Cup 1950 finals
 /tables/50q.html,5/7,World Cup 1950 Qualifying
-/tables/50q-det.html,2/2,World Cup 1950 - Qualifying
-/tables/50qf-scor.html,6/2,World Cup 1950 - Goal Scorers
-/tables/50qual.html,0/3,-
-/tables/53sa-scor.html,0/1,-
+/tables/50q-det.html,2/3,World Cup 1950 - Qualifying
+/tables/50qf-scor.html,6/3,World Cup 1950 - Goal Scorers
+/tables/50qual.html,0/3,World Cup 1950 qualifications
+/tables/53sa.html,4/2,"Copa America 1953 (Peru, February 22-April 1)"
+/tables/53sa-scor.html,1/1,Copa América 1953 - Goal Scorers
 /tables/53safull.html,2/2,Southamerican Championship 1953
 /tables/54f.html,6/5,World Cup 1954
 /tables/54full.html,0/4,World Cup 1954 finals
 /tables/54q.html,5/6,World Cup 1954 Qualifying
-/tables/54q-det.html,2/2,World Cup 1954 - Qualifying
-/tables/54qf-scor.html,6/2,World Cup 1954 - Goal Scorers
-/tables/54qual.html,0/3,-
-/tables/55sa-scor.html,0/1,-
+/tables/54q-det.html,2/3,World Cup 1954 - Qualifying
+/tables/54qf-scor.html,6/3,World Cup 1954 - Goal Scorers
+/tables/54qual.html,0/3,World Cup 1954 qualifications
+/tables/55sa.html,4/2,"Copa America 1955 (Chile, February 27-March 30)"
+/tables/55sa-scor.html,1/1,Copa América 1955 - Goal Scorers
 /tables/55safull.html,2/2,Southamerican Championship 1955
-/tables/56as-scor.html,0/1,-
-/tables/56asch.html,4/2,Asian Nations Cup 1956
-/tables/56sa-scor.html,0/1,-
+/tables/56as-scor.html,3/1,Asian Cup 1956 (Final Tournament) - Goal Scorers
+/tables/56asch.html,4/5,Asian Nations Cup 1956
+/tables/56sa.html,4/2,"Copa America 1956 (Uruguay, January 24-February 15)"
+/tables/56sa-scor.html,1/1,Copa América 1956 - Goal Scorers
 /tables/56safull.html,2/2,Southamerican Championship 1956
 /tables/5700a.html,1/2,African Cup of Nations - All-Time Table
-/tables/57a.html,3/2,African Nations Cup 1957
-/tables/57a-det.html,0/1,-
-/tables/57sa-scor.html,0/1,-
+/tables/57a.html,3/4,African Nations Cup 1957
+/tables/57a-det.html,3/2,African Nations Cup 1957
+/tables/57sa.html,4/2,"Copa America 1957 (Peru, March 7-April 6)"
+/tables/57sa-scor.html,1/1,Copa América 1957 - Goal Scorers
 /tables/57safull.html,2/2,Southamerican Championship 1957
-/tables/58f.html,6/5,World Cup 1958
+/tables/58f.html,6/6,World Cup 1958
 /tables/58full.html,0/4,World Cup 1958 finals
-/tables/58q.html,5/4,World Cup 1958 Qualifying
-/tables/58qf-scor.html,6/2,World Cup 1958 - Goal Scorers
-/tables/58qual.html,0/3,-
-/tables/59-1sa-scor.html,0/1,-
+/tables/58q.html,5/5,World Cup 1958 Qualifying
+/tables/58qf-scor.html,6/3,World Cup 1958 - Goal Scorers
+/tables/58qual.html,0/3,World Cup 1958 qualifications
+/tables/59-1sa.html,4/2,"Copa America 1959 (1st, Argentina, March 7-April 4)"
+/tables/59-1sa-scor.html,1/1,Copa América 1959 (1st tournament) - Goal Scorers
 /tables/59-1safull.html,2/2,Southamerican Championship 1959 (1st Tournament)
-/tables/59-2sa-scor.html,0/1,-
+/tables/59-2sa.html,4/2,"South American Championship 1959 (2nd, Ecuador, December 5-25)"
+/tables/59-2sa-scor.html,1/1,Copa América 1959 (2nd tournament) - Goal Scorers
 /tables/59-2safull.html,2/2,Southamerican Championship 1959 (2nd Tournament)
-/tables/59a.html,4/3,African Nations Cup 1959
-/tables/59a-det.html,0/1,-
-/tables/60as-scor.html,0/1,-
-/tables/60asch.html,6/3,Asian Nations Cup 1960
-/tables/60asch-det.html,0/1,-
-/tables/60e.html,6/3,European Championship 1960
-/tables/60e-det.html,0/1,-
-/tables/60e-full.html,0/1,-
-/tables/60e-scor.html,0/2,-
-/tables/62a.html,6/3,African Nations Cup 1962
-/tables/62a-qdet.html,0/1,-
-/tables/62a-scor.html,0/2,-
+/tables/59a.html,4/5,African Nations Cup 1959
+/tables/59a-det.html,4/2,African Nations Cup 1959
+/tables/60as-scor.html,3/1,Asian Cup 1960 (Final Tournament) - Goal Scorers
+/tables/60asch.html,6/6,Asian Nations Cup 1960
+/tables/60asch-det.html,3/2,Asian Nations Cup 1960 - Final Tournament - Match Details
+/tables/60e.html,6/7,European Championship 1960
+/tables/60e-det.html,4/3,European Championship 1960 - Details Final Tournament
+/tables/60e-full.html,4/3,European Championship 1960 (Details)
+/tables/60e-scor.html,3/3,European Championship 1960 - Goal Scorers
+/tables/62a.html,6/7,African Nations Cup 1962
+/tables/62a-qdet.html,3/2,African Cup of Nations 1962 - Qualifying Tournament Details
+/tables/62a-scor.html,3/3,African Nations Cup 1962 (Final Tournament) - Goal Scorers
 /tables/62f.html,6/5,World Cup 1962
 /tables/62full.html,0/4,World Cup 1962 finals
-/tables/62q.html,7/3,World Cup 1962 Qualifying
-/tables/62qf-scor.html,6/2,World Cup 1962 - Goal Scorers
-/tables/62quafr.html,0/1,-
-/tables/62qual.html,0/3,-
-/tables/63a.html,5/3,African Nations Cup 1963
-/tables/63a-scor.html,0/2,-
-/tables/63sa-scor.html,0/1,-
+/tables/62q.html,7/4,World Cup 1962 Qualifying
+/tables/62qf-scor.html,6/3,World Cup 1962 - Goal Scorers
+/tables/62quafr.html,2/2,Africa - World Cup 1962 Qualifying Match Details
+/tables/62qual.html,0/3,World Cup 1962 qualifications
+/tables/63a.html,5/5,African Nations Cup 1963
+/tables/63a-scor.html,3/2,African Nations Cup 1963 (Final Tournament) - Goal Scorers
+/tables/63indrivadavia.html,1/3,Cuadrangular 63° Aniversario Independiente Rivadavia (Mendoza) 1976
+/tables/63sa.html,4/2,"Copa America 1963 (Bolivia, March 20-31)"
+/tables/63sa-scor.html,1/1,Copa América 1963 - Goal Scorers
 /tables/63safull.html,2/2,Southamerican Championship 1963
-/tables/64as-scor.html,0/1,-
-/tables/64asch.html,4/3,Asian Nations Cup 1964
-/tables/64e.html,7/3,European Championship 1964
-/tables/64e-det.html,0/1,-
-/tables/64e-full.html,0/1,-
-/tables/64e-scor.html,0/2,-
-/tables/65a.html,5/3,African Nations Cup 1965
-/tables/65a-scor.html,0/2,-
-/tables/66f.html,6/4,World Cup 1966
-/tables/66full.html,0/3,World Cup 1966 finals
-/tables/66q.html,4/2,World Cup 1966 Qualifying
-/tables/66qf-scor.html,0/1,-
-/tables/66qual.html,0/2,-
-/tables/67sa-scor.html,0/1,-
+/tables/64as-scor.html,3/1,Asian Cup 1964 (Final Tournament) - Goal Scorers
+/tables/64asch.html,4/5,Asian Nations Cup 1964
+/tables/64e.html,7/6,European Championship 1964
+/tables/64e-det.html,4/3,European Championship 1964 - Details Final Tournament
+/tables/64e-full.html,4/3,European Championship 1964 (Details)
+/tables/64e-scor.html,3/3,European Championship 1964 - Goal Scorers
+/tables/65a.html,5/6,African Nations Cup 1965
+/tables/65a-scor.html,3/3,African Nations Cup 1965 (Final Tournament) - Goal Scorers
+/tables/66f.html,6/5,World Cup 1966
+/tables/66full.html,0/5,World Cup 1966 finals
+/tables/66q.html,4/3,World Cup 1966 Qualifying
+/tables/66qf-scor.html,6/2,World Cup 1966 - Goal Scorers
+/tables/66qual.html,0/3,World Cup 1966 qualifications
+/tables/67sa.html,4/2,"Copa America 1967 (Uruguay, January 13-February 2)"
+/tables/67sa-scor.html,1/1,Copa América 1967 (Final Tournament and Qualifying) - Goal Scorers
 /tables/67safull.html,2/2,Southamerican Championship 1967
-/tables/68a.html,6/3,African Nations Cup 1968
-/tables/68a-det.html,0/1,-
-/tables/68a-scor.html,0/2,-
-/tables/68as-scor.html,0/2,-
-/tables/68asch.html,5/3,Asian Nations Cup 1968
-/tables/68e.html,6/4,European Championship 1968
-/tables/68e-det.html,0/1,-
-/tables/68e-full.html,0/1,-
-/tables/70a.html,6/3,African Nations Cup 1970
-/tables/70a-det.html,0/1,-
-/tables/70a-scor.html,0/2,-
+/tables/68a.html,6/6,African Nations Cup 1968
+/tables/68a-det.html,3/2,African Nations Cup 1968 - Final Tournament Details
+/tables/68a-scor.html,3/2,African Nations Cup 1968 (Final Tournament) - Goal Scorers
+/tables/68as-scor.html,3/3,Asian Cup 1968 (Final Tournament) - Goal Scorers
+/tables/68asch.html,5/5,Asian Nations Cup 1968
+/tables/68e.html,6/6,European Championship 1968
+/tables/68e-det.html,4/3,European Championship 1968 - Details Final Tournament
+/tables/68e-full.html,4/3,European Championship 1968 (Details)
+/tables/70a.html,6/6,African Nations Cup 1970
+/tables/70a-det.html,3/2,African Nations Cup 1970 - Final Tournament Details
+/tables/70a-scor.html,3/2,African Nations Cup 1970 (Final Tournament) - Goal Scorers
 /tables/70f.html,6/4,World Cup 1970
 /tables/70full.html,0/3,World Cup 1970 finals
-/tables/70q.html,5/2,World Cup 1970 Qualifying
-/tables/70qual.html,0/2,-
-/tables/72a.html,6/3,African Nations Cup 1972
-/tables/72a-det.html,0/1,-
-/tables/72a-scor.html,0/2,-
-/tables/72as-scor.html,0/1,-
-/tables/72asch.html,4/3,Asian Nations Cup 1972
-/tables/72e.html,6/3,European Championship 1972
-/tables/72e-full.html,0/1,-
-/tables/72e-fulldet.html,0/1,-
-/tables/73oc.html,0/1,-
-/tables/73oc-scor.html,0/1,-
-/tables/74a.html,5/3,African Nations Cup 1974
-/tables/74a-det.html,0/1,-
-/tables/74a-scor.html,0/1,-
+/tables/70grafico.html,0/2,?
+/tables/70q.html,5/3,World Cup 1970 Qualifying
+/tables/70qual.html,0/2,World Cup 1970 qualifications
+/tables/72a.html,6/5,African Nations Cup 1972
+/tables/72a-det.html,3/2,African Nations Cup 1972 - Final Tournament Details
+/tables/72a-scor.html,3/3,African Nations Cup 1972 (Final Tournament) - Goal Scorers
+/tables/72as-scor.html,3/1,Asian Cup 1972 (Final Tournament) - Goal Scorers
+/tables/72asch.html,4/5,Asian Nations Cup 1972
+/tables/72e.html,6/5,European Championship 1972
+/tables/72e-full.html,3/3,European Championship 1972 - Final Tournament - Full Details
+/tables/72e-fulldet.html,4/3,European Championship 1972 (Details)
+/tables/73oc.html,5/4,Oceanian Cup 1973
+/tables/73oc-scor.html,3/3,Oceanian Nations Cup 1973 - Goal Scorers
+/tables/74a.html,5/5,African Nations Cup 1974
+/tables/74a-det.html,3/2,African Nations Cup 1974 - Final Tournament Details
+/tables/74a-scor.html,3/1,African Nations Cup 1974 (Final Tournament) - Goal Scorers
 /tables/74f.html,6/4,World Cup 1974
 /tables/74full.html,0/3,World Cup 1974 finals
 /tables/74q.html,4/2,World Cup 1974 Qualifying
-/tables/74qual.html,0/2,-
-/tables/75sa-scor.html,0/1,-
+/tables/74qual.html,0/2,World Cup 1974 qualifications
+/tables/75copaamericaseries.html,0/2,?
+/tables/75sa.html,4/2,Copa America 1975 (July 17-October 28)
+/tables/75sa-scor.html,1/1,Copa América 1975 - Goal Scorers
 /tables/75safull.html,2/2,Copa América 1975
-/tables/76a.html,5/3,African Nations Cup 1976
-/tables/76a-det.html,0/1,-
-/tables/76a-scor.html,0/1,-
-/tables/76as-scor.html,0/2,-
-/tables/76asch.html,5/3,Asian Nations Cup 1976
-/tables/76e.html,6/3,European Championship 1976
-/tables/76e-full.html,0/1,-
-/tables/76e-fulldet.html,0/1,-
-/tables/78a.html,5/3,African Nations Cup 1978
-/tables/78a-det.html,0/1,-
-/tables/78a-scor.html,0/1,-
+/tables/76a.html,5/5,African Nations Cup 1976
+/tables/76a-det.html,3/2,African Nations Cup 1976 - Final Tournament Details
+/tables/76a-scor.html,3/1,African Nations Cup 1976 (Final Tournament) - Goal Scorers
+/tables/76as-scor.html,3/3,Asian Cup 1976 (Final Tournament) - Goal Scorers
+/tables/76asch.html,5/6,Asian Nations Cup 1976
+/tables/76e.html,6/5,European Championship 1976
+/tables/76e-full.html,3/3,European Championship 1976 - Final Tournament - Full Details
+/tables/76e-fulldet.html,4/3,European Championship 1976 (Details)
+/tables/78a.html,5/5,African Nations Cup 1978
+/tables/78a-det.html,3/2,African Nations Cup 1978 - Final Tournament Details
+/tables/78a-scor.html,3/1,African Nations Cup 1978 (Final Tournament) - Goal Scorers
 /tables/78f.html,6/4,World Cup 1978
 /tables/78full.html,0/3,World Cup 1978 finals
 /tables/78q.html,4/2,World Cup 1978 Qualifying
-/tables/78qual.html,0/2,-
-/tables/79sa-scor.html,0/1,-
+/tables/78qual.html,0/2,World Cup 1978 qualifications
+/tables/79sa.html,4/2,Copa America 1979 (July 18-December 12)
+/tables/79sa-scor.html,1/1,Copa América 1979 - Goal Scorers
 /tables/79safull.html,2/2,Copa América 1979
-/tables/80a.html,5/3,African Nations Cup 1980
-/tables/80a-det.html,0/1,-
-/tables/80a-scor.html,0/1,-
-/tables/80as-scor.html,0/2,-
-/tables/80asch.html,5/3,Asian Nations Cup 1980
-/tables/80e.html,6/3,European Championship 1980
-/tables/80e-full.html,0/1,-
-/tables/80e-fulldet.html,0/1,-
-/tables/80oc.html,0/1,-
-/tables/80oc-scor.html,0/1,-
-/tables/82a.html,5/3,African Nations Cup 1982
-/tables/82a-det.html,0/1,-
-/tables/82a-scor.html,0/1,-
+/tables/80a.html,5/5,African Nations Cup 1980
+/tables/80a-det.html,2/2,African Nations Cup 1980 - Match Details
+/tables/80a-scor.html,3/1,African Nations Cup 1980 (Final Tournament) - Goal Scorers
+/tables/80as-scor.html,3/3,Asian Cup 1980 (Final Tournament) - Goal Scorers
+/tables/80asch.html,5/6,Asian Nations Cup 1980
+/tables/80e.html,6/6,European Championship 1980
+/tables/80e-full.html,3/3,European Championship 1980 - Final Tournament - Full Details
+/tables/80e-fulldet.html,4/3,European Championship 1980 (Details)
+/tables/80oc.html,5/4,Oceanian Cup 1980
+/tables/80oc-scor.html,3/3,Oceanian Nations Cup 1980 - Goal Scorers
+/tables/82a.html,5/5,African Nations Cup 1982
+/tables/82a-det.html,2/2,African Nations Cup 1982 - Match Details
+/tables/82a-scor.html,3/1,African Nations Cup 1982 (Final Tournament) - Goal Scorers
+/tables/82comuni04.html,1/1,Coppa 82 Comuni 2004 (Palermo)
 /tables/82f.html,6/5,World Cup 1982
 /tables/82full.html,0/3,World Cup 1982 finals
 /tables/82q.html,4/2,World Cup 1982 Qualifying
-/tables/82qual.html,0/2,-
-/tables/83sa-scor.html,0/1,-
+/tables/82qual.html,0/2,World Cup 1982 qualifications
+/tables/83sa.html,4/2,Copa America 1983 (August 10-November 4)
+/tables/83sa-scor.html,1/1,Copa América 1983 - Goal Scorers
 /tables/83safull.html,2/2,Copa América 1983
-/tables/84a.html,6/3,African Nations Cup 1984
-/tables/84a-det.html,0/1,-
-/tables/84a-scor.html,0/2,-
-/tables/84as-scor.html,0/1,-
-/tables/84asch.html,5/3,Asian Nations Cup 1984
-/tables/84asch-det.html,0/1,-
-/tables/84e.html,6/3,European Championship 1984
-/tables/84e-full.html,0/1,-
-/tables/84e-qual.html,0/1,-
-/tables/86a.html,6/3,African Nations Cup 1986
-/tables/86a-det.html,0/1,-
-/tables/86a-scor.html,0/2,-
+/tables/84a.html,6/5,African Nations Cup 1984
+/tables/84a-det.html,3/2,African Nations Cup 1984 - Final Tournament Details
+/tables/84a-scor.html,3/3,African Nations Cup 1984 (Final Tournament) - Goal Scorers
+/tables/84as-scor.html,3/1,Asian Cup 1984 (Final Tournament) - Goal Scorers
+/tables/84asch.html,5/7,Asian Nations Cup 1984
+/tables/84asch-det.html,3/2,Asian Nations Cup 1984 - Final Tournament Details
+/tables/84e.html,6/5,European Championship 1984
+/tables/84e-full.html,3/3,European Championship 1984 - Final Tournament - Full Details
+/tables/84e-qual.html,3/4,European Championship 1984 - Qualifying - Full Details
+/tables/86a.html,6/5,African Nations Cup 1986
+/tables/86a-det.html,3/2,African Nations Cup 1986 - Final Tournament Details
+/tables/86a-scor.html,3/3,African Nations Cup 1986 (Final Tournament) - Goal Scorers
 /tables/86f.html,6/4,World Cup 1986
 /tables/86full.html,0/3,World Cup 1986 finals
 /tables/86q.html,4/2,World Cup 1986 Qualifying
-/tables/86qual.html,0/2,-
-/tables/87sa-scor.html,0/1,-
+/tables/86qual.html,0/2,World Cup 1986 qualifications
+/tables/87sa.html,4/2,"Copa America 1987 (Argentina, June 27-July 12)"
+/tables/87sa-scor.html,1/2,Copa América 1987 - Goal Scorers
 /tables/87safull.html,2/2,Copa América 1987
-/tables/88a.html,7/4,African Nations Cup 1988
-/tables/88a-det.html,0/1,-
-/tables/88a-scor.html,0/2,-
-/tables/88as-scor.html,0/2,-
-/tables/88asch.html,6/3,Asian Nations Cup 1988
-/tables/88asch-det.html,0/1,-
-/tables/88e.html,6/3,European Championship 1988
-/tables/88e-full.html,0/1,-
-/tables/88e-qual.html,0/1,-
-/tables/89sa-scor.html,0/1,-
+/tables/88a.html,7/6,African Nations Cup 1988
+/tables/88a-det.html,3/2,African Nations Cup 1988 - Final Tournament Details
+/tables/88a-scor.html,3/3,African Nations Cup 1988 (Final Tournament) - Goal Scorers
+/tables/88as-scor.html,3/3,Asian Cup 1988 (Final Tournament) - Goal Scorers
+/tables/88asch.html,6/6,Asian Nations Cup 1988
+/tables/88asch-det.html,2/2,Asian Nations Cup 1988 Final Tournament - Full Details
+/tables/88e.html,6/5,European Championship 1988
+/tables/88e-full.html,2/2,European Championship 1988 - Final Tournament - Full Details
+/tables/88e-qual.html,2/2,European Championship 1988 - Qualifying - Full Details
+/tables/89sa.html,4/2,Copa America 1989 (Brazil)
+/tables/89sa-scor.html,1/1,Copa América 1989 - Goal Scorers
 /tables/89safull.html,2/2,Copa América 1989
-/tables/90a.html,6/3,African Nations Cup 1990
-/tables/90a-det.html,0/1,-
-/tables/90a-scor.html,0/2,-
+/tables/90a.html,6/6,African Nations Cup 1990
+/tables/90a-det.html,3/2,African Nations Cup 1990 - Final Tournament Details
+/tables/90a-scor.html,3/3,African Nations Cup 1990 (Final Tournament) - Goal Scorers
 /tables/90f.html,6/4,World Cup 1990
 /tables/90full.html,0/3,World Cup 1990 finals
 /tables/90q.html,5/4,World Cup 1990 Qualifying
-/tables/90qual.html,0/2,-
-/tables/91gc.html,0/2,-
-/tables/91gc-scor.html,0/1,-
-/tables/91sa-scor.html,0/1,-
+/tables/90qual.html,0/2,World Cup 1990 qualifications
+/tables/91gc.html,7/7,"CONCACAF Championship, Gold Cup 1991"
+/tables/91gc-details.html,2/2,"CONCACAF Championship, Gold Cup 1991 - Full Details"
+/tables/91gc-full.html,2/3,"CONCACAF Championship, Gold Cup 1991 - Match Details"
+/tables/91gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 1991 - Goal Scorers"
+/tables/91sa.html,5/2,"Copa America 1991 (Chile, July 6-21)"
+/tables/91sa-full.html,1/2,"Copa America 1991 (Chile, July 6-21) - Full Details"
+/tables/91sa-scor.html,1/1,Copa América 1991 - Goal Scorers
 /tables/91safull.html,2/2,Copa América 1991
-/tables/92a.html,5/3,African Nations Cup 1992
-/tables/92a-scor.html,0/2,-
-/tables/92as-scor.html,0/2,-
-/tables/92asch.html,7/3,Asian Nations Cup 1992
-/tables/92asch-det.html,0/1,-
-/tables/92e.html,5/3,European Championship 1992
-/tables/92e-full.html,0/1,-
-/tables/93gc.html,0/2,-
-/tables/93gc-scor.html,0/1,-
-/tables/93sa-scor.html,0/1,-
+/tables/92a.html,5/5,African Nations Cup 1992
+/tables/92a-scor.html,3/3,African Nations Cup 1992 (Final Tournament) - Goal Scorers
+/tables/92as-scor.html,3/3,Asian Cup 1992 (Final Tournament) - Goal Scorers
+/tables/92asch.html,7/5,Asian Nations Cup 1992
+/tables/92asch-det.html,2/2,Asian Nations Cup 1992 Final Tournament - Full Details
+/tables/92e.html,5/5,European Championship 1992
+/tables/92e-full.html,2/2,European Championship 1992 - Final Tournament - Full Details
+/tables/93gc.html,8/8,"CONCACAF Championship, Gold Cup 1993"
+/tables/93gc-details.html,2/2,"CONCACAF Championship, Gold Cup 1993 - Full Details"
+/tables/93gc-full.html,2/3,"CONCACAF Championship, Gold Cup 1993 - Match Details"
+/tables/93gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 1993 - Goal Scorers"
+/tables/93sa.html,5/2,"Copa America 1993 (Ecuador, June 15-July 4)"
+/tables/93sa-full.html,1/2,"Copa America 1993 (Ecuador, June 15-July 4) - Full Details"
+/tables/93sa-scor.html,1/1,Copa América 1993 - Goal Scorers
 /tables/93safull.html,2/2,Copa América 1993
-/tables/94a.html,6/3,African Nations Cup 1994
-/tables/94a-det.html,0/1,-
-/tables/94a-scor.html,0/2,-
+/tables/94a.html,6/6,African Nations Cup 1994
+/tables/94a-det.html,3/2,African Nations Cup 1994 - Final Tournament Details
+/tables/94a-scor.html,3/3,African Nations Cup 1994 (Final Tournament) - Goal Scorers
 /tables/94f.html,6/4,World Cup 1994
-/tables/94full.html,0/3,World Cup 1994 finals
-/tables/94q.html,4/2,World Cup 1994 Qualifying
-/tables/94qual.html,0/2,-
-/tables/95sa-scor.html,0/1,-
+/tables/94full.html,0/4,World Cup 1994 finals
+/tables/94q.html,4/3,World Cup 1994 Qualifying
+/tables/94qual.html,0/2,World Cup 1994 qualifications
+/tables/95sa.html,5/3,"Copa America 1995 (Uruguay, July 5-24)"
+/tables/95sa-details.html,2/2,"Copa America 1995 Details (Uruguay, July 5-24)"
+/tables/95sa-scor.html,1/1,Copa América 1995 - Goal Scorers
 /tables/95safull.html,2/2,Copa América 1995
-/tables/96a.html,6/3,African Nations Cup 1996
-/tables/96a-det.html,0/1,-
-/tables/96a-scor.html,0/2,-
-/tables/96as-scor.html,0/2,-
-/tables/96asch.html,6/3,Asian Nations Cup 1996
-/tables/96asch-ext.html,0/1,-
-/tables/96e.html,8/3,European Championship 1996
-/tables/96e-f.html,0/1,-
+/tables/96a.html,6/5,African Nations Cup 1996
+/tables/96a-det.html,3/2,African Nations Cup 1996 - Final Tournament Details
+/tables/96a-scor.html,3/3,African Nations Cup 1996 (Final Tournament) - Goal Scorers
+/tables/96as-scor.html,3/3,Asian Cup 1996 (Final Tournament) - Goal Scorers
+/tables/96asch.html,6/5,Asian Nations Cup 1996
+/tables/96asch-ext.html,2/2,Asian Nations Cup 1996 Final Tournament - Extended File
+/tables/96e.html,8/4,European Championship 1996
+/tables/96e-f.html,1/2,EURO 1996 finals
 /tables/96e-fullstats.html,0/1,-
-/tables/96e-q.html,0/1,-
-/tables/96e-scor.html,0/1,-
-/tables/96gc.html,0/2,-
-/tables/96gc-scor.html,0/1,-
-/tables/96oc.html,0/3,-
-/tables/96oc-scor.html,0/1,-
-/tables/97sa-scor.html,0/1,-
+/tables/96e-q.html,1/2,EURO 1996 qualifications
+/tables/96e-scor.html,3/1,European Championship 1996 (Final and Qualifying Tournament) - Goal Scorers
+/tables/96gc.html,8/8,"CONCACAF Championship, Gold Cup 1996"
+/tables/96gc-details.html,2/2,"CONCACAF Championship, Gold Cup 1996 - Full Details"
+/tables/96gc-full.html,2/2,"CONCACAF Championship, Gold Cup 1996 - Match Details"
+/tables/96gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 1996 - Goal Scorers"
+/tables/96oc.html,9/7,Oceanian Nations Cup 1996
+/tables/96oc-scor.html,3/3,Oceanian Nations Cup 1996 (Final Tournament) - Goal Scorers
+/tables/97sa.html,5/2,"Copa America 1997 (Bolivia, June 11-29)"
+/tables/97sa-details.html,0/1,-
+/tables/97sa-scor.html,1/2,Copa América 1997 - Goal Scorers
 /tables/97safull.html,2/2,Copa América 1997
-/tables/98-qual-det.html,0/1,-
-/tables/98a.html,6/3,African Nations Cup 1998
-/tables/98a-det.html,0/1,-
-/tables/98a-scor.html,0/2,-
-/tables/98f.html,6/4,World Cup 1998
+/tables/98-qual-det.html,5/3,World Cup 1998 Qualifying - Line-Ups
+/tables/98a.html,6/5,African Nations Cup 1998
+/tables/98a-det.html,3/2,African Nations Cup 1998 - Final Tournament Details
+/tables/98a-scor.html,3/3,African Nations Cup 1998 (Final Tournament) - Goal Scorers
+/tables/98f.html,6/5,World Cup 1998
 /tables/98full.html,0/3,World Cup 1998 finals
-/tables/98gc.html,0/2,-
-/tables/98gc-scor.html,0/1,-
-/tables/98oc.html,0/3,-
-/tables/98oc-scor.html,0/1,-
-/tables/98q.html,5/3,World Cup 1998 Qualifying
-/tables/98qual.html,0/2,-
-/tables/99sa-scor.html,0/1,-
+/tables/98gc.html,8/8,"CONCACAF Championship, Gold Cup 1998"
+/tables/98gc-details.html,2/2,"CONCACAF Championship, Gold Cup 1998 - Full Details"
+/tables/98gc-full.html,2/2,"CONCACAF Championship, Gold Cup 1998 - Full Details"
+/tables/98gc-scor.html,1/1,"CONCACAF Championship, Gold Cup 1998 - Goal Scorers"
+/tables/98oc.html,7/7,Oceanian Nations Cup 1998
+/tables/98oc-scor.html,3/3,Oceanian Nations Cup 1998 (Final Tournament) - Goal Scorers
+/tables/98q.html,5/4,World Cup 1998 Qualifying
+/tables/98qual.html,1/3,World Cup 1998 qualifications
+/tables/99sa.html,4/2,"Copa America 1999 (Paraguay, June 29-July 18)"
+/tables/99sa-scor.html,1/1,Copa América 1999 - Goal Scorers
 /tables/99safull.html,2/2,Copa América 1999
