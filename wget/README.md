@@ -5,10 +5,12 @@ tip:  ask your a.i. of choice on how to mirror the rsssf.org website
 using the wget command-line tool
 
 
-note - wget will treat   rsssf.org and www.rsssf.org as different domains;
-use rsssf.org
-(that, will ingore wwww.rsssf.org links;
-possibly check if any links use the www.rsssf.org domain).
+note - wget will treat `rsssf.org` and `www.rsssf.org` as different domains;
+use `rsssf.org`
+(that, will ignore `wwww.rsssf.org` links;
+possibly check if any links use the `www.rsssf.org` domain).
+
+
 
 
 
