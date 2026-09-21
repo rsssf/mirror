@@ -1,118 +1,165 @@
 path,links,title
+/ec/Armenia.htm,2/2,Armenia
+/ec/Azerbaijan.htm,2/2,Azerbaijan
+/ec/Belarus.htm,2/2,Belarus
+/ec/Belgium.htm,2/1,Belgium
+/ec/Bosnia.htm,2/2,Bosnia
+/ec/Bulgaria.htm,1/1,Bulgaria
+/ec/Croatia.htm,2/2,Croatia
+/ec/Czech.htm,2/2,Czech
+/ec/Czechoslovakia.htm,3/3,Czechoslovakia
+/ec/Denmark.htm,1/1,Denmark
+/ec/Domestic.htm,1/9,Domestic ties
+/ec/Estonia.htm,2/2,Estonia
+/ec/Faroe.htm,1/1,Faroe Islands
+/ec/Finland.htm,1/1,Finland
+/ec/France.htm,2/1,France
+/ec/FRG.htm,3/2,FRG
+/ec/FRYugoslavia.htm,2/2,FRYugoslavia
+/ec/GDR.htm,2/2,GDR
+/ec/Georgia.htm,2/2,Georgia
+/ec/Germany.htm,4/3,Germany
+/ec/Hungary.htm,1/1,Hungary
+/ec/Iceland.htm,1/1,Iceland
+/ec/Latvia.htm,2/2,Latvia
+/ec/Lithuania.htm,2/2,Lithuania
+/ec/Luxembourg.htm,1/1,Luxembourg
+/ec/Macedonia.htm,2/2,FYR Macedonia
+/ec/Moldova.htm,2/2,Moldova
+/ec/NorthernIreland.htm,1/1,Northern Ireland
+/ec/Norway.htm,1/1,Norway
+/ec/Poland.htm,1/1,Poland
+/ec/Romania.htm,1/1,Romania
+/ec/Russia.htm,2/2,Russia
+/ec/SanMarino.htm,1/1,Bosnia
+/ec/Slovakia.htm,2/2,Slovakia
+/ec/Slovenia.htm,2/2,Slovenia
+/ec/Sweden.htm,1/1,Sweden
+/ec/Ukraine.htm,2/2,Ukraine
+/ec/USSR.htm,11/11,USSR
+/ec/Wales.htm,1/1,Wales
+/ec/Yugoslavia.htm,7/6,Yugoslavia
+/ec/Albania.html,1/1,Albania
+/ec/Andorra.html,1/1,Andorra
+/ec/Austria.html,1/1,Austria
+/ec/Cyprus.html,1/1,Cyprus
 /ec/ec-futs-unoff.html,3/4,Futsal Champions Clubs Tournament
-/ec/ec-futsal.html,11/2,UEFA Futsal Cup
-/ec/ec-futsal02.html,0/2,?
-/ec/ec-futsal03.html,0/1,?
-/ec/ec-futsal04.html,0/1,?
-/ec/ec-futsal05.html,0/1,?
-/ec/ec-futsal06.html,0/1,?
-/ec/ec-futsal07.html,0/1,?
-/ec/ec-futsal08.html,0/1,?
-/ec/ec-futsal09.html,0/1,?
-/ec/ec-futsal2010.html,0/1,?
-/ec/ec-futscwc-unoff.html,0/2,?
-/ec/ec-wom.html,26/2,UEFA Club Championship (Women)
-/ec/ec-wom02.html,0/1,?
-/ec/ec-wom03.html,0/1,?
-/ec/ec-wom04.html,0/1,?
-/ec/ec-wom05.html,0/1,?
-/ec/ec-wom06.html,0/1,?
-/ec/ec-wom07.html,0/1,?
-/ec/ec-wom08.html,0/1,?
-/ec/ec-wom09.html,0/1,?
-/ec/ec-wom2010.html,0/1,?
-/ec/ec-wom2011.html,0/1,?
-/ec/ec-wom2012.html,0/1,?
-/ec/ec-wom2013.html,0/1,?
-/ec/ec-wom2014.html,0/1,?
-/ec/ec-wom2015.html,0/1,?
-/ec/ec-wom2016.html,0/1,?
-/ec/ec-wom2017.html,0/1,?
-/ec/ec-wom2018.html,0/1,?
-/ec/ec-wom2019.html,0/1,?
-/ec/ec-wom2020.html,0/1,?
-/ec/ec-wom2021.html,0/1,?
-/ec/ec-wom2022.html,0/1,?
-/ec/ec-wom2023.html,0/1,?
-/ec/ec-wom2024.html,0/2,?
-/ec/ec-wom2025.html,3/3,UEFA Club Championship (Women) 2024/25
+/ec/ec-futsal.html,11/11,UEFA Futsal Cup
+/ec/ec-futsal02.html,3/3,UEFA Futsal Cup 2001/02
+/ec/ec-futsal03.html,4/3,UEFA Futsal Cup 2002/03
+/ec/ec-futsal04.html,4/3,UEFA Futsal Cup 2003/04
+/ec/ec-futsal05.html,4/3,UEFA Futsal Cup 2004/05
+/ec/ec-futsal06.html,4/3,UEFA Futsal Cup 2005/06
+/ec/ec-futsal07.html,4/3,UEFA Futsal Cup 2006/07
+/ec/ec-futsal08.html,4/3,UEFA Futsal Cup 2007/08
+/ec/ec-futsal09.html,4/3,UEFA Futsal Cup 2008/09
+/ec/ec-futsal2010.html,3/2,UEFA Futsal Cup 2009/10
+/ec/ec-futscwc-unoff.html,1/2,Futsal Cup Winners Tournaments
+/ec/ec-wom.html,26/28,UEFA Club Championship (Women)
+/ec/ec-wom02.html,3/2,UEFA Club Championship (Women) 2001/02
+/ec/ec-wom03.html,5/4,UEFA Club Championship (Women) 2002/03
+/ec/ec-wom03det.html,3/1,UEFA Club Championship (Women) 2002/03 - Details Knock-Out Phase
+/ec/ec-wom04.html,5/4,UEFA Club Championship (Women) 2003/04
+/ec/ec-wom04det.html,3/1,UEFA Club Championship (Women) 2003/04 - Details Knock-Out Phase
+/ec/ec-wom05.html,5/5,UEFA Club Championship (Women) 2004/05
+/ec/ec-wom05det.html,3/1,UEFA Club Championship (Women) 2004/05 - Details Knock-Out Phase
+/ec/ec-wom06.html,4/3,UEFA Club Championship (Women) 2005/06
+/ec/ec-wom07.html,5/3,UEFA Club Championship (Women) 2006/07
+/ec/ec-wom08.html,4/3,UEFA Club Championship (Women) 2007/08
+/ec/ec-wom09.html,4/3,UEFA Club Championship (Women) 2008/09
+/ec/ec-wom2010.html,4/3,UEFA Club Championship (Women) 2009/10
+/ec/ec-wom2011.html,4/3,UEFA Club Championship (Women) 2010/11
+/ec/ec-wom2012.html,4/3,UEFA Club Championship (Women) 2011/12
+/ec/ec-wom2013.html,4/3,UEFA Club Championship (Women) 2012/13
+/ec/ec-wom2014.html,4/3,UEFA Club Championship (Women) 2013/14
+/ec/ec-wom2015.html,4/3,UEFA Club Championship (Women) 2014/15
+/ec/ec-wom2016.html,4/3,UEFA Club Championship (Women) 2015/16
+/ec/ec-wom2017.html,4/3,UEFA Club Championship (Women) 2016/17
+/ec/ec-wom2018.html,4/3,UEFA Club Championship (Women) 2017/18
+/ec/ec-wom2019.html,4/3,UEFA Club Championship (Women) 2018/19
+/ec/ec-wom2020.html,4/3,UEFA Club Championship (Women) 2019/20
+/ec/ec-wom2021.html,4/3,UEFA Club Championship (Women) 2020/21
+/ec/ec-wom2022.html,4/3,UEFA Club Championship (Women) 2021/22
+/ec/ec-wom2023.html,4/3,UEFA Club Championship (Women) 2022/23
+/ec/ec-wom2024.html,4/3,UEFA Club Championship (Women) 2023/24
+/ec/ec-wom2025.html,3/4,UEFA Club Championship (Women) 2024/25
 /ec/ec-womalltime.html,1/3,Women UEFA-Cup - All-Time Table
-/ec/ec195556.html,4/3,European Competitions 1955-56
-/ec/ec195556det.html,0/2,?
-/ec/ec195556yug.html,0/2,?
-/ec/ec195657.html,5/4,European Competitions 1956-57
-/ec/ec195657det.html,0/2,?
-/ec/ec195657yug.html,0/2,?
-/ec/ec195758.html,6/6,European Competitions 1957-58
-/ec/ec195758det.html,0/2,?
-/ec/ec195859.html,5/4,European Competitions 1958-59
-/ec/ec195859det.html,0/2,?
-/ec/ec195960.html,6/6,European Competitions 1959-60
-/ec/ec195960det.html,0/2,?
-/ec/ec196061.html,6/6,European Competitions 1960-61
-/ec/ec196061det.html,0/2,?
-/ec/ec196162.html,5/6,European Competitions 1961-62
-/ec/ec196162det.html,0/3,European Champions' Cup and Fairs' Cup 1961-62 - Details
-/ec/ec196263.html,5/6,European Competitions 1962-63
-/ec/ec196263det.html,0/2,?
-/ec/ec196364.html,5/6,European Competitions 1963-64
-/ec/ec196364det.html,0/2,?
-/ec/ec196465.html,5/6,European Competitions 1964-65
-/ec/ec196465det.html,0/2,?
-/ec/ec196566.html,5/6,European Competitions 1965-66
-/ec/ec196566det.html,0/3,?
-/ec/ec196667.html,5/6,European Competitions 1966-67
-/ec/ec196667det.html,0/3,?
-/ec/ec196768.html,5/6,European Competitions 1967-68
-/ec/ec196768det.html,0/3,?
-/ec/ec196869.html,5/6,European Competitions 1968-69
-/ec/ec196869det.html,0/3,?
-/ec/ec196970.html,5/6,European Competitions 1969-70
-/ec/ec196970det.html,0/3,?
-/ec/ec197071.html,5/6,European Competitions 1970-71
-/ec/ec197071det.html,0/2,?
-/ec/ec197172.html,5/7,European Competitions 1971-72
-/ec/ec197172det.html,0/2,?
-/ec/ec197273.html,5/7,European Competitions 1972-73
-/ec/ec197273det.html,0/2,?
-/ec/ec197374.html,5/7,European Competitions 1973-74
-/ec/ec197374det.html,0/2,?
-/ec/ec197475.html,5/7,European Competitions 1974-75
-/ec/ec197475det.html,0/2,?
-/ec/ec197576.html,5/7,European Competitions 1975-76
-/ec/ec197576det.html,0/2,?
-/ec/ec197677.html,5/7,European Competitions 1976-77
-/ec/ec197677det.html,0/2,?
-/ec/ec197778.html,5/7,European Competitions 1977-78
-/ec/ec197778det.html,0/2,?
-/ec/ec197879.html,5/7,European Competitions 1978-79
-/ec/ec197879det.html,0/2,?
-/ec/ec197980.html,5/7,European Competitions 1979-80
-/ec/ec197980det.html,0/2,?
-/ec/ec198081.html,5/7,European Competitions 1980-81
-/ec/ec198081det.html,0/2,?
-/ec/ec198182.html,5/7,European Competitions 1981-82
-/ec/ec198182det.html,0/2,?
-/ec/ec198283.html,5/7,European Competitions 1982-83
-/ec/ec198283det.html,0/2,?
-/ec/ec198384.html,5/7,European Competitions 1983-84
-/ec/ec198384det.html,0/2,?
-/ec/ec198485.html,5/7,European Competitions 1984-85
-/ec/ec198485det.html,0/2,?
-/ec/ec198586.html,5/8,European Competitions 1985-86
-/ec/ec198586det.html,0/2,?
-/ec/ec198687.html,5/7,European Competitions 1986-87
-/ec/ec198687det.html,0/2,?
-/ec/ec198788.html,5/8,European Competitions 1987-88
-/ec/ec198788det.html,0/2,?
-/ec/ec198889.html,5/7,European Competitions 1988-89
-/ec/ec198889det.html,0/2,?
-/ec/ec198990.html,5/7,European Competitions 1989-90
-/ec/ec198990det.html,0/2,?
-/ec/ec199091.html,5/7,European Competitions 1990-91
-/ec/ec199091det.html,0/2,?
-/ec/ec199192.html,5/7,European Competitions 1991-92
-/ec/ec199192det.html,0/2,?
+/ec/ec195556.html,4/5,European Competitions 1955-56
+/ec/ec195556det.html,3/2,European Champions' Cup 1955-56 - Details
+/ec/ec195556yug.html,4/4,European Champions' Cup 1955-56 - Match Details Partizan Beograd
+/ec/ec195657.html,5/6,European Competitions 1956-57
+/ec/ec195657det.html,3/2,European Champions' Cup 1956-57 - Details
+/ec/ec195657yug.html,4/4,European Champions' Cup 1956-57 - Match Details Crvena zvezda Beograd
+/ec/ec195758.html,6/7,European Competitions 1957-58
+/ec/ec195758det.html,2/2,European Champions' Cup 1957-58 and Fairs' Cup 1955-58 - Details
+/ec/ec195859.html,5/5,European Competitions 1958-59
+/ec/ec195859det.html,2/2,European Champions' Cup 1958-59 - Details
+/ec/ec195960.html,6/7,European Competitions 1959-60
+/ec/ec195960det.html,2/2,European Champions' Cup 1959-60 and Fairs' Cup 1958-60 - Details
+/ec/ec196061.html,6/7,European Competitions 1960-61
+/ec/ec196061det.html,2/2,European Champions' Cup and Fairs' Cup 1960-61 - Details
+/ec/ec196162.html,5/7,European Competitions 1961-62
+/ec/ec196162det.html,2/3,European Champions' Cup and Fairs' Cup 1961-62 - Details
+/ec/ec196263.html,5/7,European Competitions 1962-63
+/ec/ec196263det.html,2/2,European Champions' Cup and Fairs' Cup 1962-63 - Details
+/ec/ec196364.html,5/7,European Competitions 1963-64
+/ec/ec196364det.html,2/2,European Champions' Cup and Fairs' Cup 1963-64 - Details
+/ec/ec196465.html,5/7,European Competitions 1964-65
+/ec/ec196465det.html,2/2,European Champions' Cup and Fairs' Cup 1964-65 - Details
+/ec/ec196566.html,5/7,European Competitions 1965-66
+/ec/ec196566det.html,2/3,European Champions' Cup and Fairs' Cup 1965-66 - Details
+/ec/ec196667.html,5/7,European Competitions 1966-67
+/ec/ec196667det.html,2/3,European Champions' Cup and Fairs' Cup 1966-67 - Details
+/ec/ec196768.html,5/7,European Competitions 1967-68
+/ec/ec196768det.html,2/3,European Champions' Cup and Fairs' Cup 1967-68 - Details
+/ec/ec196869.html,5/7,European Competitions 1968-69
+/ec/ec196869det.html,2/3,European Champions' Cup and Fairs' Cup 1968-69 - Details
+/ec/ec196970.html,5/7,European Competitions 1969-70
+/ec/ec196970det.html,2/3,European Champions' Cup and Fairs' Cup 1969-70 - Details
+/ec/ec197071.html,5/7,European Competitions 1970-71
+/ec/ec197071det.html,2/2,European Champions' Cup and Fairs' Cup 1970-71 - Details
+/ec/ec197172.html,5/8,European Competitions 1971-72
+/ec/ec197172det.html,2/2,European Champions' Cup 1971-72 - Details
+/ec/ec197273.html,5/8,European Competitions 1972-73
+/ec/ec197273det.html,2/2,European Champions' Cup 1972-73 - Details
+/ec/ec197374.html,5/8,European Competitions 1973-74
+/ec/ec197374det.html,2/2,European Champions' Cup 1973-74 - Details
+/ec/ec197475.html,5/8,European Competitions 1974-75
+/ec/ec197475det.html,2/2,European Champions' Cup 1974-75 - Details
+/ec/ec197576.html,5/8,European Competitions 1975-76
+/ec/ec197576det.html,2/2,European Champions' Cup 1975-76 - Details
+/ec/ec197677.html,5/8,European Competitions 1976-77
+/ec/ec197677det.html,2/2,European Champions' Cup 1976-77 - Details
+/ec/ec197778.html,5/8,European Competitions 1977-78
+/ec/ec197778det.html,2/2,European Champions' Cup 1977-78 - Details
+/ec/ec197879.html,5/8,European Competitions 1978-79
+/ec/ec197879det.html,2/2,European Champions' Cup 1978-79 - Details
+/ec/ec197980.html,5/8,European Competitions 1979-80
+/ec/ec197980det.html,2/2,European Champions' Cup 1979-80 - Details
+/ec/ec198081.html,5/8,European Competitions 1980-81
+/ec/ec198081det.html,2/2,European Champions' Cup 1980-81 - Details
+/ec/ec198182.html,5/8,European Competitions 1981-82
+/ec/ec198182det.html,2/2,European Champions' Cup 1981-82 - Details
+/ec/ec198283.html,5/8,European Competitions 1982-83
+/ec/ec198283det.html,2/2,European Champions' Cup 1982-83 - Details
+/ec/ec198384.html,5/8,European Competitions 1983-84
+/ec/ec198384det.html,2/2,European Champions' Cup 1983-84 - Details
+/ec/ec198485.html,5/8,European Competitions 1984-85
+/ec/ec198485det.html,2/2,European Champions' Cup 1984-85 - Details
+/ec/ec198586.html,5/9,European Competitions 1985-86
+/ec/ec198586det.html,2/2,European Champions' Cup 1985-86 - Details
+/ec/ec198687.html,5/8,European Competitions 1986-87
+/ec/ec198687det.html,2/2,European Champions' Cup 1986-87 - Details
+/ec/ec198788.html,5/9,European Competitions 1987-88
+/ec/ec198788det.html,2/2,European Champions' Cup 1987-88 - Details
+/ec/ec198889.html,5/8,European Competitions 1988-89
+/ec/ec198889det.html,2/2,European Champions' Cup 1988-89 - Details
+/ec/ec198990.html,5/8,European Competitions 1989-90
+/ec/ec198990det.html,2/2,European Champions' Cup 1989-90 - Details
+/ec/ec199091.html,5/8,European Competitions 1990-91
+/ec/ec199091det.html,2/2,European Champions' Cup 1990-91 - Details
+/ec/ec199192.html,5/8,European Competitions 1991-92
+/ec/ec199192det.html,2/2,European Champions' Cup 1991-92 - Details
 /ec/ec199293.html,4/7,European Competitions 1992-93
 /ec/ec199394.html,4/7,European Competitions 1993-94
 /ec/ec199495.html,4/7,European Competitions 1994-95
@@ -123,25 +170,25 @@ path,links,title
 /ec/ec199900.html,4/7,"UEFA Champions League, UEFA Cup 1999-2000"
 /ec/ec1semis.html,1/2,Champions Cup/League Semifinals Analysis
 /ec/ec1stats.html,2/1,UEFA Champions League Finals 1956-2026
-/ec/ec1tops.html,3/4,Champions Cup/Champions League Topscorers
+/ec/ec1tops.html,3/5,Champions Cup/Champions League Topscorers
 /ec/ec1topsdet.html,2/3,Champions Cup/Champions League Topscorers Details
 /ec/ec200001.html,4/6,"UEFA Champions League, UEFA Cup 2000-01"
 /ec/ec200102.html,5/7,"UEFA Champions League, UEFA Cup 2001-02"
-/ec/ec200102qual.html,0/1,?
-/ec/ec200203.html,5/6,"UEFA Champions League, UEFA Cup 2002-03"
-/ec/ec200203det.html,0/1,?
-/ec/ec200304.html,5/7,"UEFA Champions League, UEFA Cup 2003-04"
-/ec/ec200304det.html,0/1,?
-/ec/ec200405.html,5/7,"UEFA Champions League, UEFA Cup 2004-05"
-/ec/ec200405det.html,0/1,?
-/ec/ec200506.html,5/7,"UEFA Champions League, UEFA Cup 2005-06"
-/ec/ec200506det.html,0/1,?
-/ec/ec200607.html,5/7,"UEFA Champions League, UEFA Cup 2006-07"
-/ec/ec200607det.html,0/1,?
-/ec/ec200708.html,5/7,"UEFA Champions League, UEFA Cup 2007-08"
-/ec/ec200708det.html,0/1,?
-/ec/ec200809.html,5/7,"UEFA Champions League, UEFA Cup 2008-09"
-/ec/ec200809det.html,0/1,?
+/ec/ec200102qual.html,1/1,"UEFA Champions League, UEFA Cup 2001-02"
+/ec/ec200203.html,5/7,"UEFA Champions League, UEFA Cup 2002-03"
+/ec/ec200203det.html,2/1,UEFA Champions League 2002/03 Details
+/ec/ec200304.html,5/8,"UEFA Champions League, UEFA Cup 2003-04"
+/ec/ec200304det.html,2/1,"UEFA Champions League, UEFA Cup 2003/04 Details"
+/ec/ec200405.html,5/8,"UEFA Champions League, UEFA Cup 2004-05"
+/ec/ec200405det.html,2/1,"UEFA Champions League, UEFA Cup 2004/05 Details"
+/ec/ec200506.html,5/8,"UEFA Champions League, UEFA Cup 2005-06"
+/ec/ec200506det.html,2/1,"UEFA Champions League, UEFA Cup 2005/06 Details"
+/ec/ec200607.html,5/8,"UEFA Champions League, UEFA Cup 2006-07"
+/ec/ec200607det.html,2/1,"UEFA Champions League, UEFA Cup 2006/07 Details"
+/ec/ec200708.html,5/8,"UEFA Champions League, UEFA Cup 2007-08"
+/ec/ec200708det.html,2/1,"UEFA Champions League, UEFA Cup 2007/08 Details"
+/ec/ec200809.html,5/8,"UEFA Champions League, UEFA Cup 2008-09"
+/ec/ec200809det.html,2/1,"UEFA Champions League, UEFA Cup 2008/09 Details"
 /ec/ec200910.html,4/7,"UEFA Champions League, Europa League 2009-10"
 /ec/ec201011.html,4/7,"UEFA Champions League, Europa League 2010-11"
 /ec/ec201112.html,4/7,"UEFA Champions League, Europa League 2011-12"
@@ -159,13 +206,27 @@ path,links,title
 /ec/ec202324.html,4/8,"UEFA Champions League, Europa League 2023-24"
 /ec/ec202425.html,3/9,"UEFA Champions League, Europa League 2024-25"
 /ec/ec2stats.html,2/1,European Cup Winners' Cup Finals 1961-99
-/ec/ec2tops.html,2/3,Cup Winners Cup Topscorers
+/ec/ec2tops.html,2/5,Cup Winners Cup Topscorers
 /ec/ec3stats.html,2/1,Fairs Cup/UEFA Cup/Europa League Finals 1958-2026
-/ec/ec3tops.html,2/3,Fairs/UEFA Cup/Europa League Topscorers
+/ec/ec3tops.html,2/4,Fairs/UEFA Cup/Europa League Topscorers
 /ec/ec4tops.html,1/1,UEFA Conference League Topscorers
 /ec/ecfinaltops.html,2/3,UEFA Club Cup Finals - Topscorers
 /ec/ecomp.html,78/75,"European Cups Archive - UEFA Champions League, Cup Winners Cup, UEFA Cup
 1955-2021"
 /ec/ecparticipants.html,1/1,List of All Participants in European Cup 1955/56-1999/2000
-/ec/kiev.html,0/1,?
-/ec/Main.html,0/1,?
+/ec/England.html,2/1,England
+/ec/Greece.html,1/1,Greece
+/ec/Ireland.html,1/1,Republic of Ireland
+/ec/Israel.html,1/1,Israel
+/ec/Italy.html,2/1,Italy
+/ec/kiev.html,0/1,-
+/ec/Liechtenstein.html,1/1,Liechtenstein
+/ec/Main.html,58/59,Main Menu
+/ec/Malta.html,1/1,Malta
+/ec/Netherlands.html,1/1,Netherlands
+/ec/Portugal.html,1/1,Portugal
+/ec/Saarland.html,1/1,Saarland
+/ec/Scotland.html,1/1,Scotland
+/ec/Spain.html,2/1,Spain
+/ec/Switzerland.html,1/1,Switzerland
+/ec/Turkey.html,1/1,Turkey

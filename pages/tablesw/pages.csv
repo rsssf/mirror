@@ -29,16 +29,16 @@ path,links,title
 /tablesw/wafc98.html,4/3,UFOA Cup 1998
 /tablesw/wafc99.html,4/3,UFOA Cup 1999
 /tablesw/waff.html,10/10,West Asian Championship
-/tablesw/waff02.html,5/4,West Asian Championship (Syria) 2002
+/tablesw/waff02.html,5/5,West Asian Championship (Syria) 2002
 /tablesw/waff02det.html,2/2,West Asian Championship (Syria) 2002 - Details
-/tablesw/waff04.html,4/3,West Asian Championship (Iran) 2004
+/tablesw/waff04.html,4/4,West Asian Championship (Iran) 2004
 /tablesw/waff06.html,4/3,West Asian Championship (Jordan) 2007
 /tablesw/waff08.html,4/3,West Asian Championship (Tehran) 2008
 /tablesw/waff2010.html,4/3,West Asian Championship (Amman) 2010
 /tablesw/waff2012.html,4/3,West Asian Championship (Kuwait) 2012
 /tablesw/waff2014.html,4/3,West Asian Championship (Qatar) 2014
 /tablesw/waff2019.html,3/4,West Asian Championship (Iraq) 2019
-/tablesw/wafu01.html,4/5,WAFU Nations Cup 2001
+/tablesw/wafu01.html,4/7,WAFU Nations Cup 2001
 /tablesw/wafu05.html,3/6,WAFU Laurent Gbagbo West African Unity Cup 2005
 /tablesw/wafu2010.html,4/3,WAFU Nations Cup 2010
 /tablesw/wafu2011.html,4/3,WAFU Nations Cup 2011
@@ -50,9 +50,10 @@ path,links,title
 /tablesw/wal-intres00.html,3/2,Wales - International Results 2000-2005 - Details
 /tablesw/wal-intres80.html,3/2,Wales - International Results 1980-1989 - Details
 /tablesw/wal-intres90.html,4/3,Wales - International Results 1990-1999 - Details
-/tablesw/wal-wom06.html,0/1,?
-/tablesw/wal-wom09.html,0/1,?
-/tablesw/wal-wom2010.html,4/4,Wales (Women) 2009/10
+/tablesw/wal-wom06.html,4/4,Wales (Women) 2005/06
+/tablesw/wal-wom08.html,4/1,Wales (Women) 2007/08
+/tablesw/wal-wom09.html,4/2,Wales (Women) 2009
+/tablesw/wal-wom2010.html,4/5,Wales (Women) 2009/10
 /tablesw/wal-wom2011.html,4/3,Wales (Women) 2010/11
 /tablesw/wal-wom2012.html,4/6,Wales (Women) 2011/12
 /tablesw/wal-wom2013.html,5/5,Wales (Women) 2012/13
@@ -60,20 +61,20 @@ path,links,title
 /tablesw/wal-wom2015.html,5/5,Wales (Women) 2014/15
 /tablesw/wal-wom2016.html,5/5,Wales (Women) 2015/16
 /tablesw/wal-wom2017.html,5/5,Wales (Women) 2016/17
-/tablesw/wal-wom2018.html,5/4,Wales (Women) 2017/18
-/tablesw/wal-wom2019.html,0/4,?
-/tablesw/wal-wom2020.html,5/5,Wales (Women) 2019/20
+/tablesw/wal-wom2018.html,5/5,Wales (Women) 2017/18
+/tablesw/wal-wom2019.html,5/4,Wales (Women) 2018/19
+/tablesw/wal-wom2020.html,5/6,Wales (Women) 2019/20
 /tablesw/wal-wom2021.html,5/4,Wales (Women) 2020/21
 /tablesw/wal-wom2022.html,5/4,Wales (Women) 2021/22
 /tablesw/wal-wom2023.html,5/4,Wales (Women) 2022/23
 /tablesw/wal-wom2024.html,4/3,Wales (Women) 2023/24
-/tablesw/wal-womchamp.html,16/13,Wales - List of Women Champions
-/tablesw/wal-womcup01.html,0/1,?
-/tablesw/wal-womcup02.html,0/1,?
-/tablesw/wal-womcup03.html,0/1,?
-/tablesw/wal-womcup04.html,0/1,?
-/tablesw/wal-womcup05.html,0/1,?
-/tablesw/wal-womcuphist.html,17/17,Wales - List of Challenge Cup Finals (Women)
+/tablesw/wal-womchamp.html,16/14,Wales - List of Women Champions
+/tablesw/wal-womcup01.html,3/2,Wales Cup (Women) 2000/01
+/tablesw/wal-womcup02.html,4/3,Wales Cup (Women) 2001/02
+/tablesw/wal-womcup03.html,4/3,Wales Cup (Women) 2002/03
+/tablesw/wal-womcup04.html,4/3,Wales Cup (Women) 2003/04
+/tablesw/wal-womcup05.html,4/3,Wales Cup (Women) 2004/05
+/tablesw/wal-womcuphist.html,17/26,Wales - List of Challenge Cup Finals (Women)
 /tablesw/wal00.html,5/5,Wales 1999/2000
 /tablesw/wal01.html,6/5,Wales 2000/01
 /tablesw/wal02.html,6/5,Wales 2001/02
@@ -143,7 +144,7 @@ path,links,title
 /tablesw/wal1938.html,6/4,Wales (Cup) 1937/38
 /tablesw/wal1939.html,6/4,Wales (Cup) 1938/39
 /tablesw/wal1940.html,6/4,Wales (Cup) 1939/40
-/tablesw/wal2010.html,7/6,Wales 2009/10
+/tablesw/wal2010.html,7/7,Wales 2009/10
 /tablesw/wal2011.html,7/6,Wales 2010/11
 /tablesw/wal2012.html,7/6,Wales 2011/12
 /tablesw/wal2013.html,7/6,Wales 2012/13
@@ -215,38 +216,45 @@ path,links,title
 /tablesw/walamatcuphist.html,4/3,Wales - List of Welsh Amateur Cup Finals
 /tablesw/walchamp.html,55/154,Wales - List of Champions
 /tablesw/walcott.html,5/7,Walcott Cup
-/tablesw/walcup00.html,4/3,Wales Cup 1999/2000
-/tablesw/walcup01.html,5/3,Wales Cup 2000/01
-/tablesw/walcup02.html,4/3,Wales Cups 2001/02
-/tablesw/walcup03.html,4/3,Wales Cups 2002/03
-/tablesw/walcup04.html,5/3,Wales Cups 2003/04
-/tablesw/walcup05.html,5/3,Wales Cups 2004/05
-/tablesw/walcup06.html,7/3,Wales Cups 2005/06
-/tablesw/walcup07.html,7/3,Wales Cups 2006/07
-/tablesw/walcup08.html,7/3,Wales Cups 2007/08
-/tablesw/walcup09.html,6/2,Wales Cups 2008/09
+/tablesw/walcup00.html,4/4,Wales Cup 1999/2000
+/tablesw/walcup01.html,5/4,Wales Cup 2000/01
+/tablesw/walcup02.html,4/4,Wales Cups 2001/02
+/tablesw/walcup03.html,4/4,Wales Cups 2002/03
+/tablesw/walcup04.html,5/4,Wales Cups 2003/04
+/tablesw/walcup05.html,5/4,Wales Cups 2004/05
+/tablesw/walcup06.html,7/4,Wales Cups 2005/06
+/tablesw/walcup07.html,7/4,Wales Cups 2006/07
+/tablesw/walcup08.html,7/4,Wales Cups 2007/08
+/tablesw/walcup09.html,6/3,Wales Cups 2008/09
 /tablesw/walcup87.html,5/4,Wales 1986/87
 /tablesw/walcup92.html,5/4,Wales 1991/92
-/tablesw/walcup98.html,4/2,Wales Cup 1997/98
-/tablesw/walcup99.html,4/3,Wales Cup 1998/99
+/tablesw/walcup98.html,4/3,Wales Cup 1997/98
+/tablesw/walcup99.html,4/4,Wales Cup 1998/99
 /tablesw/walcuphist.html,140/157,Wales - List of Cup Finals
-/tablesw/wales-u15-92.html,0/2,?
+/tablesw/wales-u15-92.html,1/2,U-15 (Schoolboys) Tournament 1992 in Wales
 /tablesw/walesxi-oceania71.html,2/2,Wales XI Tour of Asia and Oceania 1971
 /tablesw/walfound.html,1/2,Wales - List of Foundation Dates
 /tablesw/walikota2015.html,1/1,Piala Walikota (Padang) 2015
 /tablesw/walleagcuphist.html,34/30,Wales - List of League Cup Finals
-/tablesw/wallis-fut01.html,0/1,?
-/tablesw/wallis-fut2017.html,0/1,?
-/tablesw/wallis-fut2023.html,2/1,Wallis and Futuna 2023
+/tablesw/wallis-fut01.html,3/3,Wallis and Futuna 2001
+/tablesw/wallis-fut08.html,3/2,Wallis and Futuna 2008
+/tablesw/wallis-fut2010.html,3/2,Wallis and Futuna 2009/10
+/tablesw/wallis-fut2014.html,3/2,Wallis and Futuna 2014
+/tablesw/wallis-fut2015.html,3/2,Wallis and Futuna 2015
+/tablesw/wallis-fut2017.html,3/2,Wallis and Futuna 2017
+/tablesw/wallis-fut2023.html,2/2,Wallis and Futuna 2023
+/tablesw/wallis-fut62.html,2/1,Wallis and Futuna 1962
+/tablesw/wallis-fut97.html,3/2,Wallis and Futuna 1997
+/tablesw/wallis-fut98.html,3/2,Wallis and Futuna 1998
 /tablesw/wallis-futfound.html,1/1,Wallis and Futuna - List of Foundation Dates
 /tablesw/wallisf-intres.html,1/2,Wallis and Futuna - List of International Matches
 /tablesw/walpremcuphist.html,12/4,Wales - List of Premier Cup Finals
 /tablesw/waltops.html,1/35,Wales - List of Topscorers
 /tablesw/wanbao88.html,1/3,Wanbao Cup (Guangzhou) 1988
-/tablesw/wantok08.html,0/2,?
-/tablesw/wasquehal-u18-89.html,0/2,?
+/tablesw/wantok08.html,1/2,Wantok Cup 2008
+/tablesw/wasquehal-u18-89.html,1/2,Youth Tournament U-18 in Wasquehal 1989
 /tablesw/wba-satrip66.html,1/3,South American Trip of West Bromwich Albion 1966
-/tablesw/wc-confed-hth.html,1/3,All time World Cup inter-federational stats
+/tablesw/wc-confed-hth.html,1/4,All time World Cup inter-federational stats
 /tablesw/wc-u17-01.html,4/3,World Cup U-17 2001
 /tablesw/wc-u17-03.html,4/3,World Cup U-17 2003
 /tablesw/wc-u17-05.html,10/3,World Cup U-17 2005
@@ -285,12 +293,28 @@ path,links,title
 /tablesw/wc-wom-u20-2018.html,10/9,Women Under 20 World Cup 2018
 /tablesw/wc-wom-u20-2022.html,7/3,Women Under 20 World Cup 2022
 /tablesw/wc-wom-u20-2024.html,9/10,Women Under 20 World Cup 2024
-/tablesw/wc98faq-dk-extended.html,0/2,?
+/tablesw/wc98faq-dk-extended.html,1/2,World Cup FAQ - D  E  N  M  A  R  K
 /tablesw/wcf-full-intro.html,39/3,The World Cup Archive
 /tablesw/wcq-records.html,1/2,World Cup All-Time Tables (including Qualifying)
-/tablesw/wdisney2012.html,0/1,?
-/tablesw/we4n-u20.html,0/2,?
-/tablesw/wednes95.html,0/1,?
+/tablesw/wdisney2012.html,1/1,Walt Disney World Pro Soccer Classic 2012 – Lake Buena Vista (Florida)
+/tablesw/we4n-u20.html,17/18,West-European Four Nations U-20 Tournaments
+/tablesw/we4n-u20-01.html,3/2,West-European Four Nations U-20 2001/02
+/tablesw/we4n-u20-02.html,4/3,West-European Four Nations U-20 2002/03
+/tablesw/we4n-u20-03.html,4/3,West-European Four Nations U-20 2003/04
+/tablesw/we4n-u20-04.html,4/3,West-European Four Nations U-20 2004/05
+/tablesw/we4n-u20-05.html,4/3,West-European Four Nations U-20 2005/06
+/tablesw/we4n-u20-06.html,4/3,West-European Four Nations U-20 2006/07
+/tablesw/we4n-u20-07.html,4/3,West-European Four Nations U-20 2007/08
+/tablesw/we4n-u20-08.html,4/3,West-European Four Nations U-20 2008/09
+/tablesw/we4n-u20-09.html,4/3,West-European Four Nations U-20 2009/10
+/tablesw/we4n-u20-10.html,4/3,West-European Four Nations U-20 2010/11
+/tablesw/we4n-u20-11.html,4/3,West-European Four Nations U-20 2011/12
+/tablesw/we4n-u20-12.html,4/3,West-European Four Nations U-20 2012/13
+/tablesw/we4n-u20-13.html,4/3,West-European Four Nations U-20 2013/14
+/tablesw/we4n-u20-14.html,4/3,West-European Four Nations U-20 2014/15
+/tablesw/we4n-u20-15.html,4/3,West-European Four Nations U-20 2015/16
+/tablesw/we4n-u20-16.html,3/2,West-European Four Nations U-20 2016/17
+/tablesw/wednes95.html,1/1,Premiership Review 1994/95 Sheffield Wednesday
 /tablesw/weifang.html,6/6,Weifang Cup
 /tablesw/weifang-u20-07.html,3/3,Weifang Youth Tournament (U-19) 2007
 /tablesw/weifang-u20-09.html,4/4,Weifang Youth Tournament (U-20) 2009
@@ -306,21 +330,21 @@ path,links,title
 /tablesw/westasia-wom2019.html,4/3,West Asian Championship (Women) 2019 (Bahrain)
 /tablesw/westasia-wom2022.html,4/3,West Asian Championship (Women) 2022 (Jordan)
 /tablesw/westasia-wom2024.html,3/4,West Asian Championship (Women) 2024 (Saudi Arabia)
-/tablesw/westasia00.html,3/2,West Asian Championship [Malek Hussein Cup] (Jordan) 2000
+/tablesw/westasia00.html,3/3,West Asian Championship [Malek Hussein Cup] (Jordan) 2000
 /tablesw/westasia02.html,5/4,West Asian Games (Kuwait) 2002
-/tablesw/westasia02-det.html,2/2,West Asian Games (Kuwait) 2002 - Details
+/tablesw/westasia02-det.html,2/3,West Asian Games (Kuwait) 2002 - Details
 /tablesw/westasia05.html,4/3,West Asian Games (Qatar) 2005
 /tablesw/westasia05-det.html,2/1,West Asian Games (Qatar) 2005 - Details
 /tablesw/westasia97.html,3/3,West Asian Games (Iran) 1997
 /tablesw/westasiagames.html,4/4,West Asian Games
 /tablesw/westberlin59tour.html,1/2,"West-Berlin FA tour of USA, 1959"
-/tablesw/westd-am68tour.html,0/2,?
-/tablesw/western-union00.html,0/2,?
+/tablesw/westd-am68tour.html,1/2,West Germany Amateur national team tour of the Far East 1967-68
+/tablesw/western-union00.html,1/3,Western Union Championship 2000 (British Virgin Islands)
 /tablesw/westernstar-nz73.html,2/2,Western Star's Tour of New Zealand 1973
 /tablesw/wettingen50-91.html,1/2,50th Anniversary of FC Wettingen 1981 (Switzerland)
 /tablesw/wettingen69.html,1/2,Wettingen Tournament 1969
 /tablesw/wfa-afa.html,2/4,Representative matches of the Western FA (Canada) and the American FA (United States)
-/tablesw/wfc2012.html,0/1,?
+/tablesw/wfc2012.html,1/1,2012 World Football Challenge
 /tablesw/wfys39.html,2/2,Studenten Weltspiele (Wien) and Jeux Universitaires Internationaux (Monte Carlo) 1939
 /tablesw/wfys47.html,3/3,I. World Youth and Students Festival 1947 (Praha)
 /tablesw/wfys49.html,4/5,II. World Youth and Students Festival 1949 (Budapest)
@@ -335,15 +359,15 @@ path,links,title
 /tablesw/wfys73.html,3/3,X. World Youth and Students Festival 1973 (Ost-Berlin)
 /tablesw/wgold2024.html,3/3,Concacaf W Gold Cup 2024
 /tablesw/whitaker.html,4/6,Whitaker Challenge Cup
-/tablesw/whitecaps-nc06.html,0/2,?
-/tablesw/whmutd95.html,0/1,?
+/tablesw/whitecaps-nc06.html,1/2,Whitecaps Nations Cup (Vancouver) 2006
+/tablesw/whmutd95.html,1/1,Premiership Review 1994/95 West Ham United
 /tablesw/wien-tourn.html,3/4,International Football Tournaments played in Wien
 /tablesw/wien59.html,1/2,Tournament Wien/Bratislava 1959
 /tablesw/wiesendangen05.html,1/1,Blitzturnier in Wiesendangen 2005 (Switzerland)
 /tablesw/wil93.html,1/2,Wil Tournament 1993
-/tablesw/willemstad44.html,2/4,Four-Nations Tournament Willemstad 1944
-/tablesw/wimble95.html,0/1,?
-/tablesw/windward-islands.html,2/5,Windward Islands Tournament
+/tablesw/willemstad44.html,2/5,Four-Nations Tournament Willemstad 1944
+/tablesw/wimble95.html,1/1,Premiership Review 1994/95 Wimbledon
+/tablesw/windward-islands.html,2/6,Windward Islands Tournament
 /tablesw/windward-islands-club.html,1/1,Windward Islands Club Champions Tournament
 /tablesw/winterthur-ind82.html,1/3,Indoor Tournament in Winterthur 1982-1983 (Switzerland)
 /tablesw/winterthur30-26.html,1/2,30th Anniversary of FC Winterthur - 1926
@@ -365,23 +389,27 @@ path,links,title
 /tablesw/witr-wom2014.html,5/5,Belarus (Women) 2014
 /tablesw/witr-wom2015.html,5/5,Belarus (Women) 2015
 /tablesw/witr-wom2016.html,5/4,Belarus (Women) 2016
-/tablesw/witr-wom2017.html,5/3,Belarus (Women) 2017
-/tablesw/witr-wom2018.html,0/3,?
-/tablesw/witr-wom2019.html,5/4,Belarus (Women) 2019
+/tablesw/witr-wom2017.html,5/4,Belarus (Women) 2017
+/tablesw/witr-wom2018.html,5/3,Belarus (Women) 2018
+/tablesw/witr-wom2019.html,5/5,Belarus (Women) 2019
 /tablesw/witr-wom2020.html,5/5,Belarus (Women) 2020
 /tablesw/witr-wom2021.html,5/5,Belarus (Women) 2021
 /tablesw/witr-wom2022.html,5/6,Belarus (Women) 2022
 /tablesw/witr-wom2023.html,5/4,Belarus (Women) 2023
 /tablesw/witr-wom2024.html,5/4,Belarus (Women) 2024
 /tablesw/witr-wom2025.html,4/3,Belarus (Women) 2025
-/tablesw/witr-wom92.html,0/3,?
-/tablesw/witr-wom93.html,4/4,Belarus (Women) 1993
+/tablesw/witr-wom92.html,3/3,Belarus (Women) 1992
+/tablesw/witr-wom93.html,4/5,Belarus (Women) 1993
 /tablesw/witr-wom94.html,4/5,Belarus (Women) 1994
 /tablesw/witr-wom95.html,4/5,Belarus (Women) 1995
-/tablesw/witr-womchamp.html,25/25,Belarus - List of Women Champions
-/tablesw/witr-womcuphist.html,14/15,Belarus - List of Women Cup Winners
-/tablesw/witr-youth2022.html,0/1,?
-/tablesw/witr-youth2023.html,3/1,Belarus 2023 Youth Championship
+/tablesw/witr-womchamp.html,25/27,Belarus - List of Women Champions
+/tablesw/witr-womcuphist.html,14/16,Belarus - List of Women Cup Winners
+/tablesw/witr-youth2018.html,3/1,Belarus 2018 Youth Championship
+/tablesw/witr-youth2019.html,4/2,Belarus 2019 Youth Championship
+/tablesw/witr-youth2020.html,4/2,Belarus 2020 Youth Championship
+/tablesw/witr-youth2021.html,4/2,Belarus 2021 Youth Championship
+/tablesw/witr-youth2022.html,4/2,Belarus 2022 Youth Championship
+/tablesw/witr-youth2023.html,3/2,Belarus 2023 Youth Championship
 /tablesw/witr00.html,5/5,Belarus 2000
 /tablesw/witr01.html,5/5,Belarus 2001
 /tablesw/witr02.html,6/5,Belarus 2002
@@ -392,7 +420,7 @@ path,links,title
 /tablesw/witr07.html,7/5,Belarus 2007
 /tablesw/witr08.html,6/5,Belarus 2008
 /tablesw/witr09.html,6/4,Belarus 2009
-/tablesw/witr2010.html,7/5,Belarus 2010
+/tablesw/witr2010.html,7/6,Belarus 2010
 /tablesw/witr2011.html,7/5,Belarus 2011
 /tablesw/witr2012.html,7/5,Belarus 2012
 /tablesw/witr2013.html,7/5,Belarus 2013
@@ -400,11 +428,11 @@ path,links,title
 /tablesw/witr2015.html,7/5,Belarus 2015
 /tablesw/witr2016.html,7/5,Belarus 2016
 /tablesw/witr2017.html,7/6,Belarus 2017
-/tablesw/witr2018.html,7/7,Belarus 2018
-/tablesw/witr2019.html,7/6,Belarus 2019
-/tablesw/witr2020.html,7/6,Belarus 2020
-/tablesw/witr2021.html,7/6,Belarus 2021
-/tablesw/witr2022.html,7/6,Belarus 2022
+/tablesw/witr2018.html,7/8,Belarus 2018
+/tablesw/witr2019.html,7/7,Belarus 2019
+/tablesw/witr2020.html,7/7,Belarus 2020
+/tablesw/witr2021.html,7/7,Belarus 2021
+/tablesw/witr2022.html,7/7,Belarus 2022
 /tablesw/witr2023.html,7/7,Belarus 2023
 /tablesw/witr2024.html,7/6,Belarus 2024
 /tablesw/witr2025.html,7/6,Belarus 2025
@@ -427,19 +455,19 @@ path,links,title
 /tablesw/witr99.html,5/4,Belarus 1999
 /tablesw/witralltime.html,1/2,Belarus Vyšejšaja Liha All-Time Table
 /tablesw/witrchamp.html,38/55,Belarus - List of Champions
-/tablesw/witrcup00.html,3/1,Belarus Cup 1999/2000
-/tablesw/witrcup01.html,4/1,Belarus Cup 2000/01
-/tablesw/witrcup02.html,4/1,Belarus Cup 2001/02
-/tablesw/witrcup03.html,4/1,Belarus Cup 2002/03
-/tablesw/witrcup04.html,4/1,Belarus Cup 2003/04
-/tablesw/witrcup05.html,4/1,Belarus Cup 2004/05
-/tablesw/witrcup06.html,4/1,Belarus Cup 2005/06
-/tablesw/witrcup07.html,4/1,Belarus Cup 2006/07
-/tablesw/witrcup08.html,4/1,Belarus Cup 2007/08
-/tablesw/witrcup09.html,4/1,Belarus Cup 2008/09
-/tablesw/witrcup97.html,3/1,Belarus Cup 1996/97
-/tablesw/witrcup98.html,3/1,Belarus Cup 1997/98
-/tablesw/witrcup99.html,3/1,Belarus Cup 1998/99
+/tablesw/witrcup00.html,3/2,Belarus Cup 1999/2000
+/tablesw/witrcup01.html,4/2,Belarus Cup 2000/01
+/tablesw/witrcup02.html,4/2,Belarus Cup 2001/02
+/tablesw/witrcup03.html,4/2,Belarus Cup 2002/03
+/tablesw/witrcup04.html,4/2,Belarus Cup 2003/04
+/tablesw/witrcup05.html,4/2,Belarus Cup 2004/05
+/tablesw/witrcup06.html,4/2,Belarus Cup 2005/06
+/tablesw/witrcup07.html,4/2,Belarus Cup 2006/07
+/tablesw/witrcup08.html,4/2,Belarus Cup 2007/08
+/tablesw/witrcup09.html,4/2,Belarus Cup 2008/09
+/tablesw/witrcup97.html,3/2,Belarus Cup 1996/97
+/tablesw/witrcup98.html,3/2,Belarus Cup 1997/98
+/tablesw/witrcup99.html,3/2,Belarus Cup 1998/99
 /tablesw/witrcupalltime.html,1/2,Belarus Cup All-Time Table
 /tablesw/witrcuphist.html,39/53,Belarus - List of Cup Finals
 /tablesw/witrcuphistfull.html,2/3,Belarus - Cup Tournaments before Independence
@@ -451,10 +479,10 @@ path,links,title
 /tablesw/witrtops.html,1/28,Belarus - List of Topscorers
 /tablesw/wittewolkberg84.html,1/2,Baiyunshan (White Cloud Mountain) Cup 1984
 /tablesw/wnord7482.html,2/1,Nordic Championships (Women) 1974-82
-/tablesw/wnordic.html,3/4,Nordic Championships (Women) - Overview
+/tablesw/wnordic.html,3/5,Nordic Championships (Women) - Overview
 /tablesw/wnsc-trips.html,2/3,1. Wiener Neustädter SC Trips Abroad
 /tablesw/wolveschelsea64.html,1/2,Wolverhampton Wanderers and Chelsea joint tour of the Caribbean 1964
-/tablesw/wom-abruzzo78.html,0/2,?
+/tablesw/wom-abruzzo78.html,1/2,Abruzzo Cup 1978 (Women's Tournament)
 /tablesw/wom-aff.html,13/14,AFF Women's Championship
 /tablesw/wom-aff04.html,4/4,AFF Women's Championship (Vietnam) 2004
 /tablesw/wom-aff06.html,4/3,2nd ASEAN Women Championship (TP Ho Chi Minh) 2006
@@ -469,23 +497,72 @@ path,links,title
 /tablesw/wom-aff2019.html,4/3,AFF Women's Championship (Thailand) 2019
 /tablesw/wom-aff2022.html,3/4,AFF Women's Championship (Philippines) 2022
 /tablesw/wom-afrnord07.html,1/1,Première Coupe d'Afrique du Nord de Football Féminin 2007
-/tablesw/wom-albena.html,0/4,?
-/tablesw/wom-algarve.html,0/2,?
-/tablesw/wom-allussr90.html,0/2,?
-/tablesw/wom-amsterdam09.html,0/1,?
-/tablesw/wom-arg-3nat05.html,0/2,?
-/tablesw/wom-argentina00.html,0/2,?
-/tablesw/wom-arncla.html,0/1,?
-/tablesw/wom-aysa2007.html,0/2,?
-/tablesw/wom-azerimini08.html,0/1,?
-/tablesw/wom-balaton.html,0/2,?
-/tablesw/wom-bosmini08.html,0/1,?
-/tablesw/wom-brazilcup96.html,0/2,?
-/tablesw/wom-ceboksary.html,0/2,?
-/tablesw/wom-china-4nat.html,0/1,?
-/tablesw/wom-china90.html,0/2,?
-/tablesw/wom-concacaf-friend2010.html,0/1,?
-/tablesw/wom-crc-3nat03.html,0/2,?
+/tablesw/wom-albena.html,11/14,Grand Hotel Varna Cup and Albena Cup (Women)
+/tablesw/wom-albena03.html,4/3,Albena Cup 2003 (Bulgaria)
+/tablesw/wom-albena04.html,4/3,Albena Cup 2004 (Bulgaria)
+/tablesw/wom-albena05.html,4/3,Albena Cup 2005 (Bulgaria)
+/tablesw/wom-albena06.html,4/3,Albena Cup 2006 (Bulgaria)
+/tablesw/wom-albena08.html,3/2,Albena Cup 2008 (Bulgaria)
+/tablesw/wom-algarve.html,29/30,Algarve Cup (Women)
+/tablesw/wom-algarve00.html,4/3,7th Algarve Cup 2000 (Women's Tournament)
+/tablesw/wom-algarve01.html,4/3,8th Algarve Cup 2001 (Women's Tournament)
+/tablesw/wom-algarve02.html,4/3,9th Algarve Cup 2002 (Women's Tournament)
+/tablesw/wom-algarve03.html,4/3,10th Algarve Cup 2003 (Women's Tournament)
+/tablesw/wom-algarve04.html,4/3,11th Algarve Cup 2004 (Women's Tournament)
+/tablesw/wom-algarve05.html,4/3,12th Algarve Cup 2005 (Women's Tournament)
+/tablesw/wom-algarve06.html,4/3,13th Algarve Cup 2006 (Women's Tournament)
+/tablesw/wom-algarve07.html,4/3,14th Algarve Cup 2007 (Women's Tournament)
+/tablesw/wom-algarve08.html,4/3,15th Algarve Cup 2008 (Women's Tournament)
+/tablesw/wom-algarve09.html,4/3,16th Algarve Cup 2009 (Women's Tournament)
+/tablesw/wom-algarve2010.html,4/3,17th Algarve Cup 2010 (Women's Tournament)
+/tablesw/wom-algarve2011.html,4/3,18th Algarve Cup 2011 (Women's Tournament)
+/tablesw/wom-algarve2012.html,4/3,19th Algarve Cup 2012 (Women's Tournament)
+/tablesw/wom-algarve2013.html,4/3,20th Algarve Cup 2013 (Women's Tournament)
+/tablesw/wom-algarve2014.html,4/3,21st Algarve Cup 2014 (Women's Tournament)
+/tablesw/wom-algarve2015.html,4/3,22nd Algarve Cup 2015 (Women's Tournament)
+/tablesw/wom-algarve2016.html,4/3,23rd Algarve Cup 2016 (Women's Tournament)
+/tablesw/wom-algarve2017.html,4/3,24th Algarve Cup 2017 (Women's Tournament)
+/tablesw/wom-algarve2018.html,4/3,25th Algarve Cup 2018 (Women's Tournament)
+/tablesw/wom-algarve2019.html,4/3,26th Algarve Cup 2019 (Women's Tournament)
+/tablesw/wom-algarve2020.html,4/3,27th Algarve Cup 2020 (Women's Tournament)
+/tablesw/wom-algarve2022.html,3/2,28th Algarve Cup 2022 (Women's Tournament)
+/tablesw/wom-algarve94.html,3/2,1st Algarve Cup 1994 (Women's Tournament)
+/tablesw/wom-algarve95.html,4/3,2nd Algarve Cup 1995 (Women's Tournament)
+/tablesw/wom-algarve96.html,4/3,3rd Algarve Cup 1996 (Women's Tournament)
+/tablesw/wom-algarve97.html,4/3,4th Algarve Cup 1997 (Women's Tournament)
+/tablesw/wom-algarve98.html,4/3,5th Algarve Cup 1998 (Women's Tournament)
+/tablesw/wom-algarve99.html,4/3,6th Algarve Cup 1999 (Women's Tournament)
+/tablesw/wom-allussr90.html,1/2,All-Union Women's Tournament of Soviet Republics 1990
+/tablesw/wom-amsterdam09.html,1/1,"Women Four Nations Tournament 2009 (Amsterdam, Netherlands)"
+/tablesw/wom-arg-3nat05.html,1/2,Women Three Nations Tournament (Argentina) 2005
+/tablesw/wom-argentina00.html,1/2,I Copa Argentina de Fútbol Femenino - 2000 AFA Argentina Cup
+/tablesw/wom-arncla.html,1/1,Arnold Clark Cup (Women Tournament)
+/tablesw/wom-aysa2007.html,1/2,2007 AYSA International Soccer Festival (Women)
+/tablesw/wom-azerimini08.html,4/5,Azerbaijan Women's Mini-Tournament 2008
+/tablesw/wom-balaton.html,1/2,Balaton Cup (Hungary) (Women's tournament)
+/tablesw/wom-bosmini08.html,5/2,Bosnia-Herzegovina Women's Mini-Tournament 2008
+/tablesw/wom-brazilcup96.html,1/2,Brazil Cup 1996 (Women)
+/tablesw/wom-ceboksary.html,1/2,Women's Tournament in Ceboksary (Russia)
+/tablesw/wom-china-4nat.html,21/19,"Four Nations Tournament (China, Women Tournament)"
+/tablesw/wom-china03.html,4/3,Women Four Nations Tournament (China) 2003
+/tablesw/wom-china04.html,4/3,Women Four Nations Tournament (China) 2004
+/tablesw/wom-china05.html,4/3,Women Four Nations Tournament (China) 2005
+/tablesw/wom-china06.html,4/3,Women Four Nations Tournament (China) 2006
+/tablesw/wom-china07.html,4/3,Women Four Nations Tournament (China) 2007
+/tablesw/wom-china08.html,4/3,Women Four Nations Tournament (China) 2008
+/tablesw/wom-china09.html,4/3,Women Four Nations Tournament (China) 2009
+/tablesw/wom-china2011.html,4/3,Women Four Nations Tournament (China) 2011
+/tablesw/wom-china2012.html,4/3,Women Four Nations Tournament (China) 2012
+/tablesw/wom-china2013.html,4/3,Women Four Nations Tournament (China) 2013
+/tablesw/wom-china2014.html,4/3,Women Four Nations Tournament (China) 2014
+/tablesw/wom-china2015.html,4/3,Women Four Nations Tournament (China) 2015
+/tablesw/wom-china2016.html,4/3,Women Four Nations Tournament (China) 2016
+/tablesw/wom-china2017.html,4/3,Women Four Nations Tournament (China) 2017
+/tablesw/wom-china2018.html,4/3,Women Four Nations Tournament (China) 2018
+/tablesw/wom-china2019.html,3/2,Women Four Nations Tournament (China) 2019
+/tablesw/wom-china90.html,1/2,Hohhot Women's Tournament 1990 (China)
+/tablesw/wom-concacaf-friend2010.html,1/1,CONCACAF - International Women Friendly Matches 2010
+/tablesw/wom-crc-3nat03.html,1/2,Women Three Nations Tournament (Costa Rica) 2003
 /tablesw/wom-csp.html,9/9,Torneio Internacional Cidade de São Paulo/Torneio Internacional de Futebol Feminino
 /tablesw/wom-csp09.html,3/2,Torneio Internacional Cidade de São Paulo 2009
 /tablesw/wom-csp2010.html,4/3,Torneio Internacional Cidade de São Paulo 2010
@@ -495,15 +572,15 @@ path,links,title
 /tablesw/wom-csp2014.html,4/4,Torneio Internacional de Futebol Feminino 2014
 /tablesw/wom-csp2015.html,4/3,Torneio Internacional de Futebol Feminino 2015
 /tablesw/wom-csp2016.html,3/2,Torneio Internacional de Futebol Feminino 2016
-/tablesw/wom-cypcup08.html,0/1,?
-/tablesw/wom-cyptourn.html,0/2,?
-/tablesw/wom-deuxrives09.html,0/1,?
-/tablesw/wom-estomini08.html,0/1,?
-/tablesw/wom-feminin95.html,0/2,?
+/tablesw/wom-cypcup08.html,1/1,Cyprus Women's Cup
+/tablesw/wom-cyptourn.html,3/3,Cyprus Tournament (Women) in Agia Napa 1990-1993
+/tablesw/wom-deuxrives09.html,1/1,Tournoi Féminin des Deux Rives 2009 (France)
+/tablesw/wom-estomini08.html,4/5,Estonia Women's Mini-Tournament 2008
+/tablesw/wom-feminin95.html,1/2,Tournoi International Feminin 1995 (France)
 /tablesw/wom-fifa88.html,1/3,Women's FIFA Invitational Tournament 1988
 /tablesw/wom-futsal-tourn.html,1/2,Women's Futsal Tournaments
-/tablesw/wom-fyrommini08.html,0/1,?
-/tablesw/wom-gcan05.html,0/1,?
+/tablesw/wom-fyrommini08.html,1/1,Macedonia Women's Mini-Tournament 2008
+/tablesw/wom-gcan05.html,1/1,Torneo Internacional Gran Canaria 2005 (Spain) (Women)
 /tablesw/wom-gold00.html,5/4,Women Gold Cup 2000
 /tablesw/wom-gold02.html,5/4,Women Gold Cup 2002
 /tablesw/wom-gold06.html,8/6,Women Gold Cup 2006
@@ -511,13 +588,14 @@ path,links,title
 /tablesw/wom-gold2014.html,6/4,Concacaf Women's Championship 2014
 /tablesw/wom-gold2018.html,5/6,Concacaf Women's Championship 2018
 /tablesw/wom-gold2022.html,8/7,Concacaf Women's Championship 2022
-/tablesw/wom-goldcoast94.html,0/2,?
-/tablesw/wom-goodluck07.html,0/1,?
-/tablesw/wom-goodwill98.html,0/1,?
-/tablesw/wom-guangzhou83.html,0/3,?
-/tablesw/wom-guangzhou98.html,0/1,?
+/tablesw/wom-goldcoast94.html,1/2,Gold Coast Invitation (Women's Tournament) 1994
+/tablesw/wom-goodluck07.html,1/1,Good Luck Beijing 2007
+/tablesw/wom-goodwill98.html,1/1,Goodwill Games 1998 (Women's Tournament)
+/tablesw/wom-guangzhou02.html,4/3,Women Four Nations Tournament Guangzhou 2002
+/tablesw/wom-guangzhou83.html,1/3,Guangzhou Women's Tournament 1983 (China)
+/tablesw/wom-guangzhou98.html,3/3,Guangzhou Tournament 1998 (China)
 /tablesw/wom-harare04.html,1/1,Women's Football Tournament (Harare) 2004
-/tablesw/wom-hk-tourn00.html,0/2,?
+/tablesw/wom-hk-tourn00.html,1/3,Hong Kong Tournament 2000 (Women)
 /tablesw/wom-islandgames01.html,4/4,Island Games Tournament (Women) 2001 (Isle of Man)
 /tablesw/wom-islandgames03.html,5/5,Island Games Tournament (Women) 2003 (Guernsey)
 /tablesw/wom-islandgames05.html,5/5,Island Games Tournament (Women) 2005 (Shetland)
@@ -530,95 +608,105 @@ path,links,title
 /tablesw/wom-islandgames2023.html,5/5,Island Games Tournament (Women) 2023 (Guernsey)
 /tablesw/wom-islandgames2025.html,4/5,Island Games Tournament (Women) 2025 (Orkney)
 /tablesw/wom-islandinter2019.html,5/5,Island Inter-Games Tournament (Women) 2019 (Ynys Môn)
-/tablesw/wom-jap-3nat03.html,0/1,?
-/tablesw/wom-jesolo95.html,0/2,?
-/tablesw/wom-jubilee02.html,0/1,?
-/tablesw/wom-kaluga92.html,0/2,?
-/tablesw/wom-khotkovo93.html,0/2,?
-/tablesw/wom-kirin2008.html,0/2,?
-/tablesw/wom-litomini07.html,0/1,?
-/tablesw/wom-luxmini08.html,0/1,?
-/tablesw/wom-madras94.html,0/3,?
-/tablesw/wom-malaysia03.html,0/1,?
-/tablesw/wom-maltmini09.html,0/1,?
-/tablesw/wom-manga.html,0/1,?
-/tablesw/wom-manga-u23-07.html,0/1,?
-/tablesw/wom-mauri05.html,0/1,?
-/tablesw/wom-nortealentejano.html,0/1,?
-/tablesw/wom-pacific00.html,0/1,?
-/tablesw/wom-peacecup06.html,0/2,?
-/tablesw/wom-peacecup08.html,0/2,?
-/tablesw/wom-pisa-u17-09.html,0/1,?
-/tablesw/wom-poland-u17-06.html,0/2,?
-/tablesw/wom-pskov-u16-08.html,0/1,?
-/tablesw/wom-samara94.html,0/2,?
-/tablesw/wom-siena-tri08.html,0/1,?
-/tablesw/wom-singapore03.html,0/2,?
-/tablesw/wom-singapore04.html,2/2,FAS International Women's Football Tournament 2004
-/tablesw/wom-slovakia.html,0/2,?
-/tablesw/wom-solidarite.html,0/1,?
-/tablesw/wom-stmaarten08.html,0/2,?
-/tablesw/wom-tarragona93.html,0/2,?
-/tablesw/wom-troia91.html,0/2,?
-/tablesw/wom-u15-4nat.html,0/1,?
-/tablesw/wom-u15-celt.html,0/2,?
-/tablesw/wom-u17-4nat.html,0/1,?
-/tablesw/wom-u17-6nat.html,0/1,?
-/tablesw/wom-u17-pasen07.html,0/1,?
-/tablesw/wom-u17-venlo07.html,0/1,?
-/tablesw/wom-u20-3nat.html,0/2,?
-/tablesw/wom-u20-montricoux93.html,0/2,?
-/tablesw/wom-uberlandia95.html,0/2,?
-/tablesw/wom-uscup.html,0/2,?
-/tablesw/wom-uscup00.html,0/1,?
-/tablesw/wom-usysa.html,0/2,?
-/tablesw/wom-valedotejo02.html,0/1,?
-/tablesw/wom-varna00.html,0/1,?
-/tablesw/wom-varna95.html,0/1,?
-/tablesw/wom-varna99.html,0/1,?
-/tablesw/wom-ventspils-u17-06.html,0/1,?
-/tablesw/wom-vietcoal03.html,0/2,?
-/tablesw/wom-vietcoal04.html,3/2,Vietnam Coal Women's Tournament (Quang Ninh province) 2004
-/tablesw/wom-vietcoal05.html,0/2,?
-/tablesw/wom-voronezh.html,0/2,?
+/tablesw/wom-jap-3nat03.html,1/1,Women Three Nations Tournament Japan 2003
+/tablesw/wom-jesolo95.html,1/2,Jesolo Tournament (Women) 1995
+/tablesw/wom-jubilee02.html,1/1,Jubilee Cup (Women U-19) 2002
+/tablesw/wom-kaluga92.html,1/2,Kaluga Women's Tournament 1992
+/tablesw/wom-khotkovo93.html,1/2,Khotkovo Women's Tournament 1993
+/tablesw/wom-kirin2008.html,1/2,2008 JFA Kirin Challenge Cup (Women)
+/tablesw/wom-litomini07.html,1/1,Lithuania Women's Mini-Tournament 2007
+/tablesw/wom-luxmini08.html,5/5,Luxembourg Women's Mini-Tournament 2008
+/tablesw/wom-madras94.html,1/3,Jayalalitha Cup (Women's Tournament) Madras 1994
+/tablesw/wom-malaysia03.html,1/1,Women Four Nations Tournament (Kuala Lumpur) 2003
+/tablesw/wom-maltmini09.html,1/1,Malta Women's Mini-Tournament 2009
+/tablesw/wom-manga.html,1/1,Four Nations Tournament (Women U-19) (La Manga)
+/tablesw/wom-manga-u23-07.html,1/1,Three Nations Tournament (Women U-23) (La Manga) 2007
+/tablesw/wom-mauri05.html,2/1,Tournoi féminin de la CJSOI 2002-2005
+/tablesw/wom-nortealentejano.html,1/1,U-17 Women Torneio Norte Alentejano (Portugal)
+/tablesw/wom-pacific00.html,1/1,Women Pacific Cup 2000
+/tablesw/wom-peacecup06.html,5/5,Peace Queen Cup 2006
+/tablesw/wom-peacecup08.html,5/5,Peace Queen Cup 2008
+/tablesw/wom-pisa-u17-09.html,1/1,3 Nations Tournament (Women U-17) Italy 2009
+/tablesw/wom-poland-u17-06.html,1/2,Poland Tournament (Women U-17)
+/tablesw/wom-pskov-u16-08.html,1/1,"U-16 Four Nations Tournament (Pskov, Russia) 2008"
+/tablesw/wom-samara94.html,1/2,Samara Women's Tournament 1994 (Russia)
+/tablesw/wom-siena-tri08.html,1/1,Triangular International Women Tournament (Siena) 2008
+/tablesw/wom-singapore03.html,2/2,FAS International Women's Tournament (Singapore) 2003
+/tablesw/wom-singapore04.html,2/3,FAS International Women's Football Tournament 2004
+/tablesw/wom-slovakia.html,1/2,Women's Tournament Slovakia 1994-1998
+/tablesw/wom-solidarite.html,1/1,"Tournoi de Solidarité (Women) 2005 (Dakar, Senegal)"
+/tablesw/wom-stmaarten08.html,1/2,Ladies Tournament on Sint Maarten 2008
+/tablesw/wom-tarragona93.html,1/2,Tarragona Women's Tournament 1993
+/tablesw/wom-troia91.html,2/3,Troia (Portugal) Tournament (Women) 1991
+/tablesw/wom-u15-4nat.html,1/1,Four Nations Tournament (Women U-15)
+/tablesw/wom-u15-celt.html,1/2,"Various Women U-15 Tournaments (Scotland, (Northern) Ireland, Wales)"
+/tablesw/wom-u17-4nat.html,1/1,Four Nations Tournament (Women U-17)
+/tablesw/wom-u17-6nat.html,1/1,Women (U-17) Six Nations Tournament
+/tablesw/wom-u17-pasen07.html,1/1,Women Easter Tournament (U-17) (Netherlands) 2007
+/tablesw/wom-u17-venlo07.html,1/1,Women Tournament (U-17) (Venlo) 2007
+/tablesw/wom-u20-3nat.html,1/2,Three Nations Tournament (Women U-20)
+/tablesw/wom-u20-montricoux93.html,1/2,Montricoux Tournament (Women U-20) 1993
+/tablesw/wom-uberlandia95.html,2/2,Torneio Cidade de Uberlândia 1995 (Women)
+/tablesw/wom-uscup.html,9/10,US Cup (Women)
+/tablesw/wom-uscup00.html,4/4,6th US Cup 2000 (Women's Tournament)
+/tablesw/wom-uscup01.html,4/3,7th US Cup 2001 (Women's Tournament)
+/tablesw/wom-uscup02.html,3/2,8th US Cup 2002 (Women's Tournament)
+/tablesw/wom-uscup95.html,3/2,1st US Cup 1995 (Women's Tournament)
+/tablesw/wom-uscup96.html,4/3,2nd US Cup 1996 (Women's Tournament)
+/tablesw/wom-uscup97.html,4/3,3rd US Cup 1997 (Women's Tournament)
+/tablesw/wom-uscup98.html,4/3,4th US Cup 1998 (Women's Tournament)
+/tablesw/wom-uscup99.html,4/3,5th US Cup 1999 (Women's Tournament)
+/tablesw/wom-usysa.html,1/2,US Youth Soccer Adidas Cup (Women U-18)
+/tablesw/wom-valedotejo02.html,1/1,"Women's Tournament ""Vale do Tejo"" 2002"
+/tablesw/wom-varna00.html,4/4,"Albena Cup 2000 (Varna, Bulgaria)"
+/tablesw/wom-varna01.html,4/3,Albena Cup 2001 (Bulgaria)
+/tablesw/wom-varna02.html,4/3,Albena Cup 2002 (Bulgaria)
+/tablesw/wom-varna95.html,3/3,"Women’s Tournament ""Grand Hotel Varna"" (Bulgaria) 1995"
+/tablesw/wom-varna99.html,4/4,Albena Cup 1999 (Bulgaria)
+/tablesw/wom-ventspils-u17-06.html,1/1,Ventspils Tournament (Women U-17)
+/tablesw/wom-vietcoal03.html,2/2,Vietnam Coal Women's Tournament (Quang Ninh province) 2003
+/tablesw/wom-vietcoal04.html,3/4,Vietnam Coal Women's Tournament (Quang Ninh province) 2004
+/tablesw/wom-vietcoal05.html,2/2,Vietnam Coal Women's Tournament (Quang Ninh province) 2005
+/tablesw/wom-voronezh.html,1/2,Voronezh Cup (Women's Tournament)
 /tablesw/wom-willemstad07.html,2/2,Torneo Internashonal di Futbòl di Dama (Willemstad) 2007
 /tablesw/wom-wit78.html,3/3,Women's World Invitation Tournament 1978
 /tablesw/wom-wit81.html,4/4,Women's World Invitation Tournament 1981
 /tablesw/wom-wit84.html,4/4,Women's World Invitation Tournament 1984 (Chunghua Cup)
 /tablesw/wom-wit87.html,3/6,Women's World Invitation Tournament 1987 (Chunghua Cup)
 /tablesw/wom-witoverview.html,5/7,Women's World Invitation Tournament - Overview
-/tablesw/wom-wuhan02.html,0/1,?
-/tablesw/wom-wyler09.html,0/1,?
-/tablesw/wom-xiamen88.html,0/3,?
-/tablesw/wom-xian84.html,0/3,?
-/tablesw/wom-zhanjiang91.html,0/2,?
+/tablesw/wom-wuhan02.html,1/1,Women Four Nations Tournament Wuhan 2002
+/tablesw/wom-wyler09.html,1/1,Wyler Women's Cup 2009 (Switzerland)
+/tablesw/wom-xiamen88.html,1/3,Xiamen Women's Tournament 1989 (China)
+/tablesw/wom-xian84.html,1/3,Xi'an Women's Tournament 1984 (China)
+/tablesw/wom-zhanjiang91.html,1/2,Zhanjiang Women's Tournament 1991 (China)
 /tablesw/women-wc-scor.html,2/3,Women's World Cup 1991-2023 - Final Tournaments – All Goal Scorers
 /tablesw/women-worldcup.html,16/11,Women's World Cup
-/tablesw/wommolise06.html,0/1,?
+/tablesw/wommolise06.html,1/1,"Women ""Torneo Regione Molise"" 2006 (Italy)"
 /tablesw/womsevens06.html,2/3,Women's Sevens Tournament (Abu Dhabi) 2006
-/tablesw/womwinterthurhallen06.html,0/1,?
-/tablesw/womwinterthurhallen10.html,0/1,?
+/tablesw/womwinterthurhallen06.html,2/2,Women Hallenmasters in Winterthur 2006
+/tablesw/womwinterthurhallen10.html,2/2,Women Hallenmasters in Winterthur 2010
 /tablesw/worldchampionship87.html,2/3,World Championship in 1887
 /tablesw/worldchampionship88.html,2/3,World Championship in 1888
 /tablesw/worldcup.html,87/60,World Cup
 /tablesw/worldcup-concacafqual.html,8/7,World Cup Qualifying Tournaments CONCACAF
-/tablesw/worldfinaltops.html,0/2,?
+/tablesw/worldfinaltops.html,1/2,World Cup and Intercontinental Cup Finals - Topscorers
 /tablesw/worldsoccer77.html,1/3,"""World of Soccer"" Cup 1977, Australia"
-/tablesw/wrocmasters2012.html,0/1,?
-/tablesw/wsahara2015.html,0/1,?
-/tablesw/wsahara2016.html,0/1,?
-/tablesw/wsahara2017.html,0/1,?
-/tablesw/wsahara2018.html,0/2,?
-/tablesw/wsahara2019.html,3/2,Western Sahara 2019
-/tablesw/wsaharacuphist.html,6/3,Western Sahara - List of Cup Winners
+/tablesw/wrocmasters2012.html,1/1,Polish Masters Tournament 2012 – Wroclaw
+/tablesw/wsahara2014.html,3/1,Western Sahara 2014
+/tablesw/wsahara2015.html,4/3,Western Sahara 2015
+/tablesw/wsahara2016.html,4/3,Western Sahara 2016
+/tablesw/wsahara2017.html,4/3,Western Sahara 2017
+/tablesw/wsahara2018.html,4/3,Western Sahara 2018
+/tablesw/wsahara2019.html,3/3,Western Sahara 2019
+/tablesw/wsaharacuphist.html,6/8,Western Sahara - List of Cup Winners
 /tablesw/wsc-france37.html,3/3,French Trip of Wiener SC 1937
 /tablesw/wsc-germany32.html,4/4,German Trip of Wiener SC 1932/33
 /tablesw/wsc-netherlands31.html,4/4,Dutch Trip of Wiener SC 1931
 /tablesw/wsc-netherlands32.html,3/4,Dutch Trip of Wiener SC 1932
 /tablesw/wsc-spain23.html,3/3,Spanish Trip of Wiener SC 1923
 /tablesw/wscindie-tour36.html,13/8,Dutch East Indies Tour of Wiener SC 1936
-/tablesw/wuhanu22-2014.html,0/1,?
-/tablesw/wusc.html,0/2,?
+/tablesw/wuhanu22-2014.html,1/1,Wuhan International Youth Soccer Tournament (U-22) 2014
+/tablesw/wusc.html,1/4,Western Union Super Cup 2000-2001 (Cayman Islands)
 /tablesw/wwc03f.html,10/10,Women's World Cup 2003 (USA)
 /tablesw/wwc07f.html,10/7,Women's World Cup 2007 (China)
 /tablesw/wwc2011f.html,10/10,Women's World Cup 2011 (Germany)
@@ -630,7 +718,7 @@ path,links,title
 /tablesw/wwc95f.html,10/10,Women's World Cup 1995 (Sweden)
 /tablesw/wwc99f.html,10/11,Women's World Cup 1999 (USA)
 /tablesw/wyc-alltime.html,1/3,All-Time Ranking World Youth Cup (U-20) 1977-2013
-/tablesw/wyc-u17-alltime.html,0/2,?
+/tablesw/wyc-u17-alltime.html,1/2,All-Time Ranking World Youth Cup (U-16/U-17) 1985-2013
 /tablesw/wyc01.html,4/3,"World Youth Cup (U-20) 2001 (Argentina, June 17-July 8)"
 /tablesw/wyc03.html,4/3,"World Youth Cup (U-20) 2003 (UAE, November 27-December 19)"
 /tablesw/wyc05.html,4/3,World Youth Cup (U-20) 2005 (Netherlands)

@@ -1,23 +1,215 @@
 path,links,title
-/intldetails/1872-1880matches.html,0/1,?
-/intldetails/1881-1890matches.html,0/2,?
-/intldetails/1987matches.html,0/1,?
-/intldetails/1988matches.html,0/1,?
-/intldetails/1989matches.html,0/1,?
-/intldetails/1990matches.html,0/1,?
-/intldetails/1991matches.html,0/1,?
-/intldetails/1992matches.html,0/1,?
-/intldetails/1993matches.html,0/1,?
-/intldetails/1994matches.html,0/1,?
-/intldetails/1995matches.html,0/1,?
-/intldetails/1996matches.html,0/1,?
-/intldetails/1997matches.html,0/1,?
-/intldetails/1998matches.html,0/1,?
-/intldetails/1999matches.html,0/1,?
-/intldetails/2000matches.html,0/1,?
-/intldetails/2001matches.html,0/1,?
-/intldetails/2002matches.html,0/1,?
-/intldetails/2003matches.html,0/2,?
-/intldetails/2004matches.html,0/1,?
-/intldetails/nm-contrib.html,0/1,?
-/intldetails/nm-overview.html,22/2,International Matches - Historical Overview
+/intldetails/1872-1880e.html,2/1,International Matches 1872-1880 - Europe
+/intldetails/1872-1880matches.html,4/3,-
+/intldetails/1881-1890e.html,2/1,International Matches 1881-1890 - Europe
+/intldetails/1881-1890matches.html,7/6,-
+/intldetails/1881-1890nca.html,2/1,International Matches 1881-1890 - North America
+/intldetails/1987af.html,2/1,International Matches 1987 - Africa
+/intldetails/1987e.html,2/1,International Matches 1987 - Europe
+/intldetails/1987ic.html,2/1,International Matches 1987 - Intercontinental
+/intldetails/1987matches.html,46/10,-
+/intldetails/1987nca.html,2/1,International Matches 1987 - North and Central America and Caribbean
+/intldetails/1987o.html,2/1,International Matches 1987 - Oceania
+/intldetails/1987oth.html,2/1,International Matches 1987 - Other
+/intldetails/1987sa.html,2/1,International Matches 1987 - South America
+/intldetails/1988af.html,2/1,International Matches 1988 - Africa
+/intldetails/1988as.html,2/1,International Matches 1988 - Asia
+/intldetails/1988e.html,2/1,International Matches 1988 - Europe
+/intldetails/1988matches.html,51/10,-
+/intldetails/1988nca.html,2/1,International Matches 1988 - North and Central America and Caribbean
+/intldetails/1988o.html,2/1,International Matches 1988 - Oceania
+/intldetails/1988oth.html,2/1,International Matches 1988 - Other
+/intldetails/1988sa.html,2/1,International Matches 1988 - South America
+/intldetails/1989af.html,2/1,International Matches 1989 - Africa
+/intldetails/1989as.html,2/1,International Matches 1989 - Asia
+/intldetails/1989e1.html,3/2,"International Matches 1989 - Europe, January-June"
+/intldetails/1989e2.html,3/2,"International Matches 1989 - Europe, July-December"
+/intldetails/1989ic1.html,3/2,"International Matches 1989 - Intercontinental, January-June"
+/intldetails/1989ic2.html,3/2,"International Matches 1989 - Intercontinental, July-December"
+/intldetails/1989matches.html,45/13,-
+/intldetails/1989nca.html,2/1,International Matches 1989 - North and Central America and Caribbean
+/intldetails/1989o.html,2/1,International Matches 1989 - Oceania
+/intldetails/1989oth.html,2/1,International Matches 1989 - Other
+/intldetails/1989sa.html,2/1,International Matches 1989 - South America
+/intldetails/1990af.html,2/1,International Matches 1990 - Africa
+/intldetails/1990as.html,2/1,International Matches 1990 - Asia
+/intldetails/1990e1.html,3/2,"International Matches 1990 - Europe, January-June"
+/intldetails/1990e2.html,3/2,"International Matches 1990 - Europe, July-December"
+/intldetails/1990ic1.html,3/2,"International Matches 1990 - Intercontinental, January-June"
+/intldetails/1990ic2.html,3/2,"International Matches 1990 - Intercontinental, July-December"
+/intldetails/1990matches.html,41/13,-
+/intldetails/1990nca.html,2/1,International Matches 1990 - North and Central America and Caribbean
+/intldetails/1990o.html,2/1,International Matches 1990 - Oceania
+/intldetails/1990oth.html,2/1,International Matches 1990 - Other
+/intldetails/1990sa.html,2/1,International Matches 1990 - South America
+/intldetails/1991af.html,2/1,International Matches 1991 - Africa
+/intldetails/1991as.html,2/1,International Matches 1991 - Asia
+/intldetails/1991e1.html,3/2,"International Matches 1991 - Europe, January-June"
+/intldetails/1991e2.html,3/2,"International Matches 1991 - Europe, July-December"
+/intldetails/1991ic1.html,3/2,"International Matches 1991 - Intercontinental, January-June"
+/intldetails/1991ic2.html,3/2,"International Matches 1991 - Intercontinental, July-December"
+/intldetails/1991matches.html,48/13,-
+/intldetails/1991nca.html,2/1,International Matches 1991 - North and Central America and Caribbean
+/intldetails/1991o.html,2/1,International Matches 1991 - Oceania
+/intldetails/1991oth.html,2/1,International Matches 1991 - Other
+/intldetails/1991sa.html,2/1,International Matches 1991 - South America
+/intldetails/1992af.html,2/1,International Matches 1992 - Africa
+/intldetails/1992as.html,2/1,International Matches 1992 - Asia
+/intldetails/1992e1.html,3/2,"International Matches 1992 - Europe, January-June"
+/intldetails/1992e2.html,3/2,"International Matches 1992 - Europe, July-December"
+/intldetails/1992ic1.html,3/2,"International Matches 1992 - Intercontinental, January-June"
+/intldetails/1992ic2.html,3/2,"International Matches 1992 - Intercontinental, July-December"
+/intldetails/1992matches.html,43/13,-
+/intldetails/1992nca.html,2/1,International Matches 1992 - North and Central America and Caribbean
+/intldetails/1992o.html,2/1,International Matches 1992 - Oceania
+/intldetails/1992oth.html,2/1,International Matches 1992 - Other
+/intldetails/1992sa.html,2/1,International Matches 1992 - South America
+/intldetails/1993af.html,2/1,International Matches 1993 - Africa
+/intldetails/1993as.html,2/1,International Matches 1993 - Asia
+/intldetails/1993e1.html,3/2,"International Matches 1993 - Europe, January-March"
+/intldetails/1993e2.html,4/3,"International Matches 1993 - Europe, April-June"
+/intldetails/1993e3.html,4/3,"International Matches 1993 - Europe, July-September"
+/intldetails/1993e4.html,3/2,"International Matches 1993 - Europe, October-December"
+/intldetails/1993ic1.html,3/2,"International Matches 1993 - Intercontinental, January-April"
+/intldetails/1993ic2.html,4/3,"International Matches 1993 - Intercontinental, May-August"
+/intldetails/1993ic3.html,3/2,"International Matches 1993 - Intercontinental, September-December"
+/intldetails/1993matches.html,49/16,-
+/intldetails/1993nca.html,2/1,International Matches 1993 - North and Central America and Caribbean
+/intldetails/1993o.html,2/1,International Matches 1993 - Oceania
+/intldetails/1993oth.html,2/1,International Matches 1993 - Other
+/intldetails/1993sa.html,2/1,International Matches 1993 - South America
+/intldetails/1994af.html,2/1,International Matches 1994 - Africa
+/intldetails/1994as.html,2/1,International Matches 1994 - Asia
+/intldetails/1994e1.html,3/2,"International Matches 1994 - Europe, January-June"
+/intldetails/1994e2.html,3/2,"International Matches 1994 - Europe, July-December"
+/intldetails/1994ic1.html,3/2,"International Matches 1994 - Intercontinental, January-April"
+/intldetails/1994ic2.html,4/3,"International Matches 1994 - Intercontinental, May-August"
+/intldetails/1994ic3.html,3/2,"International Matches 1994 - Intercontinental, September-December"
+/intldetails/1994matches.html,45/14,-
+/intldetails/1994nca.html,2/1,International Matches 1994 - North and Central America and Caribbean
+/intldetails/1994o.html,2/1,International Matches 1994 - Oceania
+/intldetails/1994oth.html,2/1,International Matches 1994 - Other
+/intldetails/1994sa.html,2/1,International Matches 1994 - South America
+/intldetails/1995af.html,2/1,International Matches 1995 - Africa
+/intldetails/1995as.html,2/1,International Matches 1995 - Asia
+/intldetails/1995e1.html,3/2,"International Matches 1995 - Europe, January-March"
+/intldetails/1995e2.html,4/3,"International Matches 1995 - Europe, April-June"
+/intldetails/1995e3.html,4/3,"International Matches 1995 - Europe, July-September"
+/intldetails/1995e4.html,3/2,"International Matches 1995 - Europe, October-December"
+/intldetails/1995ic1.html,3/2,"International Matches 1995 - Intercontinental, January-March"
+/intldetails/1995ic2.html,4/3,"International Matches 1995 - Intercontinental, April-June"
+/intldetails/1995ic3.html,4/3,"International Matches 1995 - Intercontinental, July-September"
+/intldetails/1995ic4.html,3/2,"International Matches 1995 - Intercontinental, October-December"
+/intldetails/1995matches.html,62/17,-
+/intldetails/1995nca.html,2/1,International Matches 1995 - North and Central America and Caribbean
+/intldetails/1995o.html,2/1,International Matches 1995 - Oceania
+/intldetails/1995oth.html,2/1,International Matches 1995 - Other
+/intldetails/1995sa.html,2/1,International Matches 1995 - South America
+/intldetails/1996af.html,2/1,International Matches 1996 - Africa
+/intldetails/1996as.html,2/1,International Matches 1996 - Asia
+/intldetails/1996e1.html,3/2,"International Matches 1996 - Europe, January-February"
+/intldetails/1996e2.html,4/3,"International Matches 1996 - Europe, March-April"
+/intldetails/1996e3.html,4/3,"International Matches 1996 - Europe, May-June"
+/intldetails/1996e4.html,4/3,"International Matches 1996 - Europe, July-September"
+/intldetails/1996e5.html,4/3,"International Matches 1996 - Europe, October"
+/intldetails/1996e6.html,3/2,"International Matches 1996 - Europe, November-December"
+/intldetails/1996ic1.html,3/2,"International Matches 1996 - Intercontinental, January-March"
+/intldetails/1996ic2.html,4/3,"International Matches 1996 - Intercontinental, April-June"
+/intldetails/1996ic3.html,4/3,"International Matches 1996 - Intercontinental, July-August"
+/intldetails/1996ic4.html,4/3,"International Matches 1996 - Intercontinental, September"
+/intldetails/1996ic5.html,3/2,"International Matches 1996 - Intercontinental, October-December"
+/intldetails/1996matches.html,48/20,-
+/intldetails/1996nca.html,2/1,International Matches 1996 - North and Central America and Caribbean
+/intldetails/1996o.html,2/1,International Matches 1996 - Oceania
+/intldetails/1996oth.html,2/1,International Matches 1996 - Other
+/intldetails/1996sa.html,2/1,International Matches 1996 - South America
+/intldetails/1997af.html,2/1,International Matches 1997 - Africa
+/intldetails/1997as.html,2/1,International Matches 1997 - Asia
+/intldetails/1997e1.html,3/2,"International Matches 1997 - Europe, January-June"
+/intldetails/1997e2.html,3/2,"International Matches 1997 - Europe, July-December"
+/intldetails/1997ic.html,2/1,International Matches 1997 - Intercontinental
+/intldetails/1997matches.html,43/12,-
+/intldetails/1997nca.html,2/1,International Matches 1997 - North and Central America and Caribbean
+/intldetails/1997o.html,2/1,International Matches 1997 - Oceania
+/intldetails/1997oth.html,2/1,International Matches 1997 - Other
+/intldetails/1997sa.html,2/1,International Matches 1997 - South America
+/intldetails/1998af.html,2/1,International Matches 1998 - Africa
+/intldetails/1998as.html,2/1,International Matches 1998 - Asia
+/intldetails/1998e1.html,3/2,"International Matches 1998 - Europe, January-June"
+/intldetails/1998e2.html,3/2,"International Matches 1998 - Europe, July-December"
+/intldetails/1998ic.html,2/1,International Matches 1998 - Intercontinental
+/intldetails/1998matches.html,43/12,-
+/intldetails/1998nca.html,2/1,International Matches 1998 - North and Central America and Caribbean
+/intldetails/1998o.html,2/1,International Matches 1998 - Oceania
+/intldetails/1998oth.html,2/1,International Matches 1998 - Other
+/intldetails/1998sa.html,2/1,International Matches 1998 - South America
+/intldetails/1999af.html,2/1,International Matches 1999 - Africa
+/intldetails/1999as.html,2/1,International Matches 1999 - Asia
+/intldetails/1999e1.html,3/2,"International Matches 1999 - Europe, January-September"
+/intldetails/1999e2.html,3/2,"International Matches 1999 - Europe, October-December"
+/intldetails/1999ic.html,2/1,International Matches 1999 - Intercontinental
+/intldetails/1999matches.html,57/12,-
+/intldetails/1999nca.html,2/1,International Matches 1999 - North and Central America and Caribbean
+/intldetails/1999o.html,2/1,International Matches 1999 - Oceania
+/intldetails/1999oth.html,2/1,International Matches 1999 - Other
+/intldetails/1999sa.html,2/1,International Matches 1999 - South America
+/intldetails/2000af.html,2/1,International Matches 2000 - Africa
+/intldetails/2000as.html,2/1,International Matches 2000 - Asia
+/intldetails/2000e1.html,3/2,"International Matches 2000 - Europe, January-March"
+/intldetails/2000e2.html,4/3,"International Matches 2000 - Europe, April-June"
+/intldetails/2000e3.html,4/3,"International Matches 2000 - Europe, July-September"
+/intldetails/2000e4.html,3/2,"International Matches 2000 - Europe, October-December"
+/intldetails/2000ic1.html,3/2,"International Matches 2000 - Intercontinental, January-March"
+/intldetails/2000ic2.html,4/3,"International Matches 2000 - Intercontinental, April-June"
+/intldetails/2000ic3.html,4/3,"International Matches 2000 - Intercontinental, July-September"
+/intldetails/2000ic4.html,3/2,"International Matches 2000 - Intercontinental, October-December"
+/intldetails/2000matches.html,61/17,-
+/intldetails/2000nca.html,2/1,International Matches 2000 - North and Central America and Caribbean
+/intldetails/2000o.html,2/1,International Matches 2000 - Oceania
+/intldetails/2000oth.html,2/1,International Matches 2000 - Other
+/intldetails/2000sa.html,2/1,International Matches 2000 - South America
+/intldetails/2001af.html,2/1,International Matches 2001 - Africa
+/intldetails/2001as.html,2/1,International Matches 2001 - Asia
+/intldetails/2001e1.html,3/2,"International Matches 2001 - Europe, January-June"
+/intldetails/2001e2.html,3/2,"International Matches 2001 - Europe, July-December"
+/intldetails/2001ic1.html,3/2,"International Matches 2001 - Intercontinental, January-March"
+/intldetails/2001ic2.html,4/3,"International Matches 2001 - Intercontinental, April-June"
+/intldetails/2001ic3.html,4/3,"International Matches 2001 - Intercontinental, July-September"
+/intldetails/2001ic4.html,3/2,"International Matches 2001 - Intercontinental, October-December"
+/intldetails/2001matches.html,52/15,-
+/intldetails/2001nca.html,2/1,International Matches 2001 - North and Central America and Caribbean
+/intldetails/2001o.html,2/1,International Matches 2001 - Oceania
+/intldetails/2001oth.html,2/1,International Matches 2001 - Other
+/intldetails/2001sa.html,2/1,International Matches 2001 - South America
+/intldetails/2002af.html,2/1,International Matches 2002 - Africa
+/intldetails/2002as.html,2/1,International Matches 2002 - Asia
+/intldetails/2002e1.html,3/2,"International Matches 2002 - Europe, January-March"
+/intldetails/2002e2.html,4/3,"International Matches 2002 - Europe, April-June"
+/intldetails/2002e3.html,3/2,"International Matches 2002 - Europe, July-December"
+/intldetails/2002ic1.html,3/2,"International Matches 2002 - Intercontinental, January-March"
+/intldetails/2002ic2.html,4/3,"International Matches 2002 - Intercontinental, April-June"
+/intldetails/2002ic3.html,3/2,"International Matches 2002 - Intercontinental, July-December"
+/intldetails/2002matches.html,55/15,-
+/intldetails/2002nca.html,2/1,International Matches 2002 - North and Central America and Caribbean
+/intldetails/2002o.html,2/1,International Matches 2002 - Oceania
+/intldetails/2002oth.html,2/1,International Matches 2002 - Other
+/intldetails/2002sa.html,2/1,International Matches 2002 - South America
+/intldetails/2003af.html,2/1,International Matches 2003 - Africa
+/intldetails/2003as.html,2/1,International Matches 2003 - Asia
+/intldetails/2003e1.html,3/2,"International Matches 2003 - Europe, January-June"
+/intldetails/2003e2.html,3/2,"International Matches 2003 - Europe, July-December"
+/intldetails/2003ic.html,2/1,International Matches 2003 - Intercontinental
+/intldetails/2003matches.html,50/13,-
+/intldetails/2003nca.html,2/1,International Matches 2003 - North and Central America and Caribbean
+/intldetails/2003o.html,2/1,International Matches 2003 - Oceania
+/intldetails/2003oth.html,2/1,International Matches 2003 - Other
+/intldetails/2003sa.html,2/1,International Matches 2003 - South America
+/intldetails/2004af.html,2/1,International Matches 2004 - Africa
+/intldetails/2004e.html,2/1,International Matches 2004 - Europe
+/intldetails/2004ic.html,2/1,International Matches 2004 - Intercontinental
+/intldetails/2004matches.html,43/8,-
+/intldetails/2004nca.html,2/1,International Matches 2004 - North and Central America and Caribbean
+/intldetails/2004o.html,2/1,International Matches 2003 - Oceania
+/intldetails/2004sa.html,2/1,International Matches 2004 - South America
+/intldetails/nm-contrib.html,1/1,International Matches - Historical Overview
+/intldetails/nm-overview.html,22/22,International Matches - Historical Overview
