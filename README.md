@@ -13,7 +13,7 @@ what?
 
 the goal here is to mirror the rsssf.org site
 and prepare a (slightly cleaned-up) text corpus
-for an all-in-one download
+for an all-in-one download (see `corpus.zip` in [`/releases`](https://github.com/rsssf/mirror/releases))
 to help along research and experimentation
 with the 40000+ football archive rsssf pages
 
@@ -112,12 +112,11 @@ by (charset) encoding  (only incl. .html):
 
 report broken links - 404 page not found:
 
--->
-
-
-
 
 ## more
 
 for notes on using the `wget` command-line tool to mirror the rsssf.org website,
 see [/wget »](wget)
+
+-->
+
